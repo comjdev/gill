@@ -1,0 +1,17 @@
+<!-- Category Navigation -->
+<div class="flex flex-wrap justify-center gap-2 mb-8">
+	<a
+		href="<%= url_for('/portfolio/') %>"
+		class="px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 hover:bg-gray-100 focus:z-10 focus:ring-2 focus:ring-gray-300"
+	>
+		All
+	</a>
+	<% getFlatCategories().forEach(function(categoryName) { %>
+	<a
+		href="<%= url_for(getCategoryUrl(categoryName)) %>"
+		class="px-4 py-2 text-sm font-medium border hover:bg-gray-100 focus:z-10 focus:ring-2 focus:ring-gray-300 <%= typeof currentCategory !== 'undefined' && currentCategory === categoryName ? 'bg-primary-700 border-primary-900 text-white hover:bg-primary-900' : 'text-gray-900 bg-white border-gray-200' %>"
+	>
+		<%= categoryName %>
+	</a>
+	<% }); %>
+</div>

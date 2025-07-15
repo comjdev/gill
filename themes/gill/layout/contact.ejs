@@ -1,0 +1,142 @@
+<main class="contact-page">
+	<div class="container mx-auto px-4 py-12">
+		<div class="max-w-7xl mx-auto">
+			<h1
+				class="text-4xl tracking-tight font-extrabold text-gray-900 mb-8 text-center"
+			>
+				<%= page.title %>
+			</h1>
+
+			<div class="prose prose-lg max-w-none mb-12 font-light text-gray-500">
+				<%- page.content %>
+			</div>
+
+			<!-- Contact Form and Info Section -->
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 mb-16">
+				<!-- Contact Form -->
+				<div class="bg-white p-6 h-full">
+					<form
+						id="contactForm"
+						class="space-y-6 h-full flex flex-col"
+						method="POST"
+						action="https://YOUR_API_GATEWAY_URL_HERE/contact"
+					>
+						<div>
+							<label
+								for="name"
+								class="block mb-2 text-sm font-medium text-gray-900"
+								>Your name</label
+							>
+							<input
+								type="text"
+								id="name"
+								name="name"
+								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5"
+								required
+							/>
+						</div>
+						<div>
+							<label
+								for="email"
+								class="block mb-2 text-sm font-medium text-gray-900"
+								>Your email</label
+							>
+							<input
+								type="email"
+								id="email"
+								name="email"
+								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5"
+								required
+							/>
+						</div>
+						<div>
+							<label
+								for="subject"
+								class="block mb-2 text-sm font-medium text-gray-900"
+								>Subject</label
+							>
+							<input
+								type="text"
+								id="subject"
+								name="subject"
+								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5"
+								required
+							/>
+						</div>
+						<div class="flex-grow">
+							<label
+								for="message"
+								class="block mb-2 text-sm font-medium text-gray-900"
+								>Your message</label
+							>
+							<textarea
+								id="message"
+								name="message"
+								rows="4"
+								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5 h-full"
+								required
+							></textarea>
+						</div>
+						<div class="mt-8">
+							<button
+								type="submit"
+								class="text-white bg-black hover:bg-gray-800 focus:ring-4 focus:ring-gray-300 font-medium text-sm px-5 py-2.5 focus:outline-none"
+							>
+								Send message
+							</button>
+						</div>
+					</form>
+				</div>
+
+				<!-- Contact Information -->
+				<div class="bg-white p-6 h-full">
+					<h2 class="text-2xl tracking-tight font-extrabold text-gray-900 mb-4">
+						Contact Information
+					</h2>
+					<div class="space-y-4 font-light text-gray-500">
+						<div>
+							<h3 class="text-lg font-medium text-gray-900">Address</h3>
+							<p>
+								<%= config.address.street %><br />
+								<%= config.address.suburb %>, <%= config.address.state %> <%=
+								config.address.postcode %><br />
+								<%= config.address.country %>
+							</p>
+						</div>
+						<div>
+							<h3 class="text-lg font-medium text-gray-900">Phone</h3>
+							<p>
+								<a href="tel:<%= config.tel %>" class="hover:text-gray-900"
+									><%= config.phone %></a
+								>
+							</p>
+						</div>
+						<div>
+							<h3 class="text-lg font-medium text-gray-900">Email</h3>
+							<p>
+								<a href="mailto:<%= config.email %>" class="hover:text-gray-900"
+									><%= config.email %></a
+								>
+							</p>
+						</div>
+						<div>
+							<h3 class="text-lg font-medium text-gray-900">Business Hours</h3>
+							<ul>
+								<li>Monday: <%= config.hours.monday %></li>
+								<li>Tuesday: <%= config.hours.tuesday %></li>
+								<li>Wednesday: <%= config.hours.wednesday %></li>
+								<li>Thursday: <%= config.hours.thursday %></li>
+								<li>Friday: <%= config.hours.friday %></li>
+								<li>Saturday: <%= config.hours.saturday %></li>
+								<li>Sunday: <%= config.hours.sunday %></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</main>
+
+<!-- Add Flowbite script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>

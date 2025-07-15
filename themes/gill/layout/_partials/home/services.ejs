@@ -1,0 +1,26 @@
+<section class="bg-white">
+	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+		<div class="text-center text-gray-900">
+			<h2
+				class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 lg:text-5xl"
+			>
+				<%= site.data.homepage.services_title %>
+			</h2>
+			<h3 class="mb-4 text-lg lg:text-2xl tracking-tight text-gray-900">
+				<%= site.data.homepage.services_subtitle %>
+			</h3>
+			<p
+				class="gap-16 items-center py-6 px-4 mx-auto max-w-screen-xl lg:py-8 lg:px-32 text-gray-600"
+			>
+				<%= site.data.homepage.services_intro %>
+			</p>
+		</div>
+		<div class="grid gap-6 mt-12 lg:mt-14 lg:gap-12 md:grid-cols-3">
+			<% Object.keys(site.data.homepage.services).forEach(function(serviceKey) {
+			const service = site.data.homepage.services[serviceKey]; const link =
+			`/services/${serviceKey}`; %> <%- partial('_partials/service-card', {
+			image: service.image, title: service.title, description:
+			service.description, link: link, buttonText: service.title }) %> <% }); %>
+		</div>
+	</div>
+</section>

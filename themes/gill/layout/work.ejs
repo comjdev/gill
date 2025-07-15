@@ -1,0 +1,56 @@
+<main class="scroll-container mx-auto flex flex-col-reverse md:flex-row">
+	<div
+		class="left-column w-full md:w-2/5 pb-4 md:sticky md:top-0 md:h-screen overflow-hidden"
+	>
+		<div class="image-gallery-inner">
+			<% const images = post_assets(page); %> <% images.forEach(img => { %>
+			<img
+				src="<%= img %>"
+				alt="<%= config.title %> | <%= page.title %>"
+				class="mb-2 w-full h-auto shadow-lg"
+			/>
+			<% }) %>
+		</div>
+	</div>
+
+	<div
+		class="right-column w-full md:w-3/5 p-4 mt-2 mb-2 md:mt-4 md:mb-4 lg:mt-12 lg:m6-10 xl:mt-20 flex justify-center"
+	>
+		<div
+			class="right-content-inner post-content leading-relaxed max-w-2xl px-4"
+		>
+			<h1
+				class="post-title pt-4 mb-4 text-2xl font-extrabold leading-none text-gray-900 sm:text-3xl md:text-4xl lg:text-5xl"
+			>
+				<%- page.title %>
+			</h1>
+			<div class="sm:flex justify-between items-center my-8">
+				<div class="left-content text-gray-700 mt-2">
+					<div class="text-xs font-normal text-gray-500 dark:text-gray-400">
+						Photography
+					</div>
+					<div class="text-sm font-normal text-gray-500 dark:text-gray-800">
+						<% if (page.categories && page.categories.length) { %> <%
+						page.categories.forEach(function(category, index) { %> <%=
+						category.name %><%= index < page.categories.length - 1 ? ', ' : ''
+						%> <% }); %> <% } %>
+					</div>
+				</div>
+				<div class="right-content text-gray-700 mt-2">
+					<div class="text-xs font-normal text-gray-500 dark:text-gray-400">
+						Location
+					</div>
+					<div class="text-sm font-normal text-gray-500 dark:text-gray-800">
+						<%- page.location %>
+					</div>
+				</div>
+			</div>
+
+			<div class="pt-2 md:pt-4 lg:pt-6 xl:pt-8">
+				<div class="format"><%- page.content %></div>
+			</div>
+		</div>
+	</div>
+</main>
+
+<%- include('_partials/related-projects', { page: page }) %>

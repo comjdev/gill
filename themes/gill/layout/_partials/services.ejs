@@ -1,0 +1,8 @@
+<% site.pages.filter(page => page.layout ===
+'service').forEach(function(service, index) { %>
+<div class="service">
+	<h2><a href="<%= service.url %>"><%= service.title %></a></h2>
+	<p><%= service.excerpt %></p>
+	<p><a href="<%= service.url %>" class="btn">Read more</a></p>
+</div>
+<% }) %>

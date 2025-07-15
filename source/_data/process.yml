@@ -1,0 +1,20 @@
+process:
+  - title: "Initial Consultation"
+    description: "We start with a friendly chat to understand your vision, preferences, and any special requirements for your session."
+    icon: "📞"
+
+  - title: "Session Planning"
+    description: "Together we'll plan the perfect location, timing, and style for your photography session."
+    icon: "📅"
+
+  - title: "The Session"
+    description: "On the day, I'll guide you through a relaxed and enjoyable photography experience, capturing natural moments."
+    icon: "📸"
+
+  - title: "Image Selection"
+    description: "I'll carefully review and select the best images from your session, ensuring each one tells your story beautifully."
+    icon: "✨"
+
+  - title: "Editing & Delivery"
+    description: "Your images are professionally edited and delivered in high resolution, ready for printing and sharing."
+    icon: "🎁"

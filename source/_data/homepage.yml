@@ -1,0 +1,75 @@
+hero:
+  - image: /img/about.jpg
+    title: About me
+    subtitle: Gill Photography
+    link: /about/
+    left: 0
+    top: 0
+
+  - image: /img/wedding.jpg
+    title: Wedding
+    subtitle: Wedding & Engagement
+    link: /services/wedding
+    left: 33
+    top: 0
+
+  - image: /img/newborn.jpg
+    title: Newborn
+    subtitle: Baby & Newborn
+    link: /services/newborn
+    left: 66
+    top: 0
+
+  - image: /img/family.jpg
+    title: Family
+    subtitle: Family Photography
+    link: /services/family
+    left: 0
+    top: 50
+
+  - image: /img/maternity.jpg
+    title: Maternity
+    subtitle: Maternity Photography
+    link: /services/maternity
+    left: 33
+    top: 50
+
+  - image: /img/contact.jpg
+    title: Contact
+    subtitle: Do you want to know more
+    link: /contact
+    left: 66
+    top: 50
+
+title: "Melbourne Family Photographer | Melbourne Newborn Photographer | Melbourne Maternity Photographer."
+
+intro: "I'm a Melbourne-based maternity, newborn and family photographer with over a decade of experience capturing love and joy between families. I absolutely love what I do and take a very relaxed approach to each of my sessions. Guiding you, making you laugh, and capturing the real you is my priority, as I understand that feeling natural in front of the camera isn't always easy. Each family has their own unique dynamic, and I love celebrating that in my images."
+
+services_title: "Photographer in Melbourne"
+services_subtitle: "Capturing the heart of your family story"
+services_intro: "As a Melbourne-based photographer specialising in maternity, newborn, and family photography, I’ve spent over a decade documenting the beautiful, unscripted moments that make each family unique. My sessions are relaxed, playful, and guided—so even if you're not used to being in front of the camera, you’ll feel comfortable and at ease. Whether it’s the quiet bond between parents and a newborn, the joy of an expecting mum, or the laughter of siblings, I’m here to capture your story just as it unfolds—honestly and naturally."
+
+services:
+  maternity:
+    title: "Maternity Photography"
+    description: "Maternity Photography sessions are an incredibly special way to document those last quiet moments before your baby arrives. It's about celebrating your bump and this exciting part of your journey. Click through to see some of my maternity photography sessions in and around Melbourne."
+    image: /img/maternity.jpg
+
+  newborn:
+    title: "Newborn Photography"
+    description: "My newborn photography sessions are all about welcoming and celebrating the newest member of your family in a beautifully natural way. Let's capture some moments from your early days together. Click through to see some of my newborn photography sessions in and around Melbourne."
+    image: /img/newborn.jpg
+  family:
+    title: "Family Photography"
+    description: "By creating a relaxed and fun environment during my family photography sessions, I aim to capture the natural joy and connection of your family in beautiful photographs. Click through to see some of my family photography sessions in and around Melbourne."
+    image: /img/family.jpg
+
+about:
+  - "Hi, I'm Gill! Before I ever studied photography, I studied professional writing. This is so important to the way I approach each of my sessions, whether it be a maternity, newborn or family session. I bring these creative writing skills with me as I get to tell your individual story through photographs."
+  - "I live in the outer Eastern suburbs of Melbourne with my husband, our 2 kids and our 2 dogs. I love being with my family so when I'm not working, that's where you'll find me!"
+  - "My lens has taken me to countless locations and homes throughout Melbourne, and I'm always eager to explore new settings that hold special meaning for you. Whether you have a beloved spot in mind or live in another part of Melbourne, I'm happy to travel and capture your story in the perfect location."
+  - "Over the years, I have photographed many different things but have always enjoyed photographing people the most. This is how maternity, family and newborn sessions (and older babies too, of course!) have become my specialty."
+  - "My approach to maternity, newborn, and family photography is all about capturing natural, genuine moments. I combine a relaxed atmosphere with subtle guidance, helping you feel comfortable while also maximising the beauty of the light and location. Many of my clients tell me they were surprised by how much they enjoyed their session, finding it far more comfortable and fun than they anticipated."
+  - "My family photography sessions are very relaxed. I do my best to make sure everyone feels comfortable in front of the camera and your kids have fun."
+
+tagline: "Capturing the beauty in everyday moments"

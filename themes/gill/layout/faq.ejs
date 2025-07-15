@@ -1,0 +1,21 @@
+<!-- prettier-ignore -->
+<main class="bg-white">
+
+	<div class="py-8 px-4 mx-auto max-w-screen-xl sm:py-16 lg:px-6">
+        <div class="mx-auto max-w-screen-lg text-center">
+            <h2 class="mb-2 text-4xl tracking-tight font-extrabold text-gray-900 "><%= page.title %></h2>
+            <p class="mb-8 text-gray-500 lg:text-lg "><%= page.subtitle %></p>
+        </div>
+	</div>
+
+<!-- prettier-ignore -->
+<%- partial('_partials/faqs', { service: "General", title: "Hindsight Creative" }) %>
+
+<% site.pages.filter(page => page.layout ===
+'service').forEach(function(servicePage) { %>
+<!-- prettier-ignore -->
+<%- partial('_partials/faqs', { service: servicePage.title, title: servicePage.title }) %>
+
+<% }); %>
+
+</main>

@@ -1,0 +1,92 @@
+intro:
+  title: Wedding Photography
+  subtitle: Capturing your love story, one moment at a time
+  copy:
+    - Your wedding day is one of the most important days of your life, and I'm honored to be there to capture every precious moment. From the nervous excitement of getting ready to the joy of your first dance, I'll document your day with a blend of artistic and documentary photography.
+    - My approach is natural and unobtrusive, allowing you to enjoy your day while I capture the authentic moments, emotions, and details that make your wedding uniquely yours.
+    - I believe every couple deserves beautiful, timeless images that tell their love story. Whether you're planning an intimate elopement or a grand celebration, I'll work with you to create a photography experience that reflects your vision and personality.
+
+intro_images:
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+
+what-to-expect:
+  title: What to expect
+  subtitle: What to expect at your wedding photography session
+  copy:
+    - Your wedding day is one of the most important days of your life, and I'm honored to be there to capture every precious moment. From the nervous excitement of getting ready to the joy of your first dance, I'll document your day with a blend of artistic and documentary photography.
+    - My approach is natural and unobtrusive, allowing you to enjoy your day while I capture the authentic moments, emotions, and details that make your wedding uniquely yours.
+
+what-to-expect_images:
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+
+location:
+  title: Location
+  subtitle: The best place to have your wedding photos
+  copy:
+    - I believe every couple deserves beautiful, timeless images that tell their love story. Whether you're planning an intimate elopement or a grand celebration, I'll work with you to create a photography experience that reflects your vision and personality.
+    - I love traveling for weddings and have photographed celebrations across Victoria and beyond. Travel fees are reasonable and transparent. I'm also available for destination weddings throughout Australia and internationally.
+
+location_images:
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+
+process:
+  title: Process
+  subtitle: How we'll work together
+  copy:
+    - Get in touch - I'm here to answer any questions and help you get booked in for your wedding photography.
+    - Book your shoot - I'll send you an email with everything you need and once your deposit is paid, you're all booked in.
+    - Get prepared - I'll send you my detailed Welcome Guide that covers all you need to know for your wedding.
+    - Your shoot - On the day of your wedding I'll capture every precious moment from getting ready to your first dance.
+    - Your memories - You can expect to see your beautiful wedding images in your inbox within 4-6 weeks.
+
+investment:
+  title: Investment
+  subtitle: Preserving your wedding memories
+  copy:
+    - Wedding photography packages start from $2,999 and include:
+        - Full day coverage from getting ready to the reception
+        - Professional editing and color correction
+        - High-resolution digital files with printing rights
+        - Online gallery for easy viewing and sharing
+        - Engagement session included
+        - Wedding album design and printing options
+    - A deposit of $500 is required to secure your wedding date.
+    - Contact me to discuss your wedding vision and view full package details.
+
+investment_images:
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+  - image: /img/wedding.jpg
+
+faqs:
+  - question: How far in advance should we book our wedding photographer?
+    answer: |
+      I recommend booking your wedding photographer 12-18 months in advance, especially for popular wedding dates (spring and fall). I only take on a limited number of weddings per year to ensure I can give each couple my full attention and creativity.
+
+  - question: Do you offer engagement sessions?
+    answer: Yes! An engagement session is included in all wedding packages. This is a great opportunity for us to get to know each other, for you to get comfortable in front of the camera, and to create beautiful images for your save-the-dates or wedding website.
+
+  - question: How many hours of coverage do we need?
+    answer: Most couples choose 8-10 hours of coverage, which typically includes getting ready, ceremony, portraits, and reception. I can customize coverage based on your timeline and needs. For destination weddings or longer celebrations, I offer extended coverage options.
+
+  - question: Do you travel for weddings?
+    answer: Absolutely! I love traveling for weddings and have photographed celebrations across Victoria and beyond. Travel fees are reasonable and transparent. I'm also available for destination weddings throughout Australia and internationally.
+
+  - question: What if it rains on our wedding day?
+    answer: |
+      Don't worry! I'm experienced in shooting beautiful weddings in any weather. I'll work with you to create a backup plan and can capture stunning images indoors or with creative use of umbrellas and covered areas. Some of the most romantic and unique wedding photos come from rainy days.
+
+  - question: When will we receive our wedding photos?
+    answer: You'll receive a sneak peek of 20-30 images within 48 hours of your wedding. The full gallery will be ready within 4-6 weeks, depending on the season and my current workload. I take great care in editing each image to ensure they're perfect.
+
+  - question: Do you offer wedding albums and prints?
+    answer: Yes! I offer beautiful, custom-designed wedding albums and professional printing services. Many couples choose to invest in albums and prints to preserve their memories in tangible form. I can also recommend the best places to print your digital files.
+
+  - question: Can you help us with our wedding timeline?
+    answer: Absolutely! I'll work with you and your other vendors to create a timeline that ensures we capture all the important moments while keeping your day flowing smoothly. I'm experienced in coordinating with wedding planners, venues, and other vendors.

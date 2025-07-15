@@ -1,0 +1,121 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+@plugin "flowbite/plugin";
+@source "../../../../node_modules/flowbite";
+
+@theme {
+	--color-primary-50: #ffffff;
+	--color-primary-100: #e6e6e6;
+	--color-primary-200: #cccccc;
+	--color-primary-300: #b3b3b3;
+	--color-primary-400: #999999;
+	--color-primary-500: #808080;
+	--color-primary-600: #666666;
+	--color-primary-700: #4d4d4d;
+	--color-primary-800: #333333;
+	--color-primary-900: #1a1a1a;
+
+	--color-gill-green-50: #f3f6f5;
+	--color-gill-green-100: #e2e9e5;
+	--color-gill-green-200: #bfcdc6;
+	--color-gill-green-300: #a1b4ac;
+	--color-gill-green-400: #779086;
+	--color-gill-green-500: #577268;
+	--color-gill-green-600: #425951;
+	--color-gill-green-700: #354741;
+	--color-gill-green-800: #2b3a35;
+	--color-gill-green-900: #24302d;
+	--color-gill-green-950: #141a19;
+
+	--font-sans: "Raleway", "Helvetica Neue", "Arial";
+	--font-body: "Raleway", "Helvetica Neue", "Arial";
+	--font-heading: "Oswald", "Helvetica Neue", "Arial";
+	--font-mono: "ui-monospace", "SFMono-Regular", "Menlo", "Monaco", "Consolas",
+		"Liberation Mono", "Courier New", "monospace";
+}
+
+@font-face {
+	font-family: "Meritocracy";
+	src: url("/fonts/Meritocracy-Regular.woff2") format("woff2"),
+		url("/fonts/Meritocracy-Regular.woff") format("woff");
+}
+
+@layer base {
+	/* Mobile Navigation Styles */
+	.hamburger-line {
+		transition: all 0.3s ease-in-out;
+	}
+
+	/* Ensure mobile menu is above other content */
+	#nav {
+		z-index: 50;
+	}
+
+	#mobile-overlay {
+		z-index: 40;
+	}
+
+	#hamburger {
+		z-index: 60;
+	}
+
+	/* Prevent body scroll when mobile menu is open */
+	body.menu-open {
+		overflow: hidden;
+	}
+
+	.left-column.is-sticky-scrolling {
+		box-sizing: border-box;
+	}
+
+	.embed-container {
+		position: relative;
+		padding-bottom: 56.25%;
+		height: 0;
+		overflow: hidden;
+		max-width: 100%;
+	}
+	.embed-container iframe,
+	.embed-container object,
+	.embed-container embed {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+	}
+
+	.svg-toggle {
+		fill: #000000;
+	}
+
+	.dark .svg-toggle {
+		fill: #fff;
+	}
+
+	/* Parallax effect styles */
+	.parallax-container {
+		overflow: hidden;
+		position: relative;
+		height: 500px; /* Fixed height for the container */
+	}
+
+	.parallax-image {
+		will-change: transform;
+		transform-style: preserve-3d;
+		backface-visibility: hidden;
+		height: 600px; /* Taller image to accommodate parallax movement */
+		object-fit: cover;
+		object-position: center;
+	}
+
+	/* Heading fonts - placed at the end to override Tailwind base styles */
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		font-family: "Oswald", "Helvetica Neue", "Arial";
+	}
+}

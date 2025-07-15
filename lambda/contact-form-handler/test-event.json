@@ -1,0 +1,7 @@
+{
+	"httpMethod": "POST",
+	"headers": {
+		"Content-Type": "application/json"
+	},
+	"body": "{\"name\":\"John Doe\",\"email\":\"john@example.com\",\"subject\":\"Website Inquiry\",\"message\":\"Hello, I'm interested in your services. Please contact me for more information about your packages.\"}"
+}

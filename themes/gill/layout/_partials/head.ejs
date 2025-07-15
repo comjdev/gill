@@ -1,0 +1,58 @@
+<% const cleanedPath = url_for(page.path).replace(/index\.html$/,
+'').replace(/\.html$/, ''); let canonicalUrl = config.url.replace(/\/$/, '') +
+cleanedPath; %> <% let imageUrl = null; %> <% if (page.cover) { imageUrl =
+config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<title><%= seoTitle() %></title>
+
+	<meta name="description" content="<%= seoDescription() %>" />
+	<meta name="author" content="<%= page.author || config.author %>" />
+
+	<link rel="icon" href="/logos/favicon.png" type="image/png" />
+
+	<!-- Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link
+		href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:ital,wght@0,300;0,500;0,700;1,300;1,500;1,700&display=swap"
+		rel="stylesheet"
+	/>
+
+	<!-- Stylesheets -->
+	<link rel="stylesheet" href="/css/styles.css" />
+	<link
+		rel="stylesheet"
+		type="text/css"
+		href="https://unpkg.com/flowbite-typography@1.0.3/dist/typography.min.css"
+	/>
+
+	<link rel="canonical" href="<%= canonicalUrl %>" />
+
+	<!-- Open Graph  -->
+	<%- partial('_partials/head/open-graph', {imageUrl, canonicalUrl}) %>
+
+	<!-- Geo region  -->
+	<%- partial('_partials/head/geo-region') %>
+
+	<!-- Twitter  -->
+	<%- partial('_partials/head/twitter', {imageUrl}) %>
+
+	<!-- Swiper JS -->
+	<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+	<link
+		rel="stylesheet"
+		href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+	/>
+
+	<!-- Schema.org -->
+	<script type="application/ld+json">
+		<%- jsonld(page, site, config) %>
+	</script>
+
+	<!-- GTM  -->
+	<%- partial('_partials/head/gtm') %>
+</head>

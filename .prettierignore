@@ -1,0 +1,5 @@
+# Ignore the entire scaffolds directory to prevent Prettier
+# from formatting the scaffold .md files.
+scaffolds/
+themes/hindsight/layout/work.ejs
+themes/hindsight/layout/post.ejs

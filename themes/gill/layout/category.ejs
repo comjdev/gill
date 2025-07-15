@@ -1,0 +1,22 @@
+<section class="bg-white">
+	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
+			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+				<%= page.category %> Work
+			</h2>
+			<p class="font-light text-gray-500 sm:text-xl">
+				Explore our portfolio of <%= page.category.toLowerCase() %> projects and
+				successful work.
+			</p>
+		</div>
+
+		<%- include('_partials/category/category-nav.ejs', { currentCategory:
+		page.category }) %>
+
+		<div class="grid gap-8 sm:grid-cols-2">
+			<% page.posts.forEach(function(post) { %> <%-
+			include('_partials/category/category-card.ejs', { post: post }) %> <% });
+			%>
+		</div>
+	</div>
+</section>

@@ -1,0 +1,57 @@
+<aside class="bg-white">
+	<div class="max-w-screen-xl px-4 py-8 mx-auto lg:px-6 sm:py-8">
+		<!-- <h3
+			class="text-2xl font-extrabold leading-none text-gray-900 md:text-3xl lg:text-4xl my-4"
+		>
+			Related Projects
+		</h3> -->
+		<div class="swiper service-projects">
+			<!-- prettier-ignore -->
+			<% 
+			// category is passed in as a string
+			var filteredPosts = site.posts.filter(function(post) {
+				var isWorkPost = post.layout === 'work';
+				var hasCategory = post.categories.some(function(cat) {
+					return cat.name === category;
+				});
+				return isWorkPost && hasCategory;
+			});
+			%>
+
+			<div class="swiper-wrapper">
+				<% filteredPosts.forEach(function(post) { %>
+				<div class="swiper-slide">
+					<%- include('../category/category-card.ejs', { post: post }) %>
+				</div>
+				<% }); %>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		var serviceProjectsSwiper = new Swiper(".service-projects", {
+			slidesPerView: 2,
+			spaceBetween: 30,
+			loop: true,
+			speed: 1500,
+			autoplay: {
+				delay: 1000,
+				pauseOnMouseEnter: true,
+			},
+			breakpoints: {
+				320: {
+					slidesPerView: 1,
+				},
+				768: {
+					slidesPerView: 2,
+				},
+				1024: {
+					slidesPerView: 2,
+				},
+				1280: {
+					slidesPerView: 2,
+				},
+			},
+		});
+	</script>
+</aside>
