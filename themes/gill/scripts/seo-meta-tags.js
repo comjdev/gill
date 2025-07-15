@@ -2,6 +2,21 @@ hexo.extend.helper.register("seoTitle", function () {
 	const page = this.page;
 	const config = this.config;
 
+	// For suburb pages, create highly targeted local SEO titles
+	if (page.layout === "suburb" && page.suburb && page.category) {
+		const suburb = page.suburb;
+		const category = page.category;
+
+		// Category-specific titles for local SEO
+		if (category === "family") {
+			return `${suburb} Family Photographer | Gill Juergens Photography`;
+		} else if (category === "newborn") {
+			return `${suburb} Newborn Photographer | Gill Juergens Photography`;
+		} else if (category === "maternity") {
+			return `${suburb} Maternity Photographer | Gill Juergens Photography`;
+		}
+	}
+
 	// Start with the page title (or fallback to config.title if no page title)
 	const baseTitle = page.title || config.title || "Gill Juergens Photography";
 
@@ -40,6 +55,21 @@ hexo.extend.helper.register("seoDescription", function () {
 	const page = this.page;
 	const config = this.config;
 	const maxLength = 200;
+
+	// For suburb pages, create highly targeted local SEO descriptions
+	if (page.layout === "suburb" && page.suburb && page.category) {
+		const suburb = page.suburb;
+		const category = page.category;
+
+		// Category-specific descriptions for local SEO
+		if (category === "family") {
+			return `Professional family photographer in ${suburb}, Melbourne. Natural, relaxed family photography sessions in ${suburb} and surrounding areas. Book your ${suburb} family photos today.`;
+		} else if (category === "newborn") {
+			return `Gentle newborn photographer in ${suburb}, Melbourne. Capturing precious first days with calm, baby-led sessions in ${suburb} and nearby areas. Book your ${suburb} newborn photos.`;
+		} else if (category === "maternity") {
+			return `Beautiful maternity photographer in ${suburb}, Melbourne. Capturing your pregnancy journey with natural, elegant sessions in ${suburb} and surrounding areas. Book your ${suburb} maternity photos.`;
+		}
+	}
 
 	// Raw description: priority order
 	const baseDescRaw =

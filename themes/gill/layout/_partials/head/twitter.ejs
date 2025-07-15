@@ -9,13 +9,13 @@
 <meta name="twitter:image" content="<%= imageUrl %>" />
 <meta
 	name="twitter:image:alt"
-	content="<%= page.title %> - <%= config.title %>"
+	content="<%= page.layout === 'suburb' && page.suburb && page.category ? `${page.suburb} ${page.category.charAt(0).toUpperCase() + page.category.slice(1)} Photographer | Gill Juergens Photography` : page.title + ' - ' + config.title %>"
 />
 <% } else { %>
 <meta name="twitter:image" content="<%= config.url %>/logos/logo.jpg" />
 <meta
 	name="twitter:image:alt"
-	content="<%= config.title %> - Family, Wedding & Newborn Photographer"
+	content="<%= page.layout === 'suburb' && page.suburb && page.category ? `${page.suburb} ${page.category.charAt(0).toUpperCase() + page.category.slice(1)} Photographer | Gill Juergens Photography` : config.title + ' - Family, Wedding & Newborn Photographer' %>"
 />
 <% } %>
 
@@ -23,7 +23,7 @@
 <meta name="twitter:label1" content="Address" />
 <meta
 	name="twitter:data1"
-	content="<%= config.address.suburb %> <%= config.address.state %> <%= config.address.postcode %>"
+	content="<%= page.layout === 'suburb' && page.suburb ? page.suburb + ' ' + config.address.state + ' ' + config.address.postcode : config.address.suburb + ' ' + config.address.state + ' ' + config.address.postcode %>"
 />
 <meta name="twitter:label2" content="Phone" />
 <meta name="twitter:data2" content="<%= config.phone %>" />

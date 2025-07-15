@@ -6,7 +6,10 @@
 	content="<%= page.layout === 'work' ? 'article' : 'website' %>"
 />
 <meta property="og:url" content="<%= canonicalUrl %>" />
-<meta property="og:site_name" content="<%= config.title %>" />
+<meta
+	property="og:site_name"
+	content="<%= page.layout === 'suburb' && page.suburb && page.category ? `${page.suburb} ${page.category.charAt(0).toUpperCase() + page.category.slice(1)} Photographer | Gill Juergens Photography` : config.title %>"
+/>
 <meta property="og:locale" content="en_AU" />
 
 <% if (imageUrl) { %>
@@ -38,7 +41,10 @@ page.tags.forEach(function(tag) { %>
 <% }); %> <% } %> <% } %>
 
 <!-- Additional Open Graph tags for business -->
-<meta property="og:locality" content="<%= config.address.suburb %>" />
+<meta
+	property="og:locality"
+	content="<%= page.layout === 'suburb' && page.suburb ? page.suburb : config.address.suburb %>"
+/>
 <meta property="og:region" content="<%= config.address.state %>" />
 <meta property="og:postal-code" content="<%= config.address.postcode %>" />
 <meta property="og:country-name" content="<%= config.address.country %>" />
