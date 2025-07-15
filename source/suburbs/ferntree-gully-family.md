@@ -1,13 +1,20 @@
 ---
 suburb: Ferntree Gully
 title: Family photos in Ferntree Gully
-subtitle: Capturing your precious moments in Ferntree Gully
-description: Creating joyful and authentic family photos in Ferntree Gully is my passion. I take a laid-back approach, making sure everyone feels comfortable and enjoys the experience.
+subtitle: Capturing your precious moments in Ferntree Gully with relaxed family photos
+description: Capture your Ferntree Gully family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/ferntree-gully/
-latitude: -37.8767
-longitude: 145.2833
+latitude: -37.8833
+longitude: 145.3000
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Ferntree Gully Village
+    description: Charming local shopping area with character
 ---
 
 ## Telling your Ferntree Gully family story through lifestyle photography

@@ -1,0 +1,29 @@
+<!-- Twitter Card Meta Tags -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@gilljuergensphotography" />
+<meta name="twitter:creator" content="@gilljuergensphotography" />
+<meta name="twitter:title" content="<%= seoTwitterTitle() %>" />
+<meta name="twitter:description" content="<%= seoTwitterDescription() %>" />
+
+<% if (imageUrl) { %>
+<meta name="twitter:image" content="<%= imageUrl %>" />
+<meta
+	name="twitter:image:alt"
+	content="<%= page.title %> - <%= config.title %>"
+/>
+<% } else { %>
+<meta name="twitter:image" content="<%= config.url %>/logos/logo.jpg" />
+<meta
+	name="twitter:image:alt"
+	content="<%= config.title %> - Family, Wedding & Newborn Photographer"
+/>
+<% } %>
+
+<!-- Additional Twitter tags for business -->
+<meta name="twitter:label1" content="Address" />
+<meta
+	name="twitter:data1"
+	content="<%= config.address.suburb %> <%= config.address.state %> <%= config.address.postcode %>"
+/>
+<meta name="twitter:label2" content="Phone" />
+<meta name="twitter:data2" content="<%= config.phone %>" />

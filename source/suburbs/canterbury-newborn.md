@@ -1,13 +1,20 @@
 ---
 suburb: Canterbury
 title: Newborn photos in Canterbury
-subtitle: Simple, honest newborn photography in Canterbury
-description: From quiet in-home sessions to peaceful outdoor settings, I create natural newborn photos for Canterbury families that celebrate love, connection, and new beginnings.
+subtitle: Capturing your precious newborn moments in Canterbury with gentle photography
+description: Capture your Canterbury newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/canterbury/
-latitude: -37.8217
-longitude: 145.0783
+latitude: -37.8167
+longitude: 145.0833
+local_references:
+  - name: Canterbury Gardens
+    description: Beautiful park settings for family photos
+  - name: Canterbury Village
+    description: Charming local shopping area with character
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Embracing those precious early days at home with gentle newborn photography in Canterbury

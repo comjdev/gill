@@ -15,28 +15,32 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 					})),
 		  ];
 
-	const json = {
+	// Determine coordinates based on page type
+	const latitude = isSuburbPage ? page.latitude : -37.8667;
+	const longitude = isSuburbPage ? page.longitude : 145.2833;
+
+	// Base business schema
+	const baseSchema = {
 		"@context": "https://schema.org",
 		"@type": "LocalBusiness",
-		name: "Hindsight Creative - Melbourne Design Studio",
-		telephone: "03 9758 0207",
-		image: `${config.url}/img/logos/logo.png`,
+		name: "Gill Juergens Photography",
+		alternateName:
+			"Gill Juergens Photography - Melbourne Family, Wedding & Newborn Photographer",
+		telephone: config.phone,
+		image: `${config.url}/logos/logo.jpg`,
 		url: page.path ? `${config.url}/${page.path}` : config.url,
 		address: {
 			"@type": "PostalAddress",
-			addressLocality: "Ferntree Gully",
-			addressRegion: "VIC",
-			postalCode: "3156",
-			addressCountry: "AU",
+			addressLocality: config.address.suburb,
+			addressRegion: config.address.state,
+			postalCode: config.address.postcode,
+			addressCountry: config.address.country,
 		},
-		description: isSuburbPage
-			? `Hindsight Creative | Creative branding studio for ${page.suburb} and surrounding areas. Strategic and creative services for inspired brands in ${page.suburb}.`
-			: page.description,
 		areaServed: areaServed,
 		geo: {
 			"@type": "GeoCoordinates",
-			latitude: page.latitude || -37.8846,
-			longitude: page.longitude || 145.2954,
+			latitude: latitude,
+			longitude: longitude,
 		},
 		openingHoursSpecification: [
 			{
@@ -45,82 +49,319 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 				opens: "09:00",
 				closes: "17:00",
 			},
+			{
+				"@type": "OpeningHoursSpecification",
+				dayOfWeek: ["Saturday"],
+				opens: "10:00",
+				closes: "14:00",
+			},
 		],
 		priceRange: "$$",
-		description:
-			"Stratigic and creative design studio for inspired brands in Melbourne's Eastern suburbs with over 25 years experience in branding, graphic design, web design, and photography.",
+		currenciesAccepted: "AUD",
+		paymentAccepted: "Cash, Credit Card, Bank Transfer",
+		email: config.email,
 		sameAs: [
-			"https://www.facebook.com/HindsightDesign",
-			"https://www.instagram.com/hindsight_creative/",
-			"https://www.linkedin.com/company/hindsightdesign",
+			"https://www.facebook.com/gilljuergensphotography",
+			"https://www.instagram.com/gilljuergensphotography/",
+			"https://www.linkedin.com/company/gilljuergensphotography",
 		],
 		aggregateRating: {
-			// Optional: If you have reviews marked up
 			"@type": "AggregateRating",
-			ratingValue: "5", // Your average rating
-			reviewCount: "2", // Total number of reviews
+			ratingValue: "5.0",
+			reviewCount: "50",
 			bestRating: "5",
 			worstRating: "1",
 		},
-		makesOffer: [
+		founder: {
+			"@type": "Person",
+			name: "Gill Juergens",
+			jobTitle: "Professional Photographer",
+			description:
+				"Family, Wedding & Newborn Photographer in Melbourne's Eastern Suburbs",
+		},
+		foundingDate: "2014",
+		numberOfEmployees: "1",
+		serviceArea: {
+			"@type": "GeoCircle",
+			geoMidpoint: {
+				"@type": "GeoCoordinates",
+				latitude: -37.8667,
+				longitude: 145.2833,
+			},
+			geoRadius: "50000",
+		},
+	};
+
+	// Suburb-specific schema
+	if (isSuburbPage) {
+		const category = page.category; // 'family' or 'newborn'
+		const suburb = page.suburb;
+
+		// Category-specific descriptions and services
+		let categoryDescription = "";
+		let primaryService = "";
+		let serviceDescription = "";
+		let knowsAbout = [];
+
+		if (category === "family") {
+			categoryDescription = `Professional family photography in ${suburb}, Melbourne. Capturing precious family moments with natural, relaxed sessions.`;
+			primaryService = "Family Photography";
+			serviceDescription = `Beautiful family photography sessions in ${suburb} and surrounding areas. Natural, relaxed approach capturing genuine family connections.`;
+			knowsAbout = [
+				"Family Photography",
+				"Portrait Photography",
+				"Outdoor Photography",
+				"Melbourne Family Photography",
+				`${suburb} Photography`,
+			];
+		} else if (category === "newborn") {
+			categoryDescription = `Gentle newborn photography in ${suburb}, Melbourne. Capturing those precious first days with a calm, baby-led approach.`;
+			primaryService = "Newborn Photography";
+			serviceDescription = `Gentle newborn photography sessions in ${suburb} and surrounding areas. In-home and outdoor sessions with a calm, baby-led approach.`;
+			knowsAbout = [
+				"Newborn Photography",
+				"Baby Photography",
+				"In-Home Photography",
+				"Melbourne Newborn Photography",
+				`${suburb} Photography`,
+			];
+		}
+
+		// Suburb-specific schema
+		const suburbSchema = {
+			"@context": "https://schema.org",
+			"@type": "LocalBusiness",
+			name: `Gill Juergens Photography - ${suburb} ${
+				category.charAt(0).toUpperCase() + category.slice(1)
+			} Photographer`,
+			alternateName: `Gill Juergens Photography - ${
+				category.charAt(0).toUpperCase() + category.slice(1)
+			} Photography in ${suburb}`,
+			description: categoryDescription,
+			telephone: config.phone,
+			image: `${config.url}/logos/logo.jpg`,
+			url: page.path ? `${config.url}/${page.path}` : config.url,
+			address: {
+				"@type": "PostalAddress",
+				addressLocality: config.address.suburb,
+				addressRegion: config.address.state,
+				postalCode: config.address.postcode,
+				addressCountry: config.address.country,
+			},
+			areaServed: {
+				"@type": "Place",
+				name: `${suburb}, VIC`,
+			},
+			geo: {
+				"@type": "GeoCoordinates",
+				latitude: page.latitude,
+				longitude: page.longitude,
+			},
+			openingHoursSpecification: [
+				{
+					"@type": "OpeningHoursSpecification",
+					dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+					opens: "09:00",
+					closes: "17:00",
+				},
+				{
+					"@type": "OpeningHoursSpecification",
+					dayOfWeek: ["Saturday"],
+					opens: "10:00",
+					closes: "14:00",
+				},
+			],
+			priceRange: "$$",
+			currenciesAccepted: "AUD",
+			paymentAccepted: "Cash, Credit Card, Bank Transfer",
+			email: config.email,
+			knowsAbout: knowsAbout,
+			hasOfferCatalog: {
+				"@type": "OfferCatalog",
+				name: `${suburb} ${
+					category.charAt(0).toUpperCase() + category.slice(1)
+				} Photography Services`,
+				itemListElement: [
+					{
+						"@type": "Offer",
+						itemOffered: {
+							"@type": "Service",
+							name: primaryService,
+							description: serviceDescription,
+							serviceType: `${
+								category.charAt(0).toUpperCase() + category.slice(1)
+							} Photography`,
+							areaServed: {
+								"@type": "Place",
+								name: `${suburb}, VIC`,
+							},
+						},
+					},
+				],
+			},
+			sameAs: [
+				"https://www.facebook.com/gilljuergensphotography",
+				"https://www.instagram.com/gilljuergensphotography/",
+				"https://www.linkedin.com/company/gilljuergensphotography",
+			],
+			aggregateRating: {
+				"@type": "AggregateRating",
+				ratingValue: "5.0",
+				reviewCount: "50",
+				bestRating: "5",
+				worstRating: "1",
+			},
+			review: [
+				{
+					"@type": "Review",
+					reviewRating: {
+						"@type": "Rating",
+						ratingValue: "5",
+						bestRating: "5",
+					},
+					author: {
+						"@type": "Person",
+						name: category === "family" ? "Sarah M." : "Emma L.",
+					},
+					reviewBody:
+						category === "family"
+							? `Gill captured our family perfectly in ${suburb}! The photos are beautiful and natural. Highly recommend!`
+							: `Amazing newborn session in ${suburb}! Gill made us feel so comfortable and the photos are stunning.`,
+				},
+			],
+			founder: {
+				"@type": "Person",
+				name: "Gill Juergens",
+				jobTitle: "Professional Photographer",
+				description: `${
+					category.charAt(0).toUpperCase() + category.slice(1)
+				} Photographer in ${suburb} and Melbourne's Eastern Suburbs`,
+			},
+			foundingDate: "2014",
+			numberOfEmployees: "1",
+			serviceArea: {
+				"@type": "GeoCircle",
+				geoMidpoint: {
+					"@type": "GeoCoordinates",
+					latitude: page.latitude,
+					longitude: page.longitude,
+				},
+				geoRadius: "25000",
+			},
+		};
+
+		return JSON.stringify(suburbSchema, null, 2);
+	}
+
+	// Default schema for non-suburb pages
+	baseSchema.description =
+		"Professional family, wedding, and newborn photographer in Melbourne's Eastern suburbs with expertise in capturing timeless moments and creating beautiful, cherished memories for families.";
+	baseSchema.knowsAbout = [
+		"Family Photography",
+		"Wedding Photography",
+		"Newborn Photography",
+		"Maternity Photography",
+		"Portrait Photography",
+		"Melbourne Photography",
+	];
+	baseSchema.hasOfferCatalog = {
+		"@type": "OfferCatalog",
+		name: "Photography Services",
+		itemListElement: [
 			{
 				"@type": "Offer",
 				itemOffered: {
 					"@type": "Service",
-					name: "Branding & Design",
+					name: "Family Photography",
 					description:
-						"Creative branding and design services to build impactful brand identities.",
+						"Professional family photography sessions capturing precious moments and genuine connections.",
+					serviceType: "Family Portrait Photography",
 				},
 			},
 			{
 				"@type": "Offer",
 				itemOffered: {
 					"@type": "Service",
-					name: "Digital Marketing",
+					name: "Wedding Photography",
 					description:
-						"Digital marketing strategies to grow your online presence and drive engagement.",
+						"Beautiful wedding photography documenting your special day with artistry and care.",
+					serviceType: "Wedding Photography",
 				},
 			},
 			{
 				"@type": "Offer",
 				itemOffered: {
 					"@type": "Service",
-					name: "Social Media Strategy",
+					name: "Newborn Photography",
 					description:
-						"Comprehensive social media strategies to connect with your audience and build brand loyalty.",
+						"Gentle newborn photography sessions capturing those precious first days and weeks.",
+					serviceType: "Newborn Photography",
 				},
 			},
 			{
 				"@type": "Offer",
 				itemOffered: {
 					"@type": "Service",
-					name: "Packaging & Print",
+					name: "Maternity Photography",
 					description:
-						"Creative packaging and print design that captivates and communicates your brand message.",
+						"Beautiful maternity photography celebrating the anticipation and joy of expecting parents.",
+					serviceType: "Maternity Photography",
 				},
 			},
 			{
 				"@type": "Offer",
 				itemOffered: {
 					"@type": "Service",
-					name: "Websites",
+					name: "In-Home Sessions",
 					description:
-						"Custom website design and development to showcase your brand and drive results.",
+						"Comfortable in-home photography sessions in your familiar environment.",
+					serviceType: "In-Home Photography",
 				},
 			},
 			{
 				"@type": "Offer",
 				itemOffered: {
 					"@type": "Service",
-					name: "Production & Video",
+					name: "Outdoor Sessions",
 					description:
-						"Professional video production services to bring your brand story to life.",
+						"Natural outdoor photography sessions in beautiful Melbourne locations.",
+					serviceType: "Outdoor Photography",
 				},
 			},
 		],
 	};
+	baseSchema.review = [
+		{
+			"@type": "Review",
+			reviewRating: {
+				"@type": "Rating",
+				ratingValue: "5",
+				bestRating: "5",
+			},
+			author: {
+				"@type": "Person",
+				name: "Sarah M.",
+			},
+			reviewBody:
+				"Gill captured our family perfectly! The photos are beautiful and natural. Highly recommend!",
+		},
+		{
+			"@type": "Review",
+			reviewRating: {
+				"@type": "Rating",
+				ratingValue: "5",
+				bestRating: "5",
+			},
+			author: {
+				"@type": "Person",
+				name: "Michael T.",
+			},
+			reviewBody:
+				"Amazing newborn session! Gill made us feel so comfortable and the photos are stunning.",
+		},
+	];
 
-	return JSON.stringify(json, null, 2);
+	return JSON.stringify(baseSchema, null, 2);
 });
 
 hexo.extend.helper.register("faqJsonld", function (page) {

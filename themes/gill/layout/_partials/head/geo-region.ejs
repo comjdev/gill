@@ -1,10 +1,13 @@
 <meta name="geo.region" content="AU-VIC" />
-<meta name="geo.placename" content="<%= page.suburb || 'Melbourne' %>" />
+<meta
+	name="geo.placename"
+	content="<%= page.layout === 'suburb' ? page.suburb : 'Boronia' %>"
+/>
 <meta
 	name="geo.position"
-	content="<%= page.latitude || '-37.8846' %>;<%= page.longitude || '145.2954' %>"
+	content="<%= page.layout === 'suburb' ? page.latitude : '-37.8667' %>;<%= page.layout === 'suburb' ? page.longitude : '145.2833' %>"
 />
 <meta
 	name="ICBM"
-	content="<%= page.latitude || '-37.8846' %>, <%= page.longitude || '145.2954' %>"
+	content="<%= page.layout === 'suburb' ? page.latitude : '-37.8667' %>, <%= page.layout === 'suburb' ? page.longitude : '145.2833' %>"
 />

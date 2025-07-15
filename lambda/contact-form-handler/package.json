@@ -1,20 +1,21 @@
 {
 	"name": "contact-form-handler",
 	"version": "1.0.0",
-	"description": "AWS Lambda function to handle contact form submissions with Handlebars templates",
+	"description": "AWS Lambda function to handle contact form submissions",
 	"main": "index.js",
-	"dependencies": {
-		"aws-sdk": "^2.1450.0",
-		"handlebars": "^4.7.8"
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [
 		"aws",
 		"lambda",
-		"ses",
-		"email",
-		"contact-form",
-		"handlebars"
+		"contact",
+		"form",
+		"email"
 	],
-	"author": "Hindsight Creative",
-	"license": "MIT"
+	"author": "Gill Juergens Photography",
+	"license": "ISC",
+	"dependencies": {
+		"@aws-sdk/client-ses": "^3.0.0"
+	}
 }

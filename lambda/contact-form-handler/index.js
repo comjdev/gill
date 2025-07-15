@@ -49,8 +49,9 @@ exports.handler = async (event) => {
 		}
 
 		// Get environment variables
-		const fromEmail = process.env.FROM_EMAIL || "noreply@hindsight.com.au";
-		const toEmail = process.env.TO_EMAIL || "studio@hindsight.com.au";
+		const fromEmail =
+			process.env.FROM_EMAIL || "noreply@gill-photography.com.au";
+		const toEmail = process.env.TO_EMAIL || "gill@gill-photography.com.au";
 		const ccEmail = process.env.CC_EMAIL;
 
 		// Prepare template data

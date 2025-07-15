@@ -1,13 +1,20 @@
 ---
 suburb: Hawthorn
 title: Newborn photos in Hawthorn
-subtitle: Your Hawthorn newborn photographer
-description: Capturing newborn photos full of warmth and connection, at home in Hawthorn or surrounded by nature nearby.
+subtitle: Capturing your precious newborn moments in Hawthorn with gentle photography
+description: Capture your Hawthorn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/hawthorn/
-latitude: -37.8217
-longitude: 145.0350
+latitude: -37.8219
+longitude: 145.0383
+local_references:
+  - name: Auburn Road
+    description: Historic shopping strip with great character
+  - name: Glenferrie Road
+    description: Bustling local area with modern vibes
+  - name: Central Gardens
+    description: Beautiful park settings for outdoor sessions
 ---
 
 ## Laid-back newborn photography in Hawthorn

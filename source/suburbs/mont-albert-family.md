@@ -2,12 +2,19 @@
 suburb: Mont Albert
 title: Family photos in Mont Albert
 subtitle: Capturing your precious moments in Mont Albert with relaxed family photos
-description: Let's capture your Mont Albert family's unique story in a natural and heartfelt way, either in your home or at one of Mont Albert's beautiful locations.
+description: Capture your Mont Albert family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/mont-albert/
-latitude: -37.8183
-longitude: 145.0950
+latitude: -37.8167
+longitude: 145.0833
+local_references:
+  - name: Mont Albert Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## A visual story of your Mont Albert family through family photography

@@ -1,13 +1,20 @@
 ---
 suburb: Malvern East
 title: Family photos in Malvern East
-subtitle: Creating relaxed family photos in Malvern East
-description: As your Malvern East family photographer, I offer relaxed and fun sessions designed to capture the genuine connections and unique personalities within your family.
+subtitle: Capturing your precious moments in Malvern East with relaxed family photos
+description: Capture your Malvern East family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/malvern-east/
-latitude: -37.8667
-longitude: 145.0583
+latitude: -37.8500
+longitude: 145.0500
+local_references:
+  - name: Malvern East Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Authentic family photography in Malvern East
@@ -20,7 +27,7 @@ Hello! I'm a lifestyle photographer with over a decade of experience capturing t
 
 Whether your kids love exploring the playgrounds and open spaces of **Central Park**, embarking on a nature walk along the **Gardiners Creek Trail**, or prefer the familiar comfort of your **Malvern East** home, I'm ready to capture your family's natural interactions and joy. I won't rush the process, allowing plenty of time for them to warm up to the camera if they need to, resulting in beautiful **photos with kids** you'll treasure. These photos will be a true reflection of who you are as a family right now.
 
-### Capturing fun family moments in Malvern East 
+### Capturing fun family moments in Malvern East
 
 I believe that the best **family photos** come from genuine interaction and fun. For your kids, our session will feel more like a big adventure. My goal is that they forget about the camera because they're so busy having fun. Think about what where they'd have the most fun. Would it be exploring **Central Park**, discovering playful corners in your backyard, or simply having fun together in your living room? We'll craft an adventure specifically suited to their interests, capturing real smiles and connections along the way. Please don't wait for the "perfect" weather, when your toddler is older, or until you've reached a certain milestone. Your children won't remember those details in years to come. What they **will** remember is the joy and love captured in these photos. Now is the perfect time to create these lasting memories.
 
@@ -38,4 +45,4 @@ My goal as your **family photographer** in Malvern East is to capture more than 
 
 ## Telling your family story in Malvern East and neighbouring suburbs
 
-Based in Boronia, I photograph families  in **Malvern East**, as well as throughout the eastern suburbs, including [Burwood](/family-photos/burwood/), [Blackburn](/family-photos/blackburn/), [Hawthorn](/family-photos/hawthorn/), [Camberwell](/family-photos/camberwell/) and [Deepdene](/family-photos/deepdene/). Every session is relaxed and built around your family’s unique rhythm, whether that’s cuddling at home or exploring your favourite local park. Together, we’ll create a collection of heartfelt images that tell the story of your family as you are right now.
+Based in Boronia, I photograph families in **Malvern East**, as well as throughout the eastern suburbs, including [Burwood](/family-photos/burwood/), [Blackburn](/family-photos/blackburn/), [Hawthorn](/family-photos/hawthorn/), [Camberwell](/family-photos/camberwell/) and [Deepdene](/family-photos/deepdene/). Every session is relaxed and built around your family’s unique rhythm, whether that’s cuddling at home or exploring your favourite local park. Together, we’ll create a collection of heartfelt images that tell the story of your family as you are right now.

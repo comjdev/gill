@@ -50,36 +50,6 @@ image_set_1:
   - image: /img/family.jpg
   - image: /img/family.jpg
 
-content_1:
-  - Family sessions can be held at your home, a favorite park, the beach, or any location that's meaningful to your family. I'll help you choose the perfect setting that reflects your family's style and personality.
-  - I work with families of all sizes and ages, from newborns to grandparents. My approach is relaxed and playful, ensuring everyone feels comfortable and has fun during the session.
-
-image_set_2:
-  - image: /img/family.jpg
-  - image: /img/family.jpg
-  - image: /img/family.jpg
-
-content_2:
-  - Your family session includes a mix of posed and candid shots, capturing both the beautiful portraits and the real moments of connection and joy. I'll provide gentle guidance while letting your family's natural interactions shine.
-  - You'll receive a collection of professionally edited images in both color and black & white. I also offer beautiful albums, prints, and wall art to help you display and preserve your family memories.
-
-investment:
-  title: Investment
-  subtitle: Capturing your family's story
-  copy:
-    - Family photography packages start from $499 and include:
-        - A 1-2 hour photography session at your chosen location
-        - Professional editing and color correction
-        - High-resolution digital files for printing and sharing
-        - Online gallery for easy viewing and downloading
-    - A deposit of $150 is required to secure your session date.
-    - Contact me to discuss your family's needs and book your session.
-
-investment_images:
-  - image: /img/family.jpg
-  - image: /img/family.jpg
-  - image: /img/family.jpg
-
 faqs:
   - question: What should we wear for our family session?
     answer: |

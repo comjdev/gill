@@ -1,13 +1,20 @@
 ---
 suburb: Rowville
 title: Family photos in Rowville
-subtitle: Fun and relaxed family photos in Rowville
-description: Looking for stress-free family photography in Rowville? I specialise in capturing those real, everyday moments that you'll cherish
+subtitle: Capturing your precious moments in Rowville with relaxed family photos
+description: Capture your Rowville family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/rowville/
-latitude: -37.9167
-longitude: 145.2667
+latitude: -37.9333
+longitude: 145.2333
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Rowville Village
+    description: Charming local shopping area with character
 ---
 
 ## Telling your Rowville family Story with beautiful family photography
@@ -23,6 +30,7 @@ With its friendly neighbourhoods, leafy parks, and stunning local spots like **S
 My sessions are designed to feel more like a family outing than a photoshoot, especially for the kids. I’ll offer light direction when needed, but mostly I’m there to quietly capture the real moments as they unfold. Whether we’re chasing golden light, playing in the park, or relaxing at home, the goal is always the same: beautiful, honest **family photos** that tell your story.
 
 ## Where should we explore? Your backyard or Rowville’s natural beauty?
+
 Whether your children love running wild at **Stud Park Reserve**, hiking through the nearby **Dandenong Ranges**, or just feel most at home playing in your living room, we’ll choose a location that suits your family’s vibe.
 
 We’ll tailor the session to your kids’ personalities, so it feels fun, not forced. As a mum myself, I completely understand that kids don’t always follow the plan and that’s absolutely fine! We’ll go with the flow and create space for genuine laughter, curiosity, and cuddles. The result? Natural, joyful **photos with kids** you’ll want to hang on every wall.

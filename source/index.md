@@ -1,8 +1,8 @@
 ---
 title: Home
-description: Hindsight Creative is a full-service creative studio specialising in branding, design, and marketing.
-subtitle: Strategic and creative services for inspired brands
+description: Gill Juergens Photography is a professional photography studio specialising in family, wedding, and newborn photography.
+subtitle: Professional family, wedding, and newborn photography in Melbourne
 layout: index
 ---
 
-Whether you're aiming to craft a standout brand identity, launch an e-commerce store, revamp your brick-and-mortar location, or execute a global marketing campaign, Hindsight Creative possesses the experience and technical expertise to ensure your success.
+Whether you're looking to capture precious family moments, celebrate your wedding day, or document your newborn's first days, Gill Juergens Photography possesses the experience and artistic vision to ensure your memories are beautifully preserved forever.

@@ -1,13 +1,20 @@
 ---
 suburb: Blackburn
 title: Family photos in Blackburn
-subtitle: Capturing your precious moments in Blackburn with relaxed family photography
-description: Looking for stress-free family photography in Blackburn? I specialise in capturing those real, everyday moments that you'll cherish, in your home or in and around Melbourne. 
+subtitle: Capturing your precious moments in Blackburn with relaxed family photos
+description: Capture your Blackburn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/blackburn/
-latitude: -37.8244
-longitude: 145.1528
+latitude: -37.8167
+longitude: 145.1500
+local_references:
+  - name: Blackburn Lake Sanctuary
+    description: Beautiful natural setting with walking trails
+  - name: Blackburn Village
+    description: Charming local shopping precinct with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Capturing your Blackburn family with fun and relaxed photos

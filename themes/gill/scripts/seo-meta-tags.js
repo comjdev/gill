@@ -3,12 +3,12 @@ hexo.extend.helper.register("seoTitle", function () {
 	const config = this.config;
 
 	// Start with the page title (or fallback to config.title if no page title)
-	const baseTitle = page.title || config.title || "Hindsight Creative";
+	const baseTitle = page.title || config.title || "Gill Juergens Photography";
 
 	// Define the dynamic suffixes
 	const suffixes = [
-		"Hindsight Creative",
-		"Creative Branding Studio",
+		"Gill Juergens Photography",
+		"Family, Wedding & Newborn Photographer",
 		"Melbourne",
 	];
 
@@ -45,12 +45,19 @@ hexo.extend.helper.register("seoDescription", function () {
 	const baseDescRaw =
 		page.description ||
 		config.description ||
-		"Hindsgiht Creative | Grow your brand with a creative branding studio in Melbourne's eastern suburbs. We craft impactful brand identities, websites, and visuals that connect and inspire.";
+		"Gill Juergens Photography | Capture timeless moments with professional family, wedding, and newborn photography in Melbourne's Eastern Suburbs. Creating beautiful, cherished memories for your family.";
 
 	// Prefix for suburb pages or fallback to title
 	let prefix = "";
 	if (page.layout === "suburb" && page.suburb) {
-		prefix = `${page.suburb} Creative Design and Branding Studio | `;
+		// Category-specific prefix based on the page category
+		if (page.category === "newborn") {
+			prefix = `${page.suburb} Newborn Photographer | `;
+		} else if (page.category === "family") {
+			prefix = `${page.suburb} Family Photographer | `;
+		} else {
+			prefix = `${page.suburb} Family, Wedding & Newborn Photographer | `;
+		}
 	} else if (!page.description && page.title) {
 		prefix = `${page.title} | `;
 	}
@@ -68,14 +75,13 @@ hexo.extend.helper.register("seoDescription", function () {
 
 	// SEO keyword extensions
 	const keywords = [
-		"Hindsight Creative",
-		"Creative Branding Studio",
-		"Branding and Design",
-		"Digital Marketing",
-		"Social Media Strategy",
-		"Packaging and Print",
-		"Website & Web Design",
-		"Production & Video",
+		"Gill Juergens Photography",
+		"Family Photography",
+		"Wedding Photography",
+		"Newborn Photography",
+		"Professional Photography",
+		"Melbourne Photography",
+		"Eastern Suburbs Photography",
 		"Melbourne",
 	];
 

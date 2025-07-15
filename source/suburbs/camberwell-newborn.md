@@ -1,13 +1,20 @@
 ---
 suburb: Camberwell
 title: Newborn photos in Camberwell
-subtitle: Creating lasting Camberwell memories with relaxed newborn photos
-description: Capture your baby's early days with thoughtful, connection-focused photography in Camberwell, whether at home or in a favourite local spot, these photos will hold meaning for years to come.
+subtitle: Capturing your precious newborn moments in Camberwell with gentle photography
+description: Capture your Camberwell newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/camberwell/
-latitude: -37.8306
-longitude: 145.0683
+latitude: -37.8236
+longitude: 145.0764
+local_references:
+  - name: Camberwell Market
+    description: Vibrant local market atmosphere
+  - name: Camberwell Gardens
+    description: Peaceful park settings for family photos
+  - name: High Street
+    description: Charming shopping precinct with character
 ---
 
 ## Gentle newborn photography in Camberwell

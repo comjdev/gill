@@ -1,13 +1,20 @@
 ---
 suburb: Boronia
 title: Family photos in Boronia
-subtitle: Creating lasting memories for Boronia families that are natural and fun
-description: Let's capture your Boronia family's unique story in a natural and heartfelt way, either in your home or at one of Boronia's beautiful locations.
+subtitle: Capturing your precious moments in Boronia with relaxed family photos
+description: Capture your Boronia family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/boronia/
-latitude: -37.8500
+latitude: -37.8667
 longitude: 145.2833
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Boronia Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Telling your Boronia family story through joyful photos

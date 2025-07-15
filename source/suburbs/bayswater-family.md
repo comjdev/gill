@@ -1,13 +1,20 @@
 ---
 suburb: Bayswater
 title: Family photos in Bayswater
-subtitle: Capturing your precious moments in Bayswater with candid family photos
-description: Capture your Bayswater family with fun and relaxed photography. Family sessions available in your home or at one of Melbourne's beautiful locations. 
+subtitle: Capturing your precious moments in Bayswater with relaxed family photos
+description: Capture your Bayswater family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/bayswater/
-latitude: -37.8333
+latitude: -37.8500
 longitude: 145.2667
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Bayswater Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Capturing your Bayswater family story with natural lifestyle photography

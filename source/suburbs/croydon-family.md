@@ -1,13 +1,20 @@
 ---
 suburb: Croydon
 title: Family photos in Croydon
-subtitle: Capturing love and connection as your Croydon family photographer
-description: Capture your Croydon family with fun and relaxed photography. Forget stiff poses, let's create beautiful, natural memories together, whether in your Croydon home or exploring the local parks.
+subtitle: Capturing your precious moments in Croydon with relaxed family photos
+description: Capture your Croydon family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/croydon/
-latitude: -37.7936
-longitude: 145.2847
+latitude: -37.7967
+longitude: 145.2833
+local_references:
+  - name: Croydon Main Street
+    description: Charming local shopping precinct with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
 ---
 
 ## Celebrating your Croydon family with lifestyle photos

@@ -1,13 +1,20 @@
 ---
 suburb: Surrey Hills
 title: Family photos in Surrey Hills
-subtitle: Capturing your precious moments with fun family photos in Surrey Hills
-description: Capture your Surrey Hills family with relaxed photography. Family sessions are laid back and are available in your home or at scenic Melbourne locations. 
+subtitle: Capturing your precious moments in Surrey Hills with relaxed family photos
+description: Capture your Surrey Hills family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/surrey-hills/
-latitude: -37.8250
-longitude: 145.0917
+latitude: -37.8189
+longitude: 145.0800
+local_references:
+  - name: Surrey Hills Village
+    description: Charming local shopping precinct with character
+  - name: Union Road
+    description: Historic shopping strip with great atmosphere
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Capturing your Surrey Hills family with joyful lifestyle photography

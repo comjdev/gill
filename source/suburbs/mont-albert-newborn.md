@@ -1,13 +1,20 @@
 ---
 suburb: Mont Albert
 title: Newborn photos in Mont Albert
-subtitle: Capturing your precious moments in Mont Albert with relaxed newborn photos
-description: Newborn sessions in Mont Albert are slow, calm, and completely tailored to your baby, offering beautiful keepsakes of this magical chapter.
+subtitle: Capturing your precious newborn moments in Mont Albert with gentle photography
+description: Capture your Mont Albert newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/mont-albert/
-latitude: -37.8183
-longitude: 145.0950
+latitude: -37.8167
+longitude: 145.0833
+local_references:
+  - name: Mont Albert Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Mont Albert newborn photography that tells a story

@@ -1,13 +1,20 @@
 ---
 suburb: Bayswater
 title: Newborn photos in Bayswater
-subtitle: Capturing tender newborn moments in the heart of Bayswater
-description: Celebrate your new arrival with genuine, heartfelt newborn photography in Bayswater. Whether indoors or out, we’ll create images full of love and meaning.
+subtitle: Capturing your precious newborn moments in Bayswater with gentle photography
+description: Capture your Bayswater newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/bayswater/
-latitude: -37.8333
+latitude: -37.8500
 longitude: 145.2667
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Bayswater Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Gentle newborn photography in Bayswater

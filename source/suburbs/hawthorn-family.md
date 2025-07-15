@@ -1,14 +1,22 @@
 ---
 suburb: Hawthorn
 title: Family photos in Hawthorn
-subtitle: Your Hawthorn family photographer
-description: Let's create beautiful memories of your Hawthorn family that you'll treasure for years to come, either at home or in Hawthorn's beautiful outdoor settings.
+subtitle: Capturing your precious moments in Hawthorn with relaxed family photos
+description: Capture your Hawthorn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/hawthorn/
-latitude: -37.8217
-longitude: 145.0350
+latitude: -37.8219
+longitude: 145.0383
+local_references:
+  - name: Auburn Road
+    description: Historic shopping strip with great character
+  - name: Glenferrie Road
+    description: Bustling local area with modern vibes
+  - name: Central Gardens
+    description: Beautiful park settings for outdoor sessions
 ---
+
 ## Capturing your Hawthorn family with heartfelt family photos
 
 With over a decade of experience as a lifestyle photographer, I’m passionate about documenting the unique beauty of families in and around Hawthorn. While I also specialise in the tender anticipation of **maternity photos** and the quiet magic of **newborn photos**, this page is dedicated to celebrating family life, honest, joyful, and deeply connected through relaxed, natural photo sessions in **Hawthorn**.

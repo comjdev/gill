@@ -76,8 +76,8 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 document.addEventListener("DOMContentLoaded", function () {
-	var user = "studio"; // Replace with the part before the @
-	var domain = "hindsight.com.au"; // Replace with the part after the @
+	var user = "gill"; // Replace with the part before the @
+	var domain = "gill-photography.com.au"; // Replace with the part after the @
 	var email = user + "@" + domain;
 	var emailLink = document.createElement("a");
 	emailLink.href = "mailto:" + email;

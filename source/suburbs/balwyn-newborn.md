@@ -1,13 +1,20 @@
 ---
 suburb: Balwyn
 title: Newborn photos in Balwyn
-subtitle: Timeless newborn photography for Balwyn families
-description: From your Balwyn home’s familiar comfort to peaceful outdoor scenes, I’ll document this fleeting chapter of new life with relaxed newborn photos.
+subtitle: Capturing your precious newborn moments in Balwyn with gentle photography
+description: Capture your Balwyn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/balwyn/
 latitude: -37.8139
 longitude: 145.0750
+local_references:
+  - name: Maranoa Gardens
+    description: Beautiful botanical gardens perfect for family photos
+  - name: Boroondara Park
+    description: Open spaces and playgrounds for fun family sessions
+  - name: Balwyn Village
+    description: Charming local area with great street photography opportunities
 ---
 
 ## Gentle newborn photography in Balwyn. Capturing your baby's first story

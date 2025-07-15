@@ -1,13 +1,20 @@
 ---
 suburb: Wantirna
 title: Family photos in Wantirna
-subtitle: Celebrating the joy of childhood with family photos in Wantirna
-description: Let your kids be themselves, and I'll document the love and laughter that defines your Wantirna family, either at home or in Wantirna's lovely outdoor spaces.
+subtitle: Capturing your precious moments in Wantirna with relaxed family photos
+description: Capture your Wantirna family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/wantirna/
-latitude: -37.8486
-longitude: 145.2464
+latitude: -37.8500
+longitude: 145.2167
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Wantirna Village
+    description: Charming local shopping area with character
 ---
 
 ## Relaxed and meaningful family photography in Wantirna
@@ -24,7 +31,7 @@ My sessions are all about connection, fun, and letting your children lead the wa
 
 Whether your little ones love running through **Wantirna Park**, exploring hidden corners in your backyard, or simply curling up on the couch at home, we’ll work together to create **family photos** that reflect your unique dynamic.
 
-## Capturing real family moments in Wantirna 
+## Capturing real family moments in Wantirna
 
 The best **family photos** aren’t about perfection, they’re about personality. That’s why I focus on making sessions fun and engaging for your kids, helping them feel comfortable enough to be their true, playful selves.
 

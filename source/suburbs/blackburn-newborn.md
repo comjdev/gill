@@ -1,13 +1,20 @@
 ---
 suburb: Blackburn
 title: Newborn photos in Blackburn
-subtitle: Blackburn newborn photography, naturally beautiful
-description: From the early yawns to your baby’s tiny hands wrapped in yours, Blackburn offers the perfect setting for natural newborn photos that tell your family’s story. 
+subtitle: Capturing your precious newborn moments in Blackburn with gentle photography
+description: Capture your Blackburn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/blackburn/
-latitude: -37.8244
-longitude: 145.1528
+latitude: -37.8167
+longitude: 145.1500
+local_references:
+  - name: Blackburn Lake Sanctuary
+    description: Beautiful natural setting with walking trails
+  - name: Blackburn Village
+    description: Charming local shopping precinct with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Natural newborn photography in Blackburn

@@ -2,12 +2,19 @@
 suburb: Balwyn
 title: Family photos in Balwyn
 subtitle: Capturing your precious moments in Balwyn with relaxed family photos
-description: Capture your Balwyn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations. 
+description: Capture your Balwyn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/balwyn/
 latitude: -37.8139
 longitude: 145.0750
+local_references:
+  - name: Maranoa Gardens
+    description: Beautiful botanical gardens perfect for family photos
+  - name: Boroondara Park
+    description: Open spaces and playgrounds for fun family sessions
+  - name: Balwyn Village
+    description: Charming local area with great street photography opportunities
 ---
 
 ## Capturing your Balwyn family story with natural lifestyle photography

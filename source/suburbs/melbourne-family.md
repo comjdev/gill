@@ -8,6 +8,13 @@ category: family
 permalink: family-photos/melbourne/
 latitude: -37.8136
 longitude: 144.9631
+local_references:
+  - name: Royal Botanic Gardens
+    description: Stunning gardens with diverse landscapes
+  - name: Fitzroy Gardens
+    description: Historic gardens with beautiful architecture
+  - name: Yarra River
+    description: Scenic river views and walking paths
 ---
 
 ## Your Melbourne family, captured with heart

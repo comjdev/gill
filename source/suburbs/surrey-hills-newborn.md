@@ -1,13 +1,20 @@
 ---
 suburb: Surrey Hills
 title: Newborn photos in Surrey Hills
-subtitle: Natural, relaxed newborn photography in Surrey Hills
-description: Whether your baby is peacefully sleeping or wide-eyed and curious, I’ll capture genuine moments with relaxed newborn photos in Surrey Hills
+subtitle: Capturing your precious newborn moments in Surrey Hills with gentle photography
+description: Capture your Surrey Hills newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/surrey-hills/
-latitude: -37.8250
-longitude: 145.0917
+latitude: -37.8189
+longitude: 145.0800
+local_references:
+  - name: Surrey Hills Village
+    description: Charming local shopping precinct with character
+  - name: Union Road
+    description: Historic shopping strip with great atmosphere
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Heartfelt newborn photography for Surrey Hills families

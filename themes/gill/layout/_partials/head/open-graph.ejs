@@ -1,0 +1,46 @@
+<!-- Open Graph Meta Tags -->
+<meta property="og:title" content="<%= seoOgTitle() %>" />
+<meta property="og:description" content="<%= seoOgDescription() %>" />
+<meta
+	property="og:type"
+	content="<%= page.layout === 'work' ? 'article' : 'website' %>"
+/>
+<meta property="og:url" content="<%= canonicalUrl %>" />
+<meta property="og:site_name" content="<%= config.title %>" />
+<meta property="og:locale" content="en_AU" />
+
+<% if (imageUrl) { %>
+<meta property="og:image" content="<%= imageUrl %>" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
+<% } else { %>
+<meta property="og:image" content="<%= config.url %>/logos/logo.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:type" content="image/jpeg" />
+<% } %> <% if (page.layout === 'work' && page.date) { %>
+<meta
+	property="article:published_time"
+	content="<%= page.date.toISOString() %>"
+/>
+<meta
+	property="article:modified_time"
+	content="<%= page.updated || page.date.toISOString() %>"
+/>
+<meta property="article:author" content="<%= config.author %>" />
+<% if (page.categories && page.categories.length > 0) { %> <%
+page.categories.forEach(function(category) { %>
+<meta property="article:section" content="<%= category.name %>" />
+<% }); %> <% } %> <% if (page.tags && page.tags.length > 0) { %> <%
+page.tags.forEach(function(tag) { %>
+<meta property="article:tag" content="<%= tag.name %>" />
+<% }); %> <% } %> <% } %>
+
+<!-- Additional Open Graph tags for business -->
+<meta property="og:locality" content="<%= config.address.suburb %>" />
+<meta property="og:region" content="<%= config.address.state %>" />
+<meta property="og:postal-code" content="<%= config.address.postcode %>" />
+<meta property="og:country-name" content="<%= config.address.country %>" />
+<meta property="og:phone_number" content="<%= config.phone %>" />
+<meta property="og:email" content="<%= config.email %>" />

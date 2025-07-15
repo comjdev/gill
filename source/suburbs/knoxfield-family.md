@@ -1,13 +1,20 @@
 ---
 suburb: Knoxfield
 title: Family photos in Knoxfield
-subtitle: Knoxfield family photography, capturing love and connection
-description:  I focus on capturing the natural interactions and loving bonds that make your family special, whether in the comfort of your Knoxfield home or exploring the local scenery.
+subtitle: Capturing your precious moments in Knoxfield with relaxed family photos
+description: Capture your Knoxfield family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/knoxfield/
 latitude: -37.8833
 longitude: 145.2500
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Knoxfield Village
+    description: Charming local shopping area with character
 ---
 
 ## Telling your Knoxfield family story with joyful family photos

@@ -1,13 +1,20 @@
 ---
 suburb: Ferntree Gully
 title: Newborn photos in Ferntree Gully
-subtitle: Celebrating your growing family with newborn photography in Ferntree Gully
-description: My newborn sessions in Ferntree Gully focus on simplicity, comfort, and connection, letting you just be with your baby while I quietly document the magic.
+subtitle: Capturing your precious newborn moments in Ferntree Gully with gentle photography
+description: Capture your Ferntree Gully newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/ferntree-gully/
-latitude: -37.8767
-longitude: 145.2833
+latitude: -37.8833
+longitude: 145.3000
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Ferntree Gully Village
+    description: Charming local shopping area with character
 ---
 
 ## Gentle and laid-back approach to newborn photography in Ferntree Gully

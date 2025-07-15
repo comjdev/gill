@@ -1,13 +1,20 @@
 ---
 suburb: Camberwell
 title: Family photos in Camberwell
-subtitle: Creating lasting Camberwell family memories with fun and ease
-description: Creating joyful and authentic family photos in Camberwell is my passion. I take a laid-back approach, making sure everyone feels comfortable and enjoys the experience.
+subtitle: Capturing your precious moments in Camberwell with relaxed family photos
+description: Capture your Camberwell family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/camberwell/
-latitude: -37.8306
-longitude: 145.0683
+latitude: -37.8236
+longitude: 145.0764
+local_references:
+  - name: Camberwell Market
+    description: Vibrant local market atmosphere
+  - name: Camberwell Gardens
+    description: Peaceful park settings for family photos
+  - name: High Street
+    description: Charming shopping precinct with character
 ---
 
 ## Telling your Camberwell family story through lifestyle photography

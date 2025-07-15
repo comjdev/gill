@@ -1,13 +1,20 @@
 ---
 suburb: Burwood
 title: Family photos in Burwood
-subtitle: Capturing love and connection as your relaxed Burwood photographer
-description: I focus on capturing the natural interactions and loving bonds that make your family special, whether in the comfort of your Burwood home or exploring the local scenery.
+subtitle: Capturing your precious moments in Burwood with relaxed family photos
+description: Capture your Burwood family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/burwood/
-latitude: -37.8472
-longitude: 145.1083
+latitude: -37.8500
+longitude: 145.0833
+local_references:
+  - name: Burwood Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Fun and joyful family photos for your family in Burwood

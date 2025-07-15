@@ -1,13 +1,20 @@
 ---
 suburb: Ringwood
 title: Family photos in Ringwood
-subtitle: Capturing your family in Ringood with natural photos
-description: Preserve your Ringwood family's precious moments with relaxed and genuine photography, available in your home or around Melbourne.
+subtitle: Capturing your precious moments in Ringwood with relaxed family photos
+description: Capture your Ringwood family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/ringwood/
-latitude: -37.8156
-longitude: 145.2278
+latitude: -37.8167
+longitude: 145.2333
+local_references:
+  - name: Ringwood Lake
+    description: Beautiful natural setting with walking trails
+  - name: Ringwood Village
+    description: Charming local shopping precinct with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Capturing your Ringwood family story with genuine, fun photography

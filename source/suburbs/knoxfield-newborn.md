@@ -1,13 +1,20 @@
 ---
 suburb: Knoxfield
 title: Newborn photos in Knoxfield
-subtitle: Authentic newborn photography for Knoxfield families
-description:  Your newborn won’t stay tiny for long, let’s create timeless, heartfelt images in Knoxfield that help you remember these early days forever.
+subtitle: Capturing your precious newborn moments in Knoxfield with gentle photography
+description: Capture your Knoxfield newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/knoxfield/
 latitude: -37.8833
 longitude: 145.2500
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Knoxfield Village
+    description: Charming local shopping area with character
 ---
 
 ## Gentle newborn photos in Knoxfield, telling your baby's story with heart

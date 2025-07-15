@@ -1,13 +1,20 @@
 ---
 suburb: Deepdene
 title: Family photos in Deepdene
-subtitle: Relaxed and fun family photos as your Deepdene family photographer
-description: Let your kids be themselves, and I'll document the love and laughter that defines your Deepdene family, either at home or in Deepdene's lovely outdoor spaces.
+subtitle: Capturing your precious moments in Deepdene with relaxed family photos
+description: Capture your Deepdene family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/deepdene/
 latitude: -37.8167
-longitude: 145.0583
+longitude: 145.0833
+local_references:
+  - name: Deepdene Park
+    description: Beautiful park settings for family photos
+  - name: Local Streets
+    description: Charming residential areas with character
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Let me capture the beauty of your everyday as your Deepdene family photographer

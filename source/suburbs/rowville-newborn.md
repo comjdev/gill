@@ -1,13 +1,20 @@
 ---
 suburb: Rowville
 title: Newborn photos in Rowville
-subtitle: Documenting those first precious weeks with newborn photos in Rowville
-description: My approach to newborn photography in Rowville is simple, baby-led, and full of heart with a focus on capturing your love just as it is.
+subtitle: Capturing your precious newborn moments in Rowville with gentle photography
+description: Capture your Rowville newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/rowville/
-latitude: -37.9167
-longitude: 145.2667
+latitude: -37.9333
+longitude: 145.2333
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Rowville Village
+    description: Charming local shopping area with character
 ---
 
 ## Gentle newborn photography in Rowville, full of heart

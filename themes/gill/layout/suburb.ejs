@@ -1,9 +1,15 @@
+<!-- prettier-ignore -->
+<%
+// Get the page data from the page object
+var pageData = page;
+%>
+
 <main class="pb-16 lg:pb-24 bg-white antialiased">
 	<header class="relative h-[60vh]">
 		<div class="absolute inset-0">
 			<img
-				src="<%= page.image %>"
-				alt="<%= typeof page.title !== 'undefined' && page.title ? page.title : 'Professional Photography Melbourne' %>"
+				src="<%= page.image || '/img/family.jpg' %>"
+				alt="<%= typeof page.title !== 'undefined' && page.title ? page.title : 'Family Photography in ' + page.suburb %>"
 				class="w-full h-full object-cover"
 			/>
 			<div class="absolute inset-0 bg-black/60"></div>
@@ -12,7 +18,7 @@
 			class="absolute top-20 left-1/2 px-4 mx-auto w-full max-w-screen-xl -translate-x-1/2 xl:top-1/2 xl:-translate-y-1/2 xl:px-0"
 		>
 			<div class="block mb-4 font-bold text-gray-300">
-				Gill Juergens
+				<%= page.category.charAt(0).toUpperCase() + page.category.slice(1) %>
 				<span class="font-normal text-white hover:underline">Photography</span>
 			</div>
 			<h1
@@ -48,11 +54,12 @@
 				<h3 id="sidebar-label" class="sr-only">Sidebar</h3>
 				<div class="mb-8">
 					<h4 class="mb-2 text-sm font-bold text-gray-900 uppercase">
-						Gill Juergens Photography
+						<%= page.category.charAt(0).toUpperCase() + page.category.slice(1)
+						%> Photography in <%= page.suburb %>
 					</h4>
 					<p class="mb-4 text-sm text-gray-500">
-						Let's work together to create something great. We're here to help
-						you achieve your goals.
+						Let's work together to create something great. I'm here to help you
+						capture your precious moments in <%= page.suburb %>.
 					</p>
 					<a
 						href="<%= url_for('/contact/') %>"
@@ -71,14 +78,19 @@
 						<a href="<%= url_for(service.path) %>" class="shrink-0">
 							<img
 								src="<%= url_for(service.image) %>"
-								class="mr-4 max-w-full w-24 h-24 object-cover"
-								alt="<%= service.title %> | Gill Juergens Photography Melbourne"
+								class="mr-4 max-w-full w-24 h-24 object-cover rounded-lg"
+								alt="<%= service.title %> | Photographer <%= page.suburb %>"
+								loading="lazy"
 							/>
 						</a>
 						<div>
 							<h5 class="mb-2 text-lg font-bold leading-tight text-gray-900">
 								<%= service.title %>
 							</h5>
+
+							<p class="text-sm text-gray-500">
+								<%= service.title %> services in <%= page.suburb %>
+							</p>
 
 							<a
 								href="<%= url_for(service.path) %>"
@@ -95,40 +107,12 @@
 	</div>
 </main>
 
-<!-- prettier-ignore -->
-<%- partial('_partials/faqs', { service: page.title, title: 'Frequently asked questions' }) %>
+<!-- Projects  -->
+<%- partial('_partials/suburbs/latest-projects', {category: page.category}) %>
 
-<aside aria-label="Related articles" class="py-8 lg:py-24 bg-white">
-	<div class="px-4 mx-auto max-w-screen-xl">
-		<h2 class="mb-6 lg:mb-8 text-2xl font-bold text-gray-900">
-			Related projects
-		</h2>
-		<div class="grid gap-6 lg:gap-12 md:grid-cols-2">
-			<% site.posts.filter(post => post.layout === 'work' && post.categories &&
-			post.categories.some(category => category.name ===
-			page.title)).forEach(function(project, index) { %>
-			<article class="flex flex-col xl:flex-row">
-				<a href="#" class="mb-2 xl:mb-0">
-					<img
-						src="/portfolio/<%= project.source.replace(/\.md$/, '').split('/').pop() %>/<%= project.image %>"
-						class="mr-5 w-full xl:w-48 h-48 object-cover"
-						alt="<%= project.title %> | Gill Juergens Photography Melbourne"
-					/>
-				</a>
-				<div class="flex flex-col justify-center">
-					<h2 class="mb-2 text-xl font-bold leading-tight text-gray-900">
-						<a href="#"><%= project.title %></a>
-					</h2>
-					<p class="mb-4 text-gray-500 max-w-sm"><%= project.subtitle %></p>
-					<a
-						href="#"
-						class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 hover:no-underline"
-					>
-						Read more
-					</a>
-				</div>
-			</article>
-			<% }); %>
-		</div>
-	</div>
-</aside>
+<!-- Local References -->
+<%- partial('_partials/suburbs/local-references', {suburb: page.suburb}) %>
+
+<!-- Random FAQs  -->
+<%- partial('_partials/suburbs/random-faqs', {suburb: page.suburb, category:
+page.category}) %>

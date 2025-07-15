@@ -106,17 +106,17 @@ deploy:
 
 #sitemap
 sitemap:
-path: sitemap.xml
+  path: sitemap.xml
 
 # Contact
 address:
-  street: "123 Main Street"
   suburb: "Boronia"
   state: "VIC"
   postcode: "3155"
   country: "Australia"
 phone: "0403 188 674"
 tel: "+61403188674"
+email: "gill@gill-photography.com.au"
 
 # Business Hours
 hours:

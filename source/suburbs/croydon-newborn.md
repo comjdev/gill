@@ -1,13 +1,20 @@
 ---
 suburb: Croydon
 title: Newborn photos in Croydon
-subtitle: Capturing love and connection as your Croydon newborn photographer
-description: Let’s preserve your baby’s first days with relaxed newborn photography in Croydon, perfect for families who want a laid back experience.
+subtitle: Capturing your precious newborn moments in Croydon with gentle photography
+description: Capture your Croydon newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/croydon/
-latitude: -37.7936
-longitude: 145.2847
+latitude: -37.7967
+longitude: 145.2833
+local_references:
+  - name: Croydon Main Street
+    description: Charming local shopping precinct with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
 ---
 
 ## Timeless newborn photography in Croydon, capturing your baby during those early days

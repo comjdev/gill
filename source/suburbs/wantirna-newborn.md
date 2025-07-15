@@ -1,13 +1,20 @@
 ---
 suburb: Wantirna
 title: Newborn photos in Wantirna
-subtitle: Capturing tender newborn photos in the heart of Wantirna
-description: From sleepy yawns to tiny toes, I’ll gently document your newborn’s first days in your Wantirna home or a nearby natural setting.
+subtitle: Capturing your precious newborn moments in Wantirna with gentle photography
+description: Capture your Wantirna newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/wantirna/
-latitude: -37.8486
-longitude: 145.2464
+latitude: -37.8500
+longitude: 145.2167
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Wantirna Village
+    description: Charming local shopping area with character
 ---
 
 ## Natural and heartfelt baby photography in Wantirna
@@ -28,7 +35,7 @@ The most meaningful **newborn photos** are the ones that reflect your real life,
 
 Your **Wantirna** home is so much more than just a setting, it’s the place where your baby’s story begins. That’s why I love photographing newborn sessions in the comfort of your own space. Home offers a familiar, relaxed environment where real moments can unfold naturally, making the experience easier for you and more meaningful for your **newborn photos**.
 
-From peaceful cuddles in your baby's first bedroom to the sweet curiosity of siblings meeting their new baby, I focus on capturing the little everyday moments that truly reflect this chapter of your life. Soft natural light, genuine emotion, and the warmth of home come together to create timeless, heartfelt **newborn photos**** at your home in **Wantirna**. These photos don’t just show what your baby looked like, they tell the deeper story of how your family felt in those first precious weeks. It’s a beautiful way to preserve the beginning of your family’s newest adventure.
+From peaceful cuddles in your baby's first bedroom to the sweet curiosity of siblings meeting their new baby, I focus on capturing the little everyday moments that truly reflect this chapter of your life. Soft natural light, genuine emotion, and the warmth of home come together to create timeless, heartfelt **newborn photos\*\*** at your home in **Wantirna**. These photos don’t just show what your baby looked like, they tell the deeper story of how your family felt in those first precious weeks. It’s a beautiful way to preserve the beginning of your family’s newest adventure.
 
 ### A Gentle, baby-centered approach to newborn photos
 

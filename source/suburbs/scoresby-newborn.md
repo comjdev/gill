@@ -1,13 +1,20 @@
 ---
 suburb: Scoresby
 title: Newborn photos in Scoresby
-subtitle: Timeless baby photos for Scoresby families
-description: Let’s create beautiful, relaxed newborn photos that tell the story of your early days as a family, right here in the comfort of your Scoresby home.
+subtitle: Capturing your precious newborn moments in Scoresby with gentle photography
+description: Capture your Scoresby newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/scoresby/
-latitude: -37.8986
-longitude: 145.2417
+latitude: -37.9000
+longitude: 145.2333
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Scoresby Village
+    description: Charming local shopping area with character
 ---
 
 ## Capturing quiet beginnings with relaxed newborn photography in Scoresby

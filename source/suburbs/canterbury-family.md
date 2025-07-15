@@ -1,13 +1,20 @@
 ---
 suburb: Canterbury
 title: Family photos in Canterbury
-subtitle: Relaxed and fun family photos in Canterbury
-description: Let your kids be themselves and I'll document the love and laughter that defines your Canterbury family, either at home or in Canterbury's lovely outdoor spaces.
+subtitle: Capturing your precious moments in Canterbury with relaxed family photos
+description: Capture your Canterbury family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/canterbury/
-latitude: -37.8217
-longitude: 145.0783
+latitude: -37.8167
+longitude: 145.0833
+local_references:
+  - name: Canterbury Gardens
+    description: Beautiful park settings for family photos
+  - name: Canterbury Village
+    description: Charming local shopping area with character
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Capturing your Canterbury family's story naturally with joyful photos
@@ -18,7 +25,7 @@ I'm a lifestyle photographer with over ten years of experience capturing the hea
 
 Canterbury, with its beautiful leafy streets and access to wonderful outdoor spaces like **Canterbury Gardens** and the nearby **Yarra River parklands**, provides a fantastic backdrop for capturing your family's unique dynamic. My **family photography** sessions embrace a fun and adventurous spirit for your children, ensuring they see our time together as an enjoyable family outing rather than a formal photoshoot. Expect fun, games, and those genuine, nose-scrunching laughs that perfectly capture their personalities.
 
-Whether your ideal **family photos** involve exploring the playgrounds and open spaces of **Canterbury Gardens**, embarking on a nature walk along the **Yarra River**, or enjoying the comfort of your **Canterbury** home, a backdrop that's unoubtedly part of your family's narrative, I'm flexible and ready to capture your children's natural interactions and joy, along with the beautiful connections within your immediate family. I won't rush the process, allowing plenty of time for everyone to feel comfortable and for those authentic moments to unfold, resulting in beautiful **photos with kids** that you'll treasure as genuine memories of this time in your lives. I especially love capturing these moments within your home. Each home is a part of who you are as a family and a part of your story. 
+Whether your ideal **family photos** involve exploring the playgrounds and open spaces of **Canterbury Gardens**, embarking on a nature walk along the **Yarra River**, or enjoying the comfort of your **Canterbury** home, a backdrop that's un undoubtedly part of your family's narrative, I'm flexible and ready to capture your children's natural interactions and joy, along with the beautiful connections within your immediate family. I won't rush the process, allowing plenty of time for everyone to feel comfortable and for those authentic moments to unfold, resulting in beautiful **photos with kids** that you'll treasure as genuine memories of this time in your lives. I especially love capturing these moments within your home. Each home is a part of who you are as a family and a part of your story.
 
 ### Making memories on a Canterbury family adventure
 

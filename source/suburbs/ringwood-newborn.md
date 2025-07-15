@@ -1,13 +1,20 @@
 ---
 suburb: Ringwood
 title: Newborn photos in Ringwood
-subtitle: Soft, emotive newborn photos from the comfort of your Ringwood home
-description: Whether you're soaking up the newborn bubble or adjusting to life with a little one, I’m here to document the real, gentle beauty of this fleeting time in Ringwood.
+subtitle: Capturing your precious newborn moments in Ringwood with gentle photography
+description: Capture your Ringwood newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/ringwood/
-latitude: -37.8156
-longitude: 145.2278
+latitude: -37.8167
+longitude: 145.2333
+local_references:
+  - name: Ringwood Lake
+    description: Beautiful natural setting with walking trails
+  - name: Ringwood Village
+    description: Charming local shopping precinct with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Gentle newborn photography in Ringwood, capturing your baby's first story

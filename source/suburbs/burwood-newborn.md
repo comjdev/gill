@@ -1,13 +1,20 @@
 ---
 suburb: Burwood
 title: Newborn photos in Burwood
-subtitle: Creating calm, beautiful newborn photos in Burwood
-description:  Whether we shoot in your cosy Burwood home or in a peaceful nearby park, I’ll document your newborn’s earliest chapter with warmth, honesty, and heart.
+subtitle: Capturing your precious newborn moments in Burwood with gentle photography
+description: Capture your Burwood newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/burwood/
-latitude: -37.8472
-longitude: 145.1083
+latitude: -37.8500
+longitude: 145.0833
+local_references:
+  - name: Burwood Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Natural and relaxed newborn photos for Burwood families
@@ -18,7 +25,7 @@ My approach is gentle, baby-led, and designed to make you feel completely at eas
 
 ## Newborn photos in Burwood
 
-One of the most common things I hear from new parents is, “I’d love **newborn photos**, but I’m just not ready.” But here’s the thing, you *are* ready. You’ve just had a baby, and that’s extraordinary. Please don’t worry about tidying up or making your home look perfect. I’ll gently work around the natural flow of your space, and we’ll tidy as we go if needed. Your comfort, and your baby’s, is always the top priority.
+One of the most common things I hear from new parents is, “I’d love **newborn photos**, but I’m just not ready.” But here’s the thing, you _are_ ready. You’ve just had a baby, and that’s extraordinary. Please don’t worry about tidying up or making your home look perfect. I’ll gently work around the natural flow of your space, and we’ll tidy as we go if needed. Your comfort, and your baby’s, is always the top priority.
 
 To help things run smoothly, I bring everything we need for your baby’s individual photos, a comfy beanbag, a few soft blankets, and a selection of neutral wraps. This way, you can relax knowing the details are taken care of, and you don’t need to prepare anything in advance for your **newborn photos** experience.
 

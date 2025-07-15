@@ -1,13 +1,20 @@
 ---
 suburb: Melbourne
 title: Newborn photos in Melbourne
-subtitle: Capturing your precious moments in Melbourne with laid-back newborn photos
-description: My newborn sessions in Melbourne focus on simplicity, comfort, and connection, letting you just be with your baby while I quietly document the magic.
+subtitle: Capturing your precious newborn moments in Melbourne with gentle photography
+description: Capture your Melbourne newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/melbourne/
 latitude: -37.8136
 longitude: 144.9631
+local_references:
+  - name: Royal Botanic Gardens
+    description: Stunning gardens with diverse landscapes
+  - name: Fitzroy Gardens
+    description: Historic gardens with beautiful architecture
+  - name: Yarra River
+    description: Scenic river views and walking paths
 ---
 
 ## Melbourne lifestyle photography for newborns and new beginnings

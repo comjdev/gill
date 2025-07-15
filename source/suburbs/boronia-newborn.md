@@ -1,13 +1,20 @@
 ---
 suburb: Boronia
 title: Newborn photos in Boronia
-subtitle: Creating lasting memories for Boronia families with natural and relaxed newborn photos
-description: Let’s celebrate your growing family with newborn photos in Boronia that reflect real connection and quiet joy, no stress, no stiff poses, just your story.
+subtitle: Capturing your precious newborn moments in Boronia with gentle photography
+description: Capture your Boronia newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/boronia/
-latitude: -37.8500
+latitude: -37.8667
 longitude: 145.2833
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Boronia Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
 ---
 
 ## Relaxed newborn photography in Boronia with a calm, baby-led approach
@@ -24,7 +31,7 @@ With a gentle, baby-led approach, I focus on keeping everyone comfortable. There
 
 ## Newborn photos in Boronia with real moments, beautifully told
 
-There’s something magical about this newborn stage, tiny toes, soft snuggles, and those sleepy newborn stretches. But it all passes so quickly. My goal is to create a relaxed space where you can just *be* with your baby while I quietly capture the in-between moments: the way you hold them, the way they settle into your chest, and the small details that you’ll want to remember forever.
+There’s something magical about this newborn stage, tiny toes, soft snuggles, and those sleepy newborn stretches. But it all passes so quickly. My goal is to create a relaxed space where you can just _be_ with your baby while I quietly capture the in-between moments: the way you hold them, the way they settle into your chest, and the small details that you’ll want to remember forever.
 
 These **newborn sessions** are calm, never rushed, and designed entirely around your baby’s needs, ideal for first-time parents or families welcoming a new sibling.
 

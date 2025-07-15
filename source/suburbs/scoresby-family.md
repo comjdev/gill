@@ -1,13 +1,20 @@
 ---
 suburb: Scoresby
 title: Family photos in Scoresby
-subtitle: Capturing lasting memories for Scoresby families
-description: Let's create beautiful memories of your Scoresby family that you'll treasure for years to come, either at home or in Scoresby's wonderful outdoor settings.
+subtitle: Capturing your precious moments in Scoresby with relaxed family photos
+description: Capture your Scoresby family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
 permalink: family-photos/scoresby/
-latitude: -37.8986
-longitude: 145.2417
+latitude: -37.9000
+longitude: 145.2333
+local_references:
+  - name: Dandenong Ranges
+    description: Stunning natural landscapes for outdoor sessions
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Scoresby Village
+    description: Charming local shopping area with character
 ---
 
 ## Natural and relaxed lifestyle photography as your Scoresby family photographer
@@ -16,7 +23,7 @@ I'm a lifestyle photographer with over a decade of experience capturing authenti
 
 Before discovering my passion for photography, I studied writing and now I bring these two worlds together. I don’t just take photos, I tell your story visually, capturing all the love, laughter, chaos, and calm that makes your family unique. My **family photography** sessions are laid-back and child-friendly, designed to feel more like a fun outing than anything serious. Because these days with little ones pass all too quickly. Let’s capture them, just as they are.
 
-## Family photos in Scoresby 
+## Family photos in Scoresby
 
 Scoresby’s welcoming community and access to beautiful local spaces like **Scoresby Recreation Reserve** and the nearby **Dandenong Ranges** make it the perfect location for relaxed and meaningful **family photos**. I aim to create a fun experience for your children, so they feel like we’re simply enjoying a day out, not posing for photos.
 

@@ -1,13 +1,20 @@
 ---
 suburb: Malvern East
 title: Newborn photos in Malvern East
-subtitle: Creating calm, beautiful newborn memories in Malvern East
-description: Based in Melbourne’s east, I offer relaxed newborn photography in Malvern East homes, no props, no pressure, just your baby and your love.
+subtitle: Capturing your precious newborn moments in Malvern East with gentle photography
+description: Capture your Malvern East newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
 permalink: newborn-photos/malvern-east/
-latitude: -37.8667
-longitude: 145.0583
+latitude: -37.8500
+longitude: 145.0500
+local_references:
+  - name: Malvern East Village
+    description: Charming local shopping area with character
+  - name: Local Parks
+    description: Beautiful outdoor spaces perfect for family photography
+  - name: Historic Homes
+    description: Beautiful architecture and gardens for unique backdrops
 ---
 
 ## Capturing your baby’s first days in Malvern East with honest, heartfelt newborn photography
