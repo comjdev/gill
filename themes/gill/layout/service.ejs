@@ -3,6 +3,12 @@
 // Get the page slug from the page object
 var pageData = page.data;
 var service = site.data[pageData];
+
+// Filter testimonials by service type at the top
+var allTestimonials = site.data.testimonials.testimonials;
+var serviceTestimonials = allTestimonials.filter(function(testimonial) {
+  return testimonial.type === pageData;
+}).slice(0, 3); // Get first 3 testimonials for this service
 %>
 
 <!-- prettier-ignore -->
@@ -17,8 +23,35 @@ var service = site.data[pageData];
 <%- include('_partials/service/what-to-expect', {service: service, page: page})
 %> <% } %>
 
-<!-- Testimonial -->
-<%- include('_partials/testimonial', { index: 0 }) %>
+<!-- Testimonial Section 1 -->
+<!-- prettier-ignore -->
+<% if (serviceTestimonials.length > 0) { %>
+  <%- include('_partials/service-testimonial', { testimonial: serviceTestimonials[0] }) %>
+<% } %>
+
+<!-- prettier-ignore -->
+<% if (service.location) { %>
+<!-- Location -->
+<%- include('_partials/service/location', {service: service, page: page}) %> <%
+} %>
+
+<!-- Testimonial Section 2 -->
+<!-- prettier-ignore -->
+<% if (serviceTestimonials.length > 1) { %>
+  <%- include('_partials/service-testimonial', { testimonial: serviceTestimonials[1] }) %>
+<% } %>
+
+<!-- prettier-ignore -->
+<% if (service.process) { %>
+<!-- Process -->
+<%- include('_partials/service/process', {service: service, page: page}) %> <% }
+%>
+
+<!-- Testimonial Section 3 -->
+<!-- prettier-ignore -->
+<% if (serviceTestimonials.length > 2) { %>
+  <%- include('_partials/service-testimonial', { testimonial: serviceTestimonials[2] }) %>
+<% } %>
 
 <!-- prettier-ignore -->
 <% if (service.location) { %>
@@ -31,9 +64,6 @@ var service = site.data[pageData];
 <!-- Process -->
 <%- include('_partials/service/process', {service: service, page: page}) %> <% }
 %>
-
-<!-- Testimonial -->
-<%- include('_partials/testimonial', { index: 5 }) %>
 
 <!-- prettier-ignore -->
 <% if (service.investment) {
@@ -59,9 +89,6 @@ var service = site.data[pageData];
 %>
 <!-- Pricing Table -->
 <%- include('_partials/service/prices', {prices: prices}) %> <% } %>
-
-<!-- Testimonial -->
-<%- include('_partials/testimonial', { index: 7 }) %>
 
 <!-- Latest Projects -->
 <%- include('_partials/projects-slider', { category: pageData, limit: 6,
