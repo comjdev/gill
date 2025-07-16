@@ -1,6 +1,7 @@
 ---
 title: Contact
 layout: contact
+permalink: book-lifestyle-photographer-in-melbourne/
 ---
 
 # Get in Touch

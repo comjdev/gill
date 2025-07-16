@@ -2,6 +2,7 @@
 title: About me
 description: Learn more about Gill Juergens Photography, a professional family, wedding, and newborn photographer in Melbourne's Eastern Suburbs.
 layout: page
+permalink: melbourne-lifestyle-photographer/
 ---
 
 ![Gill Juergens Photography, Melbourne Photographer](https://gill-photography.com.au/img/gill.jpg)

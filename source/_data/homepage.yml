@@ -2,7 +2,7 @@ hero:
   - image: /img/about.jpg
     title: About me
     subtitle: Gill Photography
-    link: /about/
+    link: /melbourne-lifestyle-photographer/
     left: 0
     top: 0
 
@@ -37,7 +37,7 @@ hero:
   - image: /img/contact.jpg
     title: Contact
     subtitle: Do you want to know more
-    link: /contact
+    link: /book-lifestyle-photographer-in-melbourne/
     left: 66
     top: 50
 
