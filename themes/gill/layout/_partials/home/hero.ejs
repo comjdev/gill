@@ -1,47 +1,51 @@
 <main
-  class="relative transition-all duration-[700ms] ease-[ease] touch-none"
-  style="height: calc(100dvh - 101px)"
+	class="relative transition-all duration-[700ms] ease-[ease] touch-none"
+	style="height: calc(100dvh - 68px)"
 >
-  <% site.data.homepage.hero.forEach(section => { %>
-  <section
-    class="absolute w-1/3 h-1/2 bg-no-repeat bg-center bg-cover group"
-    style="
-      top: <%= section.top %>%;
-      left: <%= section.left %>%;
-      background-image: url(<%= section.image %>);
-    "
-  >
-    <!-- Gradient overlay for better text readability -->
-    <div
-      class="absolute inset-0 bg-gradient-to-tr from-black/60 via-black/20 to-transparent pointer-events-none"
-    ></div>
+	<div class="grid grid-cols-3 grid-rows-2 h-full">
+		<% site.data.homepage.hero.forEach(section => { %>
+		<section
+			class="relative bg-no-repeat bg-center bg-cover group"
+			style="background-image: url(<%= section.image %>)"
+		>
+			<!-- Gradient overlay for better text readability -->
+			<div
+				class="absolute inset-0 bg-gradient-to-tr from-black/60 via-black/20 to-transparent pointer-events-none"
+			></div>
 
-    <div
-      class="absolute w-full left-0 bottom-[30px] px-[30px] z-10 flex flex-col text-white font-raleway text-[14px] leading-[1.5] font-normal box-border antialiased"
-    >
-      <!-- Heading: hidden on small screens -->
-      <div
-        class="hidden md:block text-[10px] leading-[1.5] font-normal uppercase tracking-wider [text-shadow:1px_1px_2px_#111]"
-      >
-        <%= section.subtitle %>
-      </div>
+			<!-- Mobile: Vertical title positioned on the left -->
+			<h2 class="text-white text-xl uppercase hero-title-vertical md:hidden">
+				<%= section.title %>
+			</h2>
 
-      <!-- Title -->
-      <h2 class="text-white text-xl uppercase"><%= section.title %></h2>
+			<!-- Desktop: Original layout -->
+			<div
+				class="hidden md:flex absolute w-full left-0 bottom-[30px] px-[30px] z-10 flex-col text-white font-raleway text-[14px] leading-[1.5] font-normal box-border antialiased"
+			>
+				<!-- Heading: hidden on small screens -->
+				<div
+					class="text-[10px] leading-[1.5] font-normal uppercase tracking-wider [text-shadow:1px_1px_2px_#111]"
+				>
+					<%= section.subtitle %>
+				</div>
 
-      <!-- Content: hidden on small screens -->
-      <div
-        class="hidden md:block overflow-hidden max-h-0 group-hover:max-h-20 transition-[max-height] duration-700 ease-out"
-      >
-        <a
-          href="<%= section.link %>"
-          class="inline-block px-8 py-4 mt-6 text-[10px] font-bold uppercase tracking-[0.25em] text-[#303030] bg-white no-underline rounded-none border-none cursor-pointer transition-all duration-700 ease-in-out overflow-hidden relative z-[1] hover:text-black transform translate-y-4 group-hover:translate-y-0"
-          data-cursor="cursor-link"
-        >
-          More
-        </a>
-      </div>
-    </div>
-  </section>
-  <% }) %>
+				<!-- Title -->
+				<h2 class="text-white text-xl uppercase"><%= section.title %></h2>
+
+				<!-- Content: hidden on small screens -->
+				<div
+					class="overflow-hidden max-h-0 group-hover:max-h-20 transition-[max-height] duration-700 ease-out"
+				>
+					<a
+						href="<%= section.link %>"
+						class="inline-block px-8 py-4 mt-6 text-[10px] font-bold uppercase tracking-[0.25em] text-[#303030] bg-white no-underline rounded-none border-none cursor-pointer transition-all duration-700 ease-in-out overflow-hidden relative z-[1] hover:text-black transform translate-y-4 group-hover:translate-y-0"
+						data-cursor="cursor-link"
+					>
+						More
+					</a>
+				</div>
+			</div>
+		</section>
+		<% }) %>
+	</div>
 </main>

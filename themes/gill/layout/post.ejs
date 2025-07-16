@@ -1,0 +1,99 @@
+<!-- prettier-ignore -->
+<%
+// Get the post data from the page object
+var postData = page;
+%>
+
+<main class="pb-16 lg:pb-24 bg-white antialiased">
+	<header class="relative h-[60vh]">
+		<div class="absolute inset-0">
+			<img
+				src="<%= page.hero || page.featured || '/img/family.jpg' %>"
+				alt="<%= typeof page.title !== 'undefined' && page.title ? page.title : 'Blog Post' %>"
+				class="w-full h-full object-cover"
+			/>
+			<div class="absolute inset-0 bg-black/60"></div>
+		</div>
+		<div
+			class="absolute top-20 left-1/2 px-4 mx-auto w-full max-w-screen-xl -translate-x-1/2 xl:top-1/2 xl:-translate-y-1/2 xl:px-0"
+		>
+			<div class="block mb-4 font-bold text-gray-300">
+				Lifestyle Photographer <span class="text-white">| Melbourne</span>
+			</div>
+			<h1
+				class="mb-4 max-w-4xl text-2xl font-extrabold leading-none text-white sm:text-3xl lg:text-4xl"
+			>
+				<%= page.title %>
+			</h1>
+			<% if (page.subtitle) { %>
+			<p class="text-lg font-normal text-gray-300"><%= page.subtitle %></p>
+			<% } %>
+			<!-- Post metadata -->
+			<div
+				class="flex justify-center items-center space-x-4 text-sm text-gray-300 mt-4"
+			>
+				<% if (page.categories && page.categories.length > 0) { %>
+				<span class="flex items-center">
+					<svg class="w-4 h-4 mr-1" fill="currentColor" viewBox="0 0 20 20">
+						<path
+							fill-rule="evenodd"
+							d="M17.707 9.293a1 1 0 010 1.414l-7 7a1 1 0 01-1.414 0l-7-7A.997.997 0 012 10V5a3 3 0 013-3h5c.256 0 .512.098.707.293l7 7zM5 6a1 1 0 100-2 1 1 0 000 2z"
+							clip-rule="evenodd"
+						></path>
+					</svg>
+					<%= page.categories[0].name %>
+				</span>
+				<% } %>
+			</div>
+		</div>
+	</header>
+
+	<div
+		class="flex relative z-20 justify-between p-6 -m-36 mx-4 max-w-screen-xl bg-white rounded xl:-m-32 xl:p-9 xl:mx-auto"
+	>
+		<article
+			class="xl:w-[828px] w-full max-w-none format format-sm sm:format-base"
+		>
+			<div class="flex flex-col lg:flex-row justify-between lg:items-center">
+				<div
+					class="flex items-center space-x-3 text-gray-500 dark:text-gray-400 text-base mb-2 lg:mb-0"
+				>
+					<span
+						>By
+						<a
+							href="<%= url_for('/about/') %>"
+							class="text-gray-900 dark:text-white hover:underline no-underline font-semibold"
+							>Gill Juergens</a
+						></span
+					>
+					<span
+						class="bg-gray-300 dark:bg-gray-400 w-2 h-2 rounded-full"
+					></span>
+					<span
+						><time
+							class="font-normal text-gray-500 dark:text-gray-400"
+							pubdate
+							class="uppercase"
+							datetime="<%= page.date ? page.date.toISOString() : '' %>"
+							title="<%= page.date ? page.date.format('MMMM DD, YYYY') : '' %>"
+							><%= page.date ? page.date.format('MMMM DD, YYYY') : '' %></time
+						></span
+					>
+				</div>
+			</div>
+			<header class="lead"><%= page.description || '' %></header>
+			<main>
+				<%- page.content %>
+				<div class="not-format">
+					<a
+						href="<%= url_for('/contact/') %>"
+						class="text-white bg-primary-900 hover:bg-primary-700 font-medium text-sm px-5 py-2.5 mr-2 mb-2 text-center w-full"
+					>
+						Let's chat
+					</a>
+				</div>
+			</main>
+		</article>
+		<%- include('_partials/sidebar-services') %>
+	</div>
+</main>

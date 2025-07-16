@@ -30,11 +30,11 @@
 			</ol>
 
 			<a
-				href="/portfolio/<%= page.data %>/"
-				class="inline-block px-8 py-4 mt-6 text-[10px] font-bold uppercase tracking-[0.25em] text-white bg-primary-800 no-underline rounded-lg border-none cursor-pointer transition-all duration-700 ease-in-out overflow-hidden relative z-[1] hover:text-black transform translate-y-4 group-hover:translate-y-0"
+				href="/contact/"
+				class="inline-block px-8 py-4 mt-6 text-[10px] font-bold uppercase tracking-[0.25em] text-white bg-primary-800 no-underline border-none cursor-pointer transition-all duration-700 ease-in-out overflow-hidden relative z-[1] hover:bg-primary-500 transform translate-y-4 group-hover:translate-y-0"
 				data-cursor="cursor-link"
 			>
-				View Photos
+				Book Now
 			</a>
 		</div>
 	</div>
@@ -44,8 +44,10 @@
 	<div class="sm:py-16 lg:px-6">
 		<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
 			<!-- prettier-ignore -->
-			<% service.process_images.forEach(function(imageItem) { %>
-			<div class="w-full">
+			<% service.process_images.forEach(function(imageItem, index) { %>
+			<div
+				class="w-full <%= index >= 1 ? 'hidden md:block' : '' %> <%= index >= 2 ? 'hidden lg:block md:hidden' : '' %>"
+			>
 				<img
 					src="<%= imageItem.image %>"
 					alt="<%= service.process.title %>"

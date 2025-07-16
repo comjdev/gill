@@ -118,4 +118,36 @@
 	h6 {
 		font-family: "Oswald", "Helvetica Neue", "Arial";
 	}
+
+	/* Responsive vertical title for hero section */
+	.hero-title-vertical {
+		writing-mode: vertical-rl;
+		position: absolute;
+		left: 20px;
+		bottom: 50px;
+	}
+
+	.hero-title-vertical::after {
+		content: "";
+		position: absolute;
+		left: 50%;
+		bottom: -50px;
+		width: 2px;
+		height: 40px;
+		background-color: white;
+		transform: translateX(-50%);
+	}
+
+	@media (min-width: 768px) {
+		.hero-title-vertical {
+			writing-mode: horizontal-tb;
+			position: static;
+			left: auto;
+			bottom: auto;
+		}
+
+		.hero-title-vertical::after {
+			display: none;
+		}
+	}
 }

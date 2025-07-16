@@ -1,0 +1,44 @@
+<!-- prettier-ignore -->
+<%
+// Get the page data from the page object
+var pageData = page;
+%>
+
+<main class="pb-16 lg:pb-24 bg-white antialiased">
+	<header class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+		<div class="mx-auto max-w-screen-md text-center">
+			<h1
+				class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl"
+			>
+				<%= page.title %>
+			</h1>
+			<% if (page.subtitle) { %>
+			<p class="mb-8 font-light text-gray-500 sm:text-xl">
+				<%= page.subtitle %>
+			</p>
+			<% } %>
+		</div>
+	</header>
+
+	<div
+		class="flex relative z-20 justify-between p-6 mx-4 max-w-screen-xl bg-white rounded xl:p-9 xl:mx-auto"
+	>
+		<article
+			class="xl:w-[828px] w-full max-w-none format format-sm sm:format-base"
+		>
+			<header class="lead"><%= page.description || '' %></header>
+			<main>
+				<%- page.content %>
+				<div class="not-format">
+					<a
+						href="<%= url_for('/contact/') %>"
+						class="text-white bg-primary-900 hover:bg-primary-700 font-medium text-sm px-5 py-2.5 mr-2 mb-2 text-center w-full"
+					>
+						Let's chat
+					</a>
+				</div>
+			</main>
+		</article>
+		<%- include('_partials/sidebar-services') %>
+	</div>
+</main>

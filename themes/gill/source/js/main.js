@@ -89,108 +89,24 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // ——————————————————————————————————————————————————
-// Contact form
+// Contact form iframe
 // ——————————————————————————————————————————————————
 
 document.addEventListener("DOMContentLoaded", function () {
-	// Get contact form
-	var contactForm = document.getElementById("contactForm");
+	// Handle iframe loading and any iframe-specific functionality
+	const contactIframe = document.querySelector(
+		'iframe[src*="gill-photography.com.au/contact"]',
+	);
 
-	var loadingStatus = document.getElementById("formLoading");
-	var formSuccess = document.getElementById("formSuccess");
-	var errorStatus = document.getElementById("formError");
+	if (contactIframe) {
+		// Add loading state if needed
+		contactIframe.addEventListener("load", function () {
+			console.log("Contact form iframe loaded successfully");
+		});
 
-	// Ensure the status messages are hidden initially
-	if (loadingStatus) loadingStatus.classList.add("hidden");
-	if (formSuccess) formSuccess.classList.add("hidden");
-	if (errorStatus) errorStatus.classList.add("hidden");
-
-	async function handleContactSubmit(event) {
-		event.preventDefault();
-
-		// Show loading state
-		const submitButton = event.target.querySelector('button[type="submit"]');
-		const originalText = submitButton.textContent;
-		submitButton.textContent = "Sending...";
-		submitButton.disabled = true;
-
-		if (loadingStatus) loadingStatus.classList.remove("hidden");
-		if (formSuccess) formSuccess.classList.add("hidden");
-		if (errorStatus) errorStatus.classList.add("hidden");
-
-		try {
-			// Get form data
-			const formData = {
-				name: document.getElementById("name").value.trim(),
-				email: document.getElementById("email").value.trim(),
-				subject: document.getElementById("subject").value.trim(),
-				message: document.getElementById("message").value.trim(),
-			};
-
-			// Basic validation
-			if (
-				!formData.name ||
-				!formData.email ||
-				!formData.subject ||
-				!formData.message
-			) {
-				throw new Error("Please fill in all required fields.");
-			}
-
-			// Email validation
-			const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-			if (!emailRegex.test(formData.email)) {
-				throw new Error("Please enter a valid email address.");
-			}
-
-			// Get API URL from form action or use default
-			const apiUrl =
-				event.target.action || "https://YOUR_API_GATEWAY_URL_HERE/contact";
-
-			// Send to Lambda function
-			const response = await fetch(apiUrl, {
-				method: "POST",
-				headers: {
-					"Content-Type": "application/json",
-				},
-				body: JSON.stringify(formData),
-			});
-
-			const result = await response.json();
-
-			if (response.ok && result.success) {
-				// Success
-				if (loadingStatus) loadingStatus.classList.add("hidden");
-				if (formSuccess) formSuccess.classList.remove("hidden");
-				if (errorStatus) errorStatus.classList.add("hidden");
-
-				// Show success message
-				alert("Thank you for your message! We'll get back to you soon.");
-				event.target.reset();
-			} else {
-				// Handle API errors
-				throw new Error(
-					result.error || "Failed to send message. Please try again later.",
-				);
-			}
-		} catch (error) {
-			// Handle errors
-			if (loadingStatus) loadingStatus.classList.add("hidden");
-			if (formSuccess) formSuccess.classList.add("hidden");
-			if (errorStatus) errorStatus.classList.remove("hidden");
-
-			console.error("Form submission error:", error);
-			alert(error.message || "Failed to send message. Please try again later.");
-		} finally {
-			// Reset button state
-			submitButton.textContent = originalText;
-			submitButton.disabled = false;
-		}
-	}
-
-	// Attach event listener to contact form if it exists
-	if (contactForm) {
-		contactForm.addEventListener("submit", handleContactSubmit);
+		contactIframe.addEventListener("error", function () {
+			console.error("Failed to load contact form iframe");
+		});
 	}
 });
 

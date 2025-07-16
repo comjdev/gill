@@ -2,135 +2,121 @@
 	<div class="container mx-auto px-4 py-12">
 		<div class="max-w-7xl mx-auto">
 			<h1
-				class="text-4xl tracking-tight font-extrabold text-gray-900 mb-8 text-center"
+				class="text-4xl tracking-tight font-extrabold text-gray-900 mb-12 text-center"
 			>
 				<%= page.title %>
 			</h1>
 
-			<div class="prose prose-lg max-w-none mb-12 font-light text-gray-500">
-				<%- page.content %>
-			</div>
+			<!-- Two Column Layout: Content and Form -->
+			<div class="grid grid-cols-1 lg:grid-cols-2 gap-12 mb-16">
+				<!-- Content Column -->
+				<div class="space-y-8">
+					<!-- Page Content -->
+					<div class="bg-white p-8 rounded-lg shadow-sm border border-gray-100">
+						<div class="prose prose-lg max-w-none text-gray-600">
+							<%- page.content %>
+						</div>
+					</div>
 
-			<!-- Contact Form and Info Section -->
-			<div class="grid grid-cols-1 lg:grid-cols-2 gap-16 mb-16">
-				<!-- Contact Form -->
-				<div class="bg-white p-6 h-full">
-					<form
-						id="contactForm"
-						class="space-y-6 h-full flex flex-col"
-						method="POST"
-						action="https://YOUR_API_GATEWAY_URL_HERE/contact"
-					>
-						<div>
-							<label
-								for="name"
-								class="block mb-2 text-sm font-medium text-gray-900"
-								>Your name</label
+					<!-- Service Links -->
+					<div class="bg-white p-6 rounded-lg shadow-sm border border-gray-100">
+						<h3 class="text-xl font-bold text-gray-900 mb-4">Our Services</h3>
+						<div class="grid gap-4">
+							<a
+								href="/services/family"
+								class="inline-flex justify-center items-center p-4 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100"
 							>
-							<input
-								type="text"
-								id="name"
-								name="name"
-								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5"
-								required
-							/>
-						</div>
-						<div>
-							<label
-								for="email"
-								class="block mb-2 text-sm font-medium text-gray-900"
-								>Your email</label
+								<span class="w-full">Family Photography</span>
+								<svg
+									class="ml-3 w-5 h-5"
+									fill="currentColor"
+									viewBox="0 0 20 20"
+									xmlns="http://www.w3.org/2000/svg"
+								>
+									<path
+										fill-rule="evenodd"
+										d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+										clip-rule="evenodd"
+									></path>
+								</svg>
+							</a>
+							<a
+								href="/services/wedding"
+								class="inline-flex justify-center items-center p-4 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100"
 							>
-							<input
-								type="email"
-								id="email"
-								name="email"
-								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5"
-								required
-							/>
-						</div>
-						<div>
-							<label
-								for="subject"
-								class="block mb-2 text-sm font-medium text-gray-900"
-								>Subject</label
+								<span class="w-full">Wedding Photography</span>
+								<svg
+									class="ml-3 w-5 h-5"
+									fill="currentColor"
+									viewBox="0 0 20 20"
+									xmlns="http://www.w3.org/2000/svg"
+								>
+									<path
+										fill-rule="evenodd"
+										d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+										clip-rule="evenodd"
+									></path>
+								</svg>
+							</a>
+							<a
+								href="/services/newborn"
+								class="inline-flex justify-center items-center p-4 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100"
 							>
-							<input
-								type="text"
-								id="subject"
-								name="subject"
-								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5"
-								required
-							/>
-						</div>
-						<div class="flex-grow">
-							<label
-								for="message"
-								class="block mb-2 text-sm font-medium text-gray-900"
-								>Your message</label
+								<span class="w-full">Newborn Photography</span>
+								<svg
+									class="ml-3 w-5 h-5"
+									fill="currentColor"
+									viewBox="0 0 20 20"
+									xmlns="http://www.w3.org/2000/svg"
+								>
+									<path
+										fill-rule="evenodd"
+										d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+										clip-rule="evenodd"
+									></path>
+								</svg>
+							</a>
+							<a
+								href="/services/maternity"
+								class="inline-flex justify-center items-center p-4 text-base font-medium text-gray-500 bg-gray-50 rounded-lg hover:text-gray-900 hover:bg-gray-100"
 							>
-							<textarea
-								id="message"
-								name="message"
-								rows="4"
-								class="bg-white border border-gray-300 text-gray-900 text-sm focus:ring-black focus:border-black block w-full p-2.5 h-full"
-								required
-							></textarea>
+								<span class="w-full">Maternity Photography</span>
+								<svg
+									class="ml-3 w-5 h-5"
+									fill="currentColor"
+									viewBox="0 0 20 20"
+									xmlns="http://www.w3.org/2000/svg"
+								>
+									<path
+										fill-rule="evenodd"
+										d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z"
+										clip-rule="evenodd"
+									></path>
+								</svg>
+							</a>
 						</div>
-						<div class="mt-8">
-							<button
-								type="submit"
-								class="text-white bg-black hover:bg-gray-800 focus:ring-4 focus:ring-gray-300 font-medium text-sm px-5 py-2.5 focus:outline-none"
-							>
-								Send message
-							</button>
-						</div>
-					</form>
+					</div>
 				</div>
 
-				<!-- Contact Information -->
-				<div class="bg-white p-6 h-full">
-					<h2 class="text-2xl tracking-tight font-extrabold text-gray-900 mb-4">
-						Contact Information
+				<!-- Form Column -->
+				<div class="bg-white p-8 rounded-lg shadow-sm border border-gray-100">
+					<h2
+						class="text-2xl tracking-tight font-extrabold text-gray-900 mb-4 text-center"
+					>
+						Get in Touch
 					</h2>
-					<div class="space-y-4 font-light text-gray-500">
-						<div>
-							<h3 class="text-lg font-medium text-gray-900">Address</h3>
-							<p>
-								<%= config.address.street %><br />
-								<%= config.address.suburb %>, <%= config.address.state %> <%=
-								config.address.postcode %><br />
-								<%= config.address.country %>
-							</p>
-						</div>
-						<div>
-							<h3 class="text-lg font-medium text-gray-900">Phone</h3>
-							<p>
-								<a href="tel:<%= config.tel %>" class="hover:text-gray-900"
-									><%= config.phone %></a
-								>
-							</p>
-						</div>
-						<div>
-							<h3 class="text-lg font-medium text-gray-900">Email</h3>
-							<p>
-								<a href="mailto:<%= config.email %>" class="hover:text-gray-900"
-									><%= config.email %></a
-								>
-							</p>
-						</div>
-						<div>
-							<h3 class="text-lg font-medium text-gray-900">Business Hours</h3>
-							<ul>
-								<li>Monday: <%= config.hours.monday %></li>
-								<li>Tuesday: <%= config.hours.tuesday %></li>
-								<li>Wednesday: <%= config.hours.wednesday %></li>
-								<li>Thursday: <%= config.hours.thursday %></li>
-								<li>Friday: <%= config.hours.friday %></li>
-								<li>Saturday: <%= config.hours.saturday %></li>
-								<li>Sunday: <%= config.hours.sunday %></li>
-							</ul>
-						</div>
+					<p class="text-gray-600 mb-8 text-center">
+						Ready to capture your special moments? Fill out the form below and
+						I'll be in touch soon.
+					</p>
+					<div class="w-full">
+						<iframe
+							id="sn-form-puftr"
+							src="https://app.studioninja.co/contactform/parser/0a800fc9-7801-1bf2-8178-1a1deab31908/0a800fc8-7801-1f4a-8178-1abb80313915"
+							height="616"
+							scrolling="no"
+							style="width: 100%; border: 0"
+						></iframe>
 					</div>
 				</div>
 			</div>

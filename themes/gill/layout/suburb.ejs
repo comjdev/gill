@@ -49,61 +49,7 @@ var pageData = page;
 				</div>
 			</main>
 		</article>
-		<aside class="hidden xl:block" aria-labelledby="sidebar-label">
-			<div class="xl:w-[336px] sticky top-6">
-				<h3 id="sidebar-label" class="sr-only">Sidebar</h3>
-				<div class="mb-8">
-					<h4 class="mb-2 text-sm font-bold text-gray-900 uppercase">
-						<%= page.category.charAt(0).toUpperCase() + page.category.slice(1)
-						%> Photography in <%= page.suburb %>
-					</h4>
-					<p class="mb-4 text-sm text-gray-500">
-						Let's work together to create something great. I'm here to help you
-						capture your precious moments in <%= page.suburb %>.
-					</p>
-					<a
-						href="<%= url_for('/contact/') %>"
-						class="block text-white bg-primary-900 hover:bg-primary-700 font-medium text-sm px-5 py-2.5 mr-2 mb-2 text-center w-full"
-					>
-						Get in touch
-					</a>
-				</div>
-				<div class="mb-12">
-					<h4 class="mb-4 text-sm font-bold text-gray-900 uppercase">
-						Our Services
-					</h4>
-					<% site.pages.filter(page => page.layout ===
-					'service').forEach(function(service, index) { %>
-					<div class="mb-6 flex items-center">
-						<a href="<%= url_for(service.path) %>" class="shrink-0">
-							<img
-								src="<%= url_for(service.image) %>"
-								class="mr-4 max-w-full w-24 h-24 object-cover rounded-lg"
-								alt="<%= service.title %> | Photographer <%= page.suburb %>"
-								loading="lazy"
-							/>
-						</a>
-						<div>
-							<h5 class="mb-2 text-lg font-bold leading-tight text-gray-900">
-								<%= service.title %>
-							</h5>
-
-							<p class="text-sm text-gray-500">
-								<%= service.title %> services in <%= page.suburb %>
-							</p>
-
-							<a
-								href="<%= url_for(service.path) %>"
-								class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 hover:no-underline"
-							>
-								Learn more
-							</a>
-						</div>
-					</div>
-					<% }); %>
-				</div>
-			</div>
-		</aside>
+		<%- include('_partials/sidebar-services') %>
 	</div>
 </main>
 
