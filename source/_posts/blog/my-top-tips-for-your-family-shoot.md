@@ -4,7 +4,7 @@ title: My top tips for your family shoot
 date: 2025-02-01T00:43:21.782Z
 subtitle: My top tips for your family shoot, not just as a photographer but also as a Mum.
 description: This is a description
-permalink: /blog/my-top-tips-for-your-family-shoot
+permalink: /melbourne-photography-tips/my-top-tips-for-your-family-shoot
 ---
 
 ## My Personal Experience with Family Photography Chaos

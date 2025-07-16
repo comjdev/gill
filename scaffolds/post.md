@@ -4,7 +4,7 @@ title: {{ title }}
 date: {{ date }}
 subtitle: {{ subtitle }}
 description: {{ description }}
-permalink: /blog/{{slug}}
+permalink: /melbourne-photography-tips/{{slug}}
 categories: 
 tags:
 ---

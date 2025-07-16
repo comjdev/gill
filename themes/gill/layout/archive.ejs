@@ -3,7 +3,7 @@
 		<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
 			<div class="mx-auto max-w-screen-sm text-center mb-8 lg:mb-16">
 				<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
-					Our Blog
+					Melbourne Photography Tips
 				</h2>
 				<p class="font-light text-gray-500 sm:text-xl">
 					Sharing photography tips, behind-the-scenes stories, and beautiful
@@ -15,7 +15,7 @@
 			<% 
 			// Use page.posts if available, otherwise site.posts 
 			var allPosts = page.posts || site.posts;
-			// Filter to only show blog posts (posts with layout: post)
+			// Filter to only show photography tips posts (posts with layout: post)
 			var posts = allPosts.filter(function(post) {
 				return post.layout === 'post';
 			});
@@ -84,7 +84,7 @@
 			<% if (posts.length === 0) { %>
 			<div class="text-center py-12">
 				<p class="text-gray-500 text-lg">
-					No blog posts found yet. Check back soon!
+					No photography tips posts found yet. Check back soon!
 				</p>
 			</div>
 			<% } %>
