@@ -15,7 +15,9 @@
 				<%= site.data.homepage.services_intro %>
 			</p>
 		</div>
-		<div class="grid gap-6 mt-12 lg:mt-14 lg:gap-12 md:grid-cols-3">
+		<div
+			class="grid gap-6 mt-12 lg:mt-14 lg:gap-12 md:grid-cols-3 items-stretch"
+		>
 			<% Object.keys(site.data.homepage.services).forEach(function(serviceKey) {
 			const service = site.data.homepage.services[serviceKey]; const link =
 			`/services/${serviceKey}`; %> <%- partial('_partials/service-card', {
