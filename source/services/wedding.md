@@ -1,6 +1,8 @@
 ---
 title: Wedding Photography
 layout: service
+slug: melbourne-wedding-photographer
+permalink: melbourne-wedding-photographer/
 subtitle: I capture the beauty of your wedding, creating timeless memories that you'll cherish forever.
 description: I capture the beauty of your wedding, creating timeless memories that you'll cherish forever.
 image: /img/wedding.jpg
