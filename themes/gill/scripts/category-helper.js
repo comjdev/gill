@@ -24,7 +24,7 @@ hexo.extend.helper.register("getCategoryUrl", function (categoryName) {
 		.replace(/&/g, "and")
 		.replace(/\+/g, "plus");
 
-	return `/portfolio/${urlName}/`;
+	return `/melbourne-photos/${urlName}/`;
 });
 
 hexo.extend.helper.register("getWorkPostsByCategory", function (categoryName) {
@@ -63,7 +63,7 @@ hexo.extend.helper.register(
 				.replace(/&/g, "and")
 				.replace(/\+/g, "plus");
 
-			return `/portfolio/${urlName}/`;
+			return `/melbourne-photos/${urlName}/`;
 		}
 
 		// Fallback to service page if no category mapping found

@@ -7,7 +7,7 @@ description: {{ description }}
 client: {{ client }}
 brief: {{ brief }}
 deliverables: {{ deliverables }}
-permalink: /portfolio/{{slug}}/
+permalink: /melbourne-photos/{{slug}}/
 image: {{ image }}
 categories: 
 tags:

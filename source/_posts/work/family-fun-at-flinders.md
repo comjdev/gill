@@ -8,7 +8,7 @@ subtitle: This is one of the most popular places to take pho...
 description: This is one of the most popular places to take photos at on the Mornington Peninsula and it's easy to see why. We had so much fun exploring and thanks to 2 year old Sebastian, I got my exercise for the day :D
 location: Melbourne
 image: family-fun-at-flinders-1.jpg
-permalink: /portfolio/family-fun-at-flinders/
+permalink: /melbourne-photos/family-fun-at-flinders/
 categories:
  - Family
 ---

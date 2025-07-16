@@ -8,7 +8,7 @@ subtitle: Newborn photograhpy in Mebourne
 description: Newborn photograhpy in Melbourne
 location: Melbourne
 image: Newborn_photo_Melbourne_Rayne-1.jpg
-permalink: /portfolio/bright-and-happy-newborn-photos/
+permalink: /melbourne-photos/bright-and-happy-newborn-photos/
 categories:
  - Newborn
 ---

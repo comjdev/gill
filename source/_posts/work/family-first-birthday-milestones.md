@@ -8,7 +8,7 @@ subtitle: What better way to celebrate your baby???s first B...
 description: What better way to celebrate your baby???s first Birthday than by updating your family photographs. They change and grow so much in those first few years that it???s so wonderful to document.
 location: Melbourne
 image: family-first-birthday-milestones-1.jpg
-permalink: /portfolio/family-first-birthday-milestones/
+permalink: /melbourne-photos/family-first-birthday-milestones/
 categories:
  - Family
 ---

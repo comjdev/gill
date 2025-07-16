@@ -8,7 +8,7 @@ subtitle: I honestly struggled to cull out the ???bad' pho...
 description: I honestly struggled to cull out the ???bad' photos from this session because there just weren't many bad ones at all! This family and their gorgeous home made my job so easy. There was so many laughs and giggles that I could have happily hung around and taken their photos all day. They were the ...
 location: Melbourne
 image: family-idyllic-in-home-lifestyle-session-1.jpg
-permalink: /portfolio/family-idyllic-in-home-lifestyle-session/
+permalink: /melbourne-photos/family-idyllic-in-home-lifestyle-session/
 categories:
  - Family
 ---

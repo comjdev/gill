@@ -8,7 +8,7 @@ subtitle:
 description: 
 location: Melbourne
 image: family-dragons-nests-in-autumn-1.jpg
-permalink: /portfolio/family-dragons-nests-in-autumn/
+permalink: /melbourne-photos/family-dragons-nests-in-autumn/
 categories:
  - Family
 ---

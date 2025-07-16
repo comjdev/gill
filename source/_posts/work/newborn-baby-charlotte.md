@@ -8,7 +8,7 @@ subtitle: These guys are good friends of mine so you can ima...
 description: These guys are good friends of mine so you can imagine my excitement at photographing them with their first baby. Jess and I have known each other since we were teenagers and here we are many years later, with our own babies. My Mia (5 years old) tagged along with me to be my assistant for the ...
 location: Melbourne
 image: newborn-baby-charlotte-1.jpg
-permalink: /portfolio/newborn-baby-charlotte/
+permalink: /melbourne-photos/newborn-baby-charlotte/
 categories:
  - Newborn
 ---

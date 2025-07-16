@@ -16,7 +16,7 @@ hexo.extend.helper.register("post_assets", function (post) {
 
 	// Build URLs using the visible output path
 	const postSlug = path.basename(postAssetFolder);
-	const outputPath = `/portfolio/${postSlug}`;
+	const outputPath = `/melbourne-photos/${postSlug}`;
 
 	return files.map((file) => `${outputPath}/${file}`);
 });

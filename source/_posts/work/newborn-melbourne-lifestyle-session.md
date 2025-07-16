@@ -8,7 +8,7 @@ subtitle: Sweet baby Lana was more than happy to let me take...
 description: Sweet baby Lana was more than happy to let me take her photo. She spent most of our session contentedly watching me with her big eyes. Newborn photos are not only about capturing photos of the newest member of your family but also about capturing some of those first few moments together as a bi...
 location: Melbourne
 image: newborn-melbourne-lifestyle-session-1.jpg
-permalink: /portfolio/newborn-melbourne-lifestyle-session/
+permalink: /melbourne-photos/newborn-melbourne-lifestyle-session/
 categories:
  - Newborn
 ---

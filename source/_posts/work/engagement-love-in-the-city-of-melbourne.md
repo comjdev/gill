@@ -8,7 +8,7 @@ subtitle: Love in the city of Melbourne
 description: I don???t get to shoot in the city too often so I was pretty excited that???s where these 2 wanted their engagement photos taken.
 location: Melbourne
 image: engagement-love-in-the-city-of-melbourne-1.jpg
-permalink: /portfolio/engagement-love-in-the-city-of-melbourne/
+permalink: /melbourne-photos/engagement-love-in-the-city-of-melbourne/
 categories:
  - Wedding
 ---

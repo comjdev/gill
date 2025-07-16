@@ -8,7 +8,7 @@ subtitle: Mike and Morgan???s biggest priority for their wed...
 description: Mike and Morgan???s biggest priority for their wedding day was to simply have fun. They can definitely tick that off their list! This wedding was filled with so much fun and so much laughter from start to finish. The details that went into their big day made their day SO much ???them??? that it re...
 location: Melbourne
 image: wedding-the-colourful-wedding-of-mike-and-morgan-1.jpg
-permalink: /portfolio/wedding-the-colourful-wedding-of-mike-and-morgan/
+permalink: /melbourne-photos/wedding-the-colourful-wedding-of-mike-and-morgan/
 categories:
  - Family
 ---

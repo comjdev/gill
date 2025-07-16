@@ -8,7 +8,7 @@ subtitle:
 description: 
 location: Melbourne
 image: dogs-are-always-welcome-1.jpg
-permalink: /portfolio/dogs-are-always-welcome/
+permalink: /melbourne-photos/dogs-are-always-welcome/
 categories:
  - Family
 ---

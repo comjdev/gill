@@ -8,7 +8,7 @@ subtitle: I???d taken Steph???s maternity photos six months ...
 description: I???d taken Steph???s maternity photos six months before, which meant I was really looking forward to this family shoot. Oscar???s a very lucky baby as it quickly became obvious Steph and Amveth are crazy about him. With that full head of hair and gummy grin, who wouldn???t be? He was also one of the m...
 location: Melbourne
 image: family-in-home-lifestyle-fun-1.jpg
-permalink: /portfolio/family-in-home-lifestyle-fun/
+permalink: /melbourne-photos/family-in-home-lifestyle-fun/
 categories:
  - Family
 ---

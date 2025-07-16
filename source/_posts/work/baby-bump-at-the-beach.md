@@ -8,7 +8,7 @@ subtitle: I'm more of a summer person than a winter person b...
 description: I'm more of a summer person than a winter person but these maternity photos of Sarah's bare bump and knitted jumper in this beautiful winter light might have won me over.
 location: Melbourne
 image: baby-bump-at-the-beach-1.jpg
-permalink: /portfolio/baby-bump-at-the-beach/
+permalink: /melbourne-photos/baby-bump-at-the-beach/
 categories:
  - Maternity
 ---

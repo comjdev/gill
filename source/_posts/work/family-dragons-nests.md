@@ -8,7 +8,7 @@ subtitle:
 description: The wonderful Jacqui was nominated in a recent competition I ran giving away an entire family shoot and I'm so happy that she won. We shot in one of my favourite places at the foot of the Dandenong Ranges and her girls had so much fun exploring while I took some u...
 location: Melbourne
 image: family-dragons-nests-1.jpg
-permalink: /portfolio/family-dragons-nests/
+permalink: /melbourne-photos/family-dragons-nests/
 categories:
  - Family
 ---
