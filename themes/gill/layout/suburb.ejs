@@ -2,15 +2,17 @@
 <%
 // Get the page data from the page object
 var pageData = page;
+var image = '/img/' + page.category + '-photos-header.jpg';
 %>
 
 <main class="pb-16 lg:pb-24 bg-white antialiased">
 	<header class="relative h-[60vh]">
 		<div class="absolute inset-0">
 			<img
-				src="<%= page.image || '/img/family.jpg' %>"
+				src="<%= image || '/img/newborn-photos-header.jpg' %>"
 				alt="<%= typeof page.title !== 'undefined' && page.title ? page.title : 'Family Photography in ' + page.suburb %>"
 				class="w-full h-full object-cover"
+				loading="lazy"
 			/>
 			<div class="absolute inset-0 bg-black/60"></div>
 		</div>
