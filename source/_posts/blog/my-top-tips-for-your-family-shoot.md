@@ -3,7 +3,9 @@ layout: post
 title: My top tips for your family shoot
 date: 2025-02-01T00:43:21.782Z
 subtitle: My top tips for your family shoot, not just as a photographer but also as a Mum.
-description: This is a description
+description: Discover my top tips for your family shoot, not just as a photographer but also as a Mum.
+hero: Melbourne-family-photographer-header.jpg
+featured: Melbourne-family-photographer.jpg
 permalink: /melbourne-photography-tips/my-top-tips-for-your-family-shoot
 ---
 

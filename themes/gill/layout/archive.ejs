@@ -28,7 +28,7 @@
 					<a href="<%= url_for(post.path) %>">
 						<img
 							class="mb-5 rounded-lg w-full h-48 object-cover"
-							src="<%= post.featured || post.hero || post.thumbnail || post.image || '/img/family.jpg' %>"
+							src="<%= post.layout === 'post' ? (post.featured ? blog_post_asset(post, post.featured) : (post.hero ? blog_post_asset(post, post.hero) : '/img/family.jpg')) : (post.featured || post.hero || post.thumbnail || post.image || '/img/family.jpg') %>"
 							alt="<%= post.title %>"
 						/>
 					</a>

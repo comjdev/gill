@@ -8,7 +8,7 @@ var postData = page;
 	<header class="relative h-[60vh]">
 		<div class="absolute inset-0">
 			<img
-				src="<%= page.hero || page.featured || '/img/family.jpg' %>"
+				src="<%= page.hero ? blog_post_asset(page, page.hero) : (page.featured ? blog_post_asset(page, page.featured) : '/img/family.jpg') %>"
 				alt="<%= typeof page.title !== 'undefined' && page.title ? page.title : 'Melbourne Photography Tips Post' %>"
 				class="w-full h-full object-cover"
 				loading="lazy"
@@ -85,7 +85,7 @@ var postData = page;
 			<header class="lead"><%= page.description || '' %></header>
 			<% if (page.featured) { %>
 			<img
-				src="<%= page.featured %>"
+				src="<%= blog_post_asset(page, page.featured) %>"
 				alt="Melbourne Photographer | Gill Juergens Photography"
 				class="w-full h-auto mb-4"
 				loading="lazy"

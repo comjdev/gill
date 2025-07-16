@@ -4,6 +4,8 @@ title: What to expect at a newborn session with me
 date: 2025-02-02T00:00:00.000Z
 subtitle: Newborn photography in and around the suburbs of Melbourne
 description: Discover what happens during a newborn photography session in Melbourne, how to prepare, and what makes these sessions relaxed and memorable.
+hero: Melbourne-newborn-photographer-header.jpg
+featured: Melbourne-newborn-photographer.jpg
 permalink: /melbourne-photography-tips/what-to-expect-at-a-newborn-session
 ---
 

@@ -20,3 +20,13 @@ hexo.extend.helper.register("post_assets", function (post) {
 
 	return files.map((file) => `${outputPath}/${file}`);
 });
+
+// Helper for blog post assets
+hexo.extend.helper.register("blog_post_asset", function (post, filename) {
+	if (!filename) return "";
+
+	// For blog posts, the permalink structure is different
+	// Blog posts use: /melbourne-photography-tips/post-slug/
+	const postSlug = post.source.replace(/\.md$/, "").split("/").pop();
+	return `/melbourne-photography-tips/${postSlug}/${filename}`;
+});
