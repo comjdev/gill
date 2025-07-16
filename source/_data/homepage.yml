@@ -9,28 +9,28 @@ hero:
   - image: /img/wedding.jpg
     title: Wedding
     subtitle: Wedding & Engagement
-    link: /services/wedding
+    link: /melbourne-wedding-photographer
     left: 33
     top: 0
 
   - image: /img/newborn.jpg
     title: Newborn
     subtitle: Baby & Newborn
-    link: /services/newborn
+    link: /melbourne-newborn-photographer
     left: 66
     top: 0
 
   - image: /img/family.jpg
     title: Family
     subtitle: Family Photography
-    link: /services/family
+    link: /melbourne-family-photographer
     left: 0
     top: 50
 
   - image: /img/maternity.jpg
     title: Maternity
     subtitle: Maternity Photography
-    link: /services/maternity
+    link: /melbourne-maternity-photographer
     left: 33
     top: 50
 
