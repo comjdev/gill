@@ -43,44 +43,6 @@ process:
     - Your shoot - It's the day of your maternity shoot – woohoo! This is when we take a breath and create some beautiful memories. If you're a little nervous, that's perfectly normal. We'll chat, have some fun, and my relaxed approach will ensure you feel comfortable and confident, resulting in beautiful maternity photos.
     - Your memories - Once we've wrapped up your session, I'll get to work on editing your gallery. You can expect to see your beautiful maternity images in your inbox within three weeks, along with clear guidance on how to select your favourites.
 
-image_set_1:
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-
-content_1:
-  - Maternity sessions are best scheduled between 28-36 weeks when your bump is beautifully round but you're still comfortable. I'll guide you through natural poses that showcase your pregnancy glow.
-  - We can shoot in the comfort of your home, at a beautiful outdoor location, or in my studio. Many clients choose to include their partner and older children in some of the images to capture the whole family's excitement.
-
-image_set_2:
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-
-content_2:
-  - Your maternity session includes professional editing of your images, with both color and black & white versions. You'll receive high-resolution digital files perfect for printing and sharing with family and friends.
-  - I also offer beautiful albums and prints to help you preserve these precious memories. These sessions often become treasured family heirlooms that you'll look back on for years to come.
-
-investment:
-  title: Investment
-  subtitle: Celebrating your pregnancy journey
-  copy:
-    - Maternity photography packages start from $399 and include:
-        - A 1-hour photography session at your chosen location
-        - Professional editing and color correction
-        - High-resolution digital files for printing and sharing
-        - Online gallery for easy viewing and downloading
-    - A deposit of $100 is required to secure your session date.
-    - Contact me to discuss your vision and book your session.
-
-investment_images:
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-  - image: /img/maternity.jpg
-
 faqs:
   - question: When is the best time to schedule a maternity session?
     answer: The ideal time is between 28-36 weeks of pregnancy. At this stage, your bump is beautifully round and prominent, but you're still comfortable enough to move around and pose. We want to capture you at your most comfortable and confident.
@@ -104,3 +66,35 @@ faqs:
 
   - question: Do you offer hair and makeup services?
     answer: I can recommend professional hair and makeup artists who specialize in maternity sessions. Many clients choose to have this done to feel extra special and confident during their session.
+
+investment:
+  title: Investment
+  subtitle: How much does a maternity photography session cost in Melbourne?
+  copy:
+    - I offer a range of mat photography packages to suit different needs and budgets at various locations in Melbourne. Each package includes a 1-2 hour photography session with full editing and colour correction of images. Choose the package that best fits your needs.
+  packages:
+    - name: Package A
+      price: $599
+      features:
+        - 1-2 hour photography session
+        - Full editing and colour correction of images
+        - 8 high-resolution images available for digital download
+    - name: Package B
+      price: $699
+      features:
+        - 1-2 hour photography session
+        - Full editing and colour correction of images
+        - 15 high-resolution images available for digital download
+    - name: Package C
+      price: $799
+      features:
+        - 1-2 hour photography session
+        - Full editing and colour correction of images
+        - 40+ high-resolution images available for digital download
+    - name: Package D
+      price: $1299
+      features:
+        - 1-2 hour photography session
+        - Full editing and colour correction of images
+        - 40+ high-resolution images available for digital download
+        - 8 super duper prints that will blow your socks off

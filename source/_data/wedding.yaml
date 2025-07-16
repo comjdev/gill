@@ -11,14 +11,14 @@ intro_images:
   - image: /img/wedding.jpg
   - image: /img/wedding.jpg
 
-what-to-expect:
+what_to_expect:
   title: What to expect
   subtitle: What to expect at your wedding photography session
   copy:
     - Your wedding day is one of the most important days of your life, and I'm honored to be there to capture every precious moment. From the nervous excitement of getting ready to the joy of your first dance, I'll document your day with a blend of artistic and documentary photography.
     - My approach is natural and unobtrusive, allowing you to enjoy your day while I capture the authentic moments, emotions, and details that make your wedding uniquely yours.
 
-what-to-expect_images:
+what_to_expect_images:
   - image: /img/wedding.jpg
   - image: /img/wedding.jpg
   - image: /img/wedding.jpg
@@ -44,25 +44,6 @@ process:
     - Get prepared - I'll send you my detailed Welcome Guide that covers all you need to know for your wedding.
     - Your shoot - On the day of your wedding I'll capture every precious moment from getting ready to your first dance.
     - Your memories - You can expect to see your beautiful wedding images in your inbox within 4-6 weeks.
-
-investment:
-  title: Investment
-  subtitle: Preserving your wedding memories
-  copy:
-    - Wedding photography packages start from $2,999 and include:
-        - Full day coverage from getting ready to the reception
-        - Professional editing and color correction
-        - High-resolution digital files with printing rights
-        - Online gallery for easy viewing and sharing
-        - Engagement session included
-        - Wedding album design and printing options
-    - A deposit of $500 is required to secure your wedding date.
-    - Contact me to discuss your wedding vision and view full package details.
-
-investment_images:
-  - image: /img/wedding.jpg
-  - image: /img/wedding.jpg
-  - image: /img/wedding.jpg
 
 faqs:
   - question: How far in advance should we book our wedding photographer?
