@@ -8,14 +8,26 @@
         </div>
 	</div>
 
-<!-- prettier-ignore -->
-<%- partial('_partials/faqs', { service: "General", title: "Gill Juergens Photography" }) %>
+<% 
+// Get all service data files
+var serviceData = {
+  'Family': site.data.family,
+  'Maternity': site.data.maternity,
+  'Newborn': site.data.newborn,
+  'Wedding': site.data.wedding
+};
 
-<% site.pages.filter(page => page.layout ===
-'service').forEach(function(servicePage) { %>
+// Loop through each service and display its FAQs
+Object.keys(serviceData).forEach(function(serviceName) {
+  var service = serviceData[serviceName];
+  if (service && service.faqs && service.faqs.length > 0) {
+%>
 <!-- prettier-ignore -->
-<%- partial('_partials/faqs', { service: servicePage.title, title: servicePage.title }) %>
+<%- partial('_partials/faqs', { service: serviceName, title: serviceName + ' Photography FAQs', faqs: service.faqs }) %>
 
-<% }); %>
+<% 
+  }
+}); 
+%>
 
 </main>

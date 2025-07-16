@@ -6,11 +6,9 @@
 		<div
 			class="grid pt-8 text-left border-t border-gray-200 md:gap-16 md:grid-cols-2"
 		>
-			<% var allFaqs = site.data.faq || []; var filteredFaqs = typeof service
-			!== 'undefined' ? allFaqs.filter(function(faq) { return faq.service ===
-			service; }) : allFaqs; var midPoint = Math.ceil(filteredFaqs.length / 2);
-			var leftColumn = filteredFaqs.slice(0, midPoint); var rightColumn =
-			filteredFaqs.slice(midPoint); %>
+			<% var allFaqs = faqs || []; var midPoint = Math.ceil(allFaqs.length / 2);
+			var leftColumn = allFaqs.slice(0, midPoint); var rightColumn =
+			allFaqs.slice(midPoint); %>
 
 			<div>
 				<% leftColumn.forEach(function(faq) { %>

@@ -1,0 +1,45 @@
+<% /* prettier-ignore */ %>
+<section class="bg-white">
+	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+		<div class="mx-auto max-w-screen-md text-center">
+			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+				Client Testimonials
+			</h2>
+			<p class="mb-8 font-light text-gray-500 lg:mb-16 sm:text-xl">
+				Hear from families who have experienced the joy of having their precious
+				moments captured by Gill Juergens Photography
+			</p>
+		</div>
+		<div class="grid gap-8 lg:grid-cols-3">
+			<% for (let col = 0; col < 3; col++) { %>
+			<div class="space-y-6">
+				<% for (let row = 0; row < 3; row++) { let idx = col * 3 + row; let t =
+				site.data.testimonials.testimonials[idx]; if (!t) continue; %>
+				<figure class="p-6 bg-gray-50 rounded">
+					<blockquote class="text-sm text-gray-500">
+						<h3 class="text-lg font-semibold text-gray-900"><%= t.name %></h3>
+						<p class="my-4">"<%= t.text.replace(/\n/g, ' ') %>"</p>
+					</blockquote>
+					<figcaption class="flex items-center space-x-3">
+						<div
+							class="w-9 h-9 rounded-full bg-primary-600 flex items-center justify-center"
+						>
+							<span class="text-white font-semibold text-sm"
+								><%= t.name.charAt(0) %></span
+							>
+						</div>
+						<div class="space-y-0.5 font-medium">
+							<div><%= t.name %></div>
+							<div class="text-sm font-light text-gray-500">
+								<%= t.type.charAt(0).toUpperCase() + t.type.slice(1) %>
+								Photography
+							</div>
+						</div>
+					</figcaption>
+				</figure>
+				<% } %>
+			</div>
+			<% } %>
+		</div>
+	</div>
+</section>

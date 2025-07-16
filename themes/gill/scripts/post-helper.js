@@ -46,3 +46,44 @@ hexo.extend.helper.register("getWorkPostBySlug", function (slug) {
 	// Returns the found post object or undefined if not found
 	return foundPost;
 });
+
+hexo.extend.helper.register("getRandomSuburbs", function (limit = 4) {
+	// Get all suburb pages
+	const suburbPages = this.site.pages.filter(
+		(page) => page.layout === "suburb",
+	);
+
+	// Get unique suburbs (remove duplicates)
+	const uniqueSuburbs = [];
+	const seenSuburbs = new Set();
+
+	suburbPages.forEach((page) => {
+		if (page.suburb && !seenSuburbs.has(page.suburb)) {
+			seenSuburbs.add(page.suburb);
+			uniqueSuburbs.push({
+				name: page.suburb,
+				url: page.path,
+			});
+		}
+	});
+
+	// Shuffle the suburbs
+	function shuffleArray(array) {
+		let currentIndex = array.length,
+			temporaryValue,
+			randomIndex;
+		while (0 !== currentIndex) {
+			randomIndex = Math.floor(Math.random() * currentIndex);
+			currentIndex -= 1;
+			temporaryValue = array[currentIndex];
+			array[currentIndex] = array[randomIndex];
+			array[randomIndex] = temporaryValue;
+		}
+		return array;
+	}
+
+	const shuffledSuburbs = shuffleArray([...uniqueSuburbs]);
+
+	// Return the specified number of suburbs
+	return shuffledSuburbs.slice(0, limit);
+});
