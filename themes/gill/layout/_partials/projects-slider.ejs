@@ -1,0 +1,74 @@
+<!-- prettier-ignore -->
+<%
+// Default parameters
+var category = typeof category !== 'undefined' ? category : null;
+var limit = typeof limit !== 'undefined' ? limit : 6;
+var heading = typeof heading !== 'undefined' ? heading : 'Latest Photo Shoots';
+var subtitle = typeof subtitle !== 'undefined' ? subtitle : 'Explore my recent shoots and successful work in Melbourne.';
+var showCategoryInHeading = typeof showCategoryInHeading !== 'undefined' ? showCategoryInHeading : false;
+
+// Generate heading based on category if specified
+if (category && showCategoryInHeading) {
+    heading = 'Latest ' + category.charAt(0).toUpperCase() + category.slice(1) + ' Melbourne Photo Shoots';
+    subtitle = 'Explore my recent ' + category + ' work and successful photo shoots in Melbourne and surrounding areas.';
+}
+
+var filteredPosts = site.posts.filter(function(post) {
+    var isWorkPost = post.layout === 'work';
+    if (category) {
+        var hasCategory = post.categories && post.categories.some(function(cat) {
+            return cat.name.toLowerCase() === category.toLowerCase();
+        });
+        return isWorkPost && hasCategory;
+    }
+    return isWorkPost;
+}).slice(0, limit);
+%>
+
+<section class="py-8 lg:py-24 bg-white">
+	<div class="px-4 mx-auto max-w-screen-xl">
+		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
+			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+				<%= heading %>
+			</h2>
+			<p class="font-light text-gray-500 sm:text-xl"><%= subtitle %></p>
+		</div>
+
+		<div class="swiper projects-slider">
+			<div class="swiper-wrapper">
+				<% filteredPosts.forEach(function(project, index) { %>
+				<div class="swiper-slide">
+					<%- include('category/category-card.ejs', { post: project }) %>
+				</div>
+				<% }); %>
+			</div>
+		</div>
+	</div>
+
+	<script>
+		var projectsSlider = new Swiper(".projects-slider", {
+			slidesPerView: 2,
+			spaceBetween: 30,
+			loop: true,
+			speed: 1500,
+			autoplay: {
+				delay: 1000,
+				pauseOnMouseEnter: true,
+			},
+			breakpoints: {
+				320: {
+					slidesPerView: 1,
+				},
+				768: {
+					slidesPerView: 2,
+				},
+				1024: {
+					slidesPerView: 2,
+				},
+				1280: {
+					slidesPerView: 2,
+				},
+			},
+		});
+	</script>
+</section>

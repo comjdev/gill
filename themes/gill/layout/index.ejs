@@ -5,19 +5,24 @@
 <%- partial('_partials/home/intro') %>
 
 <!-- Testimonial -->
-<%- partial('_partials/home/testimonial', { index: 0 }) %>
+<%- include('_partials/testimonial', { index: 0 }) %>
 
 <!-- Services -->
 <%- partial('_partials/home/services') %>
 
 <!-- Testimonial -->
-<%- partial('_partials/home/testimonial', { index: 1 }) %>
+<%- include('_partials/testimonial', { index: 1 }) %>
 
 <!-- About -->
 <%- partial('_partials/home/about') %>
 
 <!-- Testimonial -->
-<%- partial('_partials/home/testimonial', { index: 2 }) %>
+<%- include('_partials/testimonial', { index: 2 }) %>
 
 <!-- Latest Projects -->
-<%- partial('_partials/home/latest-projects') %>
+<!-- prettier-ignore -->
+<%- include('_partials/projects-slider', {
+	limit: 5,
+	heading: 'Recent shoots in Melbourne',
+	subtitle: 'Explore my recent shoots and successful work in Melbourne and surrounding areas.'
+}) %>

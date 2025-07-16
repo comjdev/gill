@@ -17,6 +17,9 @@ var service = site.data[pageData];
 <%- include('_partials/service/what-to-expect', {service: service, page: page})
 %> <% } %>
 
+<!-- Testimonial -->
+<%- include('_partials/testimonial', { index: 0 }) %>
+
 <!-- prettier-ignore -->
 <% if (service.location) { %>
 <!-- Location -->
@@ -28,6 +31,9 @@ var service = site.data[pageData];
 <!-- Process -->
 <%- include('_partials/service/process', {service: service, page: page}) %> <% }
 %>
+
+<!-- Testimonial -->
+<%- include('_partials/testimonial', { index: 5 }) %>
 
 <!-- prettier-ignore -->
 <% if (service.investment) {
@@ -53,3 +59,10 @@ var service = site.data[pageData];
 %>
 <!-- Pricing Table -->
 <%- include('_partials/service/prices', {prices: prices}) %> <% } %>
+
+<!-- Testimonial -->
+<%- include('_partials/testimonial', { index: 7 }) %>
+
+<!-- Latest Projects -->
+<%- include('_partials/projects-slider', { category: pageData, limit: 6,
+showCategoryInHeading: true }) %>

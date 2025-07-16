@@ -56,7 +56,8 @@ var image = '/img/' + page.category + '-photos-header.jpg';
 </main>
 
 <!-- Projects  -->
-<%- partial('_partials/suburbs/latest-projects', {category: page.category}) %>
+<%- include('_partials/projects-slider', { category: page.category, limit: 6,
+showCategoryInHeading: true }) %>
 
 <!-- Local References -->
 <%- partial('_partials/suburbs/local-references', {suburb: page.suburb}) %>
