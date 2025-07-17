@@ -3,9 +3,23 @@
 // Get the page data from the page object
 var pageData = page;
 var image = '/img/' + page.category + '-photos-header.jpg';
+
+// Filter testimonials by category and select a random one
+var allTestimonials = site.data.testimonials.testimonials;
+var categoryTestimonials = allTestimonials.filter(function(testimonial) {
+    return testimonial.type === page.category;
+});
+
+var randomTestimonialIndex = 0;
+if (categoryTestimonials.length > 0) {
+    var randomIndex = Math.floor(Math.random() * categoryTestimonials.length);
+    var randomTestimonial = categoryTestimonials[randomIndex];
+    // Find the original index of this testimonial in the full array
+    randomTestimonialIndex = allTestimonials.indexOf(randomTestimonial);
+}
 %>
 
-<main class="pb-16 lg:pb-24 bg-white antialiased">
+<main class="pb-16 lg:pb-24 bg-gill-green-100 antialiased">
 	<header class="relative h-[60vh]">
 		<div class="absolute inset-0">
 			<img
@@ -51,13 +65,16 @@ var image = '/img/' + page.category + '-photos-header.jpg';
 				</div>
 			</main>
 		</article>
-		<%- include('_partials/sidebar-services') %>
+		<%- include('_partials/sidebar-services', {suburb: page.suburb}) %>
 	</div>
 </main>
 
 <!-- Projects  -->
 <%- include('_partials/projects-slider', { category: page.category, limit: 6,
-showCategoryInHeading: true }) %>
+showCategoryInHeading: true, suburb: page.suburb }) %>
+
+<!-- Testimonials -->
+<%- include('_partials/testimonial', {index: randomTestimonialIndex}) %>
 
 <!-- Local References -->
 <%- partial('_partials/suburbs/local-references', {suburb: page.suburb}) %>

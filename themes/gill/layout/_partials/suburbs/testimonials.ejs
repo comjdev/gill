@@ -1,0 +1,60 @@
+<!-- prettier-ignore -->
+<%
+// Get testimonials data
+var testimonials = site.data.testimonials.testimonials;
+
+// Filter testimonials by category
+var categoryTestimonials = testimonials.filter(function(testimonial) {
+    return testimonial.type === category;
+});
+
+// Get one random testimonial
+var randomTestimonial = null;
+if (categoryTestimonials.length > 0) {
+    var randomIndex = Math.floor(Math.random() * categoryTestimonials.length);
+    randomTestimonial = categoryTestimonials[randomIndex];
+}
+%>
+
+<% if (randomTestimonial) { %>
+<section class="py-8 lg:py-16 bg-gray-50">
+	<div class="px-4 mx-auto max-w-screen-xl">
+		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
+			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+				What Clients Say
+			</h2>
+			<p class="font-light text-gray-500 sm:text-xl">
+				Hear from families in <%= suburb %> about their photography experience
+			</p>
+		</div>
+
+		<div class="max-w-3xl mx-auto">
+			<figure class="p-8 bg-white rounded-lg shadow-sm border border-gray-200">
+				<blockquote class="text-lg text-gray-600 mb-6">
+					<p class="mb-4">
+						"<%= randomTestimonial.text.replace(/\n/g, ' ') %>"
+					</p>
+				</blockquote>
+				<figcaption class="flex items-center space-x-4">
+					<div
+						class="w-12 h-12 rounded-full bg-primary-600 flex items-center justify-center"
+					>
+						<span class="text-white font-semibold text-lg">
+							<%= randomTestimonial.name.charAt(0) %>
+						</span>
+					</div>
+					<div class="space-y-1">
+						<div class="font-semibold text-gray-900">
+							<%= randomTestimonial.name %>
+						</div>
+						<div class="text-sm text-gray-500">
+							<%= randomTestimonial.type.charAt(0).toUpperCase() +
+							randomTestimonial.type.slice(1) %> Photography
+						</div>
+					</div>
+				</figcaption>
+			</figure>
+		</div>
+	</div>
+</section>
+<% } %>

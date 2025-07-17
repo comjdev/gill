@@ -4,13 +4,14 @@
 var category = typeof category !== 'undefined' ? category : null;
 var limit = typeof limit !== 'undefined' ? limit : 6;
 var heading = typeof heading !== 'undefined' ? heading : 'Latest Photo Shoots';
+var suburb = typeof suburb !== 'undefined' ? suburb : 'Melbourne';
 var subtitle = typeof subtitle !== 'undefined' ? subtitle : 'Explore my recent shoots and successful work in Melbourne.';
 var showCategoryInHeading = typeof showCategoryInHeading !== 'undefined' ? showCategoryInHeading : false;
 
 // Generate heading based on category if specified
 if (category && showCategoryInHeading) {
     heading = 'Latest ' + category.charAt(0).toUpperCase() + category.slice(1) + ' Photo Shoots';
-    subtitle = 'Explore my recent ' + category + ' work and successful photo shoots in Melbourne and surrounding areas.';
+    subtitle = 'Explore my recent ' + category + ' work and successful photo shoots in ' + suburb + ' and surrounding areas.';
 }
 
 var filteredPosts = site.posts.filter(function(post) {

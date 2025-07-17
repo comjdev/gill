@@ -34,7 +34,7 @@
 			%>
 
 			<% shuffledFaqs.forEach(function(faq, index) { %>
-			<div class="bg-gray-50 border border-gray-200 rounded-lg p-6">
+			<div class="bg-gill-green-100 border border-gill-green-200 rounded-lg p-6">
 				<h3 class="mb-4 text-lg font-semibold text-gray-900">
 					<%= faq.question %>
 				</h3>
@@ -47,10 +47,10 @@
 
 		<div class="text-center mt-12">
 			<a
-				href="<%= url_for('/faq/') %>"
+				href="<%= url_for('/melbourne-' + category + '-photographer/') %>"
 				class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 hover:no-underline"
 			>
-				More info about Family Photography
+				More info about <%= category.charAt(0).toUpperCase() + category.slice(1) %> Photography
 				<svg class="ml-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
 					<path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
 				</svg>
