@@ -9,12 +9,12 @@ permalink: family-photographer/ferntree-gully/
 latitude: -37.8833
 longitude: 145.3000
 local_references:
-  - name: Dandenong Ranges
-    description: Stunning natural landscapes for outdoor sessions
-  - name: Local Parks
-    description: Beautiful outdoor spaces perfect for family photography
-  - name: Ferntree Gully Village
-    description: Charming local shopping area with character
+  - name: 1000 Steps Kokoda Track Memorial Walk
+    description: Iconic walking trail with stunning views of the Dandenong Ranges
+  - name: Ferntree Gully National Park
+    description: Beautiful natural parkland perfect for outdoor photography sessions
+  - name: Ferntree Gully Quarry Reserve
+    description: Scenic reserve with walking trails and natural landscapes
 ---
 
 ## Telling your Ferntree Gully family story through lifestyle photography

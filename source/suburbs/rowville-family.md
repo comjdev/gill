@@ -9,12 +9,12 @@ permalink: family-photographer/rowville/
 latitude: -37.9333
 longitude: 145.2333
 local_references:
-  - name: Dandenong Ranges
-    description: Stunning natural landscapes for outdoor sessions
-  - name: Local Parks
-    description: Beautiful outdoor spaces perfect for family photography
-  - name: Rowville Village
-    description: Charming local shopping area with character
+  - name: Stud Park Reserve
+    description: Beautiful park with playgrounds and open spaces perfect for family photos
+  - name: Rowville Lakes Estate
+    description: Scenic residential area with beautiful lake views for photography
+  - name: Dandenong Ranges National Park
+    description: Stunning mountain landscapes and walking trails for outdoor sessions
 ---
 
 ## Telling your Rowville family Story with beautiful family photography

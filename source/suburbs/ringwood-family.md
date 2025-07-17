@@ -9,12 +9,12 @@ permalink: family-photographer/ringwood/
 latitude: -37.8167
 longitude: 145.2333
 local_references:
-  - name: Ringwood Lake
-    description: Beautiful natural setting with walking trails
-  - name: Ringwood Village
-    description: Charming local shopping precinct with character
-  - name: Local Parks
-    description: Beautiful outdoor spaces perfect for family photography
+  - name: Ringwood Lake Park
+    description: Beautiful lake with walking trails and playgrounds perfect for family photos
+  - name: Eastland Shopping Centre
+    description: Modern shopping precinct with great indoor and outdoor photography opportunities
+  - name: Ringwood Golf Course
+    description: Scenic golf course with beautiful landscapes for outdoor sessions
 ---
 
 ## Capturing your Ringwood family story with genuine, fun photography

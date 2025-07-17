@@ -9,12 +9,12 @@ permalink: family-photographer/knoxfield/
 latitude: -37.8833
 longitude: 145.2500
 local_references:
-  - name: Dandenong Ranges
-    description: Stunning natural landscapes for outdoor sessions
-  - name: Local Parks
-    description: Beautiful outdoor spaces perfect for family photography
-  - name: Knoxfield Village
-    description: Charming local shopping area with character
+  - name: Knox Park
+    description: Beautiful park with playgrounds and open spaces perfect for family photos
+  - name: Knox City Shopping Centre
+    description: Modern shopping precinct with great indoor and outdoor photography opportunities
+  - name: Dandenong Ranges National Park
+    description: Stunning mountain landscapes and walking trails for outdoor sessions
 ---
 
 ## Telling your Knoxfield family story with joyful family photos

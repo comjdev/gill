@@ -9,12 +9,12 @@ permalink: newborn-photographer/burwood/
 latitude: -37.8500
 longitude: 145.0833
 local_references:
-  - name: Burwood Village
-    description: Charming local shopping area with character
-  - name: Local Parks
-    description: Beautiful outdoor spaces perfect for family photography
-  - name: Historic Homes
-    description: Beautiful architecture and gardens for unique backdrops
+  - name: Wattle Park
+    description: Beautiful natural park with walking trails and native bushland
+  - name: Gardiners Creek Trail
+    description: Scenic walking and cycling path along the creek
+  - name: Blackburn Lake Sanctuary
+    description: Serene natural sanctuary with walking trails and wildlife
 ---
 
 ## Natural and relaxed newborn photos for Burwood families

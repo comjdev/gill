@@ -9,12 +9,12 @@ permalink: newborn-photographer/wantirna/
 latitude: -37.8500
 longitude: 145.2167
 local_references:
-  - name: Dandenong Ranges
-    description: Stunning natural landscapes for outdoor sessions
-  - name: Local Parks
-    description: Beautiful outdoor spaces perfect for family photography
-  - name: Wantirna Village
-    description: Charming local shopping area with character
+  - name: Wantirna Park
+    description: Beautiful park with playgrounds and open spaces perfect for family photos
+  - name: Knox City Shopping Centre
+    description: Modern shopping precinct with great indoor and outdoor photography opportunities
+  - name: Dandenong Ranges National Park
+    description: Stunning mountain landscapes and walking trails for outdoor sessions
 ---
 
 ## Natural and heartfelt baby photography in Wantirna

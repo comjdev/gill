@@ -9,12 +9,12 @@ permalink: newborn-photographer/camberwell/
 latitude: -37.8236
 longitude: 145.0764
 local_references:
+  - name: Camberwell Junction Park
+    description: Beautiful park with playgrounds and open spaces perfect for family photography
+  - name: Wattle Park
+    description: Scenic natural park with walking trails and native bushland
   - name: Camberwell Market
-    description: Vibrant local market atmosphere
-  - name: Camberwell Gardens
-    description: Peaceful park settings for family photos
-  - name: High Street
-    description: Charming shopping precinct with character
+    description: Historic Sunday market with vibrant local atmosphere
 ---
 
 ## Gentle newborn photography in Camberwell

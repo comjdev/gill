@@ -10,11 +10,11 @@ latitude: -37.8167
 longitude: 145.0833
 local_references:
   - name: Canterbury Gardens
-    description: Beautiful park settings for family photos
-  - name: Canterbury Village
-    description: Charming local shopping area with character
-  - name: Historic Homes
-    description: Beautiful architecture and gardens for unique backdrops
+    description: Beautiful historic gardens and parkland perfect for family photography
+  - name: Yarra River Trail
+    description: Scenic walking and cycling path along the Yarra River
+  - name: Canterbury Railway Station Gardens
+    description: Charming gardens and heritage architecture for unique backdrops
 ---
 
 ## Capturing your Canterbury family's story naturally with joyful photos
