@@ -1,60 +1,26 @@
 <!-- prettier-ignore -->
-<section class="py-8 lg:py-24 bg-white">
-	<div class="px-4 mx-auto max-w-screen-xl">
-		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
-			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
-				Frequently Asked Questions
-			</h2>
-			<p class="font-light text-gray-900 sm:text-xl">
-				Common questions about <%= category %> photography in <%= suburb %>.
-			</p>
-		</div>
+<% 
+// Get FAQ data from the appropriate YAML file based on category
+var faqData = site.data[category];
+var faqs = faqData && faqData.faqs ? faqData.faqs : [];
 
-		<div class="grid gap-8 lg:grid-cols-2">
-			<!-- prettier-ignore -->
-			<% 
-			// Get FAQ data from the appropriate YAML file based on category
-			var faqData = site.data[category];
-			var faqs = faqData && faqData.faqs ? faqData.faqs : [];
-			
-			// Shuffle the FAQs to show them in random order
-			function shuffleArray(array) {
-				var currentIndex = array.length, temporaryValue, randomIndex;
-				while (0 !== currentIndex) {
-					randomIndex = Math.floor(Math.random() * currentIndex);
-					currentIndex -= 1;
-					temporaryValue = array[currentIndex];
-					array[currentIndex] = array[randomIndex];
-					array[randomIndex] = temporaryValue;
-				}
-				return array;
-			}
-			
-			var shuffledFaqs = shuffleArray([...faqs]).slice(0, 6);
-			%>
+// Shuffle the FAQs to show them in random order
+function shuffleArray(array) {
+	var currentIndex = array.length, temporaryValue, randomIndex;
+	while (0 !== currentIndex) {
+		randomIndex = Math.floor(Math.random() * currentIndex);
+		currentIndex -= 1;
+		temporaryValue = array[currentIndex];
+		array[currentIndex] = array[randomIndex];
+		array[randomIndex] = temporaryValue;
+	}
+	return array;
+}
 
-			<% shuffledFaqs.forEach(function(faq, index) { %>
-			<div class="bg-gill-green-100 border border-gill-green-200 p-6">
-				<h3 class="mb-4 text-lg font-light text-gray-900">
-					<%= faq.question %>
-				</h3>
-				<div class="font-light text-gray-900 prose prose-sm max-w-none">
-					<%- faq.answer %>
-				</div>
-			</div>
-			<% }); %>
-		</div>
+var shuffledFaqs = shuffleArray([...faqs]).slice(0, 6);
+%>
 
-		<div class="text-center mt-12">
-			<a
-				href="<%= url_for('/melbourne-' + category + '-photographer/') %>"
-				class="inline-flex items-center font-light underline underline-offset-4 text-primary-600 hover:no-underline"
-			>
-				More info about <%= category.charAt(0).toUpperCase() + category.slice(1) %> Photography
-				<svg class="ml-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-					<path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
-				</svg>
-			</a>
-		</div>
-	</div>
-</section>
+<%- include('../faqs', { 
+	title: 'Frequently Asked Questions for ' + suburb,
+	faqs: shuffledFaqs 
+}) %>
