@@ -6,8 +6,9 @@
 			<% const images = post_assets(page); %> <% images.forEach(img => { %>
 			<img
 				src="<%= img %>"
-				alt="<%= config.title %> | <%= page.title %>"
+				alt="<%= config.title %> | <%= page.title %> | Gill Juergens Photography"
 				class="mb-2 w-full h-auto shadow-lg"
+				loading="lazy"
 			/>
 			<% }) %>
 		</div>

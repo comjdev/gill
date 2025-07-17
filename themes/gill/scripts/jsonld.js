@@ -65,6 +65,37 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 			"https://www.instagram.com/gilljuergensphotography/",
 			"https://www.linkedin.com/company/gilljuergensphotography",
 		],
+		// Add image structured data
+		image: [
+			{
+				"@type": "ImageObject",
+				url: `${config.url}/logos/logo.jpg`,
+				width: 1200,
+				height: 630,
+				alt: "Gill Juergens Photography - Melbourne Family, Wedding & Newborn Photographer",
+			},
+			{
+				"@type": "ImageObject",
+				url: `${config.url}/img/family.jpg`,
+				width: 800,
+				height: 600,
+				alt: "Family Photography Melbourne",
+			},
+			{
+				"@type": "ImageObject",
+				url: `${config.url}/img/newborn.jpg`,
+				width: 800,
+				height: 600,
+				alt: "Newborn Photography Melbourne",
+			},
+			{
+				"@type": "ImageObject",
+				url: `${config.url}/img/wedding.jpg`,
+				width: 800,
+				height: 600,
+				alt: "Wedding Photography Melbourne",
+			},
+		],
 		aggregateRating: {
 			"@type": "AggregateRating",
 			ratingValue: "5.0",
@@ -361,7 +392,39 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 		},
 	];
 
+	// Return the JSON-LD string
 	return JSON.stringify(baseSchema, null, 2);
+});
+
+// Add breadcrumb schema helper
+hexo.extend.helper.register("breadcrumbSchema", function (page, config) {
+	const breadcrumbs = [];
+
+	// Home page
+	breadcrumbs.push({
+		"@type": "ListItem",
+		position: 1,
+		name: "Home",
+		item: config.url,
+	});
+
+	// Add current page
+	if (page.title && page.title !== "Home") {
+		breadcrumbs.push({
+			"@type": "ListItem",
+			position: 2,
+			name: page.title,
+			item: config.url + (page.path || ""),
+		});
+	}
+
+	const breadcrumbSchema = {
+		"@context": "https://schema.org",
+		"@type": "BreadcrumbList",
+		itemListElement: breadcrumbs,
+	};
+
+	return JSON.stringify(breadcrumbSchema);
 });
 
 hexo.extend.helper.register("faqJsonld", function (page) {

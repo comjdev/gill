@@ -27,7 +27,8 @@
 						<img
 							class="mb-5 w-full h-48 object-cover"
 							src="<%= post.layout === 'post' ? (post.featured ? blog_post_asset(post, post.featured) : (post.hero ? blog_post_asset(post, post.hero) : '/img/family.jpg')) : (post.featured || post.hero || post.thumbnail || post.image || '/img/family.jpg') %>"
-							alt="<%= post.title %>"
+							alt="<%= post.title %> | Gill Juergens Photography"
+							loading="lazy"
 						/>
 					</a>
 					<% if (post.categories && post.categories.length > 0 &&

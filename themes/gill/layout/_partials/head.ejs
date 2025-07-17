@@ -1,3 +1,4 @@
+<!-- prettier-ignore -->
 <% const cleanedPath = url_for(page.path).replace(/index\.html$/,
 '').replace(/\.html$/, ''); let canonicalUrl = config.url.replace(/\/$/, '') +
 cleanedPath; %> <% let imageUrl = null; %> <% if (page.cover) { imageUrl =
@@ -12,7 +13,22 @@ config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 	<meta name="description" content="<%= seoDescription() %>" />
 	<meta name="author" content="<%= page.author || config.author %>" />
 
+	<!-- Additional SEO Meta Tags -->
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow" />
+	<meta
+		name="viewport"
+		content="width=device-width, initial-scale=1.0, maximum-scale=5.0"
+	/>
+	<meta name="format-detection" content="telephone=no" />
+	<meta name="theme-color" content="#4F46E5" />
+	<meta name="msapplication-TileColor" content="#4F46E5" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+	<meta name="apple-mobile-web-app-title" content="Gill Juergens Photography" />
+
 	<link rel="icon" href="/logos/favicon.png" type="image/png" />
+	<link rel="manifest" href="/manifest.json" />
 
 	<!-- Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -29,6 +45,25 @@ config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 		type="text/css"
 		href="https://unpkg.com/flowbite-typography@1.0.3/dist/typography.min.css"
 	/>
+
+	<!-- Image Optimization -->
+	<link rel="preload" as="image" href="/img/about.jpg" />
+	<link rel="preload" as="image" href="/img/family.jpg" />
+	<link rel="preload" as="image" href="/img/newborn.jpg" />
+	<link rel="preload" as="image" href="/img/wedding.jpg" />
+	<link rel="preload" as="image" href="/img/maternity.jpg" />
+
+	<!-- Performance Optimization -->
+	<link rel="dns-prefetch" href="//fonts.googleapis.com" />
+	<link rel="dns-prefetch" href="//fonts.gstatic.com" />
+	<link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+	<link rel="dns-prefetch" href="//unpkg.com" />
+
+	<!-- Resource Hints -->
+	<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin />
+	<link rel="preconnect" href="https://unpkg.com" crossorigin />
 
 	<link rel="canonical" href="<%= canonicalUrl %>" />
 
@@ -51,6 +86,11 @@ config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 	<!-- Schema.org -->
 	<script type="application/ld+json">
 		<%- jsonld(page, site, config) %>
+	</script>
+
+	<!-- Breadcrumb Schema -->
+	<script type="application/ld+json">
+		<%- breadcrumbSchema(page, config) %>
 	</script>
 
 	<!-- GTM  -->
