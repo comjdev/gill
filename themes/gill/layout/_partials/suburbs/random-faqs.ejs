@@ -2,7 +2,7 @@
 <section class="py-8 lg:py-24 bg-white">
 	<div class="px-4 mx-auto max-w-screen-xl">
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
-			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
 				Frequently Asked Questions
 			</h2>
 			<p class="font-light text-gray-900 sm:text-xl">
@@ -34,11 +34,11 @@
 			%>
 
 			<% shuffledFaqs.forEach(function(faq, index) { %>
-			<div class="bg-gill-green-100 border border-gill-green-200 rounded-lg p-6">
-				<h3 class="mb-4 text-lg font-semibold text-gray-900">
+			<div class="bg-gill-green-100 border border-gill-green-200 p-6">
+				<h3 class="mb-4 text-lg font-light text-gray-900">
 					<%= faq.question %>
 				</h3>
-				<div class="text-gray-500 prose prose-sm max-w-none">
+				<div class="font-light text-gray-900 prose prose-sm max-w-none">
 					<%- faq.answer %>
 				</div>
 			</div>
@@ -48,7 +48,7 @@
 		<div class="text-center mt-12">
 			<a
 				href="<%= url_for('/melbourne-' + category + '-photographer/') %>"
-				class="inline-flex items-center font-medium underline underline-offset-4 text-primary-600 hover:no-underline"
+				class="inline-flex items-center font-light underline underline-offset-4 text-primary-600 hover:no-underline"
 			>
 				More info about <%= category.charAt(0).toUpperCase() + category.slice(1) %> Photography
 				<svg class="ml-2 w-4 h-4" fill="currentColor" viewBox="0 0 20 20">

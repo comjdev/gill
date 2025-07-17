@@ -15,7 +15,7 @@
 				site.data.testimonials.testimonials[idx]; if (!t) continue; %>
 				<figure class="p-6 bg-gray-50 rounded">
 					<blockquote class="text-sm text-gray-500">
-						<h2 class="text-lg font-semibold text-gray-900">
+						<h2 class="text-lg font-light text-gray-900">
 							<%= t.type.charAt(0).toUpperCase() + t.type.slice(1) %>
 							Photography
 						</h2>
@@ -25,11 +25,11 @@
 						<div
 							class="w-9 h-9 rounded-full bg-primary-600 flex items-center justify-center"
 						>
-							<span class="text-white font-semibold text-sm"
+							<span class="text-white font-light text-sm"
 								><%= t.name.charAt(0) %></span
 							>
 						</div>
-						<div class="space-y-0.5 font-medium">
+						<div class="space-y-0.5 font-light">
 							<div><%= t.name %></div>
 							<div class="text-sm font-light text-gray-500">
 								<%= t.source %>

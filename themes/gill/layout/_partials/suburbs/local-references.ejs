@@ -2,7 +2,7 @@
 <section class="py-8 lg:py-24 bg-gray-50">
 	<div class="px-4 mx-auto max-w-screen-xl">
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
-			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
 				Local References in <%= suburb %>
 			</h2>
 			<p class="font-light text-gray-900 sm:text-xl">
@@ -22,7 +22,7 @@
 			%>
 
 			<% references.forEach(function(reference, index) { %>
-			<div class="bg-white border border-gray-200 rounded-lg shadow-sm p-6">
+			<div class="bg-white border border-gray-200 shadow-sm p-6">
 				<div class="flex items-center mb-4">
 					<div class="flex-shrink-0">
 						<div class="w-8 h-8 bg-primary-100 rounded-full flex items-center justify-center">
@@ -32,10 +32,10 @@
 						</div>
 					</div>
 					<div class="ml-3">
-						<h3 class="text-lg font-semibold text-gray-900"><%= reference.name %></h3>
+						<h3 class="text-lg font-light text-gray-900"><%= reference.name %></h3>
 					</div>
 				</div>
-				<p class="text-gray-500"><%= reference.description %></p>
+				<p class="font-light text-gray-900"><%= reference.description %></p>
 			</div>
 			<% }); %>
 		</div>

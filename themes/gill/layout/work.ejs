@@ -26,10 +26,10 @@
 			</h1>
 			<div class="sm:flex justify-between items-center my-8">
 				<div class="left-content text-gray-700 mt-2">
-					<div class="text-xs font-normal text-gray-500 dark:text-gray-400">
+					<div class="text-xs font-light text-gray-500 dark:text-gray-400">
 						Photography
 					</div>
-					<div class="text-sm font-normal text-gray-500 dark:text-gray-800">
+					<div class="text-sm font-light text-gray-500 dark:text-gray-800">
 						<% if (page.categories && page.categories.length) { %> <%
 						page.categories.forEach(function(category, index) { %> <%=
 						category.name %><%= index < page.categories.length - 1 ? ', ' : ''
@@ -37,10 +37,10 @@
 					</div>
 				</div>
 				<div class="right-content text-gray-700 mt-2">
-					<div class="text-xs font-normal text-gray-500 dark:text-gray-400">
+					<div class="text-xs font-light text-gray-500 dark:text-gray-400">
 						Location
 					</div>
-					<div class="text-sm font-normal text-gray-500 dark:text-gray-800">
+					<div class="text-sm font-light text-gray-500 dark:text-gray-800">
 						<%- page.location %>
 					</div>
 				</div>

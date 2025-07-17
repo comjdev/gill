@@ -150,4 +150,39 @@
 			display: none;
 		}
 	}
+
+	/* Custom Flowbite format overrides for consistent typography */
+	.format,
+	.format h1,
+	.format h2,
+	.format h3,
+	.format h4,
+	.format h5,
+	.format h6,
+	.format p,
+	.format li,
+	.format blockquote {
+		font-weight: 300 !important; /* font-light */
+		color: #111827 !important; /* Tailwind's gray-900 */
+	}
+
+	.format strong {
+		font-weight: 400 !important; /* font-normal */
+	}
+
+	/* Make all headings uppercase by default, except when using Meritocracy font */
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		text-transform: uppercase !important;
+	}
+
+	/* Override uppercase for Meritocracy font */
+	.font-\[Meritocracy\],
+	[class*="font-[Meritocracy]"] {
+		text-transform: none !important;
+	}
 }

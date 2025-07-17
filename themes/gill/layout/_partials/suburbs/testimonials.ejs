@@ -20,7 +20,7 @@ if (categoryTestimonials.length > 0) {
 <section class="py-8 lg:py-16 bg-gray-50">
 	<div class="px-4 mx-auto max-w-screen-xl">
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
-			<h2 class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900">
+			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
 				What Clients Say
 			</h2>
 			<p class="font-light text-gray-900 sm:text-xl">
@@ -29,8 +29,8 @@ if (categoryTestimonials.length > 0) {
 		</div>
 
 		<div class="max-w-3xl mx-auto">
-			<figure class="p-8 bg-white rounded-lg shadow-sm border border-gray-200">
-				<blockquote class="text-lg text-gray-900 mb-6">
+			<figure class="p-8 bg-white shadow-sm border border-gray-200">
+				<blockquote class="text-lg font-light text-gray-900 mb-6">
 					<p class="mb-4">
 						"<%= randomTestimonial.text.replace(/\n/g, ' ') %>"
 					</p>
@@ -39,15 +39,15 @@ if (categoryTestimonials.length > 0) {
 					<div
 						class="w-12 h-12 rounded-full bg-primary-600 flex items-center justify-center"
 					>
-						<span class="text-white font-semibold text-lg">
+						<span class="text-white font-light text-lg">
 							<%= randomTestimonial.name.charAt(0) %>
 						</span>
 					</div>
 					<div class="space-y-1">
-						<div class="font-semibold text-gray-900">
+						<div class="font-light text-gray-900">
 							<%= randomTestimonial.name %>
 						</div>
-						<div class="text-sm text-gray-500">
+						<div class="text-sm font-light text-gray-900">
 							<%= randomTestimonial.type.charAt(0).toUpperCase() +
 							randomTestimonial.type.slice(1) %> Photography
 						</div>

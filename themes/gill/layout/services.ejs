@@ -5,13 +5,13 @@
 				class="text-3xl font-extrabold leading-tight tracking-tight text-gray-900 sm:text-4xl"
 			>
 				<span
-					class="font-[Meritocracy] transform -rotate-5 inline-block text-7xl md:text-9xl font-normal -mb-4 sm:mb-0"
+					class="font-[Meritocracy] transform -rotate-5 inline-block text-7xl md:text-9xl font-light -mb-4 sm:mb-0"
 					>What</span
 				>
 				I do
 			</h1>
 			<% if (page.content) { %>
-			<div class="mt-4 text-base font-normal text-gray-900 sm:text-xl">
+			<div class="mt-4 text-base font-light text-gray-900 sm:text-xl">
 				<%- page.content %>
 			</div>
 			<% } %>
@@ -44,16 +44,16 @@
 				>
 					<div class="space-y-6 max-w-xl mx-auto">
 						<h2
-							class="text-3xl font-bold leading-tight text-gray-900 sm:text-4xl"
+							class="text-3xl font-light leading-tight text-gray-900 sm:text-4xl"
 						>
 							<%= service.title %>
 						</h2>
-						<p class="text-base font-normal text-gray-900 sm:text-lg">
+						<p class="text-base font-light text-gray-900 sm:text-lg">
 							<%= service.description %>
 						</p>
 						<a
 							href="<%= url_for(service.path) %>"
-							class="text-white bg-primary-900 hover:bg-primary-700 inline-flex items-center focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium text-sm px-5 py-2.5"
+							class="text-white bg-primary-900 hover:bg-primary-700 focus:ring-4 focus:ring-primary-300 font-light text-sm px-5 py-2.5"
 							role="button"
 						>
 							<%= service.title %>

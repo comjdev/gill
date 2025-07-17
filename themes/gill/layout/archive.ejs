@@ -22,12 +22,10 @@
 			%>
 			<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
 				<% posts.each(function(post){ %>
-				<article
-					class="p-4 bg-white rounded-lg border border-gray-200 shadow-md"
-				>
+				<article class="p-4 bg-white border border-gray-200 shadow-md">
 					<a href="<%= url_for(post.path) %>">
 						<img
-							class="mb-5 rounded-lg w-full h-48 object-cover"
+							class="mb-5 w-full h-48 object-cover"
 							src="<%= post.layout === 'post' ? (post.featured ? blog_post_asset(post, post.featured) : (post.hero ? blog_post_asset(post, post.hero) : '/img/family.jpg')) : (post.featured || post.hero || post.thumbnail || post.image || '/img/family.jpg') %>"
 							alt="<%= post.title %>"
 						/>
@@ -35,13 +33,13 @@
 					<% if (post.categories && post.categories.length > 0 &&
 					post.categories[0]) { %>
 					<span
-						class="bg-purple-100 text-purple-800 text-xs font-semibold mr-2 px-2.5 py-0.5 rounded"
+						class="bg-purple-100 text-purple-800 text-xs font-light mr-2 px-2.5 py-0.5 rounded"
 					>
 						<%= post.categories[0].name %>
 					</span>
 					<% } %>
 
-					<h2 class="my-2 text-2xl font-bold tracking-tight text-gray-900">
+					<h2 class="my-2 text-2xl font-light tracking-tight text-gray-900">
 						<a href="<%= url_for(post.path) %>" class="hover:text-gray-700">
 							<%= post.title %>
 						</a>
@@ -68,9 +66,9 @@
 								></path>
 							</svg>
 						</div>
-						<div class="font-medium">
+						<div class="font-light">
 							<div class="text-gray-900">Gill Photography</div>
-							<div class="text-sm font-normal text-gray-500">
+							<div class="text-sm font-light text-gray-500">
 								<%= post.date.format('MMM DD, YYYY') %> <% if
 								(post.reading_time) { %> · <%= post.reading_time %> min read <%
 								} %>
