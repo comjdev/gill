@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Melbourne with fun and relaxed fami
 description: I'll document the love and laughter that defines your Melbourne family, either at home or in one of Melbourne's many beautiful outdoor spaces.
 layout: suburb
 category: family
-permalink: family-photos/melbourne/
+permalink: family-photographer/melbourne/
 latitude: -37.8136
 longitude: 144.9631
 local_references:

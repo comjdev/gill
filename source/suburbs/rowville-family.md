@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Rowville with relaxed family photos
 description: Capture your Rowville family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/rowville/
+permalink: family-photographer/rowville/
 latitude: -37.9333
 longitude: 145.2333
 local_references:

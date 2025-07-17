@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Ferntree Gully with relaxed family 
 description: Capture your Ferntree Gully family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/ferntree-gully/
+permalink: family-photographer/ferntree-gully/
 latitude: -37.8833
 longitude: 145.3000
 local_references:

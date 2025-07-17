@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Surrey Hills with gentle ph
 description: Capture your Surrey Hills newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/surrey-hills/
+permalink: newborn-photographer/surrey-hills/
 latitude: -37.8189
 longitude: 145.0800
 local_references:

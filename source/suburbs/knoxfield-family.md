@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Knoxfield with relaxed family photo
 description: Capture your Knoxfield family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/knoxfield/
+permalink: family-photographer/knoxfield/
 latitude: -37.8833
 longitude: 145.2500
 local_references:

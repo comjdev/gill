@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Knoxfield with gentle photo
 description: Capture your Knoxfield newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/knoxfield/
+permalink: newborn-photographer/knoxfield/
 latitude: -37.8833
 longitude: 145.2500
 local_references:

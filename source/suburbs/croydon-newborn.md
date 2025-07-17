@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Croydon with gentle photogr
 description: Capture your Croydon newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/croydon/
+permalink: newborn-photographer/croydon/
 latitude: -37.7967
 longitude: 145.2833
 local_references:

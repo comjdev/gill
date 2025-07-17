@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Bayswater with relaxed family photo
 description: Capture your Bayswater family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/bayswater/
+permalink: family-photographer/bayswater/
 latitude: -37.8500
 longitude: 145.2667
 local_references:

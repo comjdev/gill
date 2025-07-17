@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Hawthorn with gentle photog
 description: Capture your Hawthorn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/hawthorn/
+permalink: newborn-photographer/hawthorn/
 latitude: -37.8219
 longitude: 145.0383
 local_references:

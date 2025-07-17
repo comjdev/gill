@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Malvern East with relaxed family ph
 description: Capture your Malvern East family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/malvern-east/
+permalink: family-photographer/malvern-east/
 latitude: -37.8500
 longitude: 145.0500
 local_references:

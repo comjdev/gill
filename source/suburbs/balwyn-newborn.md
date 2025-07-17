@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Balwyn with gentle photogra
 description: Capture your Balwyn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/balwyn/
+permalink: newborn-photographer/balwyn/
 latitude: -37.8139
 longitude: 145.0750
 local_references:

@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Hawthorn with relaxed family photos
 description: Capture your Hawthorn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/hawthorn/
+permalink: family-photographer/hawthorn/
 latitude: -37.8219
 longitude: 145.0383
 local_references:

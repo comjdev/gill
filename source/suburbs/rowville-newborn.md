@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Rowville with gentle photog
 description: Capture your Rowville newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/rowville/
+permalink: newborn-photographer/rowville/
 latitude: -37.9333
 longitude: 145.2333
 local_references:

@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Bayswater with gentle photo
 description: Capture your Bayswater newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/bayswater/
+permalink: newborn-photographer/bayswater/
 latitude: -37.8500
 longitude: 145.2667
 local_references:

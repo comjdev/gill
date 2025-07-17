@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Camberwell with gentle phot
 description: Capture your Camberwell newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/camberwell/
+permalink: newborn-photographer/camberwell/
 latitude: -37.8236
 longitude: 145.0764
 local_references:

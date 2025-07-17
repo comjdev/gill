@@ -140,6 +140,9 @@
 			<div class="lg:mx-auto">
 				<h2 class="mb-6 text-sm font-semibold text-white uppercase">Suburbs</h2>
 				<ul class="text-gray-300">
+					<li class="mb-4">
+						<a href="/suburbs/" class="hover:underline">All Suburbs</a>
+					</li>
 					<% getRandomSuburbs(4).forEach(function(suburb) { %>
 					<li class="mb-4">
 						<a href="<%= url_for(suburb.url) %>" class="hover:underline"

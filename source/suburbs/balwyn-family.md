@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Balwyn with relaxed family photos
 description: Capture your Balwyn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/balwyn/
+permalink: family-photographer/balwyn/
 latitude: -37.8139
 longitude: 145.0750
 local_references:

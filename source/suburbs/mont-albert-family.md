@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Mont Albert with relaxed family pho
 description: Capture your Mont Albert family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/mont-albert/
+permalink: family-photographer/mont-albert/
 latitude: -37.8167
 longitude: 145.0833
 local_references:

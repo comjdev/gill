@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Deepdene with gentle photog
 description: Capture your Deepdene newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/deepdene/
+permalink: newborn-photographer/deepdene/
 latitude: -37.8167
 longitude: 145.0833
 local_references:

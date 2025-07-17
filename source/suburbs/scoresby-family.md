@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Scoresby with relaxed family photos
 description: Capture your Scoresby family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/scoresby/
+permalink: family-photographer/scoresby/
 latitude: -37.9000
 longitude: 145.2333
 local_references:

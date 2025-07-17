@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Ringwood with gentle photog
 description: Capture your Ringwood newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/ringwood/
+permalink: newborn-photographer/ringwood/
 latitude: -37.8167
 longitude: 145.2333
 local_references:

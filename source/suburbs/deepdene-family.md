@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Deepdene with relaxed family photos
 description: Capture your Deepdene family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/deepdene/
+permalink: family-photographer/deepdene/
 latitude: -37.8167
 longitude: 145.0833
 local_references:

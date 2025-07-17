@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Melbourne with gentle photo
 description: Capture your Melbourne newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/melbourne/
+permalink: newborn-photographer/melbourne/
 latitude: -37.8136
 longitude: 144.9631
 local_references:

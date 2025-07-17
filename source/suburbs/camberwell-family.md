@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Camberwell with relaxed family phot
 description: Capture your Camberwell family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/camberwell/
+permalink: family-photographer/camberwell/
 latitude: -37.8236
 longitude: 145.0764
 local_references:

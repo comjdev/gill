@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Wantirna with gentle photog
 description: Capture your Wantirna newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/wantirna/
+permalink: newborn-photographer/wantirna/
 latitude: -37.8500
 longitude: 145.2167
 local_references:

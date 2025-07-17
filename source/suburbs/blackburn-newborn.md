@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Blackburn with gentle photo
 description: Capture your Blackburn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/blackburn/
+permalink: newborn-photographer/blackburn/
 latitude: -37.8167
 longitude: 145.1500
 local_references:

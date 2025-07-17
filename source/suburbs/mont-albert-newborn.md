@@ -5,7 +5,7 @@ subtitle: Capturing your precious newborn moments in Mont Albert with gentle pho
 description: Capture your Mont Albert newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
 category: newborn
-permalink: newborn-photos/mont-albert/
+permalink: newborn-photographer/mont-albert/
 latitude: -37.8167
 longitude: 145.0833
 local_references:

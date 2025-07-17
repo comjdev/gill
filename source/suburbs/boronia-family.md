@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Boronia with relaxed family photos
 description: Capture your Boronia family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/boronia/
+permalink: family-photographer/boronia/
 latitude: -37.8667
 longitude: 145.2833
 local_references:

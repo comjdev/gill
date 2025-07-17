@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Surrey Hills with relaxed family ph
 description: Capture your Surrey Hills family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/surrey-hills/
+permalink: family-photographer/surrey-hills/
 latitude: -37.8189
 longitude: 145.0800
 local_references:

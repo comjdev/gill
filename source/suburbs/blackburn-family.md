@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Blackburn with relaxed family photo
 description: Capture your Blackburn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/blackburn/
+permalink: family-photographer/blackburn/
 latitude: -37.8167
 longitude: 145.1500
 local_references:

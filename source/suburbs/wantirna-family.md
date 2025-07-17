@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Wantirna with relaxed family photos
 description: Capture your Wantirna family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/wantirna/
+permalink: family-photographer/wantirna/
 latitude: -37.8500
 longitude: 145.2167
 local_references:

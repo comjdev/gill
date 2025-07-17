@@ -1,0 +1,170 @@
+<!-- prettier-ignore -->
+<%
+// Get all suburb pages and organize them
+var allSuburbPages = site.pages.filter(function(page) {
+    return page.layout === 'suburb';
+});
+
+// Get unique suburbs (remove duplicates since there are family and newborn pages for each suburb)
+var uniqueSuburbs = [];
+var seenSuburbs = new Set();
+
+allSuburbPages.forEach(function(page) {
+    if (page.suburb && !seenSuburbs.has(page.suburb)) {
+        seenSuburbs.add(page.suburb);
+        
+        // Find pages for each service type for this suburb
+        var familyPage = allSuburbPages.find(function(p) {
+            return p.suburb === page.suburb && p.category === 'family';
+        });
+        
+        var newbornPage = allSuburbPages.find(function(p) {
+            return p.suburb === page.suburb && p.category === 'newborn';
+        });
+
+        var maternityPage = allSuburbPages.find(function(p) {
+            return p.suburb === page.suburb && p.category === 'maternity';
+        });
+
+        var weddingPage = allSuburbPages.find(function(p) {
+            return p.suburb === page.suburb && p.category === 'wedding';
+        });
+        
+        uniqueSuburbs.push({
+            name: page.suburb,
+            familyPage: familyPage,
+            newbornPage: newbornPage,
+            maternityPage: maternityPage,
+            weddingPage: weddingPage,
+            latitude: page.latitude,
+            longitude: page.longitude
+        });
+    }
+});
+
+// Sort suburbs alphabetically
+uniqueSuburbs.sort(function(a, b) {
+    return a.name.localeCompare(b.name);
+});
+%>
+
+<main class="pb-16 lg:pb-24 bg-white antialiased">
+	<header class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+		<div class="mx-auto max-w-screen-md text-center">
+			<h1
+				class="mb-4 text-4xl tracking-tight font-extrabold text-gray-900 sm:text-5xl"
+			>
+				<%= page.title %>
+			</h1>
+			<% if (page.subtitle) { %>
+			<p class="mb-8 font-light text-gray-500 sm:text-xl">
+				<%= page.subtitle %>
+			</p>
+			<% } %>
+		</div>
+	</header>
+
+	<div
+		class="flex relative z-20 justify-between p-6 mx-4 max-w-screen-xl bg-white rounded xl:p-9 xl:mx-auto"
+	>
+		<article
+			class="xl:w-[828px] w-full max-w-none format format-sm sm:format-base"
+		>
+			<header class="lead"><%= page.description || '' %></header>
+			<main>
+				<%- page.content %>
+
+				<h2><%= page.title %></h2>
+
+				<!-- Family Photography Section -->
+				<h3>Family Photography</h3>
+				<ul>
+					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
+					(suburb.familyPage) { %>
+					<li>
+						<a href="/<%= suburb.familyPage.permalink %>">
+							Family Photographer in <%= suburb.name %>
+						</a>
+					</li>
+					<% } %> <% }); %>
+				</ul>
+
+				<!-- Newborn Photography Section -->
+				<h3>Newborn Photography</h3>
+				<ul>
+					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
+					(suburb.newbornPage) { %>
+					<li>
+						<a href="/<%= suburb.newbornPage.permalink %>">
+							Newborn Photographer in <%= suburb.name %>
+						</a>
+					</li>
+					<% } %> <% }); %>
+				</ul>
+
+				<!-- Maternity Photography Section (prepared for future) -->
+				<% var hasMaternityPages = uniqueSuburbs.some(function(suburb) { return
+				suburb.maternityPage; }); if (hasMaternityPages) { %>
+				<h3>Maternity Photography</h3>
+				<ul>
+					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
+					(suburb.maternityPage) { %>
+					<li>
+						<a href="/<%= suburb.maternityPage.permalink %>">
+							Maternity Photography in <%= suburb.name %>
+						</a>
+					</li>
+					<% } %> <% }); %>
+				</ul>
+				<% } %>
+
+				<!-- Wedding Photography Section (prepared for future) -->
+				<% var hasWeddingPages = uniqueSuburbs.some(function(suburb) { return
+				suburb.weddingPage; }); if (hasWeddingPages) { %>
+				<h3>Wedding Photography</h3>
+				<ul>
+					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
+					(suburb.weddingPage) { %>
+					<li>
+						<a href="/<%= suburb.weddingPage.permalink %>">
+							Wedding Photography in <%= suburb.name %>
+						</a>
+					</li>
+					<% } %> <% }); %>
+				</ul>
+				<% } %>
+
+				<h3>Suburbs I travel to for photography in Melbourne</h3>
+				<p>
+					I'm always happy to travel! If your location is outside the listed
+					suburbs, please don't hesitate to
+					<a href="/contact/">get in touch</a>. I regularly photograph across a
+					wide area of Melbourne and may still be able to accommodate your
+					location.
+				</p>
+				<p>
+					Let's chat about how I can bring a warm, relaxed photography
+					experience to your family — no matter where you're based.
+				</p>
+
+				<div class="not-format">
+					<a
+						href="<%= url_for('/book-lifestyle-photographer-in-melbourne/') %>"
+						class="text-white bg-primary-900 hover:bg-primary-700 font-medium text-sm px-5 py-2.5 mr-2 mb-2 text-center w-full"
+					>
+						Let's chat
+					</a>
+				</div>
+			</main>
+		</article>
+		<%- include('_partials/sidebar-services') %>
+	</div>
+</main>
+
+<!-- Recent Photo Shoots Section -->
+<!-- prettier-ignore -->
+<%- include('_partials/projects-slider', { 
+	heading: 'Recent Photo Shoots in Melbourne',
+	subtitle: 'Explore my recent work and successful photo shoots in Melbourne and surrounding areas.',
+	limit: 6
+	}) %>

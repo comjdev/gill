@@ -5,7 +5,7 @@ subtitle: Capturing your precious moments in Burwood with relaxed family photos
 description: Capture your Burwood family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb
 category: family
-permalink: family-photos/burwood/
+permalink: family-photographer/burwood/
 latitude: -37.8500
 longitude: 145.0833
 local_references:
