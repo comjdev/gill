@@ -1,16 +1,14 @@
 ---
 layout: work
 title: Bright and Colourful Newborn Photos
-date: 
-2025-05-01T01: 
-37: 06.031Z
-subtitle: Newborn photograhpy in Mebourne
-description: Newborn photograhpy in Melbourne
+date: 2025-05-01
+subtitle: Newborn photography in Melbourne
+description: Newborn photography in Melbourne
 location: Melbourne
-image: Newborn_photo_Melbourne_Rayne-1.jpg
+image: Newborn_Family_Melbourne-1.jpg
 permalink: /melbourne-photos/bright-and-happy-newborn-photos/
 categories:
- - Newborn
+  - Newborn
 ---
 
 ## Bright and Colourful Newborn Photos
