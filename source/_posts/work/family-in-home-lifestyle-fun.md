@@ -3,7 +3,7 @@ layout: work
 title: In home lifestyle fun
 date: 2025-07-02
 subtitle: I'd taken Steph's maternity photos six months before
-description: I'd taken Steph's maternity photos six months before, which meant I was really looking forward to this family shoot. Oscar's a very lucky baby as it quickly became obvious Steph and Amveth are crazy about him. With that full head of hair and gummy grin, who wouldn't be? He was also one of the most relaxed and happiest babies I've met and really, a pleasure to take photos of.
+description: Melbourne family photographer captures in-home lifestyle session. Natural family photography with relaxed baby Oscar and loving parents in warm, intimate setting.
 location: Melbourne
 image: family-in-home-lifestyle-fun-1.jpg
 permalink: /melbourne-photos/family-in-home-lifestyle-fun/

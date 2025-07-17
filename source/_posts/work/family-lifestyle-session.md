@@ -1,9 +1,7 @@
 ---
 layout: work
 title: Family - lifestyle session
-date:
-2025-07-02T19:
-14: 28.428006Z
+date: 2025-07-02
 subtitle: I loved getting to be a part of this brother and sister's world for the morning
 description: I loved getting to be a part of this brother and sister's world for the morning. It's pretty exciting to get to shoot in people's homes and be a part of their world for a couple of hours. Kids especially love showing their bedrooms, favourite toys and I love their excitement in it.
 location: Melbourne

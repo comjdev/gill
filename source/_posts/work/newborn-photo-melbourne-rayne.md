@@ -1,16 +1,14 @@
 ---
 layout: work
 title: Little Rayne
-date: 
-2025-05-01T01: 
-37: 06.031Z
-subtitle: Newborn photograhpy in Mebourne
-description: Newborn photograhpy in Melbourne
+date: 2025-05-01
+subtitle: Newborn photography in Melbourne
+description: Melbourne newborn photographer captures sweet baby Rayne in simple, beautiful session. Natural newborn photography with minimal setup and maximum love.
 location: Melbourne
 image: Newborn_photo_Melbourne_Rayne-1.jpg
 permalink: /melbourne-photos/newborn-photo-melbourne-rayne/
 categories:
- - Newborn
+  - Newborn
 ---
 
 ## Newborn Photos of sweet baby, Rayne
