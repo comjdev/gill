@@ -1,6 +1,6 @@
 <footer class="bg-primary-900">
 	<div class="p-4 py-6 mx-auto max-w-screen-xl md:p-8 lg:-10">
-		<div class="grid grid-cols-2 gap-8 lg:grid-cols-7">
+		<div class="grid grid-cols-2 gap-8 lg:grid-cols-8">
 			<div class="col-span-2">
 				<a
 					href="<%- url_for() %>"
@@ -96,20 +96,22 @@
 				</h2>
 				<ul class="text-gray-300">
 					<li class="mb-4">
-						<a href="/services/family" class="hover:underline">Family Photos</a>
+						<a href="/melbourne-family-photographer" class="hover:underline"
+							>Family Photos</a
+						>
 					</li>
 					<li class="mb-4">
-						<a href="/services/maternity" class="hover:underline"
+						<a href="/melbourne-maternity-photographer" class="hover:underline"
 							>Maternity Photos</a
 						>
 					</li>
 					<li class="mb-4">
-						<a href="/services/newborn" class="hover:underline"
+						<a href="/melbourne-newborn-photographer" class="hover:underline"
 							>Newborn Photos</a
 						>
 					</li>
 					<li class="mb-4">
-						<a href="/services/wedding" class="hover:underline"
+						<a href="/melbourne-wedding-photographer" class="hover:underline"
 							>Wedding Photos</a
 						>
 					</li>
@@ -120,7 +122,9 @@
 				<h2 class="mb-6 text-sm font-semibold text-white uppercase">Info</h2>
 				<ul class="text-gray-300">
 					<li class="mb-4">
-						<a href="/faq" class="hover:underline">FAQs</a>
+						<a href="/photography-faqs-melbourne" class="hover:underline"
+							>FAQs</a
+						>
 					</li>
 					<li class="mb-4">
 						<a href="/privacy-policy" class="hover:underline">Privacy Policy</a>
@@ -129,6 +133,9 @@
 						<a href="/terms-of-service" class="hover:underline"
 							>Terms of Service</a
 						>
+					</li>
+					<li class="mb-4">
+						<a href="/suburbs" class="hover:underline">Suburbs</a>
 					</li>
 				</ul>
 			</div>
@@ -144,6 +151,25 @@
 					<!-- Latest Blog Posts - Only show if less than 3 posts -->
 					<% var blogPosts = getBlogPosts(); if (blogPosts.length < 3) {
 					blogPosts.forEach(function(post) { %>
+					<li class="mb-4">
+						<a href="<%= url_for(post.path) %>" class="hover:underline"
+							><%= post.title %></a
+						>
+					</li>
+					<% }); } %>
+				</ul>
+			</div>
+
+			<div class="lg:mx-auto">
+				<h2 class="mb-6 text-sm font-semibold text-white uppercase">
+					Portfolio
+				</h2>
+				<ul class="text-gray-300">
+					<!-- Latest Portfolio Posts - Show latest 3 -->
+					<!-- prettier-ignore -->
+					<% var portfolioPosts = getWorkPosts(); if (portfolioPosts &&
+					portfolioPosts.length > 0) { var latestPosts = portfolioPosts.slice(0,
+					3); latestPosts.forEach(function(post) { %>
 					<li class="mb-4">
 						<a href="<%= url_for(post.path) %>" class="hover:underline"
 							><%= post.title %></a
