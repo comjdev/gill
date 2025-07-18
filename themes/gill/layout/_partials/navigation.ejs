@@ -4,9 +4,9 @@
 	>
 		<a
 			href="<%- url_for() %>"
-			class="mb-2 ml-4 font-extrabold tracking-tight leading-none"
+			class="lg:mb-2 ml-2 lg:ml-4 font-extrabold tracking-tight leading-none"
 		>
-			<span class="inline-block w-32 md:w-40 lg:w-64 logo-container">
+			<span class="inline-block w-64 sm:w-52 lg:w-64 logo-container">
 				<%- getSvg('logos/logo-horizontal.svg') %>
 			</span>
 		</a>
@@ -31,7 +31,7 @@
 			<ul
 				class="flex flex-col md:flex-row md:items-center md:gap-6 lg:gap-12 xl:gap-12"
 			>
-				<li class="border-b border-gray-100 md:border-none">
+				<li class="block md:hidden border-b border-gray-100 md:border-none">
 					<a
 						href="/"
 						class="block px-6 py-4 text-gray-800 hover:text-primary-600 transition-colors md:px-0 md:py-0 md:text-sm md:uppercase md:text-primary-700 md:hover:text-primary-500"
