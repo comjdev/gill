@@ -60,11 +60,7 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 		currenciesAccepted: "AUD",
 		paymentAccepted: "Cash, Credit Card, Bank Transfer",
 		email: config.email,
-		sameAs: [
-			"https://www.facebook.com/gilljuergensphotography",
-			"https://www.instagram.com/gilljuergensphotography/",
-			"https://www.linkedin.com/company/gilljuergensphotography",
-		],
+		sameAs: [config.social.facebook, config.social.instagram],
 		// Add image structured data
 		image: [
 			{
@@ -230,11 +226,7 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 					},
 				],
 			},
-			sameAs: [
-				"https://www.facebook.com/gilljuergensphotography",
-				"https://www.instagram.com/gilljuergensphotography/",
-				"https://www.linkedin.com/company/gilljuergensphotography",
-			],
+			sameAs: [config.social.facebook, config.social.instagram],
 			aggregateRating: {
 				"@type": "AggregateRating",
 				ratingValue: "5.0",
