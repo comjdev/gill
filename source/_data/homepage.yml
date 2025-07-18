@@ -54,15 +54,19 @@ services:
     title: "Maternity Photography"
     description: "Maternity Photography sessions are an incredibly special way to document those last quiet moments before your baby arrives. It's about celebrating your bump and this exciting part of your journey. Click through to see some of my maternity photography sessions in and around Melbourne."
     image: /img/maternity.jpg
+    link: /melbourne-maternity-photographer
 
   newborn:
     title: "Newborn Photography"
     description: "My newborn photography sessions are all about welcoming and celebrating the newest member of your family in a beautifully natural way. Let's capture some moments from your early days together. Click through to see some of my newborn photography sessions in and around Melbourne."
     image: /img/newborn.jpg
+    link: /melbourne-newborn-photographer
+
   family:
     title: "Family Photography"
     description: "By creating a relaxed and fun environment during my family photography sessions, I aim to capture the natural joy and connection of your family in beautiful photographs. Click through to see some of my family photography sessions in and around Melbourne."
     image: /img/family.jpg
+    link: /melbourne-family-photographer
 
 about:
   - "Hi, I'm Gill! Before I ever studied photography, I studied professional writing. This is so important to the way I approach each of my sessions, whether it be a maternity, newborn or family session. I bring these creative writing skills with me as I get to tell your individual story through photographs."

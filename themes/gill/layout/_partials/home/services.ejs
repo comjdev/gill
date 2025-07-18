@@ -2,29 +2,30 @@
 	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
 		<div class="text-center text-gray-900">
 			<h2
-				class="mb-4 text-4xl tracking-tight text-gill-green-500 lg:text-5xl font-light"
+				class="mb-4 text-3xl tracking-tight text-gill-green-500 lg:text-4xl xl:text-5xl font-light"
 			>
 				<%= site.data.homepage.services_title %>
 			</h2>
 			<h3
-				class="mb-4 text-lg lg:text-2xl tracking-tight text-gray-900 font-light"
+				class="mb-4 text-base lg:text-xl xl:text-2xl tracking-tight text-gray-900 font-light"
 			>
 				<%= site.data.homepage.services_subtitle %>
 			</h3>
 			<p
-				class="gap-16 items-center py-6 px-4 mx-auto max-w-screen-xl lg:py-8 lg:px-32 text-gray-500 font-light"
+				class="gap-8 items-center py-4 px-2 mx-auto max-w-screen-xl lg:py-6 lg:px-8 xl:px-32 text-gray-500 font-light text-sm sm:text-base lg:text-lg"
 			>
 				<%= site.data.homepage.services_intro %>
 			</p>
 		</div>
 		<div
-			class="grid gap-6 mt-12 lg:mt-14 lg:gap-12 md:grid-cols-3 items-stretch"
+			class="grid gap-4 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 mt-8 lg:mt-12 xl:mt-14 lg:gap-8 xl:gap-12 items-stretch"
 		>
+			<!-- prettier-ignore -->
 			<% Object.keys(site.data.homepage.services).forEach(function(serviceKey) {
-			const service = site.data.homepage.services[serviceKey]; const link =
-			`/services/${serviceKey}`; %> <%- partial('_partials/service-card', {
-			image: service.image, title: service.title, description:
-			service.description, link: link, buttonText: service.title }) %> <% }); %>
+			const service = site.data.homepage.services[serviceKey]; %> <%-
+			partial('_partials/service-card', { image: service.image, title:
+			service.title, description: service.description, link: service.link,
+			buttonText: service.title }) %> <% }); %>
 		</div>
 	</div>
 </section>

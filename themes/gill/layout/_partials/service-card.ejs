@@ -1,19 +1,19 @@
-<div class="flex mb-2 md:flex-col md:mb-0 h-full">
-	<img
-		class="mr-4 w-auto h-36 md:w-full md:h-auto object-cover"
-		src="<%= image %>"
-		alt="<%= title %> | Gill Juergens Photography"
-		loading="lazy"
-	/>
-	<div class="flex flex-col h-full">
-		<div class="flex-grow">
-			<h3
-				class="text-4xl font-[Meritocracy] font-light md:mt-4 mb-2.5 text-gray-900"
-			>
-				<%= title %>
-			</h3>
-			<p class="text-gray-900 font-light mb-4"><%= description %></p>
-		</div>
+<article
+	class="p-4 bg-white rounded-lg border border-gray-200 shadow-md flex flex-col h-full"
+>
+	<a href="<%= link %>">
+		<img
+			class="mb-5 rounded-lg w-full h-auto"
+			src="<%= image %>"
+			alt="<%= title %> | Gill Juergens Photography"
+		/>
+	</a>
+
+	<div class="flex flex-col flex-grow">
+		<h3 class="my-2 text-2xl font-light tracking-tight text-gray-900">
+			<a href="<%= link %>"><%= title %></a>
+		</h3>
+		<p class="mb-4 font-light text-gray-500 flex-grow"><%= description %></p>
 		<div class="mt-auto">
 			<a
 				href="<%= link %>"
@@ -23,4 +23,4 @@
 			</a>
 		</div>
 	</div>
-</div>
+</article>
