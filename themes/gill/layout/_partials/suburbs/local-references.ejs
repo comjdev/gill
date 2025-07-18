@@ -20,11 +20,14 @@
 
 			<% references.forEach(function(reference, index) { %>
 			<div>
-				<svg class="mx-auto mb-4 w-12 h-12 text-primary-600" fill="currentColor" viewBox="0 0 20 20">
+				<svg class="mx-auto mb-4 w-12 h-12 text-gill-green-600" fill="currentColor" viewBox="0 0 20 20">
 					<path fill-rule="evenodd" d="M5.05 4.05a7 7 0 119.9 9.9L10 18.9l-4.95-4.95a7 7 0 010-9.9zM10 11a2 2 0 100-4 2 2 0 000 4z" clip-rule="evenodd"></path>
 				</svg>
 				<h3 class="mb-2 text-xl font-light text-gray-900"><%= reference.name %></h3>
 				<p class="mb-4 text-gray-500"><%= reference.description %></p>
+				<% if (reference.link) { %>
+				<a href="<%= reference.link %>" class="text-sm text-gill-green-500 hover:text-gill-green-700">More info</a>
+				<% } %>
 			</div>
 			<% }); %>
 		</div>

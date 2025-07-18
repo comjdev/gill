@@ -47,4 +47,4 @@ My goal as your **family photographer** in **Knoxfield** is to capture more than
 
 ## Serving Knoxfield and areas of Melbourne
 
-Based in Melbourne’s eastern suburbs, I offer flexible **family photography** sessions across a variety of beautiful outdoor locations or in the comfort of your own home, whether you're in **Knoxfield**, or surrounding areas like [Croydon](/family-photos/croydon/), [Boronia](/family-photos/boronia/), [Bayswater](/family-photos/bayswater/), [Ferntree Gully](/family-photos/ferntree-gully/) or [Wantirna](/family-photos/wantirna/).
+Based in Melbourne’s eastern suburbs, I offer flexible **family photography** sessions across a variety of beautiful outdoor locations or in the comfort of your own home, whether you're in **Knoxfield**, or surrounding areas like [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Ferntree Gully](/family-photographer/ferntree-gully/) or [Wantirna](/family-photographer/wantirna/).

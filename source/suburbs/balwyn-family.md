@@ -11,10 +11,13 @@ longitude: 145.0750
 local_references:
   - name: Maranoa Gardens
     description: Beautiful botanical gardens perfect for family photos
+    link: https://www.boroondara.vic.gov.au/explore-boroondara/parks-and-reserves/view-all-parks/maranoa-botanic-gardens
   - name: Boroondara Park
     description: Open spaces and playgrounds for fun family sessions
-  - name: Balwyn Village
+    link: https://www.boroondara.vic.gov.au/parks-recreation/parks-and-sports-facilities/parks-gardens-and-sportsgrounds/boroondara-park
+  - name: Balwyn Park
     description: Charming local area with great street photography opportunities
+    link: https://www.boroondara.vic.gov.au/services/spaces-venues-and-facilities/book-space-or-venue/balwyn-park-park-area
 ---
 
 ## Capturing your Balwyn family story with natural lifestyle photography
@@ -45,4 +48,4 @@ My goal as your **family photographer** in Balwyn is to provide you with more th
 
 ## Serving Balwyn and nearby suburbs
 
-I’m based near Balwyn and love working with families across the eastern suburbs, including [Burwood](/family-photos/burwood/), [Surrey Hills](/family-photos/Surrey-hills/), [Hawthorn](/family-photos/hawthorn/), [Mont Albert](/family-photos/mont-albert/), [Camberwell](/family-photos/camberwell/) and [Deepdene](/family-photos/deepdene/). Whether you’re dreaming of an energetic outdoor adventure or a quiet, familiar space at home, I’ll guide the session in a way that feels natural to your family, capturing genuine smiles, sweet in-between moments, and everything in between.
+I’m based near Balwyn and love working with families across the eastern suburbs, including [Burwood](/family-photographer/burwood/), [Surrey Hills](/family-photographer/Surrey-hills/), [Hawthorn](/family-photographer/hawthorn/), [Mont Albert](/family-photographer/mont-albert/), [Camberwell](/family-photographer/camberwell/) and [Deepdene](/family-photographer/deepdene/). Whether you’re dreaming of an energetic outdoor adventure or a quiet, familiar space at home, I’ll guide the session in a way that feels natural to your family, capturing genuine smiles, sweet in-between moments, and everything in between.

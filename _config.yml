@@ -136,3 +136,9 @@ google_tag_manager:
 social:
   facebook: https://www.facebook.com/Gillian.Juergens.Photography/
   instagram: https://www.instagram.com/gilljuergensphotography/
+
+# Default Geolocation (for non-suburb pages)
+geolocation:
+  latitude: -37.8667
+  longitude: 145.2833
+  suburb: "Boronia"

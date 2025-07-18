@@ -47,4 +47,4 @@ As your **family photographer** in Hawthorn, I’m here to do more than take pho
 
 ## Family photography in Hawthorn and Melbourne's Eastern suburbs
 
-Serving families in **Hawthorn**, [Burwood](/family-photos/burwood/), [Malvern East](/family-photos/malvern-east/), [Surrey Hills](/family-photos/surrey-hills/), [Camberwell](/family-photos/camberwell/) [Deepdene](/family-photos/deepdene/) and surrounding suburbs, I specialise in relaxed, natural family photography. I’ll meet you at a local park or in your home, wherever your family feels most comfortable to create photos that are joyful, honest, and full of connection.
+Serving families in **Hawthorn**, [Burwood](/family-photographer/burwood/), [Malvern East](/family-photographer/malvern-east/), [Surrey Hills](/family-photographer/surrey-hills/), [Camberwell](/family-photographer/camberwell/) [Deepdene](/family-photographer/deepdene/) and surrounding suburbs, I specialise in relaxed, natural family photography. I’ll meet you at a local park or in your home, wherever your family feels most comfortable to create photos that are joyful, honest, and full of connection.

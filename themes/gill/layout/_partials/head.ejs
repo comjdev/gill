@@ -12,6 +12,9 @@ config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 
 	<meta name="description" content="<%= seoDescription() %>" />
 	<meta name="author" content="<%= page.author || config.author %>" />
+	<% if (page.layout === 'suburb' && page.suburb) { %>
+	<meta name="keywords" content="<%= localSeoKeywords(page) %>" />
+	<% } %>
 
 	<!-- Additional SEO Meta Tags -->
 	<meta name="robots" content="index, follow" />

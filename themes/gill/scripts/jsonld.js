@@ -16,8 +16,10 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 		  ];
 
 	// Determine coordinates based on page type
-	const latitude = isSuburbPage ? page.latitude : -37.8667;
-	const longitude = isSuburbPage ? page.longitude : 145.2833;
+	const latitude = isSuburbPage ? page.latitude : config.geolocation.latitude;
+	const longitude = isSuburbPage
+		? page.longitude
+		: config.geolocation.longitude;
 
 	// Base business schema
 	const baseSchema = {
@@ -112,8 +114,8 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 			"@type": "GeoCircle",
 			geoMidpoint: {
 				"@type": "GeoCoordinates",
-				latitude: -37.8667,
-				longitude: 145.2833,
+				latitude: config.geolocation.latitude,
+				longitude: config.geolocation.longitude,
 			},
 			geoRadius: "50000",
 		},
@@ -140,6 +142,9 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 				"Outdoor Photography",
 				"Melbourne Family Photography",
 				`${suburb} Photography`,
+				`${suburb} Family Photography`,
+				"Melbourne Eastern Suburbs Photography",
+				"Local Family Photographer",
 			];
 		} else if (category === "newborn") {
 			categoryDescription = `Gentle newborn photography in ${suburb}, Melbourne. Capturing those precious first days with a calm, baby-led approach.`;
@@ -151,6 +156,9 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 				"In-Home Photography",
 				"Melbourne Newborn Photography",
 				`${suburb} Photography`,
+				`${suburb} Newborn Photography`,
+				"Melbourne Eastern Suburbs Photography",
+				"Local Newborn Photographer",
 			];
 		}
 
@@ -269,7 +277,7 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 					latitude: page.latitude,
 					longitude: page.longitude,
 				},
-				geoRadius: "25000",
+				geoRadius: "15000", // 15km radius for local search optimization
 			},
 		};
 

@@ -45,4 +45,4 @@ My goal as your **family photographer** in Camberwell is to capture more than ju
 
 ## Relaxed family photos in Camberwell and the suburbs of Melbourne
 
-I work with families across **Camberwell** and neighbouring suburbs like [Burwood](/family-photos/burwood/), [Blackburn](/family-photos/blackburn/), [Hawthorn](/family-photos/hawthorn/), [Wantirna](/family-photos/wantirna/) and [Deepdene](/family-photos/deepdene/) to create natural, joyful family photos. Whether at home or outdoors in your favourite local spot, sessions are always easygoing and child-led, designed to capture the connection, character, and love that make your family yours.
+I work with families across **Camberwell** and neighbouring suburbs like [Burwood](/family-photographer/burwood/), [Blackburn](/family-photographer/blackburn/), [Hawthorn](/family-photographer/hawthorn/), [Wantirna](/family-photographer/wantirna/) and [Deepdene](/family-photographer/deepdene/) to create natural, joyful family photos. Whether at home or outdoors in your favourite local spot, sessions are always easygoing and child-led, designed to capture the connection, character, and love that make your family yours.

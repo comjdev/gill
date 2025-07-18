@@ -47,4 +47,4 @@ As your **family photographer** in Ferntree Gully, my purpose is to do more than
 
 ## Serving Ferntree Gully and areas of Melbourne with relaxed family photos
 
-While I'm based in Melbourne's eastern suburbs, I offer the flexibility of capturing your family photos in many beautiful outdoor locations, or within the convenience of your own home in **Ferntree Gully** or surrounding suburbs such as [Croydon](/family-photos/croydon/), [Boronia](/family-photos/boronia/), [Bayswater](/family-photos/bayswater/), [Burwood](/family-photos/burwood/), [Wantirna](/family-photos/wantirna/) and [Knoxfield](family-photos/Knoxfield/).
+While I'm based in Melbourne's eastern suburbs, I offer the flexibility of capturing your family photos in many beautiful outdoor locations, or within the convenience of your own home in **Ferntree Gully** or surrounding suburbs such as [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Burwood](/family-photographer/burwood/), [Wantirna](/family-photographer/wantirna/) and [Knoxfield](family-photos/Knoxfield/).

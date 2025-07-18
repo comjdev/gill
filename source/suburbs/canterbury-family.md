@@ -45,4 +45,4 @@ My goal as your **family photographer** in Canterbury is to capture more than ju
 
 ## Capturing real moments in Canterbury and nearby suburbs
 
-Working with families in [Burwood](/family-photos/burwood/), [Blackburn](/family-photos/blackburn/), [Hawthorn](/family-photos/hawthorn/), [Mont Albert](/family-photos/mont-albert/) and [Deepdene](/family-photos/deepdene/), as well as throughout Melbourne’s eastern suburbs, I specialise in lifestyle photography that celebrates your family’s everyday magic. From the giggles to the chaos, every moment matters and I’m here to capture it all, just as it is.
+Working with families in [Burwood](/family-photographer/burwood/), [Blackburn](/family-photographer/blackburn/), [Hawthorn](/family-photographer/hawthorn/), [Mont Albert](/family-photographer/mont-albert/) and [Deepdene](/family-photographer/deepdene/), as well as throughout Melbourne’s eastern suburbs, I specialise in lifestyle photography that celebrates your family’s everyday magic. From the giggles to the chaos, every moment matters and I’m here to capture it all, just as it is.

@@ -45,4 +45,4 @@ As your dedicated **family photographer** in Croydon, my goal is to create more 
 
 ## Capturing real moments in Croydon and beyond
 
-Based near Croydon, I photograph families across [Boronia](/family-photos/boronia/), [Bayswater](/family-photos/bayswater/), [Ferntree Gully](/family-photos/ferntree-gully/), [Wantirna](/family-photos/wantirna/), [Knoxfield](family-photos/Knoxfield/) and nearby suburbs. My sessions are flexible and relaxed, built around your kids’ natural rhythm. Whether it’s an afternoon in your backyard or a walk through a local reserve, I’ll create images that reflect your family’s personality and connection.
+Based near Croydon, I photograph families across [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Wantirna](/family-photographer/wantirna/), [Knoxfield](family-photos/Knoxfield/) and nearby suburbs. My sessions are flexible and relaxed, built around your kids’ natural rhythm. Whether it’s an afternoon in your backyard or a walk through a local reserve, I’ll create images that reflect your family’s personality and connection.

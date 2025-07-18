@@ -55,4 +55,4 @@ Through gentle, natural **baby photography**, I aim to preserve not just how you
 
 ## Newborn photography in Ringwood and nearby suburbs
 
-Although I’m based in Melbourne’s eastern suburbs, I’m proud to offer relaxed, lifestyle newborn photography to families in **Ringwood** and the neighbouring suburbs. I often travel to homes in [Croydon](newborn-photos/croydon/), [Wantirna](newborn-photos/wantirna/), [Bayswater](newborn-photos/bayswater/), [Burwood](newborn-photos/burwood/), [Rowville](newborn-photos/rowville/) and other nearby areas, capturing those early moments in the comfort of your own space.
+Although I’m based in Melbourne’s eastern suburbs, I’m proud to offer relaxed, lifestyle newborn photography to families in **Ringwood** and the neighbouring suburbs. I often travel to homes in [Croydon](newborn-photographer/croydon/), [Wantirna](newborn-photographer/wantirna/), [Bayswater](newborn-photographer/bayswater/), [Burwood](newborn-photographer/burwood/), [Rowville](newborn-photographer/rowville/) and other nearby areas, capturing those early moments in the comfort of your own space.

@@ -61,13 +61,13 @@ hexo.extend.helper.register("seoDescription", function () {
 		const suburb = page.suburb;
 		const category = page.category;
 
-		// Category-specific descriptions for local SEO
+		// Category-specific descriptions for local SEO with location optimization
 		if (category === "family") {
-			return `Professional family photographer in ${suburb}, Melbourne. Natural, relaxed family photography sessions in ${suburb} and surrounding areas. Book your ${suburb} family photos today.`;
+			return `Professional family photographer in ${suburb}, Melbourne. Natural, relaxed family photography sessions in ${suburb} and surrounding areas. Serving ${suburb}, Melbourne's Eastern Suburbs and nearby locations. Book your ${suburb} family photos today.`;
 		} else if (category === "newborn") {
-			return `Gentle newborn photographer in ${suburb}, Melbourne. Capturing precious first days with calm, baby-led sessions in ${suburb} and nearby areas. Book your ${suburb} newborn photos.`;
+			return `Gentle newborn photographer in ${suburb}, Melbourne. Capturing precious first days with calm, baby-led sessions in ${suburb} and nearby areas. Serving ${suburb}, Melbourne's Eastern Suburbs and surrounding locations. Book your ${suburb} newborn photos.`;
 		} else if (category === "maternity") {
-			return `Beautiful maternity photographer in ${suburb}, Melbourne. Capturing your pregnancy journey with natural, elegant sessions in ${suburb} and surrounding areas. Book your ${suburb} maternity photos.`;
+			return `Beautiful maternity photographer in ${suburb}, Melbourne. Capturing your pregnancy journey with natural, elegant sessions in ${suburb} and surrounding areas. Serving ${suburb}, Melbourne's Eastern Suburbs and nearby locations. Book your ${suburb} maternity photos.`;
 		}
 	}
 

@@ -53,4 +53,4 @@ If you're ready to document this precious new season of life, I’d love to help
 
 ## Newborn photography in Boronia and neighbouring suburbs
 
-While I’m based near Boronia, I also offer **newborn photography** in nearby suburbs such as [Bayswater](newborn-photos/bayswater/), [Ferntree Gully](newborn-photos/ferntree-gully/), [Knoxfield](newborn-photos/knoxfield/), [Croydon](newborn-photos/croydon/), [Wantirna](newborn-photos/wantirna/), and [Scoresby](newborn-photos/scoresby/). If you're located in Melbourne’s eastern suburbs and looking for natural, storytelling-style **newborn photos**, I’d love to come to you.
+While I’m based near Boronia, I also offer **newborn photography** in nearby suburbs such as [Bayswater](newborn-photographer/bayswater/), [Ferntree Gully](newborn-photographer/ferntree-gully/), [Knoxfield](newborn-photographer/knoxfield/), [Croydon](newborn-photographer/croydon/), [Wantirna](newborn-photographer/wantirna/), and [Scoresby](newborn-photographer/scoresby/). If you're located in Melbourne’s eastern suburbs and looking for natural, storytelling-style **newborn photos**, I’d love to come to you.

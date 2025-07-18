@@ -45,4 +45,4 @@ As your **family photographer** in Deepdene, my aim is to go beyond just taking 
 
 ## Family photography in Deepdene and Melbourne's east
 
-I offer relaxed, natural family photography sessions in [Burwood](/family-photos/burwood/), [Blackburn](/family-photos/blackburn/), [Hawthorn](/family-photos/hawthorn/), [Camberwell](/family-photos/camberwell/), [Surrey Hills](/family-photos/surrey-hills/) and the surrounding eastern suburbs of Melbourne. Whether it’s a laid-back shoot at home or a playful session in your local park, we’ll capture the real moments, connection, laughter, and everything in between.
+I offer relaxed, natural family photography sessions in [Burwood](/family-photographer/burwood/), [Blackburn](/family-photographer/blackburn/), [Hawthorn](/family-photographer/hawthorn/), [Camberwell](/family-photographer/camberwell/), [Surrey Hills](/family-photographer/surrey-hills/) and the surrounding eastern suburbs of Melbourne. Whether it’s a laid-back shoot at home or a playful session in your local park, we’ll capture the real moments, connection, laughter, and everything in between.
