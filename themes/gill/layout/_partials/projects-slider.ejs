@@ -7,6 +7,9 @@ var heading = typeof heading !== 'undefined' ? heading : 'Latest Photo Shoots';
 var suburb = typeof suburb !== 'undefined' ? suburb : 'Melbourne';
 var subtitle = typeof subtitle !== 'undefined' ? subtitle : 'Explore my recent shoots and successful work in Melbourne.';
 var showCategoryInHeading = typeof showCategoryInHeading !== 'undefined' ? showCategoryInHeading : false;
+var containerType = typeof containerType !== 'undefined' ? containerType : 'section';
+var swiperClass = typeof swiperClass !== 'undefined' ? swiperClass : 'projects-slider';
+var mode = typeof mode !== 'undefined' ? mode : 'general'; // 'general' or 'related'
 
 // Generate heading based on category if specified
 if (category && showCategoryInHeading) {
@@ -14,28 +17,52 @@ if (category && showCategoryInHeading) {
     subtitle = 'Explore my recent ' + category + ' work and successful photo shoots in ' + suburb + ' and surrounding areas.';
 }
 
-var filteredPosts = site.posts.filter(function(post) {
-    var isWorkPost = post.layout === 'work';
-    if (category) {
-        var hasCategory = post.categories && post.categories.some(function(cat) {
-            return cat.name.toLowerCase() === category.toLowerCase();
+var filteredPosts;
+if (mode === 'related') {
+    // Related projects mode - filter by shared categories with current page
+    var pageCategories = page.categories.map(function(category) {
+        return category.name;
+    });
+
+    filteredPosts = site.posts.filter(function(post) {
+        var isWorkPost = post.layout === 'work';
+        var hasSameCategory = post.categories.some(function(category) {
+            return pageCategories.includes(category.name);
         });
-        return isWorkPost && hasCategory;
-    }
-    return isWorkPost;
-}).slice(0, limit);
+        var sameAsCurrentPost = post.title === page.title;
+        return isWorkPost && hasSameCategory && !sameAsCurrentPost;
+    });
+} else {
+    // General mode - filter by category if specified
+    filteredPosts = site.posts.filter(function(post) {
+        var isWorkPost = post.layout === 'work';
+        if (category) {
+            var hasCategory = post.categories && post.categories.some(function(cat) {
+                return cat.name.toLowerCase() === category.toLowerCase();
+            });
+            return isWorkPost && hasCategory;
+        }
+        return isWorkPost;
+    }).slice(0, limit);
+}
 %>
 
-<section class="py-8 lg:py-24 bg-white">
-	<div class="px-4 mx-auto max-w-screen-xl">
+<<%= containerType %> class="<%= containerType === 'aside' ? 'bg-white' : 'py-8 lg:py-24 bg-white' %>">
+	<div class="<%= containerType === 'aside' ? 'max-w-screen-xl px-4 py-8 mx-auto lg:px-6 sm:py-8' : 'px-4 mx-auto max-w-screen-xl' %>">
+		<% if (containerType === 'aside') { %>
+		<h3 class="text-2xl font-light leading-none text-gray-900 md:text-3xl lg:text-4xl my-4">
+			<%= heading %>
+		</h3>
+		<% } else { %>
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
 			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
 				<%= heading %>
 			</h2>
 			<p class="font-light text-gray-900 sm:text-xl"><%= subtitle %></p>
 		</div>
+		<% } %>
 
-		<div class="swiper projects-slider">
+		<div class="swiper <%= swiperClass %>">
 			<div class="swiper-wrapper">
 				<% filteredPosts.forEach(function(project, index) { %>
 				<div class="swiper-slide">
@@ -47,13 +74,13 @@ var filteredPosts = site.posts.filter(function(post) {
 	</div>
 
 	<script>
-		var projectsSlider = new Swiper(".projects-slider", {
+		var sliderSwiper = new Swiper(".<%= swiperClass %>", {
 			slidesPerView: 2,
 			spaceBetween: 30,
 			loop: true,
-			speed: 1500,
+			speed: 2000,
 			autoplay: {
-				delay: 1000,
+				delay: 3000,
 				pauseOnMouseEnter: true,
 			},
 			breakpoints: {
@@ -72,4 +99,4 @@ var filteredPosts = site.posts.filter(function(post) {
 			},
 		});
 	</script>
-</section>
+</<%= containerType %>>
