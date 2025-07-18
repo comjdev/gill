@@ -17,6 +17,20 @@ if (categoryTestimonials.length > 0) {
     // Find the original index of this testimonial in the full array
     randomTestimonialIndex = allTestimonials.indexOf(randomTestimonial);
 }
+
+var imageAlt = typeof page.title !== 'undefined' && page.title ? page.title : 'Family Photography in ' + page.suburb;
+if(page.category === 'newborn') {
+    imageAlt = 'Lifestyle photo of new parents and their newborn baby in their ' + page.suburb + ' home.';
+}
+if(page.category === 'family') {
+    imageAlt = 'Lifestyle photo of a family from ' + page.suburb + ' at a Melbourne beach.';
+}
+if(page.category === 'maternity') {
+    imageAlt = 'Lifestyle photo of a pregnant woman from ' + page.suburb + ' at a Melbourne beach.';
+}
+if(page.category === 'wedding') {
+    imageAlt = 'Lifestyle photo of a ' + page.suburb + ' wedding couple.';
+}
 %>
 
 <main class="pb-48 lg:pb-60 bg-gill-green-100 antialiased">
@@ -54,6 +68,13 @@ if (categoryTestimonials.length > 0) {
 		>
 			<header class="lead"><%= page.description %></header>
 			<main>
+				<div class="not-format">
+					<a
+						href="/melbourne-<%= page.category %>-photographer/"
+						class="uppercase inline-block mb-8 bg-gill-green-400 text-white hover:bg-gill-green-600 rounded-md px-7 py-3 no-underline"
+						><%= page.category %> photography</a
+					>
+				</div>
 				<%- page.content %>
 				<!-- prettier-ignore -->
 				<div class="not-format">
