@@ -1,7 +1,7 @@
 ---
 layout: work
 title: The colourful wedding of Mike and Morgan
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: Colourful wedding photography in Melbourne
 description: Melbourne wedding photographer captures Mike and Morgan's colourful, laughter-filled wedding. Natural wedding photography with fun, love, and their dog Diesel.
 location: Melbourne
@@ -9,6 +9,8 @@ image: wedding-the-colourful-wedding-of-mike-and-morgan-1.jpg
 permalink: /melbourne-photos/wedding-the-colourful-wedding-of-mike-and-morgan/
 categories:
   - Family
+hero: wedding-the-colourful-wedding-of-mike-and-morgan-1.jpg
+featured: wedding-the-colourful-wedding-of-mike-and-morgan-10.jpg
 ---
 
 ## The colourful wedding of Mike and Morgan

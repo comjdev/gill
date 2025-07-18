@@ -1,7 +1,7 @@
 ---
 layout: work
 title: First birthday milestones
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: What better way to celebrate your baby???s first B...
 description: Melbourne family photographer captures first birthday milestone celebration. Natural family photography session documenting baby's growth and special birthday memories.
 location: Melbourne
@@ -9,6 +9,8 @@ image: family-first-birthday-milestones-1.jpg
 permalink: /melbourne-photos/family-first-birthday-milestones/
 categories:
   - Family
+hero: family-first-birthday-milestones-1.jpg
+featured: family-first-birthday-milestones-10.jpg
 ---
 
 ## First birthday milestones

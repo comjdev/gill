@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Baby Mateo
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: Newborn photography in Melbourne
 description: Melbourne newborn photographer captures baby Mateo's first days. Natural newborn photography with loving family, devoted big sister, and heartwarming moments.
 location: Melbourne
@@ -9,6 +9,8 @@ image: newborn-baby-mateo-1.jpg
 permalink: /melbourne-photos/newborn-baby-mateo/
 categories:
   - Newborn
+hero: newborn-baby-mateo-1.jpg
+featured: newborn-baby-mateo-10.jpg
 ---
 
 ## Baby Mateo

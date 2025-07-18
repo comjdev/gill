@@ -3,10 +3,10 @@
 	class="w-full bg-white border border-gray-200 shadow-sm flex flex-col group"
 >
 	<a href="<%= url_for(post.path) %>" class="relative overflow-hidden">
-		<% if (post.image) { %>
+		<% if (post.hero || post.image) { %>
 		<img
 			class="w-full h-72 md:h-96 lg:h-128 object-cover transition-all duration-300 lg:group-hover:scale-105 lg:group-hover:brightness-75 lg:group-hover:blur-sm"
-			src="<%= url_for(post.__permalink + post.image) %>"
+			src="<%= url_for(post.__permalink + (post.hero || post.image)) %>"
 			alt="<%= post.title %> | Gill Juergens Photography"
 			loading="lazy"
 		/>

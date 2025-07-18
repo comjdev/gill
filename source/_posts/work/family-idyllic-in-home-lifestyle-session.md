@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Idyllic in home lifestyle session
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: I honestly struggled to cull out the ???bad' pho...
 description: Melbourne family photographer captures idyllic in-home lifestyle session. Natural family photography with laughter, giggles and perfect combination of chaos and calm.
 location: Melbourne
@@ -9,6 +9,8 @@ image: family-idyllic-in-home-lifestyle-session-1.jpg
 permalink: /melbourne-photos/family-idyllic-in-home-lifestyle-session/
 categories:
   - Family
+hero: family-idyllic-in-home-lifestyle-session-1.jpg
+featured: family-idyllic-in-home-lifestyle-session-10.jpg
 ---
 
 ## Idyllic in home lifestyle session

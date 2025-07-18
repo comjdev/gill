@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Engagement - in home photos with Diesel the dog
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: With each wedding, I offer to do an engagement ses...
 description: With each wedding, I offer to do an engagement session as this really gives us a chance to get to know each other. After all, I am going to be there for a large part of your wedding day!
 location: Melbourne
@@ -9,6 +9,8 @@ image: engagement-in-home-photos-with-diesel-the-dog-1.jpg
 permalink: /melbourne-photos/engagement-in-home-photos-with-diesel-the-dog/
 categories:
   - Wedding
+hero: engagement-in-home-photos-with-diesel-the-dog-1.jpg
+featured: engagement-in-home-photos-with-diesel-the-dog-10.jpg
 ---
 
 ## Engagement - in home photos with Diesel the dog

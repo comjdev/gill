@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Engagement - love in the hills
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: This has been one of my favourite engagement shoot...
 description: Melbourne engagement photographer captures love in the Dandenong Ranges. Natural engagement photography session with beautiful hills backdrop and relaxed atmosphere.
 location: Melbourne
@@ -9,6 +9,8 @@ image: engagement-love-in-the-hills-1.jpg
 permalink: /melbourne-photos/engagement-love-in-the-hills/
 categories:
   - Wedding
+hero: engagement-love-in-the-hills-1.jpg
+featured: engagement-love-in-the-hills-10.jpg
 ---
 
 ## Engagement - love in the hills

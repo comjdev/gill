@@ -1,7 +1,7 @@
 ---
 layout: work
 title: In home lifestyle fun
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: I'd taken Steph's maternity photos six months before
 description: Melbourne family photographer captures in-home lifestyle session. Natural family photography with relaxed baby Oscar and loving parents in warm, intimate setting.
 location: Melbourne
@@ -9,6 +9,8 @@ image: family-in-home-lifestyle-fun-1.jpg
 permalink: /melbourne-photos/family-in-home-lifestyle-fun/
 categories:
   - Family
+hero: family-in-home-lifestyle-fun-1.jpg
+featured: family-in-home-lifestyle-fun-10.jpg
 ---
 
 ## In home lifestyle fun

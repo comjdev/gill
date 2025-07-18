@@ -1,9 +1,9 @@
 ---
+'14': 27.738991Z
 layout: work
 title: Baby bump at the beach
-date: 2025-07-02
-2025-07-02T18:
-14: 27.738991Z
+date: 2025-07-02T00:00:00.000Z
+2025-07-02T18: null
 subtitle: I'm more of a summer person than a winter person b...
 description: I'm more of a summer person than a winter person but these maternity photos of Sarah's bare bump and knitted jumper in this beautiful winter light might have won me over.
 location: Melbourne
@@ -11,6 +11,8 @@ image: baby-bump-at-the-beach-1.jpg
 permalink: /melbourne-photos/baby-bump-at-the-beach/
 categories:
   - Maternity
+hero: baby-bump-at-the-beach-1.jpg
+featured: baby-bump-at-the-beach-10.jpg
 ---
 
 ## Baby bump at the beach

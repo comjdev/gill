@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Bright and Colourful Newborn Photos
-date: 2025-05-01
+date: 2025-05-01T00:00:00.000Z
 subtitle: Newborn photography in Melbourne
 description: Melbourne newborn photographer captures bright and colorful newborn photos. Natural newborn photography session with family including big brother and beautiful home styling.
 location: Melbourne
@@ -9,6 +9,8 @@ image: Newborn_Family_Melbourne-1.jpg
 permalink: /melbourne-photos/bright-and-happy-newborn-photos/
 categories:
   - Newborn
+hero: Newborn_Family_Melbourne-10.jpg
+featured: Newborn_Family_Melbourne-11.jpg
 ---
 
 ## Bright and Colourful Newborn Photos

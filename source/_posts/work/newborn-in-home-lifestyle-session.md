@@ -1,7 +1,7 @@
 ---
 layout: work
 title: In home lifestyle session
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: There was something extra special about photograph...
 description: Melbourne newborn photographer captures first birth experience in home lifestyle session. Natural newborn photography with special connection and family settling in moments.
 location: Melbourne
@@ -9,6 +9,8 @@ image: newborn-in-home-lifestyle-session-1.jpg
 permalink: /melbourne-photos/newborn-in-home-lifestyle-session/
 categories:
   - Newborn
+hero: newborn-in-home-lifestyle-session-1.jpg
+featured: newborn-in-home-lifestyle-session-11.jpg
 ---
 
 ## In home lifestyle session

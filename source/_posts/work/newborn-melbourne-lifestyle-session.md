@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Melbourne lifestyle session
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: Sweet baby Lana was more than happy to let me take...
 description: Melbourne newborn photographer captures sweet baby Lana in lifestyle session. Natural newborn photography with big brother Ollie helping and guitar serenade moments.
 location: Melbourne
@@ -9,6 +9,8 @@ image: newborn-melbourne-lifestyle-session-1.jpg
 permalink: /melbourne-photos/newborn-melbourne-lifestyle-session/
 categories:
   - Newborn
+hero: newborn-melbourne-lifestyle-session-1.jpg
+featured: newborn-melbourne-lifestyle-session-10.jpg
 ---
 
 ## Melbourne lifestyle session

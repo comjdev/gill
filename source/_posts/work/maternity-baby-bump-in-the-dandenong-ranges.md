@@ -1,14 +1,16 @@
 ---
 layout: work
 title: Baby bump in The Dandenong Ranges
-date: 2025-07-02
+date: 2025-07-02T00:00:00.000Z
 subtitle: There???s something extra special about a maternit...
 description: Melbourne maternity photographer captures beautiful baby bump in the Dandenong Ranges. Natural maternity photography session in Olinda with special connection and excitement.
 location: Olinda, The Dandenong Ranges, Melbourne
-image: maternity-baby-bump-in-the-dandenong-ranges-1.jpg
+image: maternity-baby-bump-in-the-dandenong-ranges-16.jpg
 permalink: /melbourne-photos/maternity-baby-bump-in-the-dandenong-ranges/
 categories:
   - Maternity
+hero: maternity-baby-bump-in-the-dandenong-ranges-16.jpg
+featured: maternity-baby-bump-in-the-dandenong-ranges-16.jpg
 ---
 
 ## Baby bump in The Dandenong Ranges

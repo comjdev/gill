@@ -1,9 +1,9 @@
 ---
+'12': 56.571424Z
 layout: work
 title: Fun at Flinders
-date: 2025-07-02
-2025-07-02T19:
-12: 56.571424Z
+date: 2025-07-02T00:00:00.000Z
+2025-07-02T19: null
 subtitle: This is one of the most popular places to take pho...
 description: This is one of the most popular places to take photos at on the Mornington Peninsula and it's easy to see why. We had so much fun exploring and thanks to 2 year old Sebastian, I got my exercise for the day :D
 location: Melbourne
@@ -11,6 +11,8 @@ image: family-fun-at-flinders-1.jpg
 permalink: /melbourne-photos/family-fun-at-flinders/
 categories:
   - Family
+hero: family-fun-at-flinders-1.jpg
+featured: family-fun-at-flinders-10.jpg
 ---
 
 ## Fun at Flinders
