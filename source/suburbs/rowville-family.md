@@ -1,6 +1,6 @@
 ---
 suburb: Rowville
-title: Family photos in Rowville
+title: Family photographer in Rowville
 subtitle: Capturing your precious moments in Rowville with relaxed family photos
 description: Capture your Rowville family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

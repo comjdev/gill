@@ -1,6 +1,6 @@
 ---
 suburb: Balwyn
-title: Newborn photos in Balwyn
+title: Newborn photographer in Balwyn
 subtitle: Capturing your precious newborn moments in Balwyn with gentle photography
 description: Capture your Balwyn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

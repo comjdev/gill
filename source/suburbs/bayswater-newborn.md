@@ -1,6 +1,6 @@
 ---
 suburb: Bayswater
-title: Newborn photos in Bayswater
+title: Newborn photographer in Bayswater
 subtitle: Capturing your precious newborn moments in Bayswater with gentle photography
 description: Capture your Bayswater newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

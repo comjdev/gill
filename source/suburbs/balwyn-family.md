@@ -1,6 +1,6 @@
 ---
 suburb: Balwyn
-title: Family photos in Balwyn
+title: Family photographer in Balwyn
 subtitle: Capturing your precious moments in Balwyn with relaxed family photos
 description: Capture your Balwyn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

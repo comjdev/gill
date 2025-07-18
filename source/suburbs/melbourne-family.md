@@ -1,6 +1,6 @@
 ---
 suburb: Melbourne
-title: Family photos in Melbourne
+title: Family photographer in Melbourne
 subtitle: Capturing your precious moments in Melbourne with fun and relaxed family photos
 description: I'll document the love and laughter that defines your Melbourne family, either at home or in one of Melbourne's many beautiful outdoor spaces.
 layout: suburb

@@ -1,6 +1,6 @@
 ---
 suburb: Malvern East
-title: Newborn photos in Malvern East
+title: Newborn photographer in Malvern East
 subtitle: Capturing your precious newborn moments in Malvern East with gentle photography
 description: Capture your Malvern East newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

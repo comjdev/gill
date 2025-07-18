@@ -1,6 +1,6 @@
 ---
 suburb: Ferntree Gully
-title: Newborn photos in Ferntree Gully
+title: Newborn photographer in Ferntree Gully
 subtitle: Capturing your precious newborn moments in Ferntree Gully with gentle photography
 description: Capture your Ferntree Gully newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

@@ -1,6 +1,6 @@
 ---
 suburb: Blackburn
-title: Newborn photos in Blackburn
+title: Newborn photographer in Blackburn
 subtitle: Capturing your precious newborn moments in Blackburn with gentle photography
 description: Capture your Blackburn newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

@@ -1,6 +1,6 @@
 ---
 suburb: Surrey Hills
-title: Family photos in Surrey Hills
+title: Family photographer in Surrey Hills
 subtitle: Capturing your precious moments in Surrey Hills with relaxed family photos
 description: Capture your Surrey Hills family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

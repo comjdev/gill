@@ -1,6 +1,6 @@
 ---
 suburb: Blackburn
-title: Family photos in Blackburn
+title: Family photographer in Blackburn
 subtitle: Capturing your precious moments in Blackburn with relaxed family photos
 description: Capture your Blackburn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

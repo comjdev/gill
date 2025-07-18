@@ -1,6 +1,6 @@
 ---
 suburb: Bayswater
-title: Family photos in Bayswater
+title: Family photographer in Bayswater
 subtitle: Capturing your precious moments in Bayswater with relaxed family photos
 description: Capture your Bayswater family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

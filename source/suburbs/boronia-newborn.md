@@ -1,6 +1,6 @@
 ---
 suburb: Boronia
-title: Newborn photos in Boronia
+title: Newborn photographer in Boronia
 subtitle: Capturing your precious newborn moments in Boronia with gentle photography
 description: Capture your Boronia newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

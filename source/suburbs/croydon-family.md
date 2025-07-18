@@ -1,6 +1,6 @@
 ---
 suburb: Croydon
-title: Family photos in Croydon
+title: Family photographer in Croydon
 subtitle: Capturing your precious moments in Croydon with relaxed family photos
 description: Capture your Croydon family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

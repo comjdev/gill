@@ -1,6 +1,6 @@
 ---
 suburb: Scoresby
-title: Newborn photos in Scoresby
+title: Newborn photographer in Scoresby
 subtitle: Capturing your precious newborn moments in Scoresby with gentle photography
 description: Capture your Scoresby newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

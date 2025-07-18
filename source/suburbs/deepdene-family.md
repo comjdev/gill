@@ -1,6 +1,6 @@
 ---
 suburb: Deepdene
-title: Family photos in Deepdene
+title: Family photographer in Deepdene
 subtitle: Capturing your precious moments in Deepdene with relaxed family photos
 description: Capture your Deepdene family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

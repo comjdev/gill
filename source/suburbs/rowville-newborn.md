@@ -1,6 +1,6 @@
 ---
 suburb: Rowville
-title: Newborn photos in Rowville
+title: Newborn photographer in Rowville
 subtitle: Capturing your precious newborn moments in Rowville with gentle photography
 description: Capture your Rowville newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

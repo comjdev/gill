@@ -1,6 +1,6 @@
 ---
 suburb: Camberwell
-title: Family photos in Camberwell
+title: Family photographer in Camberwell
 subtitle: Capturing your precious moments in Camberwell with relaxed family photos
 description: Capture your Camberwell family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

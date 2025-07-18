@@ -1,6 +1,6 @@
 ---
 suburb: Hawthorn
-title: Family photos in Hawthorn
+title: Family photographer in Hawthorn
 subtitle: Capturing your precious moments in Hawthorn with relaxed family photos
 description: Capture your Hawthorn family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

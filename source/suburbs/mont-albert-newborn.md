@@ -1,6 +1,6 @@
 ---
 suburb: Mont Albert
-title: Newborn photos in Mont Albert
+title: Newborn photographer in Mont Albert
 subtitle: Capturing your precious newborn moments in Mont Albert with gentle photography
 description: Capture your Mont Albert newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

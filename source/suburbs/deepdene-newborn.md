@@ -1,6 +1,6 @@
 ---
 suburb: Deepdene
-title: Newborn photos in Deepdene
+title: Newborn photographer in Deepdene
 subtitle: Capturing your precious newborn moments in Deepdene with gentle photography
 description: Capture your Deepdene newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

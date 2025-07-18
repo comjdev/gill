@@ -1,6 +1,6 @@
 ---
 suburb: Malvern East
-title: Family photos in Malvern East
+title: Family photographer in Malvern East
 subtitle: Capturing your precious moments in Malvern East with relaxed family photos
 description: Capture your Malvern East family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

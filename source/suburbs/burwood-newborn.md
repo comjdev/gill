@@ -1,6 +1,6 @@
 ---
 suburb: Burwood
-title: Newborn photos in Burwood
+title: Newborn photographer in Burwood
 subtitle: Capturing your precious newborn moments in Burwood with gentle photography
 description: Capture your Burwood newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

@@ -1,6 +1,6 @@
 ---
 suburb: Scoresby
-title: Family photos in Scoresby
+title: Family photographer in Scoresby
 subtitle: Capturing your precious moments in Scoresby with relaxed family photos
 description: Capture your Scoresby family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

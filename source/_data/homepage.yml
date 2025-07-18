@@ -50,6 +50,12 @@ services_subtitle: "Capturing the heart of your family story"
 services_intro: "As a Melbourne-based photographer specialising in maternity, newborn, and family photography, I’ve spent over a decade documenting the beautiful, unscripted moments that make each family unique. My sessions are relaxed, playful, and guided—so even if you're not used to being in front of the camera, you’ll feel comfortable and at ease. Whether it’s the quiet bond between parents and a newborn, the joy of an expecting mum, or the laughter of siblings, I’m here to capture your story just as it unfolds—honestly and naturally."
 
 services:
+  family:
+    title: "Family Photography"
+    description: "By creating a relaxed and fun environment during my family photography sessions, I aim to capture the natural joy and connection of your family in beautiful photographs. Click through to see some of my family photography sessions in and around Melbourne."
+    image: /img/family.jpg
+    link: /melbourne-family-photographer
+
   maternity:
     title: "Maternity Photography"
     description: "Maternity Photography sessions are an incredibly special way to document those last quiet moments before your baby arrives. It's about celebrating your bump and this exciting part of your journey. Click through to see some of my maternity photography sessions in and around Melbourne."
@@ -61,12 +67,6 @@ services:
     description: "My newborn photography sessions are all about welcoming and celebrating the newest member of your family in a beautifully natural way. Let's capture some moments from your early days together. Click through to see some of my newborn photography sessions in and around Melbourne."
     image: /img/newborn.jpg
     link: /melbourne-newborn-photographer
-
-  family:
-    title: "Family Photography"
-    description: "By creating a relaxed and fun environment during my family photography sessions, I aim to capture the natural joy and connection of your family in beautiful photographs. Click through to see some of my family photography sessions in and around Melbourne."
-    image: /img/family.jpg
-    link: /melbourne-family-photographer
 
 about:
   - "Hi, I'm Gill! Before I ever studied photography, I studied professional writing. This is so important to the way I approach each of my sessions, whether it be a maternity, newborn or family session. I bring these creative writing skills with me as I get to tell your individual story through photographs."

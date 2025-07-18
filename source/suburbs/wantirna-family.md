@@ -1,6 +1,6 @@
 ---
 suburb: Wantirna
-title: Family photos in Wantirna
+title: Family photographer in Wantirna
 subtitle: Capturing your precious moments in Wantirna with relaxed family photos
 description: Capture your Wantirna family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

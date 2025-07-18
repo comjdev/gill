@@ -1,6 +1,6 @@
 ---
 suburb: Croydon
-title: Newborn photos in Croydon
+title: Newborn photographer in Croydon
 subtitle: Capturing your precious newborn moments in Croydon with gentle photography
 description: Capture your Croydon newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

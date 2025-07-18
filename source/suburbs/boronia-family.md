@@ -1,6 +1,6 @@
 ---
 suburb: Boronia
-title: Family photos in Boronia
+title: Family photographer in Boronia
 subtitle: Capturing your precious moments in Boronia with relaxed family photos
 description: Capture your Boronia family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

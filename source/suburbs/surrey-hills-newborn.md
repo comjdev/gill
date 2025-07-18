@@ -1,6 +1,6 @@
 ---
 suburb: Surrey Hills
-title: Newborn photos in Surrey Hills
+title: Newborn photographer in Surrey Hills
 subtitle: Capturing your precious newborn moments in Surrey Hills with gentle photography
 description: Capture your Surrey Hills newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

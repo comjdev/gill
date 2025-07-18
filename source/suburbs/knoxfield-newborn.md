@@ -1,6 +1,6 @@
 ---
 suburb: Knoxfield
-title: Newborn photos in Knoxfield
+title: Newborn photographer in Knoxfield
 subtitle: Capturing your precious newborn moments in Knoxfield with gentle photography
 description: Capture your Knoxfield newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

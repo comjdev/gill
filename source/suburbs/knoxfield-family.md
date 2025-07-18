@@ -1,6 +1,6 @@
 ---
 suburb: Knoxfield
-title: Family photos in Knoxfield
+title: Family photographer in Knoxfield
 subtitle: Capturing your precious moments in Knoxfield with relaxed family photos
 description: Capture your Knoxfield family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

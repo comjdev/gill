@@ -1,6 +1,6 @@
 ---
 suburb: Wantirna
-title: Newborn photos in Wantirna
+title: Newborn photographer in Wantirna
 subtitle: Capturing your precious newborn moments in Wantirna with gentle photography
 description: Capture your Wantirna newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

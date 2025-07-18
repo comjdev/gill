@@ -1,6 +1,6 @@
 ---
 suburb: Melbourne
-title: Newborn photos in Melbourne
+title: Newborn photographer in Melbourne
 subtitle: Capturing your precious newborn moments in Melbourne with gentle photography
 description: Capture your Melbourne newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

@@ -1,6 +1,6 @@
 ---
 suburb: Camberwell
-title: Newborn photos in Camberwell
+title: Newborn photographer in Camberwell
 subtitle: Capturing your precious newborn moments in Camberwell with gentle photography
 description: Capture your Camberwell newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb

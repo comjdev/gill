@@ -1,6 +1,6 @@
 ---
 suburb: Ferntree Gully
-title: Family photos in Ferntree Gully
+title: Family photographer in Ferntree Gully
 subtitle: Capturing your precious moments in Ferntree Gully with relaxed family photos
 description: Capture your Ferntree Gully family with fun and relaxed photography. Family sessions are available in your home or at scenic Melbourne locations.
 layout: suburb

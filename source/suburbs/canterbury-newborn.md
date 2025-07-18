@@ -1,6 +1,6 @@
 ---
 suburb: Canterbury
-title: Newborn photos in Canterbury
+title: Newborn photographer in Canterbury
 subtitle: Capturing your precious newborn moments in Canterbury with gentle photography
 description: Capture your Canterbury newborn with gentle and relaxed photography. Newborn sessions are available in your home for maximum comfort and convenience.
 layout: suburb
