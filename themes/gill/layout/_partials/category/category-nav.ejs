@@ -2,14 +2,14 @@
 <div class="flex flex-wrap justify-center gap-2 mb-8">
 	<a
 		href="<%= url_for('/melbourne-photos/') %>"
-		class="px-4 py-2 text-sm font-light text-gill-green-900 bg-white border border-gill-green-200 hover:bg-gill-green-100 focus:z-10 focus:ring-2 focus:ring-gill-green-300"
+		class="px-4 py-2 text-sm font-light text-gill-green-900 bg-white border border-gill-green-200 hover:bg-gill-green-100 focus:z-10 focus:ring-2 focus:ring-gill-green-300 rounded-md"
 	>
 		All
 	</a>
 	<% getFlatCategories().forEach(function(categoryName) { %>
 	<a
 		href="<%= url_for(getCategoryUrl(categoryName)) %>"
-		class="px-4 py-2 text-sm font-light border hover:bg-gill-green-100 hover:text-gill-green-500 focus:z-10 focus:ring-2 focus:ring-gill-green-300 <%= typeof currentCategory !== 'undefined' && currentCategory === categoryName ? 'bg-primary-700 border-primary-900 text-white' : 'bg-white border-gill-green-200 text-gill-green-900' %>"
+		class="px-4 py-2 text-sm font-light border hover:bg-gill-green-100 hover:text-gill-green-500 focus:z-10 focus:ring-2 focus:ring-gill-green-300 rounded-md <%= typeof currentCategory !== 'undefined' && currentCategory === categoryName ? 'bg-primary-700 border-primary-900 text-white' : 'bg-white border-gill-green-200 text-gill-green-900' %>"
 	>
 		<%= categoryName %>
 	</a>

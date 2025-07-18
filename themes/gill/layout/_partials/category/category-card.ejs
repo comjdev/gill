@@ -5,7 +5,7 @@
 	<a href="<%= url_for(post.path) %>" class="relative overflow-hidden">
 		<% if (post.hero || post.image) { %>
 		<img
-			class="w-full h-72 md:h-96 lg:h-128 object-cover transition-all duration-300 lg:group-hover:scale-105 lg:group-hover:brightness-75 lg:group-hover:blur-sm"
+			class="w-full h-72 md:h-96 lg:h-128 object-cover transition-all duration-300 lg:group-hover:scale-105 lg:group-hover:brightness-75 lg:group-hover:blur-sm rounded-md"
 			src="<%= url_for(post.__permalink + (post.hero || post.image)) %>"
 			alt="<%= post.title %> | Gill Juergens Photography"
 			loading="lazy"
@@ -26,7 +26,7 @@
 				<p class="mb-4 font-light text-white text-sm"><%= post.subtitle %></p>
 				<% } %>
 				<button
-					class="inline-flex items-center px-4 py-2 text-sm font-light text-center text-white bg-gill-green-600 bg-opacity-20 hover:bg-opacity-30 backdrop-blur-sm transition-all duration-300 cursor-pointer"
+					class="inline-flex items-center px-4 py-2 text-sm font-light text-center text-white bg-gill-green-600 bg-opacity-20 hover:bg-opacity-30 backdrop-blur-sm transition-all duration-300 cursor-pointer rounded-md"
 				>
 					View Shoot
 					<svg
@@ -56,7 +56,7 @@
 			<% post.categories.forEach(function(category) { %>
 			<a
 				href="<%= url_for(getCategoryUrl(category.name)) %>"
-				class="bg-gray-100 text-gray-800 text-xs font-light px-2.5 py-0.5 rounded hover:bg-gray-200"
+				class="bg-gray-100 text-gray-800 text-xs font-light px-2.5 py-0.5 rounded-md hover:bg-gray-200"
 			>
 				<%= category.name %>
 			</a>
@@ -74,7 +74,7 @@
 		<div class="mt-auto">
 			<a
 				href="<%= url_for(post.path) %>"
-				class="inline-flex items-center px-3 py-2 text-sm font-light text-center text-white bg-primary-700 hover:bg-primary-800"
+				class="inline-flex items-center px-3 py-2 text-sm font-light text-center text-white bg-primary-700 hover:bg-primary-800 rounded-md"
 			>
 				Read more
 				<svg
