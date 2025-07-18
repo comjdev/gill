@@ -78,6 +78,13 @@ var serviceTestimonials = allTestimonials.filter(function(testimonial) {
   <%- include('_partials/service-testimonial', { testimonial: serviceTestimonials[2] }) %>
 <% } %>
 
+
+<% if (service.faqs) { %>
+<!-- FAQs -->
+<!-- prettier-ignore -->
+<%- include('_partials/faqs', {faqs: service.faqs, title: 'Frequently Asked Questions'}) %>
+<% } %>
+
 <!-- Latest Projects -->
 <%- include('_partials/projects-slider', { category: pageData, limit: 6,
 showCategoryInHeading: true }) %>
