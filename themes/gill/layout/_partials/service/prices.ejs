@@ -14,17 +14,12 @@
 			<div
 				class="flex flex-col p-6 mx-auto max-w-lg text-center text-gray-900 bg-white border border-gray-100 shadow xl:p-8 h-full"
 			>
-				<% if (package.most_popular) { %>
-				<div class="mb-2">
-					<span
-						class="py-1 px-3 text-sm text-primary-800 bg-primary-100 rounded dark:bg-primary-200 dark:text-primary-800"
-						>Most popular</span
-					>
-				</div>
-				<% } %>
-				<h3 class="mb-4 text-2xl font-light"><%= package.title %></h3>
+				<h3 class="mb-4 text-2xl font-light">Photo <%= package.title %></h3>
 				<div class="flex justify-center items-baseline my-8">
-					<span class="mr-2 text-5xl font-light"><%= package.price %></span>
+					<span
+						class="mr-2 text-5xl font-light font-[Meritocracy] text-gill-green-300"
+						><%= package.price %></span
+					>
 				</div>
 				<!-- List -->
 				<ul role="list" class="mb-8 space-y-4 text-left flex-grow">

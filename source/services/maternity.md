@@ -1,5 +1,5 @@
 ---
-title: Maternity Photography
+title: Maternity  Photographer in Melbourne
 layout: service
 slug: melbourne-maternity-photographer
 permalink: melbourne-maternity-photographer/

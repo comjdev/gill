@@ -68,6 +68,12 @@ services:
     image: /img/newborn.jpg
     link: /melbourne-newborn-photographer
 
+  wedding:
+    title: "Wedding Photography"
+    description: "Your wedding day is one of the most important days of your life, and I'm here to capture every beautiful moment. From the intimate details to the grand celebrations, I'll document your special day with a natural, documentary style that tells your unique love story."
+    image: /img/wedding.jpg
+    link: /melbourne-wedding-photographer
+
 about:
   - "Hi, I'm Gill! Before I ever studied photography, I studied professional writing. This is so important to the way I approach each of my sessions, whether it be a maternity, newborn or family session. I bring these creative writing skills with me as I get to tell your individual story through photographs."
   - "I live in the outer Eastern suburbs of Melbourne with my husband, our 2 kids and our 2 dogs. I love being with my family so when I'm not working, that's where you'll find me!"

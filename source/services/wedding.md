@@ -1,5 +1,5 @@
 ---
-title: Wedding Photography
+title: Wedding  Photographer in Melbourne
 layout: service
 slug: melbourne-wedding-photographer
 permalink: melbourne-wedding-photographer/

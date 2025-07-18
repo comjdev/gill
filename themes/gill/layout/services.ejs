@@ -38,7 +38,7 @@
 					<img
 						class="w-full h-[600px] object-cover parallax-image"
 						src="<%= service.image %>"
-						alt="<%= service.title %> | Gill Juergens Photography"
+						alt="<%= service.title.replace(/\s+in\s+Melbourne/i, '') %> | Gill Juergens Photography"
 						loading="lazy"
 					/>
 				</div>
@@ -51,7 +51,7 @@
 						<h2
 							class="text-3xl font-light leading-tight text-gray-900 sm:text-4xl"
 						>
-							<%= service.title %>
+							<%= service.title.replace(/\s+in\s+Melbourne/i, '') %>
 						</h2>
 						<p class="text-base font-light text-gray-900 sm:text-lg">
 							<%= service.description %>

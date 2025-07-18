@@ -1,5 +1,5 @@
 ---
-title: Newborn Photography
+title: Newborn  Photographer in Melbourne
 layout: service
 slug: melbourne-newborn-photographer
 permalink: melbourne-newborn-photographer/

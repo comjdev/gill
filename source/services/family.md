@@ -1,5 +1,5 @@
 ---
-title: Family Photography
+title: Family Photographer in Melbourne
 layout: service
 slug: melbourne-family-photographer
 permalink: melbourne-family-photographer/

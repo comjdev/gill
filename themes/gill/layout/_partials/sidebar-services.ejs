@@ -28,17 +28,18 @@
 					<img
 						src="<%= url_for(service.image) %>"
 						class="mr-4 max-w-full w-24 h-24 object-cover"
-						alt="<%= service.title %> | Gill Juergens Photography"
+						alt="<%= service.title.replace(/\s+in\s+Melbourne/i, '') %> | Gill Juergens Photography"
 						loading="lazy"
 					/>
 				</a>
 				<div>
 					<h5 class="mb-2 text-lg font-light leading-tight text-gray-900">
-						<%= service.title %>
+						<%= service.title.replace(/\s+in\s+Melbourne/i, '') %>
 					</h5>
 					<p class="text-sm font-light text-gray-900">
-						<%= service.title %> services for <%= typeof suburb !== 'undefined'
-						&& suburb ? suburb : 'Melbourne' %>, VIC, Australia
+						<%= service.title.replace(/\s+in\s+Melbourne/i, '') %> services for
+						<%= typeof suburb !== 'undefined' && suburb ? suburb : 'Melbourne'
+						%>, VIC, Australia
 					</p>
 					<a
 						href="<%= url_for(service.path) %>"
