@@ -1,5 +1,5 @@
 <main
-	class="relative transition-all duration-[700ms] ease-[ease] touch-none"
+	class="relative transition-all duration-[700ms] ease-[ease]"
 	style="height: calc(100dvh - 87px)"
 >
 	<div class="grid grid-cols-3 grid-rows-2 h-full">
@@ -14,10 +14,12 @@
 				class="absolute inset-0 bg-gradient-to-tr from-black/60 via-black/20 to-transparent pointer-events-none"
 			></div>
 
-			<!-- Mobile: Vertical title positioned on the left -->
-			<h2 class="text-white text-xl uppercase hero-title-vertical md:hidden">
-				<%= section.title %>
-			</h2>
+			<!-- Mobile: Vertical title positioned on the left and clickable -->
+			<a href="<%= section.link %>" class="md:hidden">
+				<h2 class="text-white text-xl uppercase hero-title-vertical">
+					<%= section.title %>
+				</h2>
+			</a>
 
 			<!-- Desktop: Original layout -->
 			<div
