@@ -142,3 +142,6 @@ geolocation:
   latitude: -37.8667
   longitude: 145.2833
   suburb: "Boronia"
+
+Google_maps:
+  key: AIzaSyDeQuZSSN81KlhPRGLjuErXd_cMb4uyTkw

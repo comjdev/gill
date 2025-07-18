@@ -96,6 +96,10 @@ showCategoryInHeading: true, suburb: page.suburb }) %>
 <!-- Local References -->
 <%- partial('_partials/suburbs/local-references', {suburb: page.suburb}) %>
 
+<!-- Google Maps -->
+<%- include('_partials/suburbs/google-maps', {suburb: page.suburb, category:
+page.category}) %>
+
 <!-- Random FAQs  -->
 <%- partial('_partials/suburbs/random-faqs', {suburb: page.suburb, category:
 page.category}) %>

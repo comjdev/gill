@@ -1,0 +1,191 @@
+<!-- Google Maps Section -->
+<section class="bg-white py-8">
+	<div class="max-w-screen-lg mx-auto px-4 lg:px-6">
+		<div class="text-center mb-8">
+			<h3 class="text-3xl font-light text-gray-900 mb-4">
+				<%= category.charAt(0).toUpperCase() + category.slice(1) %> Photography
+				in <%= suburb %>
+			</h3>
+			<p class="text-lg font-light text-gray-700">
+				<% if (category.toLowerCase() === 'newborn') { %> I travel throughout
+				<%= suburb %> and the surrounding Melbourne suburbs for in-home <%=
+				category %> photography sessions, creating beautiful memories in the
+				comfort of your own home. <% } else { %> I travel throughout <%= suburb
+				%> and the surrounding Melbourne suburbs for <%= category %> photography
+				sessions. I also travel to other scenic Melbourne locations like the
+				beach or the Dandenong Ranges for stunning outdoor photography. <% } %>
+			</p>
+		</div>
+	</div>
+
+	<!-- Full Width Map -->
+	<div class="w-full">
+		<div
+			id="google-map-<%= suburb.toLowerCase().replace(/\s+/g, '-') %>"
+			class="w-full h-96"
+			data-lat="<%= page.latitude %>"
+			data-lng="<%= page.longitude %>"
+			data-suburb="<%= suburb %>"
+			data-category="<%= category.charAt(0).toUpperCase() + category.slice(1) %>"
+			data-api-key="<%= config.Google_maps.key %>"
+		></div>
+	</div>
+
+	<div class="max-w-screen-md mx-auto px-4 lg:px-6 mt-6">
+		<div class="text-center">
+			<p class="text-sm font-light text-gray-600">
+				<% if (category.toLowerCase() === 'newborn') { %> I'm happy to travel to
+				your location in <%= suburb %> or nearby suburbs for your in-home <%=
+				category %> photography session, capturing those precious early moments
+				in the comfort of your own space. <% } else { %> I'm happy to travel to
+				your location in <%= suburb %> or nearby suburbs for your <%= category
+				%> photography session. I also offer sessions at scenic locations
+				throughout Melbourne including beaches, parks, and the beautiful
+				Dandenong Ranges. <% } %>
+			</p>
+			<div class="mt-4">
+				<a
+					href="/book-lifestyle-photographer-in-melbourne/"
+					class="inline-flex items-center px-6 py-3 text-sm font-light text-white bg-gill-green-600 hover:bg-gill-green-700 focus:ring-4 focus:ring-gill-green-300 rounded-md transition-colors duration-200"
+				>
+					Book Your <%= category.charAt(0).toUpperCase() + category.slice(1) %>
+					Session
+					<svg
+						class="w-4 h-4 ml-2"
+						fill="none"
+						stroke="currentColor"
+						viewBox="0 0 24 24"
+						xmlns="http://www.w3.org/2000/svg"
+					>
+						<path
+							stroke-linecap="round"
+							stroke-linejoin="round"
+							stroke-width="2"
+							d="M14 5l7 7m0 0l-7 7m7-7H3"
+						></path>
+					</svg>
+				</a>
+			</div>
+		</div>
+	</div>
+</section>
+
+<script>
+	// Global callback function for Google Maps API
+	window.initMap = function () {
+		const mapElement = document.querySelector('[id^="google-map-"]');
+		if (!mapElement) return;
+
+		const lat = parseFloat(mapElement.dataset.lat);
+		const lng = parseFloat(mapElement.dataset.lng);
+		const suburb = mapElement.dataset.suburb;
+		const category = mapElement.dataset.category;
+
+		const position = { lat: lat, lng: lng };
+
+		const map = new google.maps.Map(mapElement, {
+			zoom: 13,
+			center: position,
+			mapTypeId: google.maps.MapTypeId.ROADMAP,
+			styles: [
+				{
+					featureType: "water",
+					elementType: "geometry",
+					stylers: [{ color: "#9BC2A3" }], // gill-green-400 equivalent
+				},
+				{
+					featureType: "water",
+					elementType: "labels.text.fill",
+					stylers: [{ color: "#9BC2A3" }], // gill-green-400 equivalent
+				},
+				{
+					featureType: "water",
+					elementType: "labels.text.stroke",
+					stylers: [{ color: "#9BC2A3" }], // gill-green-400 equivalent
+				},
+				{
+					featureType: "poi",
+					elementType: "labels",
+					stylers: [{ visibility: "off" }],
+				},
+				{
+					featureType: "transit",
+					elementType: "labels",
+					stylers: [{ visibility: "off" }],
+				},
+				{
+					featureType: "road",
+					elementType: "geometry",
+					stylers: [{ color: "#F0F4F1" }], // Light gill-green tint
+				},
+				{
+					featureType: "road.highway",
+					elementType: "geometry",
+					stylers: [{ color: "#E8F0E9" }], // Slightly darker for highways
+				},
+				{
+					featureType: "landscape",
+					elementType: "geometry",
+					stylers: [{ color: "#F8FAF8" }], // Very light gill-green tint
+				},
+				{
+					featureType: "poi.park",
+					elementType: "geometry",
+					stylers: [{ color: "#9BC2A3" }], // gill-green-400 for parks
+				},
+				{
+					featureType: "poi.park",
+					elementType: "labels.text.fill",
+					stylers: [{ color: "#425951" }], // gill-green-600 for text
+				},
+			],
+		});
+
+		// Add a marker for the suburb
+		new google.maps.Marker({
+			position: position,
+			map: map,
+			title: suburb + " - " + category + " Photography",
+			icon: {
+				url:
+					"data:image/svg+xml;charset=UTF-8," +
+					encodeURIComponent(
+						'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="%23425951" width="32" height="32"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>',
+					),
+				scaledSize: new google.maps.Size(32, 32),
+				anchor: new google.maps.Point(16, 32),
+			},
+		});
+	};
+
+	// Load Google Maps API with proper async pattern
+	function loadGoogleMapsAPI() {
+		const mapElement = document.querySelector('[id^="google-map-"]');
+		if (!mapElement) return;
+
+		const apiKey = mapElement.dataset.apiKey;
+
+		// Check if API is already loaded
+		if (window.google && window.google.maps) {
+			window.initMap();
+			return;
+		}
+
+		// Load API with proper async pattern
+		const script = document.createElement("script");
+		script.src =
+			"https://maps.googleapis.com/maps/api/js?key=" +
+			apiKey +
+			"&callback=initMap&loading=async";
+		script.async = true;
+		script.defer = true;
+		document.head.appendChild(script);
+	}
+
+	// Initialize map when DOM is ready
+	if (document.readyState === "loading") {
+		document.addEventListener("DOMContentLoaded", loadGoogleMapsAPI);
+	} else {
+		loadGoogleMapsAPI();
+	}
+</script>
