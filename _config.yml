@@ -144,4 +144,4 @@ geolocation:
   suburb: "Boronia"
 
 Google_maps:
-  key: AIzaSyDeQuZSSN81KlhPRGLjuErXd_cMb4uyTkw
+  key: YOUR_API_KEY_HERE
