@@ -24,16 +24,41 @@ jobs:
       - name: Build site (Tailwind CSS + Hexo)
         run: npm run build
 
-      - name: Deploy to S3
+      - name: Deploy static assets with long cache
         uses: jakejarvis/s3-sync-action@v0.5.1
         with:
-          args: --delete
+          args: --delete --cache-control "max-age=31536000, immutable"
         env:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: ${{ secrets.AWS_REGION }}
           SOURCE_DIR: ./public
+          FILES_IGNORE: |
+            *.html
+            *.xml
+            *.txt
+            robots.txt
+            sitemap.xml
+            **/sitemap*.xml
+
+      - name: Deploy HTML and other content with long cache
+        uses: jakejarvis/s3-sync-action@v0.5.1
+        with:
+          args: --delete --cache-control "max-age=31536000, immutable"
+        env:
+          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          AWS_REGION: ${{ secrets.AWS_REGION }}
+          SOURCE_DIR: ./public
+          FILES_INCLUDE: |
+            *.html
+            *.xml
+            *.txt
+            robots.txt
+            sitemap.xml
+            **/sitemap*.xml
 
       - name: Invalidate CloudFront cache
         uses: chetan/invalidate-cloudfront-action@v2
