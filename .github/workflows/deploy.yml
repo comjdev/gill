@@ -23,8 +23,6 @@ jobs:
 
       - name: Build site (Tailwind CSS + Hexo)
         run: npm run build
-        env:
-          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
 
       - name: Deploy to S3
         uses: jakejarvis/s3-sync-action@v0.5.1

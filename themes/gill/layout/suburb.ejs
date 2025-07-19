@@ -84,22 +84,27 @@ if(page.category === 'wedding') {
 		</article>
 		<%- include('_partials/sidebar-services', {suburb: page.suburb}) %>
 	</div>
+
+	<!-- prettier-ignore -->
+	<!-- Projects  -->
+	<%- include('_partials/projects-slider', { category: page.category, limit: 6,
+	showCategoryInHeading: true, suburb: page.suburb }) %>
+
+	<!-- prettier-ignore -->
+	<!-- Testimonials -->
+	<%- include('_partials/testimonial', {index: randomTestimonialIndex}) %>
+
+	<!-- prettier-ignore -->
+	<!-- Local References -->
+	<%- include('_partials/suburbs/local-references', {suburb: page.suburb}) %>
+
+	<!-- prettier-ignore -->
+	<!-- Google Maps -->
+	<%- include('./_partials/suburbs/google-maps', {suburb: page.suburb, category:
+	page.category}) %>
+
+	<!-- prettier-ignore -->
+	<!-- Random FAQs  -->
+	<%- include('_partials/suburbs/random-faqs', {suburb: page.suburb, category:
+	page.category}) %>
 </main>
-
-<!-- Projects  -->
-<%- include('_partials/projects-slider', { category: page.category, limit: 6,
-showCategoryInHeading: true, suburb: page.suburb }) %>
-
-<!-- Testimonials -->
-<%- include('_partials/testimonial', {index: randomTestimonialIndex}) %>
-
-<!-- Local References -->
-<%- partial('_partials/suburbs/local-references', {suburb: page.suburb}) %>
-
-<!-- Google Maps -->
-<%- include('_partials/suburbs/google-maps', {suburb: page.suburb, category:
-page.category}) %>
-
-<!-- Random FAQs  -->
-<%- partial('_partials/suburbs/random-faqs', {suburb: page.suburb, category:
-page.category}) %>
