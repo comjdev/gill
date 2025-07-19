@@ -1,8 +1,19 @@
 <!-- prettier-ignore -->
-<% const cleanedPath = url_for(page.path).replace(/index\.html$/,
-'').replace(/\.html$/, ''); let canonicalUrl = config.url.replace(/\/$/, '') +
-cleanedPath; %> <% let imageUrl = null; %> <% if (page.cover) { imageUrl =
-config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
+<% 
+// Helper function to determine if current page is homepage
+const isHomepage = () => {
+  return page.layout === 'index' || 
+         page.layout === 'home' || 
+         page.path === 'index.html' || 
+         canonicalUrl === config.url || 
+         canonicalUrl === config.url + '/';
+};
+
+const cleanedPath = url_for(page.path).replace(/index\.html$/, '').replace(/\.html$/, ''); 
+let canonicalUrl = config.url.replace(/\/$/, '') + cleanedPath; 
+%> 
+<% let imageUrl = null; %> 
+<% if (page.cover) { imageUrl = config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 
 <head>
 	<meta charset="UTF-8" />
@@ -50,9 +61,7 @@ config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 	/>
 
 	<!-- Image Optimization -->
-	<% if (page.layout === 'index' || page.layout === 'home' || page.path ===
-	'index.html' || canonicalUrl === config.url || canonicalUrl === config.url +
-	'/') { %>
+	<% if (isHomepage()) { %>
 	<!-- Homepage images -->
 	<link rel="preload" as="image" href="/img/about.jpg" />
 	<link rel="preload" as="image" href="/img/family.jpg" />
