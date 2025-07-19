@@ -50,11 +50,26 @@ config.url.replace(/\/$/, '') + url_for(page.asset_dir + page.cover); } %>
 	/>
 
 	<!-- Image Optimization -->
+	<% if (page.layout === 'index' || page.layout === 'home' || page.path ===
+	'index.html' || canonicalUrl === config.url || canonicalUrl === config.url +
+	'/') { %>
+	<!-- Homepage images -->
 	<link rel="preload" as="image" href="/img/about.jpg" />
 	<link rel="preload" as="image" href="/img/family.jpg" />
 	<link rel="preload" as="image" href="/img/newborn.jpg" />
 	<link rel="preload" as="image" href="/img/wedding.jpg" />
 	<link rel="preload" as="image" href="/img/maternity.jpg" />
+	<% } else if (page.layout === 'service') { %>
+	<!-- Service page images -->
+	<% if (page.data === 'family') { %>
+	<link rel="preload" as="image" href="/img/family.jpg" />
+	<% } else if (page.data === 'newborn') { %>
+	<link rel="preload" as="image" href="/img/newborn.jpg" />
+	<% } else if (page.data === 'wedding') { %>
+	<link rel="preload" as="image" href="/img/wedding.jpg" />
+	<% } else if (page.data === 'maternity') { %>
+	<link rel="preload" as="image" href="/img/maternity.jpg" />
+	<% } %> <% } %>
 
 	<!-- Performance Optimization -->
 	<link rel="dns-prefetch" href="//fonts.googleapis.com" />
