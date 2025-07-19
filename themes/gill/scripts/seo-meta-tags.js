@@ -2,18 +2,20 @@ hexo.extend.helper.register("seoTitle", function () {
 	const page = this.page;
 	const config = this.config;
 
-	// For suburb pages, create highly targeted local SEO titles
+	// For suburb pages, create highly targeted local SEO titles with secondary keywords
 	if (page.layout === "suburb" && page.suburb && page.category) {
 		const suburb = page.suburb;
 		const category = page.category;
 
-		// Category-specific titles for local SEO
+		// Category-specific titles for local SEO with secondary keywords
 		if (category === "family") {
-			return `${suburb} Family Photographer | Gill Juergens Photography`;
+			return `${suburb} Family Photographer & Lifestyle Photos | Gill Photography`;
 		} else if (category === "newborn") {
-			return `${suburb} Newborn Photographer | Gill Juergens Photography`;
+			return `${suburb} Newborn Photographer & Family Photos | Gill Photography`;
 		} else if (category === "maternity") {
-			return `${suburb} Maternity Photographer | Gill Juergens Photography`;
+			return `${suburb} Maternity Photographer & Pregnancy Photos | Gill Photography`;
+		} else if (category === "wedding") {
+			return `${suburb} Wedding Photographer & Engagement Photos | Gill Photography`;
 		}
 	}
 
@@ -23,7 +25,7 @@ hexo.extend.helper.register("seoTitle", function () {
 	// Define the dynamic suffixes
 	const suffixes = [
 		"Gill Juergens Photography",
-		"Family, Wedding & Newborn Photographer",
+		"Family, Maternity & Newborn Photographer",
 		"Melbourne",
 	];
 
