@@ -22,7 +22,9 @@
 			%>
 			<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
 				<% posts.each(function(post){ %>
-				<article class="p-4 bg-white border border-gray-200 shadow-md">
+				<article
+					class="p-4 bg-white border border-gray-200 shadow-md rounded-md"
+				>
 					<a href="<%= url_for(post.path) %>">
 						<img
 							class="mb-5 w-full h-48 object-cover rounded-md"
