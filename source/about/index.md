@@ -10,46 +10,45 @@ permalink: melbourne-lifestyle-photographer/
 
 ## Hi, my name is Gill
 
-And I have been capturing the special moments in peoples lives with timeless and natural photography, for the last 10 years here in Melbourne.
+And I have been capturing the special moments in peoples lives with genuine and natural photography, for more than 10 years here in Melbourne.
 
-But before I get into that, I would like to tell you a little bit about myself.
+Before we dive in, let me introduce myself.
 
-I am a wife, and a mother to my two beautiful kids. Aside from photography, my family is the most important thing in the world to me. And if I’m not taking photos for my clients, I’m documenting my days with those that I love.
+I live in the Eastern suburbs of Melbourne with my husband, our 2 kids and our 2 dogs. I genuinely love being with my family. When I'm not photographing clients, I'm documenting our everyday moments, just like the ones I hope to capture for you.
 
-### Motherhood is my muse for taking the most beautiful images for my clients
+### Motherhood is my muse
 
-Because although my kids can be the best at pushing my buttons on occasion, they have also provided my biggest motivation to create the most incredible imagery for my clients.
+Okay, let’s be real for a minute. My kids absolutely push my buttons and some days are tiring. Buuuuut, they’re also my biggest motivation to create beautiful imagery for my clients. They’re my reminder that time is fleeting and they’re always growing and changing.
 
-My children are full of so much love, and it is my passion to capture that same feeling of love for others, whether it be at their wedding, a family shoot, a newborn shoot or a maternity shoot in the area of Melbourne.
+This is what pushes me to capture memories for others, whether it be at their wedding, a family shoot, a newborn shoot or a maternity shoot, in the area of Melbourne.
 
-### It’s the love in the little moments that matter
+### It’s the little moments that matter
 
-I studied professional writing in Melbourne prior to studying photography, and these combined skills have helped me cultivate an ability to tell beautiful stories through imagery.
+Before I studied photography many years ago, I studied professional writing. I’m so glad I did because I use these skills in each of my sessions. That foundation in storytelling is invaluable and helps me to tell beautiful stories through imagery.
 
 ## Your Story
 
 ### Because my photography is all ABOUT telling a story
 
 It’s about capturing the important moments in your life and the details that make it so special, within that moment.
-
 I take a lifestyle approach to my photography, and I keep it natural and honest at every shoot. You can always expect bad jokes, fun, conversation and a lot of laughter with me, so the atmosphere is relaxed and comfortable as I capture the “real” you.
 
-I work with natural light to ensure every image is beautifully lit, and I help you find the joy in both movement and connection on the day.
+I work with natural light to ensure every image is beautifully lit, and I help you find the joy and connection on the day.
 
-If necessary, I provide guidance to ensure you get the best out of your session, however my shoots are otherwise unposed. This allows me to capture more relaxed and natural images on the day.
+If necessary, I provide guidance to ensure you get the best out of your session, however my shoots are otherwise unposed. This allows me to capture more relaxed and natural images.
 
 ## Your experience
 
-### But, maybe you haven’t had a photoshoot before, and aren’t sure what to expect?
+### Not sure what to expect?
 
-Not many people feel that comfortable having their photo taken. And that’s ok.
-I get it, because given the choice I’d always choose to be behind the camera instead of in front of it.
+Not everyone feels comfortable in front of the camera and that’s completely okay.
+I totally understand; given the choice, I’d always rather be behind the lens than in front of it myself.
 
-But in my shoots, we chat and laugh so you feel relaxed throughout the session. And soon you won’t even notice my camera, which is when the magic really happens.
+During my sessions, we chat, laugh, and take things at a relaxed pace. Before long, the camera becomes an afterthought and that’s when the real magic happens.
 
 **I create images that you want to hang on the walls of your Melbourne home.**
 
-I create images that will make you proud, and nostalgic. And images that will make you smile every time you pass them. I capture the moments that you never want to forget. And I can’t wait to capture yours.
+I create images that will make you feel all the feels. And images that will make you smile every time you pass them. I capture the moments that you never want to forget and I can’t wait to capture yours.
 
 I am so looking forward to working with you.
 Gill x
