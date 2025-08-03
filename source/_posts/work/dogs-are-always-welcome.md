@@ -5,12 +5,12 @@ date: 2025-07-02T00:00:00.000Z
 subtitle: Family photography with furry friends
 description: Melbourne family photographer captures family moments with beloved dogs. Natural family photography session where pets are always welcome and included in the fun.
 location: Melbourne
-image: Melbourne-family-with-dogs-3.jpg
+image: Melbourne-family-with-dogs-10.jpg
 permalink: /melbourne-photos/dogs-are-always-welcome/
 categories:
   - Family
-hero: Melbourne-family-with-dogs-3.jpg
-featured: Melbourne-family-with-dogs-3.jpg
+hero: Melbourne-family-with-dogs-10.jpg
+featured: Melbourne-family-with-dogs-10.jpg
 ---
 
 There’s something I find a bit special about a **family shoot** that includes grown up kids. We take so many photos of our kids when they’re little and then it’s like the older they get the less photos we take. This family shoot was organised by Alisha, for her mum-in-law as a gift, again, so special. **Family photos** aren’t just for toddlers splashing in the waves; they're about documenting your family exactly as you are, however that may look right now. Every family dynamic changes over the years and it’s so important to document the different stages.
