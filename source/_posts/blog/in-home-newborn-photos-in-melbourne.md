@@ -1,12 +1,12 @@
 ---
 layout: post
-title: In-home newborn photos in Melbourne - your questions answered
-date: 2025-02-02T00:00:00.000Z
+title: In-home newborn photos in Melbourne
+date: 2025-08-02T00:00:00.000Z
 subtitle: Answering all your questions about my newborn shoots in Melbourne
-description: Still have some questions about what to expect at a newborn shoot? 
+description: Still have some questions about what to expect at a newborn shoot?
 hero: Melbourne-newborn-photographer-header-3.jpg
 featured: Melbourne-newborn-photographer-photos-3.jpg
-permalink: /melbourne-newborn-photography/your-questions-answered
+permalink: /melbourne-photography-tips/in-home-newborn-photos-in-melbourne
 ---
 
 ## In-home newborn photos in Melbourne: your questions answered!
@@ -15,10 +15,10 @@ I remember the day I brought both my babies home from the hospital and what a sp
 
 ### When is the Best Time for Newborn Photos at your home in Melbourne?
 
-This is one of the most frequently asked questions, especially for those expecting their first baby. Most newborn photographers aim for sessions to be done when babies are **between 5-14 days old**. This window is generally ideal for very sleepy, curly poses and babies tend to be more settled during their photos. 
-However, as a **lifestyle newborn photographer in Melbourne**, my approach is very flexible. 
+This is one of the most frequently asked questions, especially for those expecting their first baby. Most newborn photographers aim for sessions to be done when babies are **between 5-14 days old**. This window is generally ideal for very sleepy, curly poses and babies tend to be more settled during their photos.
+However, as a **lifestyle newborn photographer in Melbourne**, my approach is very flexible.
 
-We can capture **beautiful newborn photos** anytime within your baby's first few weeks, or even up to 2-3 months old. While a younger baby might be sleepier, an older newborn is more alert, gives eye contact and often makes adorable, engaging expressions. The most important thing is that **you and your baby are comfortable**. 
+We can capture **beautiful newborn photos** anytime within your baby's first few weeks, or even up to 2-3 months old. While a younger baby might be sleepier, an older newborn is more alert, gives eye contact and often makes adorable, engaging expressions. The most important thing is that **you and your baby are comfortable**.
 It's a good idea to book your newborn session during your pregnancy to secure your date.
 
 ### My baby is older than a few weeks. Does this mean it’s too late for newborn photos?
@@ -29,25 +29,25 @@ The good news is that older babies (from a few weeks up to 3-4 months) are wonde
 ### Preparing for your in-home newborn session and what to organise
 
 One of the biggest advantages of an in-home newborn photoshoot is the minimal preparation required from you. Yay! As your **Melbourne newborn photographer**, I want this to be as stress-free as possible.
-You don't need to deep-clean your entire house! We typically work in just a few key areas, like the master bedroom, living room, baby’s room/space, focusing on rooms with **beautiful natural light**. 
+You don't need to deep-clean your entire house! We typically work in just a few key areas, like the master bedroom, living room, baby’s room/space, focusing on rooms with **beautiful natural light**.
 
 My main advice for preparing is to:
-    • Warm the Room: A toasty room helps keep your baby sleepy and comfortable.
-    • Feed Your Baby: A full belly often leads to a **happy, settled baby**. We can always take breaks for more feeds during the session if needed.
-    • Simple Outfits: Think comfortable, neutral clothing for both baby, parents and siblings. I'll provide gentle guidance on this before your session and am happy to discuss and offer more personal suggestions.
-    • Relax: My most important tip! Trust that **I'll guide you** through the process and the clutter that comes with family life isn’t going to stop us from getting beautiful photos.
+• Warm the Room: A toasty room helps keep your baby sleepy and comfortable.
+• Feed Your Baby: A full belly often leads to a **happy, settled baby**. We can always take breaks for more feeds during the session if needed.
+• Simple Outfits: Think comfortable, neutral clothing for both baby, parents and siblings. I'll provide gentle guidance on this before your session and am happy to discuss and offer more personal suggestions.
+• Relax: My most important tip! Trust that **I'll guide you** through the process and the clutter that comes with family life isn’t going to stop us from getting beautiful photos.
 
 ### Including siblings (especially toddlers!) in your newborn photos
 
 It's completely normal to worry about including energetic toddlers in **newborn photos**! They are often the wild cards but they also bring so much joy and genuine interaction to your family photos.
 My approach is always patient and flexible. We can either start the session by including them in some of the photos or wait a little bit, giving them time to observe and feel more comfortable to be included in the photos.
- 
- Tips for success include:
-    • Keep it fun! No pressure for perfect poses.
-    • Bring snacks and favourite toys for them.
-    • Let them be themselves. Genuine interactions are the most beautiful.
-    • Have another adult available if possible to help, give a snack if needed etc
-    • I capture real connections,  a gentle hug or even a silly face. These are the **newborn photos** that tell your family's unique story.
+
+Tips for success include:
+• Keep it fun! No pressure for perfect poses.
+• Bring snacks and favourite toys for them.
+• Let them be themselves. Genuine interactions are the most beautiful.
+• Have another adult available if possible to help, give a snack if needed etc
+• I capture real connections, a gentle hug or even a silly face. These are the **newborn photos** that tell your family's unique story.
 
 ### Do parents have to be in newborn photos?
 
