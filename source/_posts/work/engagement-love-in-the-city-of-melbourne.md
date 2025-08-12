@@ -11,7 +11,7 @@ categories:
   - Wedding
 ---
 
-# Engagement photos in Melbourne: a love story in black & white
+## Engagement photos in Melbourne: a love story in black & white
 
 It's not every day I get to shoot in the heart of the city, so I was super excited when this couple chose **Melbourne** as the backdrop for their **engagement photos**. For them, this city isn't just a place, it's the setting for their entire love story. From their first date to their first kiss and even the spot where they got engaged, **Melbourne** holds a special place in their hearts. It felt really special to document their journey as we revisited all of these meaningful locations, allowing them to reminisce and relive their beautiful memories.
 

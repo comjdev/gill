@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Engagement - in home photos with Diesel the dog
+title: Engagement photos in Melbourne - in home photos with Diesel the dog
 date: 2025-07-02T00:00:00.000Z
 subtitle: With each wedding, I offer to do an engagement ses...
 description: With each wedding, I offer to do an engagement session as this really gives us a chance to get to know each other. After all, I am going to be there for a large part of your wedding day!
@@ -11,7 +11,7 @@ categories:
   - Wedding
 ---
 
-# Engagement photos in Melbourne - in home photos with Diesel the dog
+## Engagement photos in Melbourne - in home photos with Diesel the dog
 
 With each wedding, I offer to do an engagement session as this really gives us a chance to get to know each other. After all, I am going to be there for a large part of your wedding day! 
 Michael and Morgan decided they’d love to have their engagement photos taken in their home in Melbourne. This is their first home together and I could immediately see how much love and effort they’d put into the place. Each room seemed to have its own story and I so loved integrating this into our shoot. 
