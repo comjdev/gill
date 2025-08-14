@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Dragons' nests in Autumn
+title: Family photos in the foot of the hills of the Dandenong Ranges
 date: 2025-07-02T00:00:00.000Z
 subtitle: Autumn family photography in Melbourne
 description: Melbourne family photographer captures autumn magic despite unpredictable weather. Natural family photography session with lucky sunshine and beautiful autumn colors.
