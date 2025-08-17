@@ -5,4 +5,4 @@ layout: services
 permalink: melbourne-lifestyle-photography/
 ---
 
-Whether you’re planning on capturing cherished family moments, commemorating your wedding day, or documenting your newborn’s first precious days, I offer the expertise and artistic vision to create stunning keepsakes. Based in Melbourne, I bring years of experience in family, wedding, maternity and newborn photography, ensuring your memories are beautifully preserved forever.
+Whether you’re planning on capturing fun family moments, documenting your wedding day, honouring your pregnancy, or telling the story of your newborn’s first few days, I bring a relaxed approach to each of my sessions. Based in Melbourne, I have many years of experience in family, wedding maternity and newborn photography, ensuring your memories are beautifully preserved forever.
