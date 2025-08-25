@@ -1,5 +1,4 @@
 ---
-'5': 08.940262Z
 layout: work
 title: Newborn photos in Melbourne with baby Charlotte
 date: 2025-07-02T00:00:00.000Z

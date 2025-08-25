@@ -9,8 +9,6 @@ image: wedding-love-in-the-yarra-valley-1.jpg
 permalink: /melbourne-photos/wedding-love-in-the-yarra-valley/
 categories:
   - Wedding
-hero: wedding-love-in-the-yarra-valley-1.jpg
-featured: wedding-love-in-the-yarra-valley-10.jpg
 ---
 
 ## Love in the Yarra Valley

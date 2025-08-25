@@ -4,7 +4,7 @@ title: Winter fun with family photos in the Dandenong Ranges
 date: 2025-07-02T00:00:00.000Z
 subtitle: Okay what is it with babies looking so cute in bea...
 description: Melbourne family photographer captures winter magic in the Dandenong Ranges. Natural family photography with cozy beanies, wooly jumpers and beautiful winter colors.
-location: Melbourne
+location: Olinda, Melbourne
 image: melbourne-family-olinda-6months-7.jpg
 permalink: /melbourne-photos/family-winter-fun/
 categories:

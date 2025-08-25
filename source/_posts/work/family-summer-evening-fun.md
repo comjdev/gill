@@ -1,11 +1,9 @@
 ---
-'11': 37.094707Z
 layout: work
 title: Summer evening fun at the beach in Melbourne
 date: 2025-07-02T00:00:00.000Z
-2025-07-02T19: null
 subtitle: This shoot was to document these families time tog...
-description: This shoot was to document these families time together in Australia and especially these 2 little cousins who are so close in age but live so far apart. What a perfect time for family photos.
+description: This shoot was to document these families time together in Australia and especially these little cousins who are so close in age but live so far apart. What a perfect time for family photos.
 location: Melbourne
 image: family-photos-extended-beach-Melbourne-9.jpg
 permalink: /melbourne-photos/family-summer-evening-fun/
