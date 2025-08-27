@@ -8,7 +8,7 @@ location: Melbourne
 image: wedding-the-colourful-wedding-of-mike-and-morgan-1.jpg
 permalink: /melbourne-photos/wedding-the-colourful-wedding-of-mike-and-morgan/
 categories:
-  - Family
+  - Wedding
 ---
 
 ## The colourful wedding of Mike and Morgan
