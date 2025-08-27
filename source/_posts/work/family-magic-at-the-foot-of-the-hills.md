@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Magic at the foot of the hills with family photos
-date: 2025-07-02T00:00:00.000Z
+date: 2025-08-02T00:00:00.000Z
 subtitle: After having photographed this family last year we...
 description: Melbourne family photographer captures magical moments in the hills. Natural family photography session with dancing, flower picking and genuine fun on a summer evening.
 location: Melbourne
