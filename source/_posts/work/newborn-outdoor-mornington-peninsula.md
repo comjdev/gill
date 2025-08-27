@@ -1,12 +1,13 @@
 ---
 layout: work
 title: Outdoor newborn photos on the Mornington Peninsula coastline
-date: 2021-04-02T00:00:00.000Z
+date: 2025-08-25T00:00:00.000Z
 subtitle: It's not very often that I get asked to take outdoor newborn photos, so I was pretty excited for this session along the stunning Mornington Peninsula coastline.
 description: Melbourne newborn photographer captures newborn photos along the stunning Mornington Peninsula Coastline
 location: Melbourne
 image: newborn-photos-outdoor-noah-16.jpg
 permalink: /melbourne-photos/newborn-outdoor-mornington-peninsula/
+categories:
   - Newborn
 ---
 ## Outdoor newborn photos on the Mornington Peninsula coastline

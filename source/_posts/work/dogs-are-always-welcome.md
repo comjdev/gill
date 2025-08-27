@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Dogs are always welcome!
-date: 2025-07-02T00:00:00.000Z
+date: 2025-08-02T00:00:00.000Z
 subtitle: Family photography with furry friends
 description: Melbourne family photographer captures family moments with beloved dogs. Natural family photography session where pets are always welcome and included in the fun.
 location: Melbourne
