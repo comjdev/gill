@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Fun family photos in the hills
-date: 2025-06-05T00:00:00.000Z
+date: 2025-06-07T00:00:00.000Z
 subtitle: Family photos that focused on play and being together
 description: Mum was worried Liam wouldn't want much to do with having his photo taken but we focused on play and having fun and as a result, these turned out beautifully.
 location: Dandenong Ranges, Melbourne

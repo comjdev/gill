@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Love in the Yarra Valley
-date: 2025-07-02T00:00:00.000Z
+date: 2022-07-02T00:00:00.000Z
 subtitle: This was a beautiful, intimate wedding which broug...
 description: Melbourne wedding photographer captures intimate ceremony in the Yarra Valley. Beautiful wedding photography at Oakridge winery with helicopter arrival and personal touches.
 location: The Yarra Valley, Melbourne
