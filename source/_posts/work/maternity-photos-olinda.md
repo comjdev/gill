@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Maternity photos in Olinda with Louise and her family
-date: 2025-08-02T00:00:00.000Z
+date: 2024-08-02T00:00:00.000Z
 subtitle: Maternity photos capturing this family of 3 before they become a family of 4
 description: This is an old friend of mine and her family. There’s always something extra special, and nerve wracking, about being asked to take photos for a friend!
 location: Olinda, Melbourne
