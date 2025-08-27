@@ -1,7 +1,7 @@
 ---
 layout: work
 title: In home newborn photos
-date: 2025-08-02T00:00:00.000Z
+date: 2025-08-23T00:00:00.000Z
 subtitle: In-home newborn photos in Melbourne
 description: After taking engagement and wedding photos for this couple, it was really special to be back taking newborn photos of their baby girl
 location: Melbourne
