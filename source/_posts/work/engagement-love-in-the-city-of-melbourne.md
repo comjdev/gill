@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Engagement - love in the city of Melbourne
-date: 2025-07-02T00:00:00.000Z
+date: 2025-07-28T00:00:00.000Z
 subtitle: Love in the city of Melbourne
 description: I don???t get to shoot in the city too often so I was pretty excited that???s where these 2 wanted their engagement photos taken.
 location: Melbourne
