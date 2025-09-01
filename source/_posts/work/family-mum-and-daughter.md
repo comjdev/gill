@@ -10,6 +10,7 @@ permalink: /melbourne-photos/family-mum-and-daughter/
 categories:
   - Family
 ---
+
 ## Capturing a special bond with mum and daughter photos
 
 How fun and sweet are these **family photos**? This session was all about celebrating the beautiful bond between a mum and her daughter. Little Hunter had the best time playing in the water and exploring the rocks with her mum, while I simply snapped away. **Family photos** should be exactly like this, a fun, carefree experience that captures genuine joy and connection, not just forced smiles.
