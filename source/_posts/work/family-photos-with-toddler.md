@@ -10,6 +10,7 @@ permalink: /melbourne-photos/family-photos-with-toddler/
 categories:
   - Family
 ---
+
 ## Family photos. A little fun and a little chaotic
 
 These were the first **family photos** for these guys and I’ll let you know a little secret. While there was lots of laughter and sweet moments, there were also a lot of chaotic ones! 1 year old Josh was pretty strong willed with what he wanted to do and where he wanted to go, which wasn’t always what we wanted. Typical for toddlers right? But we let him take the lead and guess what ... he had fun and we still got lots of beautiful **family photos**.
