@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Winter fun in the hills with family photos
-date: 2025-07-02T00:00:00.000Z
+date: 2022-07-02T00:00:00.000Z
 subtitle: The Peters family were a lot of fun to photograph....
 description: The Peters family were a lot of fun to photograph. We took these photos in the Dandenong ranges and in typical Melbourne style, we had to reschedule due to rain but only once, which I guess is not bad for mid-winter. Most families get photos done when they have their babies and maybe a coupl...
 location: Olinda, Melbourne

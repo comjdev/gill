@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Family photos especially for mum and daugher
-date: 2024-08-02T00:00:00.000Z
+date: 2025-08-01T00:00:00.000Z
 subtitle: Capturing a special bond with mum and daughter photos
 description: Melbourne family photographer captures the special bond between a mum and her daughter as they play and explore during sunset in Williamstown
 location: Melbourne
