@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Newborn photos for baby Noah
-date: 2025-07-01T00:00:00.000Z
+date: 2025-07-03T00:00:00.000Z
 subtitle: Newborn photos in Melbourne with this very chilled out little guy
 description: Newborn photos of baby Noah in Melbourne, who was so relaxed he slept through most of it!
 location: Melbourne
