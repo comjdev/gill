@@ -2,6 +2,56 @@ hexo.extend.helper.register("seoTitle", function () {
 	const page = this.page;
 	const config = this.config;
 
+	// For homepage, use specific title
+	if (page.layout === "index" || page.__index) {
+		return "Melbourne Photography: Family, Wedding & Newborn Photographer - Gill Photography";
+	}
+
+	// For portfolio page (main work archive)
+	if (page.layout === "portfolio") {
+		return "Lifestyle Photography in Melbourne | Gill Photography";
+	}
+
+	// For category pages (work posts by category)
+	if (page.layout === "category") {
+		// The category is stored in page.category (from the generator data)
+		const category = page.category;
+		if (category === "family") {
+			return "Melbourne Family Photos | Lifestyle Photography Melbourne";
+		}
+		if (category === "maternity") {
+			return "Melbourne Maternity Photos | Lifestyle Photography Melbourne";
+		}
+		if (category === "newborn") {
+			return "Melbourne Newborn Photos | Lifestyle Photography Melbourne";
+		}
+		if (category === "wedding") {
+			return "Melbourne Wedding Photos | Lifestyle Photography Melbourne";
+		}
+	}
+
+	// Check for specific paths as fallback
+	if (page.path && page.path.includes("melbourne-photos/")) {
+		if (page.path.includes("/family/")) {
+			return "Melbourne Family Photos | Lifestyle Photography Melbourne";
+		}
+		if (page.path.includes("/maternity/")) {
+			return "Melbourne Maternity Photos | Lifestyle Photography Melbourne";
+		}
+		if (page.path.includes("/newborn/")) {
+			return "Melbourne Newborn Photos | Lifestyle Photography Melbourne";
+		}
+		if (page.path.includes("/wedding/")) {
+			return "Melbourne Wedding Photos | Lifestyle Photography Melbourne";
+		}
+		if (
+			page.path === "melbourne-photos/" ||
+			page.path === "melbourne-photos/index.html"
+		) {
+			return "Lifestyle Photography in Melbourne | Gill Photography";
+		}
+	}
+
 	// For suburb pages, create highly targeted local SEO titles with secondary keywords
 	if (page.layout === "suburb" && page.suburb && page.category) {
 		const suburb = page.suburb;
