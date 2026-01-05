@@ -13,12 +13,8 @@
 
 			<!-- prettier-ignore -->
 			<% 
-			// Use page.posts if available, otherwise site.posts 
-			var allPosts = page.posts || site.posts;
-			// Filter to only show photography tips posts (posts with layout: post)
-			var posts = allPosts.filter(function(post) {
-				return post.layout === 'post';
-			});
+			// Get all blog posts (posts with layout: post)
+			var posts = getBlogPosts();
 			%>
 			<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
 				<% posts.each(function(post){ %>

@@ -144,12 +144,14 @@
 							>Latest Posts</a
 						>
 					</li>
-					<!-- Latest Blog Posts - Only show if less than 3 posts -->
-					<% var blogPosts = getBlogPosts(); if (blogPosts.length < 3) {
-					blogPosts.forEach(function(post) { %>
+					<!-- Latest Blog Posts - Show latest 3 -->
+					<% var blogPosts = getBlogPosts(3); if (blogPosts && blogPosts.length > 0) {
+					blogPosts.each(function(post) { 
+						var shortTitle = post.title.length > 50 ? post.title.substring(0, 50) + '...' : post.title;
+					%>
 					<li class="mb-4">
 						<a href="<%= url_for(post.path) %>" class="hover:underline"
-							><%= post.title %></a
+							><%= shortTitle %></a
 						>
 					</li>
 					<% }); } %>
