@@ -36,7 +36,7 @@ Texture photographs beautifully. Think ribbed knits, broderie anglaise, waffle t
 
 Spring is perfect for celebrating your bump outdoors. Choose dresses with empire waists, wrap styles, or stretchy rib knits that skim rather than cling. A light cardigan or denim jacket adds structure and warmth. Comfortable footwear is key, especially for grassy parks or sandy paths. If you love the idea of a second look, bring a simple swap like a different cardigan or scarf to change the mood mid session.
 
-If you are considering a maternity photoshoot separately or want to combine with family portraits, you can explore options with a dedicated melbourne maternity photographer for timing and styling ideas that highlight your bump while keeping the session relaxed.
+If you are considering a maternity photoshoot separately or want to combine with family portraits, you can explore options with a dedicated [Melbourne maternity photographer](/melbourne-maternity-photographer/) for timing and styling ideas that highlight your bump while keeping the session relaxed.
 
 ## Dressing kids and keeping it kid friendly
 
@@ -74,8 +74,8 @@ Begin with one outfit you love, often a patterned dress or shirt. Pull two colou
 
 I guide you lightly, then let the natural moments unfold. We will walk, cuddle, play, and pause in good light. Your styling supports that, nothing too precious or restrictive. If a child needs a break, we take it. If the dog wants a run, we work with it. Comfort first always leads to the warm, honest images you will treasure.
 
-If you would like more inspiration or are ready to plan your spring session, explore outdoor family photography melbourne to see locations, styling examples, and how a relaxed approach looks in real sessions. You can also read about the gentle, movement friendly style I bring as a lifestyle photographer melbourne if you are curious about candid, story led images.
+If you would like more inspiration or are ready to plan your spring session, explore [outdoor family photography Melbourne](/melbourne-family-photographer/) to see locations, styling examples, and how a relaxed approach looks in real sessions. You can also read about the gentle, movement friendly style I bring as a [lifestyle photographer Melbourne](/melbourne-lifestyle-photographer/) if you are curious about candid, story led images.
 
 ## Summary
 
-For spring family photos in Melbourne, choose comfort, soft layers, and a coordinated palette that suits your location. Muted mid tones work beautifully in parks and on the coast, with subtle patterns and textures that add depth. Keep outfits movement friendly, kid and pet ready, and avoid logos, neon, and fussy fabrics. The best time for family portraits is during golden hour for soft, flattering light, with early mornings as a great option for young families. When you feel good in what you wear, you relax, and those natural, candid moments become the heart of your gallery. If you are planning your session and want gentle guidance from a local, a melbourne photographer with a relaxed approach can help you pull it all together and create images you will love for years.
+For spring family photos in Melbourne, choose comfort, soft layers, and a coordinated palette that suits your location. Muted mid tones work beautifully in parks and on the coast, with subtle patterns and textures that add depth. Keep outfits movement friendly, kid and pet ready, and avoid logos, neon, and fussy fabrics. The best time for family portraits is during golden hour for soft, flattering light, with early mornings as a great option for young families. When you feel good in what you wear, you relax, and those natural, candid moments become the heart of your gallery. If you are planning your session and want gentle guidance from a local, a Melbourne photographer with a relaxed approach can help you pull it all together and create images you will love for years.
