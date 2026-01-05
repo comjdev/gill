@@ -144,8 +144,8 @@
 							>Latest Posts</a
 						>
 					</li>
-					<!-- Latest Blog Posts - Show latest 3 -->
-					<% var blogPosts = getBlogPosts(3); if (blogPosts && blogPosts.length > 0) {
+					<!-- Latest Blog Posts - Show latest 2 -->
+					<% var blogPosts = getBlogPosts(2); if (blogPosts && blogPosts.length > 0) {
 					blogPosts.each(function(post) { 
 						var shortTitle = post.title.length > 50 ? post.title.substring(0, 50) + '...' : post.title;
 					%>
@@ -161,11 +161,11 @@
 			<div class="lg:mx-auto">
 				<h2 class="mb-6 text-sm font-light text-white uppercase">Portfolio</h2>
 				<ul class="text-gray-300">
-					<!-- Latest Portfolio Posts - Show latest 3 -->
+					<!-- Latest Portfolio Posts - Show latest 2 -->
 					<!-- prettier-ignore -->
 					<% var portfolioPosts = getWorkPosts(); if (portfolioPosts &&
 					portfolioPosts.length > 0) { var latestPosts = portfolioPosts.slice(0,
-					3); latestPosts.forEach(function(post) { %>
+					2); latestPosts.forEach(function(post) { %>
 					<li class="mb-4">
 						<a href="<%= url_for(post.path) %>" class="hover:underline"
 							><%= post.title %></a
