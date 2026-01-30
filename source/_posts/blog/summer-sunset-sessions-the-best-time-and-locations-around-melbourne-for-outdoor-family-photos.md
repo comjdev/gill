@@ -64,7 +64,7 @@ I send a preparation guide before your session with more tips and inspiration, a
 
 I guide you gently, keep the mood light, and work with the natural rhythm of your family. We start with simple prompts to help you settle, then lean into candid moments, from tickles and shoulder rides to quiet hugs when the light turns golden. I pay attention to wind direction, where the sun sits, and how kids are feeling, and I adjust our plan so the experience stays relaxed.
 
-If you are exploring options for outdoor family photography melbourne, have a look at how I work and what a session feels like for real families. You can also learn more about my style as a lifestyle photographer melbourne, including how I use natural light to tell your story in an honest, timeless way.
+If you are exploring options for [outdoor family photography Melbourne](/melbourne-family-photographer/), have a look at how I work and what a session feels like for real families. You can also learn more about my style as a [lifestyle photographer Melbourne](/melbourne-lifestyle-photographer/), including how I use natural light to tell your story in an honest, timeless way.
 
 ## Summary and next steps
 
