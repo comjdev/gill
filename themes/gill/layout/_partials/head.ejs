@@ -120,6 +120,28 @@ let canonicalUrl = config.url.replace(/\/$/, '') + cleanedPath;
 		<%- breadcrumbSchema(page, config) %>
 	</script>
 
+	<!-- FAQPage Schema (service + faq pages) -->
+	<% 
+	var faqsToSchema = [];
+	if (page.layout === 'service' && page.data) {
+		var serviceData = site.data[page.data];
+		if (serviceData && serviceData.faqs && serviceData.faqs.length > 0) {
+			faqsToSchema = serviceData.faqs;
+		}
+	} else if (page.layout === 'faq') {
+		faqsToSchema = [].concat(
+			(site.data.family && site.data.family.faqs) || [],
+			(site.data.maternity && site.data.maternity.faqs) || [],
+			(site.data.newborn && site.data.newborn.faqs) || [],
+			(site.data.wedding && site.data.wedding.faqs) || []
+		);
+	}
+	if (faqsToSchema.length > 0) { %>
+	<script type="application/ld+json">
+		<%- faqJsonldFromData(faqsToSchema) %>
+	</script>
+	<% } %>
+
 	<!-- GTM  -->
 	<%- partial('_partials/head/gtm') %>
 

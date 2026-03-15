@@ -474,3 +474,23 @@ hexo.extend.helper.register("faqJsonld", function (page) {
 
 	return JSON.stringify(jsonLd, null, 2);
 });
+
+hexo.extend.helper.register("faqJsonldFromData", function (faqs) {
+	if (!faqs || !Array.isArray(faqs) || faqs.length === 0) return "";
+	const jsonLd = {
+		"@context": "https://schema.org",
+		"@type": "FAQPage",
+		mainEntity: faqs.map((faq) => ({
+			"@type": "Question",
+			name: faq.question,
+			acceptedAnswer: {
+				"@type": "Answer",
+				text: (faq.answer || "")
+					.trim()
+					.replace(/\s+/g, " ")
+					.replace(/<[^>]*>/g, ""),
+			},
+		})),
+	};
+	return JSON.stringify(jsonLd, null, 2);
+});
