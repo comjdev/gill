@@ -104,9 +104,10 @@ theme: gill
 deploy:
   type: ""
 
-#sitemap
+# Sitemap - exclude categories (redirect to service pages instead)
 sitemap:
   path: sitemap.xml
+  categories: false
 
 # Contact
 address:

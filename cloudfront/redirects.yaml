@@ -1,0 +1,45 @@
+# SEO redirects for gill-photography.com.au
+# Source of truth for legacy URL → canonical URL mappings
+# Edit this file and redeploy the CloudFront Function to apply changes
+#
+# Requirements: 301, preserve query params, handle trailing slash variants
+
+version: 1
+base_url: "https://gill-photography.com.au"
+
+# Legacy page redirects (exact path → destination)
+# Include both slash variants to avoid extra lookups
+redirects:
+  # About → About/Photographer page
+  "/about": "/melbourne-lifestyle-photographer/"
+  "/about/": "/melbourne-lifestyle-photographer/"
+
+  # Contact → Booking page
+  "/contact": "/book-lifestyle-photographer-in-melbourne/"
+  "/contact/": "/book-lifestyle-photographer-in-melbourne/"
+
+  # Portfolio & Gallery → Melbourne photos
+  "/portfolio": "/melbourne-photos/"
+  "/portfolio/": "/melbourne-photos/"
+  "/gallery": "/melbourne-photos/"
+  "/gallery/": "/melbourne-photos/"
+
+  # Blog → Melbourne photography tips
+  "/blog": "/melbourne-photography-tips/"
+  "/blog/": "/melbourne-photography-tips/"
+
+  # Category pages → Service pages (high-value SEO)
+  "/categories/Maternity": "/melbourne-maternity-photographer/"
+  "/categories/Maternity/": "/melbourne-maternity-photographer/"
+  "/categories/Newborn": "/melbourne-newborn-photographer/"
+  "/categories/Newborn/": "/melbourne-newborn-photographer/"
+  "/categories/Family": "/melbourne-family-photographer/"
+  "/categories/Family/": "/melbourne-family-photographer/"
+  "/categories/Wedding": "/melbourne-wedding-photographer/"
+  "/categories/Wedding/": "/melbourne-wedding-photographer/"
+
+  # Duplicate Melbourne service pages → Canonical service pages (case-insensitive)
+  "/family-photographer/melbourne": "/melbourne-family-photographer/"
+  "/family-photographer/melbourne/": "/melbourne-family-photographer/"
+  "/newborn-photographer/melbourne": "/melbourne-newborn-photographer/"
+  "/newborn-photographer/melbourne/": "/melbourne-newborn-photographer/"
