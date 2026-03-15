@@ -108,6 +108,7 @@ deploy:
 sitemap:
   path: sitemap.xml
   categories: false
+  tags: false
 
 # Contact
 address:

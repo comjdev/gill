@@ -6,7 +6,7 @@ subtitle: Answering all your questions about my newborn shoots in Melbourne
 description: Still have some questions about what to expect at a newborn shoot?
 hero: Melbourne-newborn-photographer-header-3.jpg
 featured: Melbourne-newborn-photographer-photos-3.jpg
-permalink: /melbourne-photography-tips/in-home-newborn-photos-in-melbourne
+permalink: /melbourne-photography-tips/in-home-newborn-photos-in-melbourne/
 ---
 
 ## In-home newborn photos in Melbourne: your questions answered!

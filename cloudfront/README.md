@@ -24,38 +24,38 @@ SEO 301 redirects for legacy URLs. Runs at the edge on every viewer request.
 - **No redirect chains** – destinations are canonical URLs
 - **Cache headers** – `max-age=31536000` on redirect responses
 
-## Deploy
+## Deploy (AWS profile: gill)
 
-### One-time setup (create function and associate)
+**Prerequisites:** AWS CLI, `jq` (`brew install jq`), profile `gill` configured (`aws configure --profile gill`)
 
-```bash
-# Create the function
-aws cloudfront create-function \
-  --name redirect-viewer-request \
-  --function-config Comment="SEO redirects",Runtime="cloudfront-js-1.0" \
-  --function-code fileb://cloudfront/functions/redirect-viewer-request/index.js
-
-# Publish
-aws cloudfront publish-function --name redirect-viewer-request
-
-# Associate with distribution (get ETag first)
-aws cloudfront get-distribution-config --id YOUR_DISTRIBUTION_ID
-# Then update the distribution config to add the function to the default cache behavior's viewerRequest
-```
-
-### Update existing function
+### One-time setup (create function + associate with distribution)
 
 ```bash
-# Update code
-aws cloudfront update-function \
-  --name redirect-viewer-request \
-  --if-match $(aws cloudfront describe-function --name redirect-viewer-request --query 'ETag' --output text) \
-  --function-config Comment="SEO redirects",Runtime="cloudfront-js-1.0" \
-  --function-code fileb://cloudfront/functions/redirect-viewer-request/index.js
-
-# Publish (creates new version, triggers deployment)
-aws cloudfront publish-function --name redirect-viewer-request
+# Run from project root
+./cloudfront/scripts/setup-redirects.sh YOUR_DISTRIBUTION_ID
 ```
+
+You'll be prompted for the distribution ID if omitted. Find it in **AWS Console → CloudFront → Distributions** or in your GitHub deploy secrets (`CLOUDFRONT_DISTRIBUTION_ID`).
+
+### Update existing function (after editing redirects)
+
+```bash
+./cloudfront/scripts/deploy-redirect-function.sh
+```
+
+### Associate with a different distribution
+
+```bash
+./cloudfront/scripts/associate-function.sh YOUR_DISTRIBUTION_ID
+```
+
+### Scripts
+
+| Script | Purpose |
+|--------|---------|
+| `cloudfront/scripts/deploy-redirect-function.sh` | Create/update function + publish to LIVE |
+| `cloudfront/scripts/associate-function.sh` | Attach function to distribution (viewer-request) |
+| `cloudfront/scripts/setup-redirects.sh` | Full setup: deploy + associate |
 
 ## Adding redirects
 

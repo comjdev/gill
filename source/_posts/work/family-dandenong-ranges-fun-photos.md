@@ -6,7 +6,7 @@ subtitle: Family photos that really focused on fun and play
 description: This family was so amazing at focusing on playing with their kids and having fun during their family session. It really shows in their relaxed photos!
 location: The Dandenong Ranges
 image: family-photos-dandenong-ranges-kallista-2.jpg
-permalink: /melbourne-photos/ family-dandenong-ranges-fun-photos/
+permalink: /melbourne-photos/family-dandenong-ranges-fun-photos/
 categories:
   - Family
 ---

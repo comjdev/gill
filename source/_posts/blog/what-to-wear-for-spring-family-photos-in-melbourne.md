@@ -4,7 +4,7 @@ title: What To Wear For Spring Family Photos In Melbourne
 date: 2025-09-20T00:00:00.000Z
 subtitle: Planning outfits that feel comfortable, move freely, and look like yourselves
 description: Planning outfits for spring family photos should feel easy and enjoyable. Choose colours, fabrics, and styles that photograph beautifully in Melbourne's spring light.
-permalink: /melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne
+permalink: /melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/
 ---
 
 Planning outfits for spring family photos should feel easy and enjoyable, not stressful. Melbourne gives you so many beautiful backdrops at this time of year, from leafy parks filled with wattle and blossom to breezy beaches with soft sand and pastel skies. The goal is simple, you want to feel comfortable, move freely, and look like yourselves. Here is a supportive guide to help you choose colours, fabrics, and styles that photograph beautifully in Melbourne's spring light.

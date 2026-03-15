@@ -4,7 +4,7 @@ title: "Summer Sunset Sessions: The Best Time And Locations Around Melbourne For
 date: 2025-11-10T00:00:00.000Z
 subtitle: Long, golden summer evenings are made for barefoot cuddles, salty hair, and little ones chasing the last light
 description: Long, golden summer evenings are perfect for relaxed, sunlit portraits. Learn the best time of day, heat-friendly tips for kids, and location types around Melbourne that suit natural, easygoing family photos.
-permalink: /melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos
+permalink: /melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/
 ---
 
 Long, golden summer evenings are made for barefoot cuddles, salty hair, and little ones chasing the last light across the grass. If you are dreaming of relaxed, sunlit portraits that feel like you on your best summer day, a sunset session is a beautiful fit. In this guide, I will help you choose the best time of day, share heat-friendly tips for kids, and suggest location types around Melbourne that suit natural, easygoing family photos. My sessions are gently guided and relaxed, and I am always happy to travel to places that mean something to you.
