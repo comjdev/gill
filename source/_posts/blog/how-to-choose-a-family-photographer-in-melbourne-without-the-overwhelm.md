@@ -19,7 +19,7 @@ Most family photographers in Melbourne fit somewhere along a spectrum.
 
 If you love images that feel like a memory you can step back into, look for a lifestyle approach. If you want that classic framed group portrait, choose someone who includes a little of both. When in doubt, browse full galleries, not only highlight reels.
 
-If you want to explore what a lifestyle session looks like in practice, take a peek at a dedicated page for a lifestyle photographer melbourne to see relaxed, story-led images and session notes.
+If you want to explore what a lifestyle session looks like in practice, take a peek at a dedicated page for a [lifestyle photographer Melbourne](/melbourne-lifestyle-photographer/) to see relaxed, story-led images and session notes.
 
 ## What a storytelling session actually feels like
 
@@ -37,7 +37,7 @@ If you are booking for a newborn, ask clear questions about safety. A profession
 - Avoid risky props and complex poses that require composite editing unless trained and using spotters.
 - Follow hygiene practices, including clean wraps and hand washing.
 
-In-home sessions can be wonderful for tiny babies because you have everything you need close by and no one has to rush. If you are curious about what to expect, you can read more about natural newborn photography Melbourne for an overview of gentle, baby-led sessions.
+In-home sessions can be wonderful for tiny babies because you have everything you need close by and no one has to rush. If you are curious about what to expect, you can read more about [natural newborn photography in Melbourne](/melbourne-newborn-photographer/) for an overview of gentle, baby-led sessions.
 
 ## What is usually included in a package
 
@@ -88,7 +88,7 @@ Use this simple checklist as you shortlist:
 - Book, sign, and pay the retainer. Add the session to your calendar.
 - Prepare simple outfits in a cohesive palette, plan snacks, and let kids be themselves.
 
-If you are ready to explore family photography Melbourne with a relaxed, story-first approach, you can learn more about sessions and locations that suit busy families.
+If you are ready to explore [family photography in Melbourne](/melbourne-family-photographer/) with a relaxed, story-first approach, you can learn more about sessions and locations that suit busy families.
 
 ## Why location matters more than you think
 
@@ -100,4 +100,4 @@ You arrive, take a breath, and your photographer checks the light. You might sta
 
 ## Wrapping up
 
-Choosing a family photographer in Melbourne does not have to be overwhelming. Decide on the style that feels right, prioritise safety for newborns, look for clear inclusions, and choose someone who values relaxed, gently guided sessions in places that matter to you. If you are looking for a Melbourne photographer who focuses on natural storytelling and a calm experience, explore galleries, read reviews, and reach out early in spring to secure your preferred date before summer arrives.
+Choosing a family photographer in Melbourne does not have to be overwhelming. Decide on the style that feels right, prioritise safety for newborns, look for clear inclusions, and choose someone who values relaxed, gently guided sessions in places that matter to you. If you are looking for a [Melbourne family photographer](/melbourne-family-photographer/) who focuses on natural storytelling and a calm experience, explore galleries, read reviews, and reach out early in spring to secure your preferred date before summer arrives.

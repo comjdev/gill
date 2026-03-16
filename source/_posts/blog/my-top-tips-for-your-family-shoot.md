@@ -11,7 +11,7 @@ permalink: /melbourne-photography-tips/my-top-tips-for-your-family-shoot/
 
 ## My Personal Experience with Family Photography Chaos
 
-Let me tell you a little secret: I've seen it all. And I mean all. As a family photographer, I've witnessed the sweetest smiles and the most epic toddler tantrums. But nothing quite prepared me for the day my own two-year-old decided to unleash his inner wild child during our family photos. Yes, you heard that right! The photographer's son.
+Let me tell you a little secret: I've seen it all. And I mean all. As a [family photographer in Melbourne](/melbourne-family-photographer/), I've witnessed the sweetest smiles and the most epic toddler tantrums. But nothing quite prepared me for the day my own two-year-old decided to unleash his inner wild child during our family photos. Yes, you heard that right! The photographer's son.
 
 We were at a stunning Mornington Peninsula location, perched atop beautiful cliffs overlooking the ocean. Picture-perfect, right? Wrong. Harrison transformed into a tiny, cliff-running daredevil, ignoring every word we said. He'd never been a runner before, but he was making up for lost time! It was a chaotic, heart-stopping, and slightly hilarious experience.
 

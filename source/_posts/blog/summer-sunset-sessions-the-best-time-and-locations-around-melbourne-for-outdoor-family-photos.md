@@ -70,4 +70,4 @@ If you are exploring options for [outdoor family photography Melbourne](/melbour
 
 Summer is a beautiful time for outdoor family photos in Melbourne. Aim for golden hour, choose a location style that suits how your family plays, and pack a few simple comforts to keep everyone cool. With relaxed guidance and space to be yourselves, you will walk away with warm, natural images that feel like your favourite summer evening.
 
-If you would like to plan your own sunset session, I would love to help you choose the right timing and a location that feels meaningful. Explore family photography melbourne to see recent sessions and get a sense of what we can create together.
+If you would like to plan your own sunset session, I would love to help you choose the right timing and a location that feels meaningful. Explore [family photography in Melbourne](/melbourne-family-photographer/) to see recent sessions and get a sense of what we can create together.

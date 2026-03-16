@@ -19,7 +19,7 @@ This is one of the most frequently asked questions, especially for those expecti
 However, as a **lifestyle newborn photographer in Melbourne**, my approach is very flexible.
 
 We can capture **beautiful newborn photos** anytime within your baby's first few weeks, or even up to 2-3 months old. While a younger baby might be sleepier, an older newborn is more alert, gives eye contact and often makes adorable, engaging expressions. The most important thing is that **you and your baby are comfortable**.
-It's a good idea to book your newborn session during your pregnancy to secure your date.
+It's a good idea to book your newborn session during your pregnancy to secure your date. If you are thinking ahead, you might also like to explore [maternity photography in Melbourne](/melbourne-maternity-photographer/) to capture your bump before baby arrives.
 
 ### My baby is older than a few weeks. Does this mean it’s too late for newborn photos?
 
@@ -28,7 +28,7 @@ The good news is that older babies (from a few weeks up to 3-4 months) are wonde
 
 ### Preparing for your in-home newborn session and what to organise
 
-One of the biggest advantages of an in-home newborn photoshoot is the minimal preparation required from you. Yay! As your **Melbourne newborn photographer**, I want this to be as stress-free as possible.
+One of the biggest advantages of an in-home newborn photoshoot is the minimal preparation required from you. Yay! As your [Melbourne newborn photographer](/melbourne-newborn-photographer/), I want this to be as stress-free as possible.
 You don't need to deep-clean your entire house! We typically work in just a few key areas, like the master bedroom, living room, baby’s room/space, focusing on rooms with **beautiful natural light**.
 
 My main advice for preparing is to:
@@ -56,9 +56,9 @@ This is a common concern, especially for new mums who might be feeling tired or 
 ### What if my baby won't settle during our newborn photos?
 
 This is perhaps the biggest worry for parents and I want to reassure you, it's completely normal, and it's perfectly fine! Your baby is the boss during our session.
-My approach as your **Melbourne newborn photographer** is entirely baby-led. This means we take as many breaks as needed for feeding, changing or simply cuddling your little one. There's no rush or pressure. Sometimes the most beautiful and authentic newborn photos happen during a yawn, a stretch, or even a brief moment that shows their tiny (or big!) personality. Patience and flexibility are key and with over 10 years of experience, **I'm yet to meet a baby I couldn’t settle**.
+My approach as your [Melbourne newborn photographer](/melbourne-newborn-photographer/) is entirely baby-led. This means we take as many breaks as needed for feeding, changing or simply cuddling your little one. There's no rush or pressure. Sometimes the most beautiful and authentic newborn photos happen during a yawn, a stretch, or even a brief moment that shows their tiny (or big!) personality. Patience and flexibility are key and with over 10 years of experience, **I'm yet to meet a baby I couldn’t settle**.
 
 ## Ready to capture your Melbourne newborn's story?
 
 I hope this has helped answer some of your questions about booking your **newborn photos** with me! I really do my best to make sure you have a relaxed, enjoyable experience and a collection of beautiful, authentic images that tell the unique story of your family's new beginning.
-If you're looking for a **newborn photographer in Melbourne** who values natural moments and works in the comfort of your home, I'd love to chat. Ready to book your newborn photoshoot? Contact me today!
+If you're looking for a [newborn photographer in Melbourne](/melbourne-newborn-photographer/) who values natural moments and works in the comfort of your home, I'd love to chat. Ready to book your newborn photoshoot? Contact me today! Expectant parents can also explore [maternity photography in Melbourne](/melbourne-maternity-photographer/) or [family photography](/melbourne-family-photographer/) for sessions with older children.

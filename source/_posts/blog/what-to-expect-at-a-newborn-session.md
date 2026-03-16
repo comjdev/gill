@@ -11,7 +11,7 @@ permalink: /melbourne-photography-tips/what-to-expect-at-a-newborn-session/
 
 ## Newborn Photography in and Around the Suburbs of Melbourne
 
-Bringing a new life into the world is a whirlwind of emotions, sleepy cuddles, and endless wonder. As a newborn photographer, my goal is to capture those fleeting, precious moments in a way that feels natural and stress-free. I understand that those first few weeks are a beautiful (and sometimes not so beautiful) blur, so let's talk about what you can expect during your newborn session with me.
+Bringing a new life into the world is a whirlwind of emotions, sleepy cuddles, and endless wonder. As a [newborn photographer in Melbourne](/melbourne-newborn-photographer/), my goal is to capture those fleeting, precious moments in a way that feels natural and stress-free. I understand that those first few weeks are a beautiful (and sometimes not so beautiful) blur, so let's talk about what you can expect during your newborn session with me.
 
 ## A Relaxed, Baby-Led Approach
 
@@ -39,7 +39,7 @@ My approach is relaxed and easygoing. I bring everything we need for the session
 
 ## Including the Whole Family
 
-While the focus will naturally be on your sweet baby, I will also take plenty of family photos of you altogether to document your first few days together as a family.
+While the focus will naturally be on your sweet baby, I will also take plenty of [family photos](/melbourne-family-photographer/) of you altogether to document your first few days together as a family.
 
 ## Creating Lasting Memories
 

@@ -34,7 +34,7 @@ If baby needs a feed, we pause. If a nappy needs changing, we pause. Those in-be
 - A curated gallery of edited images that feel natural and timeless
 - Options to include treasured spaces, like the nursery, your bed, or the sunny patch on the floor where you drink morning coffee
 
-If you would like to see how this looks in practice, browse examples of natural newborn photography melbourne to get a feel for cosy, at-home storytelling.
+If you would like to see how this looks in practice, browse examples of [natural newborn photography in Melbourne](/melbourne-newborn-photographer/) to get a feel for cosy, at-home storytelling.
 
 ## Siblings, pets, and the sweet chaos of family
 
@@ -66,9 +66,9 @@ If you are on the fence, a simple in-home session can be a gentle middle ground.
 
 ## Finding the right fit
 
-Look for a photographer who prioritises safety, calm pacing, and connection. Read reviews that mention patience and a relaxed atmosphere. Browse galleries that feature homes similar to yours. If you are searching for family photography melbourne with a focus on storytelling and comfort, I would love to chat about your plans and the spaces you love most.
+Look for a photographer who prioritises safety, calm pacing, and connection. Read reviews that mention patience and a relaxed atmosphere. Browse galleries that feature homes similar to yours. If you are searching for [family photography in Melbourne](/melbourne-family-photographer/) with a focus on storytelling and comfort, I would love to chat about your plans and the spaces you love most.
 
-You can also explore the approach I take as a lifestyle photographer melbourne to see how natural light, soft tones, and quiet direction come together in at-home sessions.
+You can also explore the approach I take as a [lifestyle photographer in Melbourne](/melbourne-lifestyle-photographer/) to see how natural light, soft tones, and quiet direction come together in at-home sessions. Expectant parents can discover [maternity photography in Melbourne](/melbourne-maternity-photographer/) options to capture your bump before baby arrives.
 
 ## Quick reassurance for common worries
 
