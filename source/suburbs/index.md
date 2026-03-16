@@ -6,7 +6,7 @@ layout: suburbs
 permalink: suburbs/
 ---
 
-At Gill Juergens Photography, I specialise in relaxed, high-quality family, newborn and maternity photography for families across Melbourne's eastern suburbs. Whether you're located in Ferntree Gully, Glen Waverley, Boronia, Knox, or anywhere in between, I bring a calm, fun energy that helps families feel comfortable and natural in front of the camera.
+At Gill Juergens Photography, I specialise in relaxed, high-quality [family](/melbourne-family-photographer/), [newborn](/melbourne-newborn-photographer/) and [maternity photography](/melbourne-maternity-photographer/) for families across Melbourne's eastern suburbs. Whether you're located in Ferntree Gully, Glen Waverley, Boronia, Knox, or anywhere in between, I bring a calm, fun energy that helps families feel comfortable and natural in front of the camera.
 
 From candid family moments to gentle newborn sessions and beautiful maternity portraits, my sessions are designed to capture genuine smiles and real connections — while making your photography session stress-free and enjoyable.
 

@@ -19,7 +19,7 @@ local_references:
 
 ## Gentle newborn photography in Ringwood, capturing your baby's first story
 
-Hello! I’m a lifestyle photographer with over ten years of experience working with families in **Ringwood** and the surrounding suburbs. My work is grounded in capturing the real, tender, and joy-filled moments that make each family's journey so unique. While I also photograph glowing **maternity sessions** and the beautiful unpredictability of family life with **family photos**, this page is devoted to one of the most special chapters of all, those first gentle days with your newborn.
+Hello! I’m a lifestyle photographer with over ten years of experience working with families in **Ringwood** and the surrounding suburbs. My work is grounded in capturing the real, tender, and joy-filled moments that make each family's journey so unique. While I also photograph glowing [maternity sessions](/melbourne-maternity-photographer/) and the beautiful unpredictability of family life with [family photos](/melbourne-family-photographer/), this page is devoted to one of the most special chapters of all, those first gentle days with your newborn.
 
 Long before I picked up a camera professionally, I studied storytelling through writing and now, I combine that narrative eye with natural photography to preserve the emotion, beauty, and truth of your family's earliest days together. As a mother myself, I know just how quickly this newborn stage slips by. That’s why I approach every **newborn photography** session in **Ringwood** with care, patience, and a deep understanding of just how much these quiet, fleeting moments mean.
 

@@ -22,7 +22,7 @@ local_references:
 
 ## Capturing your Balwyn family story with natural lifestyle photography
 
-I'm a photographer with over a decade of experience capturing the beautiful journey of families in and around Balwyn. While I also specialise in documenting the anticipation of new life with **maternity photography** and the delicate wonder of **newborn photos**, this page is dedicated to celebrating the joy and connection of family through natural and relaxed photography sessions right here in Balwyn. I embrace a lifestyle approach, photographing families in the comfort of their own homes and at various beautiful outdoor locations. My aim is to make everyone feel at ease, ensuring a fun and memorable experience where genuine moments are captured.
+I'm a photographer with over a decade of experience capturing the beautiful journey of families in and around Balwyn. While I also specialise in documenting the anticipation of new life with [maternity photography](/melbourne-maternity-photographer/) and the delicate wonder of [newborn photos](/melbourne-newborn-photographer/), this page is dedicated to celebrating the joy and connection of family through natural and relaxed photography sessions right here in Balwyn. I embrace a lifestyle approach, photographing families in the comfort of their own homes and at various beautiful outdoor locations. My aim is to make everyone feel at ease, ensuring a fun and memorable experience where genuine moments are captured.
 
 ## Family photos in Balwyn
 

@@ -19,7 +19,7 @@ local_references:
 
 ## Natural and relaxed newborn photos for Burwood families
 
-Hi, I’m a lifestyle photographer with over a decade of experience capturing honest, heartfelt moments for families across Melbourne. I specialise in **newborn photography**, as well as **maternity photos** and relaxed, joy-filled **family sessions**. Before photography, I studied writing, and now I combine those storytelling skills with my camera to document the beautifully real and fleeting early days with your baby.
+Hi, I’m a lifestyle photographer with over a decade of experience capturing honest, heartfelt moments for families across Melbourne. I specialise in **newborn photography**, as well as [maternity photos](/melbourne-maternity-photographer/) and relaxed, joy-filled [family photography](/melbourne-family-photographer/). Before photography, I studied writing, and now I combine those storytelling skills with my camera to document the beautifully real and fleeting early days with your baby.
 
 My approach is gentle, baby-led, and designed to make you feel completely at ease. I photograph in a lifestyle way, no formal studio setups, just soft, natural light and meaningful moments, whether that’s in the comfort of your **Burwood** home or a relaxed outdoor setting. These first days with your newborn are precious and fast-moving. My goal is to help you slow it all down for just a moment and capture memories with sweet **newborn photos** you’ll treasure for a lifetime.
 

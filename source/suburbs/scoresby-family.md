@@ -19,7 +19,7 @@ local_references:
 
 ## Natural and relaxed lifestyle photography as your Scoresby family photographer
 
-I'm a lifestyle photographer with over a decade of experience capturing authentic and heartfelt family moments across Melbourne’s eastern suburbs, including beautiful **Scoresby**. While I also specialise in **maternity photography** and timeless **newborn photos**, this page is dedicated to the magic of everyday family life, told through natural, relaxed photo sessions in **Scoresby**.
+I'm a lifestyle photographer with over a decade of experience capturing authentic and heartfelt family moments across Melbourne’s eastern suburbs, including beautiful **Scoresby**. While I also specialise in [maternity photography](/melbourne-maternity-photographer/) and timeless [newborn photos](/melbourne-newborn-photographer/), this page is dedicated to the magic of everyday family life, told through natural, relaxed photo sessions in **Scoresby**.
 
 Before discovering my passion for photography, I studied writing and now I bring these two worlds together. I don’t just take photos, I tell your story visually, capturing all the love, laughter, chaos, and calm that makes your family unique. My **family photography** sessions are laid-back and child-friendly, designed to feel more like a fun outing than anything serious. Because these days with little ones pass all too quickly. Let’s capture them, just as they are.
 

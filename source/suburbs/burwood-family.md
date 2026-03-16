@@ -19,7 +19,7 @@ local_references:
 
 ## Fun and joyful family photos for your family in Burwood
 
-I'm a photographer with over a decade of experience capturing the beautiful and unique stories of families in and around Burwood. While I also specialise in documenting the excitement of new life with **maternity photography** and the special wonder of **newborn photos**, this page is dedicated to celebrating the joy and connection of family through natural and relaxed photography sessions right here in Burwood. Because of my background in writing before becoming a photographer, I bring a deeper sense of storytelling to your family's photos. This allows me to truly capture your unique essence during a laid-back and enjoyable adventure that your kids will love.
+I'm a photographer with over a decade of experience capturing the beautiful and unique stories of families in and around Burwood. While I also specialise in documenting the excitement of new life with [maternity photography](/melbourne-maternity-photographer/) and the special wonder of [newborn photos](/melbourne-newborn-photographer/), this page is dedicated to celebrating the joy and connection of family through natural and relaxed photography sessions right here in Burwood. Because of my background in writing before becoming a photographer, I bring a deeper sense of storytelling to your family's photos. This allows me to truly capture your unique essence during a laid-back and enjoyable adventure that your kids will love.
 
 ## Family photos in Burwood
 

@@ -19,7 +19,7 @@ local_references:
 
 ## Capturing your Surrey Hills family with joyful lifestyle photography
 
-Hi, I'm a Surrey Hills **family photographer** with many years of experience capturing the beautifully unique stories of families just like yours. I also offer **maternity photography** and **newborn photos**, but this page is all about celebrating your family, right now, through relaxed and joyful **family photography** sessions in and around **Surrey Hills**.
+Hi, I'm a Surrey Hills **family photographer** with many years of experience capturing the beautifully unique stories of families just like yours. I also offer [maternity photography](/melbourne-maternity-photographer/) and [newborn photos](/melbourne-newborn-photographer/), but this page is all about celebrating your family, right now, through relaxed and joyful **family photography** sessions in and around **Surrey Hills**.
 
 Before falling in love with photography, I studied writing, and today I blend both passions, storytelling and imagery, to create meaningful **family photos**. My approach is laid-back, child-led, and designed to feel more like a fun adventure than anything serious. These early years fly by, and your children will never be quite this small again. Let’s capture your family’s story now, in all its perfectly imperfect glory.
 

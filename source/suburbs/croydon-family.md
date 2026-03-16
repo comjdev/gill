@@ -19,7 +19,7 @@ local_references:
 
 ## Celebrating your Croydon family with lifestyle photos
 
-Hi there! I’m a lifestyle photographer based in **Croydon** with over ten years of experience capturing the genuine, beautiful stories of families just like yours. While I offer **maternity photos** and **newborn photos**, this page is all about celebrating your family, authentic, relaxed, and full of love, right here in Croydon. Before photography became my full-time passion, I studied writing, and today I combine both forms of storytelling, visual and written, to capture the true spirit of each family I meet. My approach is easygoing and child-focused, ensuring your session feels more like a fun day out than a formal shoot. These years fly by, and my goal is to help you preserve this chapter because your little ones won’t stay little for long. I know mine haven't!
+Hi there! I’m a lifestyle photographer based in **Croydon** with over ten years of experience capturing the genuine, beautiful stories of families just like yours. While I offer [maternity photos](/melbourne-maternity-photographer/) and [newborn photos](/melbourne-newborn-photographer/), this page is all about celebrating your family, authentic, relaxed, and full of love, right here in Croydon. Before photography became my full-time passion, I studied writing, and today I combine both forms of storytelling, visual and written, to capture the true spirit of each family I meet. My approach is easygoing and child-focused, ensuring your session feels more like a fun day out than a formal shoot. These years fly by, and my goal is to help you preserve this chapter because your little ones won’t stay little for long. I know mine haven't!
 
 ## Family photos in Croydon
 

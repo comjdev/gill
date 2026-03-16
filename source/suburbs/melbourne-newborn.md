@@ -19,7 +19,7 @@ local_references:
 
 ## Melbourne lifestyle photography for newborns and new beginnings
 
-Hi, I’m so glad you’re here. I’m a Melbourne-based lifestyle photographer with over ten years of experience capturing the real, heartfelt moments that define family life. I work with families across the city and surrounding suburbs to create meaningful, honest portraits that celebrate every chapter, from the quiet anticipation of **maternity photography** to the beautifully unscripted energy of **family photography**. But this space is especially for the tender, fleeting time that surrounds welcoming a newborn into your world and capturing **newborn photos**.
+Hi, I’m so glad you’re here. I’m a Melbourne-based lifestyle photographer with over ten years of experience capturing the real, heartfelt moments that define family life. I work with families across the city and surrounding suburbs to create meaningful, honest portraits that celebrate every chapter, from the quiet anticipation of [maternity photography](/melbourne-maternity-photographer/) to the beautifully unscripted energy of [family photography](/melbourne-family-photographer/). But this space is especially for the tender, fleeting time that surrounds welcoming a newborn into your world and capturing **newborn photos**.
 
 My **newborn photography** sessions in **Melbourne** are designed to feel as natural and relaxed as possible. I come to you, into the comfort and familiarity of your own home, where your baby’s story is just beginning to unfold. These sessions are gentle, baby-led, and calm, allowing you to simply soak up the moment while I document the beauty of your new life together.
 

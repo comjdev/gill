@@ -26,7 +26,7 @@ Here it is, the beautiful journey of parenthood! As a photographer and a Mum, I 
 
 ## Newborn photos in Lilydale
 
-I specialise in capturing all the special moments of your family's journey, from the beauty of your pregnancy with **maternity photos** to the love and connection in your home with **family photos** and **newborn photos**. I'm based near Lilydale and love working with families throughout the Yarra Valley. We can plan a session that's perfect for you, whether that's a cozy shoot in your home or an adventure out in the beautiful local scenery.
+I specialise in capturing all the special moments of your family's journey, from the beauty of your pregnancy with [maternity photos](/melbourne-maternity-photographer/) to the love and connection in your home with [family photos](/melbourne-family-photographer/) and **newborn photos**. I'm based near Lilydale and love working with families throughout the Yarra Valley. We can plan a session that's perfect for you, whether that's a cozy shoot in your home or an adventure out in the beautiful local scenery.
 
 ## Let's make your Lilydale newborn photography session a truly special experience
 

@@ -19,7 +19,7 @@ local_references:
 
 ## Gentle and laid-back approach to newborn photography in Ferntree Gully
 
-Hi there! I’m a lifestyle photographer with over ten years of experience, and I’ve spent that time capturing the beautiful, one-of-a-kind stories of families across **Ferntree Gully** and beyond. I also photograph the glowing anticipation of pregnancy with **maternity photos** and the everyday magic of family life with **family photos** but this page is all about those tender early days with your newborn, the quiet cuddles, tiny fingers, and first glimpses of your baby’s personality.
+Hi there! I’m a lifestyle photographer with over ten years of experience, and I’ve spent that time capturing the beautiful, one-of-a-kind stories of families across **Ferntree Gully** and beyond. I also photograph the glowing anticipation of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the everyday magic of family life with [family photos](/melbourne-family-photographer/) but this page is all about those tender early days with your newborn, the quiet cuddles, tiny fingers, and first glimpses of your baby’s personality.
 
 Before I picked up a camera, I studied writing, and now I bring both storytelling skills together to create honest, heartfelt **newborn photos** that reflect your family’s real story. As a mum myself, I truly understand how fast those newborn days slip by and how meaningful it is to have photos that bring you right back to those first, fleeting moments.
 

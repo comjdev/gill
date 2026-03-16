@@ -19,7 +19,7 @@ local_references:
 
 ## Telling your Camberwell family story through lifestyle photography
 
-Hello! I'm Gill and I'm a lifestyle photographer with over a decade of experience capturing the authentic beauty of families in and around Camberwell. While I also specialise in documenting the anticipation of new life with **maternity photography** and the delicate wonder of **newborn photos**, this page is dedicated to celebrating the joy and connection of family through joyful and relaxed photography sessions right here in Camberwell. With a background in writing before finding my passion in photography, I blend these storytelling skills to truly capture the essence of each family I photograph. My approach is laid-back, prioritising your comfort and creating a fun adventure for your kids, filled with games and genuine laughter.
+Hello! I'm Gill and I'm a lifestyle photographer with over a decade of experience capturing the authentic beauty of families in and around Camberwell. While I also specialise in documenting the anticipation of new life with [maternity photography](/melbourne-maternity-photographer/) and the delicate wonder of [newborn photos](/melbourne-newborn-photographer/), this page is dedicated to celebrating the joy and connection of family through joyful and relaxed photography sessions right here in Camberwell. With a background in writing before finding my passion in photography, I blend these storytelling skills to truly capture the essence of each family I photograph. My approach is laid-back, prioritising your comfort and creating a fun adventure for your kids, filled with games and genuine laughter.
 
 ## Family photos in Camberwell
 

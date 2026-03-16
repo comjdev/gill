@@ -19,7 +19,7 @@ local_references:
 
 ## Capturing your Canterbury family's story naturally with joyful photos
 
-I'm a lifestyle photographer with over ten years of experience capturing the heartfelt, one-of-a-kind stories of families in and around **Canterbury**. While I also love documenting the quiet anticipation of **maternity photography** and the tender beauty of **newborn photos**, this space is all about the laughter, connection, and everyday magic of family life. With a background in writing, I’ve always been drawn to storytelling and now, I bring that narrative passion to my photography, capturing real moments that reflect your family just as you are. My style is relaxed and child-friendly, with a focus on making sessions feel natural and fun. Because these days, this stage, passes quickly, and I want to help you remember it beautifully.
+I'm a lifestyle photographer with over ten years of experience capturing the heartfelt, one-of-a-kind stories of families in and around **Canterbury**. While I also love documenting the quiet anticipation of [maternity photography](/melbourne-maternity-photographer/) and the tender beauty of [newborn photos](/melbourne-newborn-photographer/), this space is all about the laughter, connection, and everyday magic of family life. With a background in writing, I’ve always been drawn to storytelling and now, I bring that narrative passion to my photography, capturing real moments that reflect your family just as you are. My style is relaxed and child-friendly, with a focus on making sessions feel natural and fun. Because these days, this stage, passes quickly, and I want to help you remember it beautifully.
 
 ## Family photos in Canterbury
 

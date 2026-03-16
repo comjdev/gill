@@ -19,7 +19,7 @@ local_references:
 
 ## Capturing your Hawthorn family with heartfelt family photos
 
-With over a decade of experience as a lifestyle photographer, I’m passionate about documenting the unique beauty of families in and around Hawthorn. While I also specialise in the tender anticipation of **maternity photos** and the quiet magic of **newborn photos**, this page is dedicated to celebrating family life, honest, joyful, and deeply connected through relaxed, natural photo sessions in **Hawthorn**.
+With over a decade of experience as a lifestyle photographer, I’m passionate about documenting the unique beauty of families in and around Hawthorn. While I also specialise in the tender anticipation of [maternity photos](/melbourne-maternity-photographer/) and the quiet magic of [newborn photos](/melbourne-newborn-photographer/), this page is dedicated to celebrating family life, honest, joyful, and deeply connected through relaxed, natural photo sessions in **Hawthorn**.
 
 Before discovering photography, I spent years immersed in writing, and today I blend both passions with visual storytelling and the written words to capture the true essence of every family I meet. My approach is gentle, focused around your kids, and centred on making you feel comfortable and at ease. Each session is an experience designed to feel more like an adventure than a photoshoot, especially for your kids. These are the moments that pass by so quickly, and my goal is to help you hold onto them before they become memories.
 

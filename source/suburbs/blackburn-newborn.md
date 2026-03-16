@@ -19,7 +19,7 @@ local_references:
 
 ## Natural newborn photography in Blackburn
 
-I'm a lifestyle photographer based near Blackburn with over a decade of experience capturing real, meaningful moments for families across Melbourne. I specialise in **newborn photography**, **maternity sessions**, and **family photos**, working with a relaxed, storytelling-based approach. Long before I picked up a camera, I studied writing and now I blend these two creative passions to tell each family's story through thoughtful, emotive images.
+I'm a lifestyle photographer based near Blackburn with over a decade of experience capturing real, meaningful moments for families across Melbourne. I specialise in **newborn photography**, [maternity sessions](/melbourne-maternity-photographer/), and [family photos](/melbourne-family-photographer/), working with a relaxed, storytelling-based approach. Long before I picked up a camera, I studied writing and now I blend these two creative passions to tell each family's story through thoughtful, emotive images.
 
 This page is dedicated to **newborn photography** in **Blackburn**, documenting the early days with your baby in a gentle, natural, and comfortable way.
 

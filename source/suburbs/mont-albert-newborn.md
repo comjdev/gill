@@ -19,7 +19,7 @@ local_references:
 
 ## Mont Albert newborn photography that tells a story
 
-Hi there! I'm a lifestyle photographer deeply passionate about capturing the unique stories of families in **Mont Albert**, with over a decade of experience under my belt. Beyond **maternity photos** and **family photography**, I have a special love for the fleeting beauty of **newborn photos**. My background in writing helps me weave a narrative through my images, preserving the tender beginnings of your family's journey. As a fellow mum, I know those early days are a beautiful blur, which is why my relaxed approach focuses on comfort and authenticity, ensuring we create timeless memories of your new baby's first story in **Mont Albert**.
+Hi there! I'm a lifestyle photographer deeply passionate about capturing the unique stories of families in **Mont Albert**, with over a decade of experience under my belt. Beyond [maternity photos](/melbourne-maternity-photographer/) and [family photography](/melbourne-family-photographer/), I have a special love for the fleeting beauty of **newborn photos**. My background in writing helps me weave a narrative through my images, preserving the tender beginnings of your family's journey. As a fellow mum, I know those early days are a beautiful blur, which is why my relaxed approach focuses on comfort and authenticity, ensuring we create timeless memories of your new baby's first story in **Mont Albert**.
 
 ## Newborn photos in Mont Albert
 

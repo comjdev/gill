@@ -19,7 +19,7 @@ local_references:
 
 ## Capturing your Blackburn family with fun and relaxed photos
 
-I'm a photographer based near Blackburn with over a decade of experience capturing the beautiful and unique stories of families. While I also specialise in documenting the anticipation of new life with **maternity photography** and the delicate wonder of **newborn photos**, this page is dedicated to celebrating the joy and connection of family through natural and relaxed photography sessions right here in Blackburn. Before I found my passion in photography, I spent years studying writing, and now I blend these two loves, visual storytelling and the written word, to truly capture the essence of each family I photograph. My approach is laid-back, prioritising your comfort and creating a fun adventure for your kids. No awkward poses that make everyone uncomfortable!
+I'm a photographer based near Blackburn with over a decade of experience capturing the beautiful and unique stories of families. While I also specialise in documenting the anticipation of new life with [maternity photography](/melbourne-maternity-photographer/) and the delicate wonder of [newborn photos](/melbourne-newborn-photographer/), this page is dedicated to celebrating the joy and connection of family through natural and relaxed photography sessions right here in Blackburn. Before I found my passion in photography, I spent years studying writing, and now I blend these two loves, visual storytelling and the written word, to truly capture the essence of each family I photograph. My approach is laid-back, prioritising your comfort and creating a fun adventure for your kids. No awkward poses that make everyone uncomfortable!
 
 ## Family photos in Blackburn
 
