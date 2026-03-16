@@ -116,3 +116,4 @@ If you are ready for relaxed, natural photographs that feel like you, I would lo
 - Explore natural, [lifestyle photography in Melbourne](/melbourne-lifestyle-photographer/) to see how I work with light and movement.
 - Browse recent [family sessions in Melbourne](/melbourne-family-photographer/), locations and what to expect on the day.
 - Planning for those first weeks at home, including baby-led pacing and safety-first images: [newborn photography in Melbourne](/melbourne-newborn-photographer/).
+- For a shorter overview, [how to choose a family photographer without the overwhelm](/melbourne-photography-tips/how-to-choose-a-family-photographer-in-melbourne-without-the-overwhelm/) is a good place to start.

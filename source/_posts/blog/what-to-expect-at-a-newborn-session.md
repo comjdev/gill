@@ -43,4 +43,4 @@ While the focus will naturally be on your sweet baby, I will also take plenty of
 
 ## Creating Lasting Memories
 
-My aim is to create a calm, loving, and memorable experience for you and your newborn. I want you to look back on these photos and remember not just how tiny and adorable your baby was, but also how peaceful and joyful those first days were. Let's create beautiful memories that you'll treasure for a lifetime.
+My aim is to create a calm, loving, and memorable experience for you and your newborn. I want you to look back on these photos and remember not just how tiny and adorable your baby was, but also how peaceful and joyful those first days were. For more on timing, preparation and including siblings, see my [in-home newborn photos Q&A](/melbourne-photography-tips/in-home-newborn-photos-in-melbourne/) and guide to [calm in-home newborn sessions](/melbourne-photography-tips/in-home-newborn-sessions-a-calm-safe-way-to-capture-your-first-weeks/). Let's create beautiful memories that you'll treasure for a lifetime.

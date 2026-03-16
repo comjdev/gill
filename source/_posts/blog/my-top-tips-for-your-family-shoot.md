@@ -35,7 +35,7 @@ Have fun! Wherever we are, try and enjoy the time together as a family.
 
 ### 2. Choose Comfortable Clothing
 
-Wear clothes you love. Whether you want to get a little bit dressed up or wear your everyday clothes that feel most like you, make sure you’re all comfortable and feel like yourselves.
+Wear clothes you love. For more on coordinating outfits and colour palettes, see [what to wear for family photos](/melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/). Whether you want to get a little bit dressed up or wear your everyday clothes that feel most like you, make sure you’re all comfortable and feel like yourselves.
 
 ### 3. Pack Spare Clothes
 

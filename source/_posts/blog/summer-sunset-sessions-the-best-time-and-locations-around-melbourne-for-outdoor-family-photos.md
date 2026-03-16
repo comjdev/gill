@@ -58,7 +58,7 @@ We can also build your session around naps and mealtimes. I always plan a relaxe
 - Think movement. Flowy dresses, relaxed shirts, and rolled sleeves add lift and texture in the breeze.
 - Comfortable footwear. Barefoot on the beach, sandals or sneakers for parks, and a spare pair in the bag if kids go exploring.
 
-I send a preparation guide before your session with more tips and inspiration, and I am happy to help you coordinate outfits.
+I send a preparation guide before your session with more tips and inspiration, and I am happy to help you coordinate outfits. For more on colour palettes and seasonal styling, see my [what to wear for spring family photos](/melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/) guide.
 
 ## My approach on the day
 
