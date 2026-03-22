@@ -8,7 +8,7 @@ var service = site.data[pageData];
 var allTestimonials = site.data.testimonials.testimonials;
 var serviceTestimonials = allTestimonials.filter(function(testimonial) {
   return testimonial.type === pageData;
-}).slice(0, 3); // Get first 3 testimonials for this service
+}).slice(0, 4); // First 4: three in-page slots + one before About
 %>
 
 <!-- prettier-ignore -->
@@ -83,6 +83,24 @@ var serviceTestimonials = allTestimonials.filter(function(testimonial) {
 <!-- FAQs -->
 <!-- prettier-ignore -->
 <%- include('_partials/faqs', {faqs: service.faqs, title: 'Frequently Asked Questions'}) %>
+<% } %>
+
+<!-- Testimonial (before About) -->
+<!-- prettier-ignore -->
+<% if (serviceTestimonials.length > 3) { %>
+  <%- include('_partials/service-testimonial', { testimonial: serviceTestimonials[3] }) %>
+<% } %>
+
+<!-- prettier-ignore -->
+<% if (service.about) { %>
+<!-- About -->
+<%- include('_partials/service/about', { service: service, page: page }) %>
+<% } %>
+
+<!-- prettier-ignore -->
+<% if (service.my_approach) { %>
+<!-- My approach -->
+<%- include('_partials/service/my-approach', { service: service, page: page }) %>
 <% } %>
 
 <!-- Latest Projects -->

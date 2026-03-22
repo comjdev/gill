@@ -5,17 +5,22 @@
 	<div class="grid grid-cols-3 grid-rows-2 h-full">
 		<% site.data.homepage.hero.forEach(section => { %>
 		<section
-			class="relative bg-no-repeat bg-center bg-cover group"
-			style="background-image: url(<%= section.image %>)"
+			class="relative overflow-hidden group"
 			aria-label="<%= section.title %> - <%= section.subtitle %>"
 		>
+			<img
+				src="<%= section.image %>"
+				alt=""
+				class="absolute inset-0 z-0 h-full w-full object-cover object-center pointer-events-none select-none"
+				decoding="async"
+			/>
 			<!-- Gradient overlay for better text readability -->
 			<div
-				class="absolute inset-0 bg-gradient-to-tr from-black/60 via-black/20 to-transparent pointer-events-none"
+				class="absolute inset-0 z-[1] bg-gradient-to-tr from-black/60 via-black/20 to-transparent pointer-events-none"
 			></div>
 
 			<!-- Mobile: Vertical title positioned on the left and clickable -->
-			<a href="<%= section.link %>" class="md:hidden">
+			<a href="<%= section.link %>" class="relative z-10 md:hidden">
 				<h2 class="text-white text-xl uppercase hero-title-vertical">
 					<%= section.title %>
 				</h2>
@@ -44,7 +49,7 @@
 						class="inline-block px-8 py-4 mt-6 text-[10px] font-light uppercase tracking-[0.25em] text-[#303030] bg-white no-underline rounded-none border-none cursor-pointer transition-all duration-700 ease-in-out overflow-hidden relative z-[1] hover:text-black transform translate-y-4 group-hover:translate-y-0"
 						data-cursor="cursor-link"
 					>
-						More
+					<%= section.subtitle %>
 					</a>
 				</div>
 			</div>

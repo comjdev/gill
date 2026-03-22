@@ -1,0 +1,37 @@
+<%
+var ma = service.my_approach;
+var blocks = ma.blocks || [];
+%>
+<section >
+	<div class="py-12 px-4 mx-auto max-w-screen-xl lg:py-20 lg:px-6">
+		<div class="max-w-screen-md mb-12">
+			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
+				My approach
+			</h2>
+			<h3
+				class="mb-4 text-4xl tracking-tight font-light font-[Meritocracy] text-gray-900"
+			>
+				<%= ma.title %>
+			</h3>
+		</div>
+
+		<div class="max-w-4xl font-light text-gray-900 sm:text-lg space-y-12">
+			<% blocks.forEach(function(block) { %>
+			<div>
+				<% if (block.heading) { %>
+				<h4 class="mb-4 text-lg md:text-xl tracking-tight font-light text-gray-900">
+					<%= block.heading %>
+				</h4>
+				<% } %>
+				<% (block.copy || []).forEach(function(paragraph, pIndex) { %>
+				<p
+					class="<%= pIndex === (block.copy || []).length - 1 ? '' : 'mb-4' %>"
+				>
+					<%= paragraph %>
+				</p>
+				<% }); %>
+			</div>
+			<% }); %>
+		</div>
+	</div>
+</section>
