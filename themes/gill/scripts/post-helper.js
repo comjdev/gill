@@ -13,6 +13,30 @@ hexo.extend.helper.register("getBlogPosts", function (limit = null) {
 	return this.getPostsByLayout("post", limit);
 });
 
+hexo.extend.helper.register(
+	"getBlogPostsByCategory",
+	function (categoryName, limit = null) {
+		const target = (categoryName || "").toString().toLowerCase();
+
+		const posts = this.site.posts
+			.filter((post) => {
+				if (post.layout !== "post") return false;
+				if (!post.categories || !post.categories.length) return false;
+
+				let matches = false;
+				post.categories.forEach((category) => {
+					if (category.name && category.name.toLowerCase() === target) {
+						matches = true;
+					}
+				});
+				return matches;
+			})
+			.sort("-date");
+
+		return limit ? posts.limit(limit) : posts;
+	},
+);
+
 hexo.extend.helper.register("getWorkPosts", function (limit = null) {
 	return this.getPostsByLayout("work", limit);
 });

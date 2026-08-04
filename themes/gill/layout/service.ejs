@@ -106,3 +106,6 @@ var serviceTestimonials = allTestimonials.filter(function(testimonial) {
 <!-- Latest Projects -->
 <%- include('_partials/projects-slider', { category: pageData, limit: 6,
 showCategoryInHeading: true }) %>
+
+<!-- Latest category blog posts (sits above newsletter in layout) -->
+<%- partial('_partials/service/related-blog-posts', { category: pageData }) %>

@@ -1,0 +1,68 @@
+<!-- prettier-ignore -->
+<%
+var categorySlug = (typeof category !== 'undefined' && category) ? category : pageData;
+var categoryLower = categorySlug.toString().toLowerCase();
+var categoryLabel = categoryLower.charAt(0).toUpperCase() + categoryLower.slice(1);
+var posts = getBlogPosts().toArray().filter(function(post) {
+	if (!post.categories || !post.categories.length) return false;
+	var matches = false;
+	post.categories.forEach(function(cat) {
+		if (cat.name && cat.name.toLowerCase() === categoryLower) matches = true;
+	});
+	return matches;
+}).slice(0, 3);
+%>
+
+<% if (posts && posts.length) { %>
+<section class="bg-white">
+	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
+		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
+			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
+				Latest <%= categoryLower %> photography tips and tricks
+			</h2>
+			<p class="font-light text-gray-900 sm:text-xl">
+				Sharing <%= categoryLower %> photography tips, behind-the-scenes
+				stories, and more tips and tricks for my <%= categoryLower %> sessions.
+			</p>
+		</div>
+
+		<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
+			<% posts.forEach(function(post){ %>
+			<article
+				class="p-4 bg-white border border-gray-200 shadow-md rounded-md flex flex-col h-full"
+			>
+				<a href="<%= url_for(post.path) %>">
+					<img
+						class="mb-5 w-full h-48 object-cover rounded-md"
+						src="<%= post.featured ? blog_post_asset(post, post.featured) : (post.hero ? blog_post_asset(post, post.hero) : '/img/family.jpg') %>"
+						alt="<%= post.title %> | Gill Juergens Photography"
+						loading="lazy"
+					/>
+				</a>
+
+				<div class="flex flex-col flex-grow">
+					<h3 class="my-2 text-2xl font-light tracking-tight text-gray-900">
+						<a href="<%= url_for(post.path) %>" class="hover:text-gray-700">
+							<%= post.title %>
+						</a>
+					</h3>
+
+					<p class="mb-4 font-light text-gray-500 flex-grow">
+						<%= post.excerpt || post.description || post.content.substring(0, 150) + '...' %>
+					</p>
+
+					<div class="mt-auto">
+						<a
+							href="<%= url_for(post.path) %>"
+							class="inline-flex items-center px-6 py-3 text-sm font-light text-white bg-gill-green-600 border border-transparent shadow-sm hover:bg-gill-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gill-green-500 transition-colors duration-200 rounded-md"
+						>
+							Read <%= categoryLabel %> photography blog post
+						</a>
+					</div>
+				</div>
+			</article>
+			<% }); %>
+		</div>
+	</div>
+</section>
+<% } %>
