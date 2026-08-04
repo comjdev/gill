@@ -26,6 +26,12 @@ if (filterCategory) {
 		return matches;
 	});
 }
+// On a single post page, don't recommend the current article
+if (typeof page !== 'undefined' && page && page.layout === 'post' && page.path) {
+	posts = posts.filter(function(post) {
+		return post.path !== page.path;
+	});
+}
 posts = posts.slice(0, 3);
 %>
 

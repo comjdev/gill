@@ -94,3 +94,17 @@ var postData = page;
 		subtitle: 'Explore my recent work and successful photo shoots in Melbourne and surrounding areas.',
 		limit: 6
 		}) %>
+
+<!-- Related category blog posts (sits above newsletter in layout) -->
+<!-- prettier-ignore -->
+<%
+	var relatedBlogCategory = null;
+	if (page.categories && page.categories.length) {
+		page.categories.forEach(function(cat) {
+			if (!relatedBlogCategory && cat.name) relatedBlogCategory = cat.name;
+		});
+	}
+%>
+<% if (relatedBlogCategory) { %>
+<%- partial('_partials/service/related-blog-posts', { category: relatedBlogCategory }) %>
+<% } %>
