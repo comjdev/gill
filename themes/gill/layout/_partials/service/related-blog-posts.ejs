@@ -1,16 +1,32 @@
 <!-- prettier-ignore -->
 <%
-var categorySlug = (typeof category !== 'undefined' && category) ? category : pageData;
-var categoryLower = categorySlug.toString().toLowerCase();
-var categoryLabel = categoryLower.charAt(0).toUpperCase() + categoryLower.slice(1);
-var posts = getBlogPosts().toArray().filter(function(post) {
-	if (!post.categories || !post.categories.length) return false;
-	var matches = false;
-	post.categories.forEach(function(cat) {
-		if (cat.name && cat.name.toLowerCase() === categoryLower) matches = true;
+var filterCategory = (typeof category !== 'undefined' && category) ? category.toString().toLowerCase() : null;
+var categoryLabel = filterCategory
+	? filterCategory.charAt(0).toUpperCase() + filterCategory.slice(1)
+	: null;
+var headingText = (typeof heading !== 'undefined' && heading)
+	? heading
+	: (filterCategory
+		? 'Latest ' + filterCategory + ' photography tips and tricks'
+		: 'Latest photography tips and tricks');
+var subtitleText = (typeof subtitle !== 'undefined' && subtitle)
+	? subtitle
+	: (filterCategory
+		? 'Sharing ' + filterCategory + ' photography tips, behind-the-scenes stories, and more tips and tricks for my ' + filterCategory + ' sessions.'
+		: 'Sharing photography tips, behind-the-scenes stories, and more tips and tricks for my sessions.');
+
+var posts = getBlogPosts().toArray();
+if (filterCategory) {
+	posts = posts.filter(function(post) {
+		if (!post.categories || !post.categories.length) return false;
+		var matches = false;
+		post.categories.forEach(function(cat) {
+			if (cat.name && cat.name.toLowerCase() === filterCategory) matches = true;
+		});
+		return matches;
 	});
-	return matches;
-}).slice(0, 3);
+}
+posts = posts.slice(0, 3);
 %>
 
 <% if (posts && posts.length) { %>
@@ -18,16 +34,26 @@ var posts = getBlogPosts().toArray().filter(function(post) {
 	<div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16 lg:px-6">
 		<div class="mx-auto max-w-screen-md text-center mb-8 lg:mb-16">
 			<h2 class="mb-4 text-4xl tracking-tight font-light text-gray-900">
-				Latest <%= categoryLower %> photography tips and tricks
+				<%= headingText %>
 			</h2>
 			<p class="font-light text-gray-900 sm:text-xl">
-				Sharing <%= categoryLower %> photography tips, behind-the-scenes
-				stories, and more tips and tricks for my <%= categoryLower %> sessions.
+				<%= subtitleText %>
 			</p>
 		</div>
 
 		<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
 			<% posts.forEach(function(post){ %>
+			<%
+				var postCategoryLabel = categoryLabel;
+				if (!postCategoryLabel && post.categories && post.categories.length) {
+					post.categories.forEach(function(cat) {
+						if (!postCategoryLabel && cat.name) postCategoryLabel = cat.name;
+					});
+				}
+				var ctaLabel = postCategoryLabel
+					? 'Read ' + postCategoryLabel + ' photography blog post'
+					: 'Read photography blog post';
+			%>
 			<article
 				class="p-4 bg-white border border-gray-200 shadow-md rounded-md flex flex-col h-full"
 			>
@@ -56,7 +82,7 @@ var posts = getBlogPosts().toArray().filter(function(post) {
 							href="<%= url_for(post.path) %>"
 							class="inline-flex items-center px-6 py-3 text-sm font-light text-white bg-gill-green-600 border border-transparent shadow-sm hover:bg-gill-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gill-green-500 transition-colors duration-200 rounded-md"
 						>
-							Read <%= categoryLabel %> photography blog post
+							<%= ctaLabel %>
 						</a>
 					</div>
 				</div>
