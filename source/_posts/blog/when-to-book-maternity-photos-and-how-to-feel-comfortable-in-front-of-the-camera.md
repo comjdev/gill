@@ -5,6 +5,8 @@ date: 2026-01-27T00:00:00.000Z
 subtitle: Gentle timing tips and comfort-first ideas for relaxed maternity photos in Melbourne
 description: Learn when to book maternity photos, what month is best, and how to feel comfortable with relaxed, story-focused sessions in Melbourne's summer light.
 permalink: /melbourne-photography-tips/when-to-book-maternity-photos-and-how-to-feel-comfortable-in-front-of-the-camera/
+categories:
+  - Maternity
 ---
 
 Expecting a baby is a swirl of lists, flutters and "is this the right time?" decisions. If you are thinking about maternity photos in Melbourne's summer, you are in the right place. I specialise in relaxed, story-focused sessions that feel like a gentle stroll with a friend, not a performance. In this guide, you will find simple timing tips, comfort-first styling ideas, thoughts on including partners and siblings, and how to choose between an at-home session and a warm summer evening outside.
@@ -77,6 +79,6 @@ Most clients start by saying, "We're a bit awkward." That is normal. I keep the 
 
 ## Ready to plan your relaxed maternity session?
 
-If you are dreaming of natural, storytelling images and a calm, guided experience, I would love to help you plan a relaxed maternity session. Learn more about [maternity photography in Melbourne](/melbourne-maternity-photographer/) and how to book with a [Melbourne maternity photographer](/melbourne-maternity-photographer/). If you are picturing an at-home newborn gallery next, you can also explore [Melbourne newborn photography](/melbourne-newborn-photographer/). And if you want a bigger family story in the same season, have a look at my approach to [family photography Melbourne](/melbourne-family-photographer/).
+If you are dreaming of natural, storytelling images and a calm, guided experience, I would love to help you plan a relaxed maternity session. Learn more about [maternity photography in Melbourne](/melbourne-maternity-photographer/), including timing and what a session feels like. If you are picturing an at-home newborn gallery next, you can also explore [Melbourne newborn photography](/melbourne-newborn-photographer/). And if you want a bigger family story in the same season, have a look at my approach to [family photography in Melbourne](/melbourne-family-photographer/). For autumn-specific location and outfit ideas, see my [autumn maternity photos guide](/melbourne-photography-tips/autumn-maternity-photos-melbourne-guide/).
 
 In short, choose a timing window that feels good in your body, keep comfort at the heart of your plans, and let me guide you through a session that feels natural and genuinely you. Melbourne's summer light is waiting, and I am here to make the experience easy and enjoyable from enquiry to gallery delivery.

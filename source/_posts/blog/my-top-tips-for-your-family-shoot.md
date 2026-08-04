@@ -7,6 +7,8 @@ description: Discover my top tips for your family shoot, not just as a photograp
 hero: Melbourne-family-photographer-header.jpg
 featured: Melbourne-family-photographer.jpg
 permalink: /melbourne-photography-tips/my-top-tips-for-your-family-shoot/
+categories:
+  - Family
 ---
 
 ## My Personal Experience with Family Photography Chaos
@@ -60,3 +62,5 @@ Give yourself plenty of time on the day. Make sure everyone has eaten and is rea
 ### 8. Trust Your Photographer
 
 Trust. Lastly and maybe most importantly. Trust me. I love what I do. I’m confident in what I do and I’ll work with your family to get images that feel authentically you and that you really love.
+
+If you are ready to plan a session, explore [family photography in Melbourne](/melbourne-family-photographer/) to see locations and how a relaxed shoot flows. For golden-hour timing ideas, my [summer sunset sessions guide](/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/) is a helpful next read.

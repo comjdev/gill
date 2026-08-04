@@ -5,6 +5,9 @@ date: 2026-02-14T00:00:00.000Z
 subtitle: This guide explains what lifestyle photography is and how it differs from studio portraits, with a focus on relaxed, story-led sessions in Melbourne
 description: Learn how lifestyle photography in Melbourne captures natural, unscripted moments for families, newborns and couples, and what to expect from a relaxed session.
 permalink: /melbourne-photography-tips/lifestyle-photography-melbourne-families-newborns/
+categories:
+  - Family
+  - Newborn
 ---
 
 If you have ever looked at a photo and felt like you could hear the laughter or feel the cuddle, you have probably seen lifestyle photography. It is less about stiff poses and more about the way you really hug your child, the way your newborn settles on your chest, or the way you and your partner grin at each other when no one else is watching.
@@ -77,4 +80,4 @@ This is a lovely season for sessions. Evenings are warm without the peak heat, a
 
 ## A gentle next step
 
-If you are thinking about a family, newborn, maternity or couples session as summer fades into autumn, I would love to help you plan something relaxed and meaningful. Browse examples of [lifestyle photographer work in Melbourne](/melbourne-photos/) to see how a guided, natural approach feels in real sessions, then get in touch to chat about dates, locations and what matters most to you. Your story is already beautiful. Let's photograph it the way it feels.
+If you are thinking about a family, newborn, maternity or couples session as summer fades into autumn, I would love to help you plan something relaxed and meaningful. Browse my work as a [lifestyle photographer in Melbourne](/melbourne-lifestyle-photographer/) to see how a guided, natural approach feels in real sessions, or explore [family photography in Melbourne](/melbourne-family-photographer/) if you already know the kind of session you want. Then get in touch to chat about dates, locations and what matters most to you. Your story is already beautiful. Let's photograph it the way it feels.

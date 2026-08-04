@@ -5,11 +5,13 @@ date: 2025-09-20T00:00:00.000Z
 subtitle: Planning outfits that feel comfortable, move freely, and look like yourselves
 description: Planning outfits for spring family photos should feel easy and enjoyable. Choose colours, fabrics, and styles that photograph beautifully in Melbourne's spring light.
 permalink: /melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/
+categories:
+  - Family
 ---
 
 Planning outfits for spring family photos should feel easy and enjoyable, not stressful. Melbourne gives you so many beautiful backdrops at this time of year, from leafy parks filled with wattle and blossom to breezy beaches with soft sand and pastel skies. The goal is simple, you want to feel comfortable, move freely, and look like yourselves. Here is a supportive guide to help you choose colours, fabrics, and styles that photograph beautifully in Melbourne's spring light.
 
-## What do you wear to a family portrait?
+## What do you wear to a family photo shoot?
 
 Start with comfort. If you feel good, you relax, and relaxed faces make the most heartfelt images. Choose outfits you can sit, cuddle, and walk in. Spring can be four seasons in one day, so dress in light layers you can add or remove quickly. Think soft knits, linen shirts, denim jackets, cardigans, light scarves, and midi dresses that move.
 
@@ -44,7 +46,7 @@ Let kids be kids. Choose outfits that feel good and allow movement. Avoid scratc
 
 ## Pets in your photos
 
-Dogs are welcome. A brushed coat, a quick walk before the session, and a treat or two make all the difference. Keep accessories minimal. A plain lead and collar in your palette looks tidy and blends with the rest of your styling.
+Dogs are more than welcome. A brushed coat, a quick walk before the session, and a treat or two make all the difference. Keep accessories minimal. A plain lead and collar in your palette looks tidy and blends with the rest of your styling.
 
 ## What to avoid for spring sessions
 

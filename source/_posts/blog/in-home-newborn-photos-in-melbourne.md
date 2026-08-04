@@ -7,6 +7,8 @@ description: Still have some questions about what to expect at a newborn shoot?
 hero: Melbourne-newborn-photographer-header-3.jpg
 featured: Melbourne-newborn-photographer-photos-3.jpg
 permalink: /melbourne-photography-tips/in-home-newborn-photos-in-melbourne/
+categories:
+  - Newborn
 ---
 
 ## In-home newborn photos in Melbourne: your questions answered!
@@ -56,7 +58,7 @@ This is a common concern, especially for new mums who might be feeling tired or 
 ### What if my baby won't settle during our newborn photos?
 
 This is perhaps the biggest worry for parents and I want to reassure you, it's completely normal, and it's perfectly fine! Your baby is the boss during our session.
-My approach as your [Melbourne newborn photographer](/melbourne-newborn-photographer/) is entirely baby-led. This means we take as many breaks as needed for feeding, changing or simply cuddling your little one. There's no rush or pressure. Sometimes the most beautiful and authentic newborn photos happen during a yawn, a stretch, or even a brief moment that shows their tiny (or big!) personality. Patience and flexibility are key and with over 10 years of experience, **I'm yet to meet a baby I couldn’t settle**.
+My approach is entirely baby-led. This means we take as many breaks as needed for feeding, changing or simply cuddling your little one. There's no rush or pressure. Sometimes the most beautiful and authentic newborn photos happen during a yawn, a stretch, or even a brief moment that shows their tiny (or big!) personality. Patience and flexibility are key and with over 10 years of experience, **I'm yet to meet a baby I couldn’t settle**.
 
 ## Ready to capture your Melbourne newborn's story?
 

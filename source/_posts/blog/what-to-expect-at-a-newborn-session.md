@@ -7,6 +7,8 @@ description: Discover what happens during a newborn photography session in Melbo
 hero: Melbourne-newborn-photographer-header.jpg
 featured: Melbourne-newborn-photographer.jpg
 permalink: /melbourne-photography-tips/what-to-expect-at-a-newborn-session/
+categories:
+  - Newborn
 ---
 
 ## Newborn Photography in and Around the Suburbs of Melbourne

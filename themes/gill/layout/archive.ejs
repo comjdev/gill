@@ -18,8 +18,17 @@
 			%>
 			<div class="grid gap-8 sm:grid-cols-2 lg:grid-cols-3">
 				<% posts.each(function(post){ %>
+				<%
+					var firstCategory = null;
+					if (post.categories && post.categories.length) {
+						post.categories.forEach(function(category) {
+							if (!firstCategory) firstCategory = category;
+						});
+					}
+					var ctaLabel = firstCategory ? 'Read ' + firstCategory.name + ' post' : 'Read post';
+				%>
 				<article
-					class="p-4 bg-white border border-gray-200 shadow-md rounded-md"
+					class="p-4 bg-white border border-gray-200 shadow-md rounded-md flex flex-col h-full"
 				>
 					<a href="<%= url_for(post.path) %>">
 						<img
@@ -29,49 +38,26 @@
 							loading="lazy"
 						/>
 					</a>
-					<% if (post.categories && post.categories.length > 0 &&
-					post.categories[0]) { %>
-					<span
-						class="bg-purple-100 text-purple-800 text-xs font-light mr-2 px-2.5 py-0.5 rounded-md"
-					>
-						<%= post.categories[0].name %>
-					</span>
-					<% } %>
 
-					<h2 class="my-2 text-2xl font-light tracking-tight text-gray-900">
-						<a href="<%= url_for(post.path) %>" class="hover:text-gray-700">
-							<%= post.title %>
-						</a>
-					</h2>
+					<div class="flex flex-col flex-grow">
+						<h2 class="my-2 text-2xl font-light tracking-tight text-gray-900">
+							<a href="<%= url_for(post.path) %>" class="hover:text-gray-700">
+								<%= post.title %>
+							</a>
+						</h2>
 
-					<p class="mb-4 font-light text-gray-900">
-						<%= post.excerpt || post.description || post.content.substring(0,
-						150) + '...' %>
-					</p>
+						<p class="mb-4 font-light text-gray-500 flex-grow">
+							<%= post.excerpt || post.description || post.content.substring(0,
+							150) + '...' %>
+						</p>
 
-					<div class="flex items-center space-x-4">
-						<div
-							class="w-10 h-10 rounded-full bg-gray-200 flex items-center justify-center"
-						>
-							<svg
-								class="w-6 h-6 text-gray-500"
-								fill="currentColor"
-								viewBox="0 0 20 20"
+						<div class="mt-auto">
+							<a
+								href="<%= url_for(post.path) %>"
+								class="inline-flex items-center px-6 py-3 text-sm font-light text-white bg-gill-green-600 border border-transparent shadow-sm hover:bg-gill-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gill-green-500 transition-colors duration-200 rounded-md"
 							>
-								<path
-									fill-rule="evenodd"
-									d="M10 9a3 3 0 100-6 3 3 0 000 6zm-7 9a7 7 0 1114 0H3z"
-									clip-rule="evenodd"
-								></path>
-							</svg>
-						</div>
-						<div class="font-light">
-							<div class="text-gray-900">Gill Photography</div>
-							<div class="text-sm font-light text-gray-500">
-								<%= post.date.format('MMM DD, YYYY') %> <% if
-								(post.reading_time) { %> · <%= post.reading_time %> min read <%
-								} %>
-							</div>
+								<%= ctaLabel %>
+							</a>
 						</div>
 					</div>
 				</article>

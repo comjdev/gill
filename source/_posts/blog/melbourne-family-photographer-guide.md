@@ -2,9 +2,12 @@
 layout: post
 title: "How To Choose a Melbourne Family Photographer You'll Click With"
 date: 2026-03-17T00:00:00.000Z
-subtitle: Learn how to assess style, light, newborn safety and overall experience, plus what to ask on a discovery call
+subtitle: Learn how to assess style, light, newborn safety and overall experience
 description: Learn how to choose a Melbourne family photographer, from style and light to newborn safety, reviews and packages. Feel confident booking your next session.
 permalink: /melbourne-photography-tips/melbourne-family-photographer-guide/
+categories:
+  - Family
+  - Newborn
 ---
 
 If you are scrolling late at night with a sleeping baby on your chest, wondering how on earth to choose the right photographer, you are not alone. Between styles, packages and timing around naps, it can feel like a lot. The good news is that a little clarity on what matters to your family right now will make the decision simple and calm.
@@ -28,7 +31,7 @@ If a photographer's portfolio consistently shows clean skin tones and soft, dire
 
 ## Newborn safety you can feel good about
 
-If you are expecting or have a fresh little one, safety comes first. I follow newborn safety best practices learned through workshops, mentoring and years of hands-on experience. Sessions are baby-led with plenty of time for feeds, nappy changes and cuddles. I keep babies supported at all times, work mostly in arms, on a bed or in a cosy bassinet, and avoid risky props or positions. I am always happy to explain the steps I take and the training I have completed if you would like more detail.
+If you are expecting or have a fresh little one, safety comes first. I follow newborn safety best practices learned through workshops, mentoring and years of hands-on experience. Sessions are baby-led with plenty of time for feeds, nappy changes and cuddles. I keep babies supported at all times, work mostly in arms, on a bed or in a cosy bassinet, and don't use risky props or positions. I am always happy to explain the steps I take and the training I have completed if you would like more detail.
 
 A recent note from a parent: _"Patient, gentle, and incredibly skilled at capturing the sweetest moments. We left with beautiful images and soothing tips we still use."_
 
@@ -58,7 +61,7 @@ Portfolios should show diversity in ages, locations and weather. Look for:
 
 - Consistent editing across galleries, not just a few hero images.
 - Real expressions and movement, especially with toddlers.
-- Safe, supported newborn images with parents nearby.
+- Safe, supported newborn images.
 - Clean, natural light both indoors and outdoors.
 
 Reviews should speak to how the photographer made families feel, not just the final photos. Words like warm, patient, prompt and relaxed are good signs.
@@ -84,7 +87,7 @@ If you are comparing photographers, ask how many edited images are included, whe
 - **Packages:** Do inclusions and products fit your goals and budget?
 - **Connection:** After a quick chat, do you feel at ease?
 
-## Questions to ask on a discovery call
+## Questions to ask your photographer
 
 1. How do you guide families who feel awkward in front of the camera?
 2. What newborn safety practices do you follow during in-home sessions?
@@ -113,7 +116,7 @@ If you are ready for relaxed, natural photographs that feel like you, I would lo
 
 ### Further reading
 
-- Explore natural, [lifestyle photography in Melbourne](/melbourne-lifestyle-photographer/) to see how I work with light and movement.
 - Browse recent [family sessions in Melbourne](/melbourne-family-photographer/), locations and what to expect on the day.
 - Planning for those first weeks at home, including baby-led pacing and safety-first images: [newborn photography in Melbourne](/melbourne-newborn-photographer/).
+- Expecting and wanting bump photos first? Explore [maternity photography in Melbourne](/melbourne-maternity-photographer/).
 - For a shorter overview, [how to choose a family photographer without the overwhelm](/melbourne-photography-tips/how-to-choose-a-family-photographer-in-melbourne-without-the-overwhelm/) is a good place to start.
