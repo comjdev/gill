@@ -5,6 +5,8 @@ date: 2026-01-27T00:00:00.000Z
 subtitle: Gentle timing tips and comfort-first ideas for relaxed maternity photos in Melbourne
 description: Learn when to book maternity photos, what month is best, and how to feel comfortable with relaxed, story-focused sessions in Melbourne's summer light.
 permalink: /melbourne-photography-tips/when-to-book-maternity-photos-and-how-to-feel-comfortable-in-front-of-the-camera/
+hero: Melbourne-maternity-photographer-header.jpg
+featured: Melbourne-maternity-photographer.jpg
 categories:
   - Maternity
 ---

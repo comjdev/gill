@@ -5,6 +5,8 @@ date: 2025-04-17T00:00:00.000Z
 subtitle: See what’s included in a relaxed family photography session in Melbourne, from timing and outfits to image counts, galleries and what to expect.
 description: This guide explains exactly what is included in a relaxed family photography session in Melbourne, from pre-session planning and outfit guidance to timing, light and how the shoot is paced. You will learn what your edited online gallery includes, and the optional add-ons for prints.
 permalink: /melbourne-photography-tips/what-is-included-family-photography-session
+hero: Melbourne-family-photographer-header.jpg
+featured: Melbourne-family-photographer.jpg
 categories:
   - Family
 ---

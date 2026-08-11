@@ -5,6 +5,8 @@ date: 2026-02-14T00:00:00.000Z
 subtitle: This guide explains what lifestyle photography is and how it differs from studio portraits, with a focus on relaxed, story-led sessions in Melbourne
 description: Learn how lifestyle photography in Melbourne captures natural, unscripted moments for families, newborns and couples, and what to expect from a relaxed session.
 permalink: /melbourne-photography-tips/lifestyle-photography-melbourne-families-newborns/
+hero: Melbourne-lifestyle-photographer-header.jpg
+featured: Melbourne-lifestyle-photographer.jpg
 categories:
   - Family
   - Newborn

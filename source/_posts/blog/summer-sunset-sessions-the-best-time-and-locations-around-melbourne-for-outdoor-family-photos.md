@@ -5,6 +5,8 @@ date: 2025-11-10T00:00:00.000Z
 subtitle: Long, golden summer evenings are made for barefoot cuddles, salty hair, and little ones chasing the last light
 description: Long, golden summer evenings are perfect for relaxed, sunlit portraits. Learn the best time of day, heat-friendly tips for kids, and location types around Melbourne that suit natural, easygoing family photos.
 permalink: /melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/
+hero: Melbourne-family-photographer-header.jpg
+featured: Melbourne-family-photographer.jpg
 categories:
   - Family
 ---

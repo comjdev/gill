@@ -50,3 +50,11 @@ var pageData = page;
 	subtitle: 'Explore my recent work and successful photo shoots in Melbourne and surrounding areas.',
 	limit: 6
 	}) %>
+
+<% if (page.path && page.path.indexOf('melbourne-lifestyle-photographer') !== -1) { %>
+<!-- Latest blog posts (sits above newsletter in layout) -->
+<%- partial('_partials/service/related-blog-posts', {
+	heading: 'My latest photography tips and tricks for Melbourne',
+	subtitle: 'Sharing my tips and tricks, behind-the-scenes stories, and my latest posts for Melbourne sessions.'
+}) %>
+<% } %>

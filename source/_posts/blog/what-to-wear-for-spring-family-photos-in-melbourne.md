@@ -5,6 +5,8 @@ date: 2025-09-20T00:00:00.000Z
 subtitle: Planning outfits that feel comfortable, move freely, and look like yourselves
 description: Planning outfits for spring family photos should feel easy and enjoyable. Choose colours, fabrics, and styles that photograph beautifully in Melbourne's spring light.
 permalink: /melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/
+hero: Melbourne-family-photographer-header.jpg
+featured: Melbourne-family-photographer.jpg
 categories:
   - Family
 ---

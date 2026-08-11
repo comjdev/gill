@@ -5,6 +5,8 @@ date: 2026-03-17T00:00:00.000Z
 subtitle: Learn how to assess style, light, newborn safety and overall experience
 description: Learn how to choose a Melbourne family photographer, from style and light to newborn safety, reviews and packages. Feel confident booking your next session.
 permalink: /melbourne-photography-tips/melbourne-family-photographer-guide/
+hero: Melbourne-family-photographer-header.jpg
+featured: Melbourne-family-photographer.jpg
 categories:
   - Family
   - Newborn

@@ -5,6 +5,8 @@ date: 2025-05-22T00:00:00.000Z
 subtitle: Plan autumn maternity photos in Melbourne with ideal timing, cosy locations and flattering outfits for golden-hour light. Get calm, practical tips.
 description: This guide to autumn maternity photos in Melbourne covers everything from ideal timing in your second and third trimester to choosing between in-home and golden-hour outdoor locations. You will find practical styling advice for flattering, comfortable outfits, ideas for including partners and older children, and tips for working with Melbourne’s light and weather so your session feels calm and unhurried.
 permalink: /melbourne-photography-tips/autumn-maternity-photos-melbourne-guide
+hero: Melbourne-maternity-photographer-header.jpg
+featured: Melbourne-maternity-photographer.jpg
 categories:
   - Maternity
 ---

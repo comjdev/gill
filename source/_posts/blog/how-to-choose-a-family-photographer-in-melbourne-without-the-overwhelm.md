@@ -5,6 +5,8 @@ date: 2025-09-17T00:00:00.000Z
 subtitle: Spring in Melbourne is a beautiful time to plan family photos
 description: Spring in Melbourne is a beautiful time to plan family photos, but how To Choose A Family Photographer In Melbourne without being overwelmed
 permalink: /melbourne-photography-tips/how-to-choose-a-family-photographer-in-melbourne-without-the-overwhelm/
+hero: Melbourne-family-photographer-header.jpg
+featured: Melbourne-family-photographer.jpg
 categories:
   - Family
 ---
