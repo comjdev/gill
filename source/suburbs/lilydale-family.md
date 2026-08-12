@@ -42,4 +42,4 @@ From **Lilydale Lake** to the foothills of the **Dandenong Ranges**, there are s
 
 ## Capturing real moments in Lilydale and beyond
 
-Based in Melbourne’s eastern suburbs, I photograph families across [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Ringwood](/family-photographer/ringwood/), [Wantirna](/family-photographer/wantirna/) and nearby suburbs including Coldstream and Montrose. Sessions are flexible and relaxed — outdoors or at home — always focused on real connection.
+Based in Melbourne’s eastern suburbs, I photograph families across [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Ringwood](/family-photographer/ringwood/), [Wantirna](/family-photographer/wantirna/) and nearby suburbs including [Coldstream](/family-photographer/coldstream/) and [Montrose](/family-photographer/montrose/). Sessions are flexible and relaxed — outdoors or at home — always focused on real connection.

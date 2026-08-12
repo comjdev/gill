@@ -41,4 +41,4 @@ From reservoir gardens to nearby lakeside spaces, there are beautiful outdoor op
 
 ## Serving Coldstream and nearby suburbs
 
-I regularly photograph families throughout [Lilydale](/family-photographer/lilydale/), [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Ringwood](/family-photographer/ringwood/) and surrounding eastern suburbs. If you’re in Coldstream or nearby, I’d love to help you preserve this chapter of your family’s story.
+I regularly photograph families throughout [Lilydale](/family-photographer/lilydale/), [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Kilsyth](/family-photographer/kilsyth/) and surrounding eastern suburbs. If you’re in Coldstream or nearby, I’d love to help you preserve this chapter of your family’s story.
