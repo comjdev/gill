@@ -13,7 +13,7 @@ categories:
 
 ## In-home newborn photos in Melbourne: your questions answered!
 
-I remember the day I brought both my babies home from the hospital and what a special time it is. Exhausting! But still special. Those first few days and weeks are an adjustment and a bit of a blur. If you’re wondering how an **in-home newborn session** in Melbourne works, you’re not alone, I get asked about it all the time and I’m here to walk you through it. My goal is always to make your experience relaxed and stress-free. Let’s go through some **common questions** you may have about **newborn photo sessions**.
+I remember the day I brought both my babies home from the hospital and what a special time it is. Exhausting! But still special. Those first few days and weeks are an adjustment and a bit of a blur. If you’re wondering how an **in-home newborn session** in Melbourne works, you’re not alone, I get asked about it all the time and I’m here to walk you through it. My goal is always to make your experience relaxed and stress-free. Let’s go through some **[common questions](/photography-faqs-melbourne/)** you may have about **newborn photo sessions**.
 
 ### When is the Best Time for Newborn Photos at your home in Melbourne?
 

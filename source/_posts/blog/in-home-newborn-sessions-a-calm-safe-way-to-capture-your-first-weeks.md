@@ -14,7 +14,7 @@ categories:
 
 Your first weeks at home are a blur of cuddles, soft cries, milky breaths, and little stretches. It is a gorgeous, fleeting time. It is also a time when getting out the door can feel like a marathon. In-home newborn sessions bring the photography to you, so you can settle into the experience in your own space, with your rhythms, and without the stress of packing bags or beating the Melbourne traffic.
 
-This guide walks you through how in-home newborn photography works, why it is safe, what is included, and how we bring siblings and pets into the story. You will also find gentle answers to common questions about timing and whether you might regret skipping newborn photos.
+This guide walks you through how in-home newborn photography works, why it is safe, what is included, and how we bring siblings and pets into the story. You will also find gentle answers to [common questions](/photography-faqs-melbourne/) about timing and whether you might regret skipping newborn photos.
 
 ## What makes an in-home session calm and safe
 
@@ -71,7 +71,7 @@ If you are on the fence, a simple in-home session can be a gentle middle ground.
 
 ## Finding the right fit
 
-Look for a photographer who prioritises safety, calm pacing, and connection. Read reviews that mention patience and a relaxed atmosphere. Browse galleries that feature homes similar to yours. If you are searching for [family photography in Melbourne](/melbourne-family-photographer/) with a focus on storytelling and comfort, I would love to chat about your plans and the spaces you love most.
+Look for a photographer who prioritises safety, calm pacing, and connection. Read [reviews](/testimonials-from-photography-clients-in-melbourne/) that mention patience and a relaxed atmosphere. Browse galleries that feature homes similar to yours. If you are searching for [family photography in Melbourne](/melbourne-family-photographer/) with a focus on storytelling and comfort, I would love to chat about your plans and the spaces you love most.
 
 You can also explore the approach I take as a [lifestyle photographer in Melbourne](/melbourne-lifestyle-photographer/) to see how natural light, soft tones, and quiet direction come together in at-home sessions. Expectant parents can discover [maternity photography in Melbourne](/melbourne-maternity-photographer/) options to capture your bump before baby arrives.
 

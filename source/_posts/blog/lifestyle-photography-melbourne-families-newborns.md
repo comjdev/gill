@@ -14,7 +14,7 @@ categories:
 
 If you have ever looked at a photo and felt like you could hear the laughter or feel the cuddle, you have probably seen lifestyle photography. It is less about stiff poses and more about the way you really hug your child, the way your newborn settles on your chest, or the way you and your partner grin at each other when no one else is watching.
 
-I am Gill of Gill Juergens Photography, a Melbourne lifestyle photographer who specialises in relaxed, story-led sessions for families, newborns and couples. I work across Melbourne and the outer eastern suburbs, meeting you at home or outdoors where real connection happens.
+I am Gill of Gill Juergens Photography, a Melbourne lifestyle photographer who specialises in relaxed, story-led sessions for families, newborns and couples. I work across Melbourne and the [outer eastern suburbs](/suburbs/), meeting you at home or outdoors where real connection happens.
 
 With late summer light lingering and the leaves just starting to turn, it is a beautiful time to plan sessions that will carry you into autumn. Here is how lifestyle photography works, what to expect, and why these images age so well.
 

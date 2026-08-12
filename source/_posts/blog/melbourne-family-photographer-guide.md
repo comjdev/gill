@@ -14,7 +14,7 @@ categories:
 
 If you are scrolling late at night with a sleeping baby on your chest, wondering how on earth to choose the right photographer, you are not alone. Between styles, packages and timing around naps, it can feel like a lot. The good news is that a little clarity on what matters to your family right now will make the decision simple and calm.
 
-I am a Melbourne family, maternity and newborn photographer who loves natural light, gentle guidance and sessions that feel like time well spent together. Below I will share how I help families choose a photographer they genuinely click with, what to look for in portfolios and reviews, and the practical questions to ask before you book.
+I am a Melbourne family, maternity and newborn photographer who loves natural light, gentle guidance and sessions that feel like time well spent together. Below I will share how I help families choose a photographer they genuinely click with, what to look for in portfolios and [reviews](/testimonials-from-photography-clients-in-melbourne/), and the practical questions to ask before you book.
 
 ## Start with style you love
 
@@ -53,7 +53,7 @@ Another parent shared: _"She put me and my children at ease and reminded me that
 - **Timing around naps:** For toddlers, morning golden hour can be magic. For school-age kids, late afternoon or early evening works well. We choose the window that gets the best of your crew.
 - **Weather plans:** I monitor forecasts, suggest shaded parks on hot days and keep to a single location when it is warm. For wind or rain, in-home sessions are beautiful and stress-free.
 - **Locations and permissions:** Many parks are fine without permits for small family sessions, but some gardens and beaches require permission or fee. I confirm this at booking.
-- **Travel:** I photograph across Melbourne and the outer east, and I will travel to your home, a favourite park or the coast. We will chat about logistics and any travel fee before you lock in a date.
+- **Travel:** I photograph across Melbourne and the [outer east](/suburbs/), and I will travel to your home, a favourite park or the coast. We will chat about logistics and any travel fee before you lock in a date.
 
 If you are leaning toward relaxed, natural family photography in Melbourne and want to see sample locations and session types, you can browse my [family sessions page](/melbourne-family-photographer/) for ideas.
 
