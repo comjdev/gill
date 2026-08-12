@@ -9,28 +9,28 @@ hero:
   - image: /img/wedding.jpg
     title: Melbourne Wedding Photographer
     subtitle: Wedding & Engagement
-    link: /melbourne-wedding-photographer
+    link: /melbourne-wedding-photographer/
     left: 33
     top: 0
 
   - image: /img/newborn.jpg
     title: Melbourne Newborn Photographer
     subtitle: Baby & Newborn
-    link: /melbourne-newborn-photographer
+    link: /melbourne-newborn-photographer/
     left: 66
     top: 0
 
   - image: /img/family.jpg
     title: Melbourne Family Photographer
     subtitle: Family Photography
-    link: /melbourne-family-photographer
+    link: /melbourne-family-photographer/
     left: 0
     top: 50
 
   - image: /img/maternity.jpg
     title: Melbourne Maternity Photographer
     subtitle: Maternity Photography
-    link: /melbourne-maternity-photographer
+    link: /melbourne-maternity-photographer/
     left: 33
     top: 50
 
@@ -56,19 +56,19 @@ services:
     title: "Family Photography"
     description: "By creating a relaxed and fun environment during my family photography sessions, I aim to capture the natural joy and connection of your family in beautiful photographs. Click through to see some of my family photography sessions in and around Melbourne."
     image: /img/family.jpg
-    link: /melbourne-family-photographer
+    link: /melbourne-family-photographer/
 
   maternity:
     title: "Maternity Photography"
     description: "Maternity Photography sessions are an incredibly special way to document those last quiet moments before your baby arrives. It's about celebrating your bump and this exciting part of your journey. Click through to see some of my maternity photography sessions in and around Melbourne."
     image: /img/maternity.jpg
-    link: /melbourne-maternity-photographer
+    link: /melbourne-maternity-photographer/
 
   newborn:
     title: "Newborn Photography"
     description: "My newborn photography sessions are all about welcoming and celebrating the newest member of your family in a beautifully natural way. Let's capture some moments from your early days together. Click through to see some of my newborn photography sessions in and around Melbourne."
     image: /img/newborn.jpg
-    link: /melbourne-newborn-photographer
+    link: /melbourne-newborn-photographer/
 
 about:
   - >-
