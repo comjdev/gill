@@ -47,28 +47,30 @@ title: "Melbourne Family, Newborn & Maternity Photographer."
 intro: >-
   I'm a Melbourne-based <a href="/melbourne-maternity-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">maternity</a>, <a href="/melbourne-newborn-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">newborn</a> and <a href="/melbourne-family-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">family photographer</a> with over a decade of experience capturing love and joy between families. I absolutely love what I do and take a very relaxed approach to each of my sessions. Guiding you, making you laugh, and capturing the real you is my priority, as I understand that feeling natural in front of the camera isn't always easy. Each family has their own unique dynamic, and I love celebrating that in my images.
 
-services_title: "Photographer in Melbourne"
+services_title: "Family, Newborn & Maternity Photographer in Melbourne"
 services_subtitle: "Capturing the heart of your family story"
 services_intro: "As a Melbourne-based photographer specialising in maternity, newborn, and family photography, I’ve spent over a decade documenting the beautiful, unscripted moments that make each family unique. My sessions are relaxed, playful, and guided—so even if you're not used to being in front of the camera, you’ll feel comfortable and at ease. Whether it’s the quiet bond between parents and a newborn, the joy of an expecting mum, or the laughter of siblings, I’m here to capture your story just as it unfolds—honestly and naturally."
 
 services:
   family:
     title: "Family Photography"
-    description: "By creating a relaxed and fun environment during my family photography sessions, I aim to capture the natural joy and connection of your family in beautiful photographs. Click through to see some of my family photography sessions in and around Melbourne."
+    description: "Relaxed, fun family sessions that capture natural joy and connection—at home or outdoors across Melbourne. Explore recent family photography galleries to see the style and locations I shoot."
     image: /img/family.jpg
     link: /melbourne-family-photographer/
 
   maternity:
     title: "Maternity Photography"
-    description: "Maternity Photography sessions are an incredibly special way to document those last quiet moments before your baby arrives. It's about celebrating your bump and this exciting part of your journey. Click through to see some of my maternity photography sessions in and around Melbourne."
+    description: "Maternity sessions celebrate those last quiet moments before baby arrives—documenting your bump and this chapter of your journey with a calm, guided approach. Browse maternity galleries from sessions around Melbourne."
     image: /img/maternity.jpg
     link: /melbourne-maternity-photographer/
 
   newborn:
     title: "Newborn Photography"
-    description: "My newborn photography sessions are all about welcoming and celebrating the newest member of your family in a beautifully natural way. Let's capture some moments from your early days together. Click through to see some of my newborn photography sessions in and around Melbourne."
+    description: "Gentle newborn sessions focused on welcoming your newest family member in a natural, baby-led way. See newborn galleries from early days at home and beyond."
     image: /img/newborn.jpg
     link: /melbourne-newborn-photographer/
+
+about_subtitle: "Lifestyle photographer in Melbourne's Eastern suburbs"
 
 about:
   - >-
