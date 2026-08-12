@@ -35,7 +35,7 @@ process:
   title: Process
   subtitle: How we'll work together
   copy:
-    - Get in touch - I'm here to answer any questions and help you get booked in for your wedding photography.
+    - Get in touch - I'm here to answer <a href="/photography-faqs-melbourne/" class="text-inherit no-underline hover:underline underline-offset-4">any questions</a> and help you get booked in for your wedding photography.
     - Book your shoot - I'll send you an email with everything you need and once your deposit is paid, you're all booked in.
     - Get prepared - I'll send you my detailed Welcome Guide that covers all you need to know for your wedding.
     - Your shoot - On the day of your wedding I'll capture every precious moment from getting ready to your first dance.
