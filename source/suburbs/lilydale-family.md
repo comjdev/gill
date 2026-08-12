@@ -22,7 +22,7 @@ local_references:
 
 ## Celebrating your Lilydale family with lifestyle photos
 
-Hi there! I’m a lifestyle photographer working across **Lilydale** and the Yarra Valley, with over ten years of experience capturing genuine, beautiful stories of families just like yours. While I also offer [maternity photos](/melbourne-maternity-photographer/) and [newborn photos](/melbourne-newborn-photographer/), this page is all about celebrating your family — authentic, relaxed, and full of love — right here in Lilydale. My approach is easygoing and child-focused, so our time together feels more like a fun day out than a formal shoot.
+Hi there! I’m a lifestyle photographer working across **Lilydale** and the Yarra Valley, with over ten years of experience capturing genuine, beautiful stories of families just like yours. While I also offer [maternity photos](/melbourne-maternity-photographer/) and [newborn photos](/newborn-photographer/lilydale/), this page is all about celebrating your family — authentic, relaxed, and full of love — right here in Lilydale. My approach is easygoing and child-focused, so our time together feels more like a fun day out than a formal shoot.
 
 ## Family photos in Lilydale
 

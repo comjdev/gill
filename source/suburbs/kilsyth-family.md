@@ -21,7 +21,7 @@ local_references:
 
 ## Celebrating your Kilsyth family with lifestyle photos
 
-Hi! I’m a lifestyle photographer working with families in **Kilsyth** and nearby eastern suburbs. With over ten years’ experience, I specialise in relaxed, natural **family photography** — and also offer [maternity](/melbourne-maternity-photographer/) and [newborn](/melbourne-newborn-photographer/) sessions when you’re documenting other chapters of the journey.
+Hi! I’m a lifestyle photographer working with families in **Kilsyth** and nearby eastern suburbs. With over ten years’ experience, I specialise in relaxed, natural **family photography** — and also offer [maternity](/melbourne-maternity-photographer/) and [newborn](/newborn-photographer/kilsyth/) sessions when you’re documenting other chapters of the journey.
 
 ## Family photos in Kilsyth
 

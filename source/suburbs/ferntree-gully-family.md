@@ -19,7 +19,7 @@ local_references:
 
 ## Telling your Ferntree Gully family story through lifestyle photography
 
-With over a decade of experience, I’m a **lifestyle photographer** passionate about capturing the unique beauty of families in and around **Ferntree Gully**. While I also specialise in the quiet magic of [newborn photos](/melbourne-newborn-photographer/) and the meaningful anticipation of [maternity photos](/melbourne-maternity-photographer/), this page is dedicated to celebrating the connection, warmth, and joy of family life through relaxed, natural photography right here in **Ferntree Gully**.
+With over a decade of experience, I’m a **lifestyle photographer** passionate about capturing the unique beauty of families in and around **Ferntree Gully**. While I also specialise in the quiet magic of [newborn photos](/newborn-photographer/ferntree-gully/) and the meaningful anticipation of [maternity photos](/melbourne-maternity-photographer/), this page is dedicated to celebrating the connection, warmth, and joy of family life through relaxed, natural photography right here in **Ferntree Gully**.
 
 Before discovering photography, I spent years immersed in writing and today, I bring both forms of storytelling together to document each family’s journey with authenticity and care. My approach is laid-back and child-focused, designed to make everyone feel at ease and turn your session into a playful, engaging experience for your kids. These years are fleeting, and my goal is to help you hold onto them, just as they are, before they slip quietly into memory.
 

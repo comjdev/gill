@@ -19,7 +19,7 @@ local_references:
 
 ## Relaxed newborn photography in Boronia with a calm, baby-led approach
 
-Hi, I'm a lifestyle photographer based in Boronia with over 10 years of experience capturing real, heartfelt moments for families across Melbourne. I specialise in **newborn photography**, as well as [maternity](/melbourne-maternity-photographer/) and [family photos](/melbourne-family-photographer/), all with a storytelling approach. Before I became a photographer, I studied writing and now I use both forms of storytelling to preserve the fleeting, beautiful moments that define your family’s early days.
+Hi, I'm a lifestyle photographer based in Boronia with over 10 years of experience capturing real, heartfelt moments for families across Melbourne. I specialise in **newborn photography**, as well as [maternity](/melbourne-maternity-photographer/) and [family photos](/family-photographer/boronia/), all with a storytelling approach. Before I became a photographer, I studied writing and now I use both forms of storytelling to preserve the fleeting, beautiful moments that define your family’s early days.
 
 This page is dedicated to **newborn photography** in **Boronia**, documenting those early weeks with your baby in a gentle, natural way that feels easy and real.
 

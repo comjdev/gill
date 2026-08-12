@@ -21,7 +21,7 @@ local_references:
 
 ## Celebrating your Coldstream family with lifestyle photos
 
-Hello! I’m a lifestyle photographer serving **Coldstream** and the wider Yarra Valley, with over a decade of experience capturing heartfelt family stories. While I also photograph [maternity](/melbourne-maternity-photographer/) and [newborn](/melbourne-newborn-photographer/) sessions, this page is dedicated to relaxed, natural **family photography** right here in Coldstream.
+Hello! I’m a lifestyle photographer serving **Coldstream** and the wider Yarra Valley, with over a decade of experience capturing heartfelt family stories. While I also photograph [maternity](/melbourne-maternity-photographer/) and [newborn](/newborn-photographer/coldstream/) sessions, this page is dedicated to relaxed, natural **family photography** right here in Coldstream.
 
 ## Family photos in Coldstream
 

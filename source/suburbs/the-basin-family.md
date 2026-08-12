@@ -21,7 +21,7 @@ local_references:
 
 ## Celebrating your family in The Basin with lifestyle photos
 
-Hi! I’m a lifestyle photographer working with families in **The Basin** and the surrounding Dandenong Ranges foothills. With over ten years of experience, I specialise in relaxed, natural **family photography**, alongside [maternity](/melbourne-maternity-photographer/) and [newborn](/melbourne-newborn-photographer/) sessions.
+Hi! I’m a lifestyle photographer working with families in **The Basin** and the surrounding Dandenong Ranges foothills. With over ten years of experience, I specialise in relaxed, natural **family photography**, alongside [maternity](/melbourne-maternity-photographer/) and [newborn](/newborn-photographer/the-basin/) sessions.
 
 ## Family photos in The Basin
 

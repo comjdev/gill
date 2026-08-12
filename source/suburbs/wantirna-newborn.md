@@ -19,7 +19,7 @@ local_references:
 
 ## Natural and heartfelt baby photography in Wantirna
 
-Hello! I'm Gill and I’m a lifestyle photographer with more than ten years of experience, devoted to capturing the natural, heartfelt stories of families in and around **Wantirna**. While I also photograph glowing pregnancy journeys with [maternity photography](/melbourne-maternity-photographer/) and the wonderful energy of families with [family photos](/melbourne-family-photographer/), this space is dedicated to the soft, fleeting moments that define the newborn stage.
+Hello! I'm Gill and I’m a lifestyle photographer with more than ten years of experience, devoted to capturing the natural, heartfelt stories of families in and around **Wantirna**. While I also photograph glowing pregnancy journeys with [maternity photography](/melbourne-maternity-photographer/) and the wonderful energy of families with [family photos](/family-photographer/wantirna/), this space is dedicated to the soft, fleeting moments that define the newborn stage.
 
 My **newborn photography** sessions in **Wantirna** are all about the honest, unscripted beauty of your baby’s earliest days. Before picking up a camera, I studied writing and today, I weave that storytelling background into every image I create, blending words and visuals to document each family’s unique beginning with beautiful **newborn photos**.
 

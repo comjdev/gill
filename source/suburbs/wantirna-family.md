@@ -19,7 +19,7 @@ local_references:
 
 ## Relaxed and meaningful family photography in Wantirna
 
-Hi there! I’m a Wantirna lifestyle photographer with over ten years of experience telling meaningful family stories through relaxed and heartfelt photography. From documenting the anticipation of new life with [maternity photos](/melbourne-maternity-photographer/) to preserving the tender early days with [newborn photos](/melbourne-newborn-photographer/), I focus on capturing the beauty of real connection. This page is all about celebrating your family story, right here in **Wantirna**, through genuine, natural **family photography** sessions.
+Hi there! I’m a Wantirna lifestyle photographer with over ten years of experience telling meaningful family stories through relaxed and heartfelt photography. From documenting the anticipation of new life with [maternity photos](/melbourne-maternity-photographer/) to preserving the tender early days with [newborn photos](/newborn-photographer/wantirna/), I focus on capturing the beauty of real connection. This page is all about celebrating your family story, right here in **Wantirna**, through genuine, natural **family photography** sessions.
 
 Before discovering my love for photography, I studied writing and now I bring both passions together, blending the art of storytelling with natural, heartfelt imagery. My approach to capturing beautiful **family photos** is relaxed, child-led, and focused on turning each session into a fun, pressure-free adventure that captures your family as you truly are. These early years pass in a blur and your children will never be this little again. Let’s celebrate the beautiful chaos of family life and preserve it all, perfectly imperfect and filled with love.
 

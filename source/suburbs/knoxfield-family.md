@@ -19,7 +19,7 @@ local_references:
 
 ## Telling your Knoxfield family story with joyful family photos
 
-With over 10 years of experience as a lifestyle **family photographer**, I’m passionate about capturing real, heartfelt moments for families in **Knoxfield** and surrounding suburbs. While I also specialise in [maternity photography](/melbourne-maternity-photographer/) and gentle, in-home [newborn photos](/melbourne-newborn-photographer/), this page focuses on celebrating the connection, love, and laughter of everyday family life through natural and relaxed photography experiences in **Knoxfield**.
+With over 10 years of experience as a lifestyle **family photographer**, I’m passionate about capturing real, heartfelt moments for families in **Knoxfield** and surrounding suburbs. While I also specialise in [maternity photography](/melbourne-maternity-photographer/) and gentle, in-home [newborn photos](/newborn-photographer/knoxfield/), this page focuses on celebrating the connection, love, and laughter of everyday family life through natural and relaxed photography experiences in **Knoxfield**.
 
 Before discovering photography, I studied writing. These days I combine both passions to tell your family’s story through meaningful imagery. My approach is laid-back and child-focused, designed to make everyone feel at ease and enjoy the process. Whether we’re at home or outdoors, we’ll create **family photos** that freeze this beautiful season of life.
 

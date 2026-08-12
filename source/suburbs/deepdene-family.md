@@ -19,7 +19,7 @@ local_references:
 
 ## Let me capture the beauty of your everyday as your Deepdene family photographer
 
-Hi! I'm a Deepdene lifestyle photographer passionate about capturing the beautiful and unique stories of families with beautiful **family photos**. With a background in writing and over a decade behind the lens, I bring a storytelling eye to my relaxed family sessions. While I also offer **maternity photos** and **newborn photos**, this page celebrates the joy of family in **Deepdene**, focusing on creating fun adventures for your kids and preserving these precious, fleeting years.
+Hi! I'm a Deepdene lifestyle photographer passionate about capturing the beautiful and unique stories of families with beautiful **family photos**. With a background in writing and over a decade behind the lens, I bring a storytelling eye to my relaxed family sessions. While I also offer **maternity photos** and [newborn photos](/newborn-photographer/deepdene/), this page celebrates the joy of family in **Deepdene**, focusing on creating fun adventures for your kids and preserving these precious, fleeting years.
 
 ## Family photos in Deepdene
 

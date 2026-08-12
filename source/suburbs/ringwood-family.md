@@ -19,7 +19,7 @@ local_references:
 
 ## Capturing your Ringwood family story with genuine, fun photography
 
-Hi there! I’m a lifestyle photographer based in **Ringwood**, with over ten years of experience telling real, heartfelt family stories through beautiful, natural images. While I also love capturing the magic of new beginnings through [maternity photography](/melbourne-maternity-photographer/) and the gentle wonder of [newborn photos](/melbourne-newborn-photographer/), this page is all about celebrating the vibrant, everyday joy of family life with **family photography**.
+Hi there! I’m a lifestyle photographer based in **Ringwood**, with over ten years of experience telling real, heartfelt family stories through beautiful, natural images. While I also love capturing the magic of new beginnings through [maternity photography](/melbourne-maternity-photographer/) and the gentle wonder of [newborn photos](/newborn-photographer/ringwood/), this page is all about celebrating the vibrant, everyday joy of family life with **family photography**.
 
 As a writer-turned-photographer (and a parent myself!), I bring a relaxed and playful approach to each session. My goal? To make sure your kids have so much fun they forget the camera is even there and to help you walk away with **family photos** that feel like a true reflection of your family, just as you are. These years go by fast, but your photos will help you hold onto the little things for years to come. Don’t wait for the “perfect moment.” Now is the perfect time to update your **family photos**.
 

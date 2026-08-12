@@ -19,7 +19,7 @@ local_references:
 
 ## Gentle newborn photography in Balwyn. Capturing your baby's first story
 
-I'm a lifestyle photographer with over a decade of experience, dedicated to capturing the beautiful and unique stories of families in and around Balwyn. While I also specialise in the radiant journey of **maternity photography** and the joyful chaos of **family photos**, this page is all about the delicate, fleeting beauty of your baby's first days through natural and relaxed **newborn photography** sessions right here in Balwyn. Before I found my passion in photography, I spent years studying writing, and now I blend these two loves, visual storytelling and the written word, to truly capture the essence of each family's story, especially the tender beginnings with your new baby.
+I'm a lifestyle photographer with over a decade of experience, dedicated to capturing the beautiful and unique stories of families in and around Balwyn. While I also specialise in the radiant journey of **maternity photography** and the joyful chaos of [family photos](/family-photographer/balwyn/), this page is all about the delicate, fleeting beauty of your baby's first days through natural and relaxed **newborn photography** sessions right here in Balwyn. Before I found my passion in photography, I spent years studying writing, and now I blend these two loves, visual storytelling and the written word, to truly capture the essence of each family's story, especially the tender beginnings with your new baby.
 
 ## Newborn Photos in Balwyn
 

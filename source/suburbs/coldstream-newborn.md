@@ -19,7 +19,7 @@ local_references:
 
 ## Beautiful newborn photos in Coldstream, capturing those early days together
 
-Hello! I'm a lifestyle photographer with over a decade of experience, dedicated to capturing the beautiful stories of families in and around **Coldstream**. While I also specialise in **maternity photography** and the joy of **family photos**, this page is all about your baby's first days through natural and relaxed **newborn photography** sessions right here in **Coldstream**. As a mum myself, I know how quickly those early days become a blur and how much I wish I had more photos to look back on from those early days together.
+Hello! I'm a lifestyle photographer with over a decade of experience, dedicated to capturing the beautiful stories of families in and around **Coldstream**. While I also specialise in **maternity photography** and the joy of [family photos](/family-photographer/coldstream/), this page is all about your baby's first days through natural and relaxed **newborn photography** sessions right here in **Coldstream**. As a mum myself, I know how quickly those early days become a blur and how much I wish I had more photos to look back on from those early days together.
 
 ### Newborn photos in Coldstream
 

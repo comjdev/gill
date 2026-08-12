@@ -19,7 +19,7 @@ local_references:
 
 ## Gentle newborn photography in Rowville, full of heart
 
-Hi there! I’m a lifestyle photographer with over ten years of experience capturing the meaningful and heartfelt moments that shape each family’s story in and around **Rowville**. While I also photograph the glowing anticipation of pregnancy with **maternity photos** and the joyful energy of family life with **family photos**, this page is dedicated to the peaceful, fleeting magic of **newborn photography**.
+Hi there! I’m a lifestyle photographer with over ten years of experience capturing the meaningful and heartfelt moments that shape each family’s story in and around **Rowville**. While I also photograph the glowing anticipation of pregnancy with **maternity photos** and the joyful energy of family life with [family photos](/family-photographer/rowville/), this page is dedicated to the peaceful, fleeting magic of **newborn photography**.
 
 Before I found my calling in photography, I studied writing and now I blend these two creative passions to craft genuine visual stories. My approach is rooted in both artistry and empathy, shaped by my own journey as a mum. I know how quickly those newborn days fade into memory, and how much I treasure the few images I have from that time. My aim is to give you something I wish I had more of, natural, meaningful **newborn photos** that capture your baby's earliest days, just as they were.
 

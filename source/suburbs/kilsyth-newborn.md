@@ -28,7 +28,7 @@ My goal is to create a relaxed and comfortable experience, allowing you to simpl
 
 ## Newborn photos in Kilsyth
 
-I'm deeply passionate about working with families in **Kilsyth** and the nearby areas. My photography services extend beyond newborns with [maternity photos](/melbourne-maternity-photographer/) that celebrate the beauty of pregnancy, as well as [family photos](/melbourne-family-photographer/) that document the growing love and connection in your home.
+I'm deeply passionate about working with families in **Kilsyth** and the nearby areas. My photography services extend beyond newborns with [maternity photos](/melbourne-maternity-photographer/) that celebrate the beauty of pregnancy, as well as [family photos](/family-photographer/kilsyth/) that document the growing love and connection in your home.
 
 Whether you're looking for a cozy, intimate session in the comfort of your own home or embracing nature's beauty outdoors, we can plan a session that's perfect for your family. I am dedicated to providing a personalised experience, tailoring every detail to your family's needs and creating a set of images that are uniquely yours.
 

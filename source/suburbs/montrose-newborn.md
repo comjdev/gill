@@ -22,7 +22,7 @@ local_references:
 
 ## Gentle and relaxed newborn photos in Montrose
 
-Welcoming a new baby is a truly magical time, and as a photographer, my goal is to capture the delicate, fleeting moments that you'll cherish forever. If you're searching for beautiful **newborn photos** in the Montrose area, you've come to the right place. My photography style focuses on creating a relaxed, warm, and memorable experience for your family, resulting in stunning images that reflect the love and connection you share.
+Welcoming a new baby is a truly magical time, and as a photographer, my goal is to capture the delicate, fleeting moments that you'll cherish forever. If you're searching for beautiful **newborn photos** in the Montrose area, you've come to the right place. My photography style focuses on creating a relaxed, warm, and memorable experience for your family, resulting in stunning images that reflect the love and connection you share. I also offer [Montrose family photography](/family-photographer/montrose/).
 
 I specialise in maternity, family and newborn photography. I love this because it means I often get to revisit families as their family grows and I get to document so many of the big moments for them. From pregnancies, to the first few days with their newborns to family life as babies become toddlers and 'big kids'.
 I'm passionate about working with families in and around **Montrose**. We can plan a session in the comfort of my home studio or an on-location shoot at one of our stunning local spots.

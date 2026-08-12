@@ -19,7 +19,7 @@ local_references:
 
 ## Relaxed newborn photography in Deepdene
 
-I'm a newborn photographer with over a decade of experience, dedicated to capturing the beautiful and unique stories of families in and around Deepdene. While I also specialise in the journey of **maternity photography** and the joyful chaos of **family photos**, this page is all about the delicate, fleeting beauty of your baby's first days through natural and relaxed **newborn photography** sessions right here in Deepdene. Before I found my passion in photography, I spent years studying writing, and now I blend these two story telling skills to truly capture the essence of each family's story, especially the tender beginnings with your new baby. As a mum myself, I know how quickly those early days become a blur and how much I wish I had more photos to look back on from that precious time!
+I'm a newborn photographer with over a decade of experience, dedicated to capturing the beautiful and unique stories of families in and around Deepdene. While I also specialise in the journey of **maternity photography** and the joyful chaos of [family photos](/family-photographer/deepdene/), this page is all about the delicate, fleeting beauty of your baby's first days through natural and relaxed **newborn photography** sessions right here in Deepdene. Before I found my passion in photography, I spent years studying writing, and now I blend these two story telling skills to truly capture the essence of each family's story, especially the tender beginnings with your new baby. As a mum myself, I know how quickly those early days become a blur and how much I wish I had more photos to look back on from that precious time!
 
 ## Newborn photos in Deepdene
 

@@ -19,7 +19,7 @@ local_references:
 
 ## Laid-back newborn photography in Hawthorn
 
-Hi there, I'm Gill, a lifestyle photographer with over ten years of experience, passionate about capturing the real, beautiful, and fleeting moments that define family life. Based near **Hawthorn**, I photograph families in a way that feels relaxed, honest, and true to you. While I also specialise in documenting the glowing anticipation of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the messy, joyful energy of [family photography](/melbourne-family-photographer/), this page is dedicated to the quiet magic of those first newborn days.
+Hi there, I'm Gill, a lifestyle photographer with over ten years of experience, passionate about capturing the real, beautiful, and fleeting moments that define family life. Based near **Hawthorn**, I photograph families in a way that feels relaxed, honest, and true to you. While I also specialise in documenting the glowing anticipation of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the messy, joyful energy of [family photography](/family-photographer/hawthorn/), this page is dedicated to the quiet magic of those first newborn days.
 
 Before picking up a camera, I studied writing and now I bring those storytelling skills into every session, combining words and images to reflect the heart of your family’s journey. These early days with your baby are tender, emotional, and all too fleeting. As a mum myself, I understand how quickly it all becomes a blur. That’s why I approach **newborn photography** in **Hawthorn** with care and intention, capturing genuine connection and preserving the small, meaningful details you'll want to remember forever.
 

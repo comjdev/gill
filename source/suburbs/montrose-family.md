@@ -21,7 +21,7 @@ local_references:
 
 ## Celebrating your Montrose family with lifestyle photos
 
-Hello! I’m a lifestyle photographer serving **Montrose** and the Dandenong Ranges foothills. With over a decade of experience, I create relaxed, natural **family photography** sessions — and also offer [maternity](/melbourne-maternity-photographer/) and [newborn](/melbourne-newborn-photographer/) photography for families documenting every stage.
+Hello! I’m a lifestyle photographer serving **Montrose** and the Dandenong Ranges foothills. With over a decade of experience, I create relaxed, natural **family photography** sessions — and also offer [maternity](/melbourne-maternity-photographer/) and [newborn](/newborn-photographer/montrose/) photography for families documenting every stage.
 
 ## Family photos in Montrose
 
