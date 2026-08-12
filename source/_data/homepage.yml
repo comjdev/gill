@@ -43,7 +43,9 @@ hero:
 
 title: "Melbourne Family, Newborn & Maternity Photographer."
 
-intro: "I'm a Melbourne-based maternity, newborn and family photographer with over a decade of experience capturing love and joy between families. I absolutely love what I do and take a very relaxed approach to each of my sessions. Guiding you, making you laugh, and capturing the real you is my priority, as I understand that feeling natural in front of the camera isn't always easy. Each family has their own unique dynamic, and I love celebrating that in my images."
+# Inline <a> tags are intentional for SEO; home intro/about partials render HTML unescaped.
+intro: >-
+  I'm a Melbourne-based <a href="/melbourne-maternity-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">maternity</a>, <a href="/melbourne-newborn-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">newborn</a> and <a href="/melbourne-family-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">family photographer</a> with over a decade of experience capturing love and joy between families. I absolutely love what I do and take a very relaxed approach to each of my sessions. Guiding you, making you laugh, and capturing the real you is my priority, as I understand that feeling natural in front of the camera isn't always easy. Each family has their own unique dynamic, and I love celebrating that in my images.
 
 services_title: "Photographer in Melbourne"
 services_subtitle: "Capturing the heart of your family story"
@@ -69,11 +71,15 @@ services:
     link: /melbourne-newborn-photographer
 
 about:
-  - "Hi, I'm Gill! Before I ever studied photography, I studied professional writing. This is so important to the way I approach each of my sessions, whether it be a maternity, newborn or family session. I bring these creative writing skills with me as I get to tell your individual story through photographs."
-  - "I live in the outer Eastern suburbs of Melbourne with my husband, our 2 kids and our 2 dogs. I love being with my family so when I'm not working, that's where you'll find me!"
+  - >-
+    Hi, I'm Gill! Before I ever studied photography, I studied professional writing. This is so important to the way I approach each of my sessions, whether it be a <a href="/melbourne-maternity-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">maternity</a>, <a href="/melbourne-newborn-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">newborn</a> or <a href="/melbourne-family-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">family</a> session. I bring these creative writing skills with me as I get to tell your individual story through photographs.
+  - >-
+    I live in the <a href="/suburbs/" class="text-inherit no-underline hover:underline underline-offset-4">outer Eastern suburbs of Melbourne</a> with my husband, our 2 kids and our 2 dogs. I love being with my family so when I'm not working, that's where you'll find me!
   - "My lens has taken me to countless locations and homes throughout Melbourne, and I'm always eager to explore new settings that hold special meaning for you. Whether you have a beloved spot in mind or live in another part of Melbourne, I'm happy to travel and capture your story in the perfect location."
-  - "Over the years, I have photographed many different things but have always enjoyed photographing people the most. This is how maternity, family and newborn sessions (and older babies too, of course!) have become my specialty."
+  - >-
+    Over the years, I have photographed many different things but have always enjoyed photographing people the most. This is how <a href="/melbourne-maternity-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">maternity</a>, <a href="/melbourne-family-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">family</a> and <a href="/melbourne-newborn-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">newborn</a> sessions (and older babies too, of course!) have become my specialty.
   - "My approach to maternity, newborn, and family photography is all about capturing natural, genuine moments. I combine a relaxed atmosphere with subtle guidance, helping you feel comfortable while also maximising the beauty of the light and location. Many of my clients tell me they were surprised by how much they enjoyed their session, finding it far more comfortable and fun than they anticipated."
-  - "My family photography sessions are very relaxed. I do my best to make sure everyone feels comfortable in front of the camera and your kids have fun."
+  - >-
+    My <a href="/melbourne-family-photographer/" class="text-inherit no-underline hover:underline underline-offset-4">family photography</a> sessions are very relaxed. I do my best to make sure everyone feels comfortable in front of the camera and your kids have fun. Have a question about booking? See the <a href="/photography-faqs-melbourne/" class="text-inherit no-underline hover:underline underline-offset-4">photography FAQs</a>.
 
 tagline: "Capturing the beauty in everyday moments"
