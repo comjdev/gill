@@ -1,0 +1,61 @@
+<%
+var siblingPages = getSiblingSuburbPages(page.suburb, page.category);
+var nearbyPages = getNearbySuburbPages(page.category, page.suburb, 6);
+var categoryLabel = page.category
+	? page.category.charAt(0).toUpperCase() + page.category.slice(1)
+	: 'Photography';
+%>
+
+<% if (siblingPages.length || nearbyPages.length) { %>
+<section class="not-format mt-10 pt-8 border-t border-gray-100">
+	<% if (siblingPages.length) { %>
+	<p class="mb-4 font-light text-gray-900">
+		Also available in <%= page.suburb %>:
+		<% siblingPages.forEach(function(sibling, index) {
+			var label = sibling.category.charAt(0).toUpperCase() + sibling.category.slice(1) + ' photography';
+		%>
+			<a
+				href="<%= url_for(sibling.path) %>"
+				class="text-inherit no-underline hover:underline underline-offset-4"
+			><%= label %></a><%= index < siblingPages.length - 1 ? ',' : '' %>
+		<% }); %>
+		and the main
+		<a
+			href="/melbourne-<%= page.category %>-photographer/"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		><%= categoryLabel.toLowerCase() %> photography</a>
+		page.
+	</p>
+	<% } else { %>
+	<p class="mb-4 font-light text-gray-900">
+		Explore more
+		<a
+			href="/melbourne-<%= page.category %>-photographer/"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		><%= categoryLabel.toLowerCase() %> photography in Melbourne</a>
+		or browse all
+		<a
+			href="/suburbs/"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		>suburbs I serve</a>.
+	</p>
+	<% } %>
+
+	<% if (nearbyPages.length) { %>
+	<p class="font-light text-gray-900">
+		<%= categoryLabel %> photography near <%= page.suburb %>:
+		<% nearbyPages.forEach(function(nearby, index) { %>
+			<a
+				href="<%= url_for(nearby.path) %>"
+				class="text-inherit no-underline hover:underline underline-offset-4"
+			><%= nearby.suburb %></a><%= index < nearbyPages.length - 1 ? ',' : '' %>
+		<% }); %>
+		—
+		<a
+			href="/suburbs/"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		>see all suburbs</a>.
+	</p>
+	<% } %>
+</section>
+<% } %>

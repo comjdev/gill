@@ -78,6 +78,7 @@ if(page.category === 'wedding') {
 				<%- page.content %>
 				<!-- prettier-ignore -->
 				<div class="not-format">
+					<%- include('_partials/suburbs/related-links') %>
 					<%- include('_partials/suburbs/contact', {suburb: page.suburb, category: page.category}) %>
 				</div>
 			</main>

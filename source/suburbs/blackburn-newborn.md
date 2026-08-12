@@ -53,4 +53,4 @@ If you're expecting or have recently welcomed your baby, I'd love to help you do
 
 ## Relaxed newborn photos in Blackburn and the suburbs of Melbourne
 
-I work with families across **Blackburn** and neighbouring suburbs such as [Canterbury](newborn-photographer/canterbury/), [Burwood](newborn-photographer/burwood/), [Camberwell](newborn-photographer/camberwell/), [Wantirna](newborn-photographer/wantirna/) and [Malvern East](newborn-photographer/malvern-east/).
+I work with families across **Blackburn** and neighbouring suburbs such as [Canterbury](/newborn-photographer/canterbury/), [Burwood](/newborn-photographer/burwood/), [Camberwell](/newborn-photographer/camberwell/), [Wantirna](/newborn-photographer/wantirna/) and [Malvern East](/newborn-photographer/malvern-east/).

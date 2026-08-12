@@ -55,4 +55,4 @@ This stage passes in the blink of an eye, and while the days might feel long, th
 
 ## Newborn photography across Scoresby and beyond
 
-Although I’m based in Melbourne’s eastern suburbs, I’m thrilled to offer my gentle, lifestyle-focused **newborn photography** to families in **Scoresby** and surrounding areas. I regularly travel to homes in [Wantirna](newborn-photographer/wantirna/), [Knoxfield](newborn-photographer/knoxfield/), [Ferntree Gully](newborn-photographer/ferntree-gully/), [Rowville](newborn-photographer/rowville/), [Bayswater](newborn-photographer/bayswater/) and more, capturing those precious early days in a relaxed, natural way.
+Although I’m based in Melbourne’s eastern suburbs, I’m thrilled to offer my gentle, lifestyle-focused **newborn photography** to families in **Scoresby** and surrounding areas. I regularly travel to homes in [Wantirna](/newborn-photographer/wantirna/), [Knoxfield](/newborn-photographer/knoxfield/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Rowville](/newborn-photographer/rowville/), [Bayswater](/newborn-photographer/bayswater/) and more, capturing those precious early days in a relaxed, natural way.
