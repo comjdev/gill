@@ -81,6 +81,8 @@ meta_generator: true
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
+## Keep mtime so lastmod reflects real file changes; CI restores git mtimes before build
+## so deploys do not stamp every URL with the checkout date.
 updated_option: "mtime"
 
 # Pagination
@@ -107,6 +109,7 @@ deploy:
 # Sitemap - exclude categories (redirect to service pages instead)
 sitemap:
   path: sitemap.xml
+  template: ./sitemap_template.xml
   categories: false
   tags: false
 

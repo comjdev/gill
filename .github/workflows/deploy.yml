@@ -11,6 +11,26 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          # Full history needed so git-restore-mtime can set accurate timestamps
+          fetch-depth: 0
+
+      - name: Restore source file mtimes from git
+        run: |
+          # Prevents sitemap lastmod collapsing to the CI checkout time.
+          # Only content files matter — assets do not drive page lastmod.
+          git ls-files -z -- \
+            'source/**/*.md' \
+            'source/**/*.yml' \
+            'source/**/*.yaml' \
+            'source/**/*.njk' \
+            'source/**/*.ejs' \
+            | while IFS= read -r -d '' file; do
+            timestamp="$(git log -1 --format=%ct -- "$file" 2>/dev/null || true)"
+            if [ -n "$timestamp" ]; then
+              touch -d "@${timestamp}" "$file"
+            fi
+          done
 
       - name: Set up Node.js
         uses: actions/setup-node@v4

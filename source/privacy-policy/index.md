@@ -1,6 +1,7 @@
 ---
 title: Terms of Service
 layout: page
+sitemap: false
 ---
 
 **Last updated: 16 July 2025**

@@ -1,6 +1,7 @@
 ---
 title: Privacy Policy
 layout: page
+sitemap: false
 ---
 
 **Last updated: 16 July 2025**
