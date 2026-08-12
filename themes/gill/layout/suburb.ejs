@@ -71,14 +71,14 @@ if(page.category === 'wedding') {
 				<div class="not-format">
 					<a
 						href="/melbourne-<%= page.category %>-photographer/"
-						class="uppercase inline-block mb-8 bg-gill-green-400 text-white hover:bg-gill-green-600 rounded-md px-7 py-3 no-underline"
+						class="uppercase inline-block mb-8 bg-gill-green-400 text-white hover:text-white hover:bg-gill-green-600 hover:no-underline rounded-md px-7 py-3 no-underline"
 						><%= page.category %> photography</a
 					>
 				</div>
 				<%- page.content %>
 				<!-- prettier-ignore -->
 				<div class="not-format">
-					<%- include('_partials/suburbs/related-links') %>
+					<%- partial('_partials/suburbs/related-links') %>
 					<%- include('_partials/suburbs/contact', {suburb: page.suburb, category: page.category}) %>
 				</div>
 			</main>
@@ -109,3 +109,6 @@ page.category}) %>
 <!-- Random FAQs  -->
 <%- include('_partials/suburbs/random-faqs', {suburb: page.suburb, category:
 page.category}) %>
+
+<!-- Related category blog posts -->
+<%- partial('_partials/service/related-blog-posts', { category: page.category }) %>

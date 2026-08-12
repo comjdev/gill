@@ -1,0 +1,54 @@
+<%
+var serviceLink = null;
+var suburbLink = null;
+
+try {
+	if (typeof getWorkServiceLink === 'function') {
+		serviceLink = getWorkServiceLink(page);
+	}
+	if (typeof getWorkSuburbLink === 'function') {
+		suburbLink = getWorkSuburbLink(page);
+	}
+} catch (e) {
+	serviceLink = null;
+	suburbLink = null;
+}
+
+var serviceUrl = serviceLink && serviceLink.url ? serviceLink.url : null;
+var serviceLabel = serviceLink && serviceLink.label ? serviceLink.label : null;
+var suburbPath = suburbLink && suburbLink.path ? suburbLink.path : null;
+var suburbLabel = suburbLink && suburbLink.label ? suburbLink.label : null;
+%>
+
+<% if (serviceUrl || suburbPath) { %>
+<p class="mt-8 pt-6 border-t border-gray-100 font-light text-gray-900">
+	<% if (serviceUrl) { %>
+		Explore more
+		<a
+			href="<%= serviceUrl %>"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		><%= serviceLabel %></a>
+		in Melbourne<% if (suburbPath) { %>, or see
+		<a
+			href="<%= url_for(suburbPath) %>"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		><%= suburbLabel %></a><% } %>.
+	<% } else if (suburbPath) { %>
+		See more about
+		<a
+			href="<%= url_for(suburbPath) %>"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		><%= suburbLabel %></a>.
+	<% } %>
+	Browse the full
+	<a
+		href="/melbourne-photos/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>portfolio</a>
+	or
+	<a
+		href="/suburbs/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>suburbs I serve</a>.
+</p>
+<% } %>

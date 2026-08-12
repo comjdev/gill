@@ -171,15 +171,24 @@
 	}
 
 	/* Subtle in-body links (suburb/markdown content) — match homepage style */
-	.format a {
+	.format :where(p, li, td, th, blockquote) a {
 		color: inherit !important;
 		font-weight: inherit !important;
 		text-decoration: none !important;
 	}
 
-	.format a:hover {
+	.format :where(p, li, td, th, blockquote) a:hover {
 		text-decoration: underline !important;
 		text-underline-offset: 4px;
+	}
+
+	/* CTA buttons inside format articles keep solid button styling */
+	.format .not-format a {
+		text-decoration: none !important;
+	}
+
+	.format .not-format a:hover {
+		text-decoration: none !important;
 	}
 
 	/* Make all headings uppercase by default, except when using Meritocracy font */

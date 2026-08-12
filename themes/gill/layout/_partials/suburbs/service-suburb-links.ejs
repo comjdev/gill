@@ -1,0 +1,54 @@
+<%
+var linkCategory = (typeof category !== 'undefined' && category)
+	? category.toString().toLowerCase()
+	: null;
+var suburbPages = [];
+if (linkCategory && typeof getNearbySuburbPages === 'function') {
+	// Pass empty current suburb so helper returns a rotated sample for this category
+	suburbPages = getNearbySuburbPages(linkCategory, '', 8);
+}
+var categoryLabel = linkCategory
+	? linkCategory.charAt(0).toUpperCase() + linkCategory.slice(1)
+	: 'Photography';
+%>
+
+<% if (suburbPages.length) { %>
+<p class="mb-8 font-light text-gray-900 sm:text-xl">
+	I regularly photograph families across Melbourne’s eastern suburbs, including
+	<% suburbPages.forEach(function(nearby, index) { %>
+		<a
+			href="<%= url_for(nearby.path) %>"
+			class="text-inherit no-underline hover:underline underline-offset-4"
+		><%= nearby.suburb %></a><%= index < suburbPages.length - 1 ? ',' : '' %>
+	<% }); %>.
+	Browse all areas on the
+	<a
+		href="/suburbs/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>suburbs I serve</a>
+	page.
+</p>
+<% } else { %>
+<p class="mb-8 font-light text-gray-900 sm:text-xl">
+	See the
+	<a
+		href="/suburbs/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>suburbs I serve</a>
+	across Melbourne’s eastern suburbs, or explore
+	<a
+		href="/melbourne-family-photographer/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>family</a>,
+	<a
+		href="/melbourne-newborn-photographer/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>newborn</a>
+	and
+	<a
+		href="/melbourne-maternity-photographer/"
+		class="text-inherit no-underline hover:underline underline-offset-4"
+	>maternity</a>
+	photography.
+</p>
+<% } %>
