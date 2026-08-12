@@ -39,6 +39,7 @@ With over a decade of experience as a **newborn photographer**, I’ve learned t
 
 When I photograph your **newborn photos** session in **Deepdene**, it’s all about capturing the tiny details that are easy to forget but mean everything, their soft fingers, wrinkly toes, that gentle swirl of hair or pouty little lips. I also focus on the early connections that tell your family’s story, the way your baby nestles into your arms, the quiet glances, the wonder on a sibling’s face. These aren’t just photos, they’re memories you’ll treasure forever and a glimpse into the fleeting magic of these early days together.
 
+
 ### Preserving your Deepdene baby's precious early story
 
 As your **newborn photographer** in Deepdene, my goal is to go beyond simply taking beautiful images. I’m here to tell the story of your baby’s very first chapter. These early days are full of wonder, raw emotion, and quiet moments that can feel like a blur in the whirlwind of new parenthood. That’s why I approach each session with care and intention, capturing not just how your baby looked, but how this season of life felt.

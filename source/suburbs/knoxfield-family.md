@@ -45,6 +45,10 @@ Knoxfield and its surrounding areas offer some wonderful outdoor locations perfe
 
 My goal as your **family photographer** in **Knoxfield** is to capture more than just images; I aim to document the perfect, honest, and real moments within your family. These **family photos** are a way to pause time and create lasting memories of this specific chapter in your lives, moments filled with joy, giggles, and genuine connection that you can share and relive with your children for years to come. Let's hit pause and capture your story.
 
+
+
+If you have questions about booking, timing or what to expect, the [photography FAQs](/photography-faqs-melbourne/) are a helpful place to start.
+
 ## Serving Knoxfield and areas of Melbourne
 
 Based in Melbourne’s eastern suburbs, I offer flexible **family photography** sessions across a variety of beautiful outdoor locations or in the comfort of your own home, whether you're in **Knoxfield**, or surrounding areas like [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Ferntree Gully](/family-photographer/ferntree-gully/) or [Wantirna](/family-photographer/wantirna/).

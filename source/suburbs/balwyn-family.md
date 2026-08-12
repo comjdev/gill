@@ -46,6 +46,10 @@ Balwyn and its surrounding areas boast some beautiful outdoor locations perfect 
 
 My goal as your **family photographer** in Balwyn is to provide you with more than just photos. I want to give you lasting memories, a visual story of your family at this particular time in your lives. These **family photos** are an investment in your family's history, something you can look back on with joy and share with your children as they grow. Let's hit pause on the everyday and capture these precious moments for you.
 
+
+
+If you have questions about booking, timing or what to expect, the [photography FAQs](/photography-faqs-melbourne/) are a helpful place to start.
+
 ## Serving Balwyn and nearby suburbs
 
 I’m based near Balwyn and love working with families across the eastern suburbs, including [Burwood](/family-photographer/burwood/), [Surrey Hills](/family-photographer/surrey-hills/), [Hawthorn](/family-photographer/hawthorn/), [Mont Albert](/family-photographer/mont-albert/), [Camberwell](/family-photographer/camberwell/) and [Deepdene](/family-photographer/deepdene/). Whether you’re dreaming of an energetic outdoor adventure or a quiet, familiar space at home, I’ll guide the session in a way that feels natural to your family, capturing genuine smiles, sweet in-between moments, and everything in between.

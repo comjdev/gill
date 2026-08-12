@@ -53,6 +53,7 @@ My role as your Ringwood **newborn photographer** goes far beyond simply taking 
 
 Through gentle, natural **baby photography**, I aim to preserve not just how your newborn looked, but how this time felt. From their tiny fingers and sleepy yawns to the quiet moments of connection you share as a family, each image becomes part of a lasting keepsake, one you’ll return to as the years pass, remembering just how small they once were. Babies grow in the blink of an eye, and these first few weeks are unlike any other. Let’s capture them before they slip away.
 
+
 ## Newborn photography in Ringwood and nearby suburbs
 
 Although I’m based in Melbourne’s eastern suburbs, I’m proud to offer relaxed, lifestyle newborn photography to families in **Ringwood** and the neighbouring suburbs. I often travel to homes in [Croydon](/newborn-photographer/croydon/), [Wantirna](/newborn-photographer/wantirna/), [Bayswater](/newborn-photographer/bayswater/), [Lilydale](/newborn-photographer/lilydale/), [Rowville](/newborn-photographer/rowville/) and other nearby areas, capturing those early moments in the comfort of your own space.

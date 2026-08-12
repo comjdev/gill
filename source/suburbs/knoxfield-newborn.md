@@ -55,6 +55,7 @@ As your **newborn photographer** in Knoxfield, my purpose goes far beyond simply
 
 The **baby photos** we create together will become cherished keepsakes; something for you to look back on as your child grows, and one day, something for them to look back on too. This is the beginning of their story, told through heartfelt, natural images that reflect the love and connection you share as a family. Let’s capture it before it fades.
 
+
 ## Serving Knoxfield and beyond as your local newborn photographer
 
 As a Melbourne-based lifestyle photographer, I'm thrilled to bring my gentle newborn photography services directly to families in **Knoxfield** and many neighboring suburbs. I frequently travel to capture these beautiful early stories in suburbs like [Wantirna](/newborn-photographer/wantirna/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Boronia](/newborn-photographer/boronia/), [Scoresby](/newborn-photographer/scoresby/), [Rowville](/newborn-photographer/rowville/) and [Bayswater](/newborn-photographer/bayswater/), among others. If you're welcoming a new baby in or around these areas, I'd be absolutely delighted to chat about preserving this incredibly precious time for your family.

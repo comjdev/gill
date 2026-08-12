@@ -43,6 +43,7 @@ Malvern East and its surrounding areas boast some fantastic outdoor locations pe
 
 My goal as your **family photographer** in Malvern East is to capture more than just images. I aim to document the perfect, honest, and real moments within your family. These **family photos** are a way to pause time and create lasting memories of this specific chapter in your lives, moments filled with joy, giggles, and genuine moments that you can share and relive with your children for years to come. Please don't let the idea of "not the right time" hold you back. Now is the perfect time to capture these precious memories. Let's hit pause and capture your story.
 
+
 ## Telling your family story in Malvern East and neighbouring suburbs
 
 Based in Boronia, I photograph families in **Malvern East**, as well as throughout the eastern suburbs, including [Burwood](/family-photographer/burwood/), [Blackburn](/family-photographer/blackburn/), [Hawthorn](/family-photographer/hawthorn/), [Camberwell](/family-photographer/camberwell/) and [Deepdene](/family-photographer/deepdene/). Every session is relaxed and built around your family’s unique rhythm, whether that’s cuddling at home or exploring your favourite local park. Together, we’ll create a collection of heartfelt images that tell the story of your family as you are right now.

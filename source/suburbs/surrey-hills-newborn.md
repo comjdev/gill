@@ -59,6 +59,7 @@ These aren’t just photographs, they’re memories frozen in time, giving you s
 
 My ultimate goal as your **newborn photographer** in Surrey Hills is to provide you with far more than just beautiful **newborn photos**. I aim to tell the unfolding story of your family's new beginning, preserving the incredible emotion and delicate beauty of this unique time. These **baby photos** are a precious, tangible keepsake, allowing you to forever remember the overwhelming love, the tiny details, and the profound newness of these early days with your little one. It's astonishing how quickly babies grow and change, and these fleeting moments are truly irreplaceable. Don't let this incredible chapter of your family's story pass by uncaptured.
 
+
 ## Serving Surrey Hills and surrounding suburbs
 
 While based in Melbourne’s eastern suburbs, I am delighted to offer my gentle and relaxed **newborn photography** services across **Surrey Hills** and many nearby suburbs. I frequently travel to capture beautiful newborn stories in suburbs such as [Mont Albert](/newborn-photographer/mont-albert/), [Balwyn](/newborn-photographer/balwyn/), [Canterbury](/newborn-photographer/canterbury/), [Camberwell](/newborn-photographer/camberwell/) and [Malvern East](/newborn-photographer/malvern-east/), among others. If you're welcoming a new baby in or around these areas, I'd love to chat about capturing this precious time for your family.

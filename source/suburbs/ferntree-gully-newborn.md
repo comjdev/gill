@@ -49,6 +49,7 @@ These first few weeks pass in a blur of feeding, settling, and adjusting to your
 
 So don’t worry about everything being perfect. What matters most is capturing the connection, the warmth, and the honest, beautiful love that already exists between you and your newest little love with timeless **newborn photos**.
 
+
 ## Serving Ferntree Gully and beyond as your local newborn photographer
 
 As a Melbourne-based lifestyle photographer, I'm delighted to bring my gentle, in-home newborn photography services directly to families in **Ferntree Gully** and many surrounding communities. I frequently travel to capture these beautiful early stories in nearby suburbs such as [Bayswater](/newborn-photographer/bayswater/), [Boronia](/newborn-photographer/boronia/), [Montrose](/newborn-photographer/montrose/), [Wantirna](/newborn-photographer/wantirna/) and [Croydon](/newborn-photographer/croydon/), among others. If you're welcoming a new baby in or around any of these areas, I'd be absolutely thrilled to chat about preserving this incredibly precious time for your family.

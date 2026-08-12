@@ -41,6 +41,10 @@ During your **newborn photos** session in **Mont Albert**, my lens is focused on
 
 My ultimate goal as your **newborn photographer** in **Mont Albert** is to provide you with far more than just beautiful photos. I aim to tell the unfolding story of your family's new beginning, preserving the emotion and delicate beauty of this unique time with **newborn photos**. These **baby photos** are a precious, tangible keepsake, allowing you to forever remember the overwhelming love, the tiny details, and the profound newness of these early days with your little one. It's astonishing how quickly babies grow and change, and these fleeting moments are truly irreplaceable. Don't let this incredible chapter of your family's story pass by uncaptured.
 
+
+
+If you have questions about booking, timing or what to expect, the [photography FAQs](/photography-faqs-melbourne/) are a helpful place to start.
+
 ## Serving Mont Albert families with heartfelt newborn photos
 
 I offer heartfelt, at-home **newborn photography** sessions throughout **Mont Albert**, capturing the beauty of your baby’s earliest days in a setting that means the most, your home. Whether you’re based in Mont Albert itself or nearby suburbs like [Surrey Hills](/newborn-photographer/surrey-hills/), [Balwyn](/newborn-photographer/balwyn/), [Camberwell](/newborn-photographer/camberwell/), or [Canterbury](/newborn-photographer/canterbury/), I bring everything needed for a calm, comfortable session that fits seamlessly into your day.

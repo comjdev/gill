@@ -43,6 +43,10 @@ Bayswater and its surrounding areas boast some beautiful outdoor locations perfe
 
 My goal as your **family photographer** in Bayswater is to provide you with more than just photos. I want to give you lasting memories that are a visual story of your family at this particular time in your lives. These **family photos** are an investment in your family's history, something you can look back on with joy and share with your children as they grow. Let's hit pause on the everyday and capture these precious moments for you.
 
+
+
+For more preparation ideas and session advice, browse my [Melbourne photography tips](/melbourne-photography-tips/).
+
 ## Serving Bayswater and nearby suburbs
 
 Serving families in Bayswater, [Burwood](/family-photographer/burwood/), [Ringwood](/family-photographer/ringwood/), [Boronia](/family-photographer/boronia/), [Croydon](/family-photographer/croydon/), [Knoxfield](/family-photographer/knoxfield/) and further surrounding suburbs, I specialise in relaxed and fun family photos. Whether your family is most at ease exploring the outdoors or curled up together at home, I’ll create a session that fits you perfectly, focusing on real connection, playful moments, and all the little details that matter most.

@@ -27,6 +27,7 @@ Welcoming a newborn into your home in **Coldstream** is a special and (often) ov
 
 For me, the most meaningful **newborn photos** genuinely reflect the atmosphere of your home during this special time. There's no need to worry about tidying up beforehand; we can easily move a few things around as needed, because welcoming a new baby is much more important than a perfectly spotless house. Just honest, beautiful moments of your family connecting with your new addition. Whether this is your first baby or your third, and you're still finding your rhythm, my goal is to make this session as relaxed and pressure-free as possible. We'll work together to get the photos you're after.
 
+
 ### Why I love taking newborn photos in homes across Coldstream
 
 Your home in **Coldstream** isn't just a location for your **newborn photos** session; it's the very first backdrop of your baby's life and an important part of your family's story. This familiar and personal environment provides the most authentic canvas for those precious first photos. By photographing your newborn in their own comfortable space, we ensure a relaxed and stress-free experience for everyone, which is key to capturing genuine moments. This lifestyle approach allows me to beautifully document your baby nestled in their nursery, the tender way siblings interact with their new arrival, and the quiet moments of connection between parents and child, all while using soft natural light within your home, nestled in the stunning **Yarra Valley**.

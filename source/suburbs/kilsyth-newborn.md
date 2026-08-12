@@ -52,6 +52,7 @@ Your **baby photos** will become more than just memories for you, they’ll be s
 
 These moments won’t last forever, but with timeless **newborn photography** captured right here in **Kilsyth**, you’ll always be able to return to them.
 
+
 ## Newborn photography for Kilsyth and neighbouring areas
 
 My lifestyle newborn photography services extend throughout **Kilsyth** and its beautiful surrounding suburbs, such as [The Basin](/newborn-photographer/the-basin/), [Lilydale](/newborn-photographer/lilydale/), [Coldstream](/newborn-photographer/coldstream/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Montrose](/newborn-photographer/montrose/), [Bayswater](/newborn-photographer/bayswater/) and [Croydon](/newborn-photographer/croydon/). If you're welcoming a new baby in or around these areas, I'd love to capture this precious time for you and your family.

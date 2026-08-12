@@ -39,6 +39,7 @@ My over 10 years of experience as a **newborn photographer** has taught me the i
 
 During your **newborn photos** session in Balwyn, I make sure to capture all those incredibly important tiny details; their perfect fingers, tiny toes, the delicate curl of their lips. These are the unique features that change so quickly. I also focus on the beautiful first connections between you as a family, the way you hold them and those first interactions with siblings. These are the precious memories you'll want to revisit for years to come, reminding you of this truly special time in your family's journey.
 
+
 ### Preserving your Balwyn baby's early story
 
 My goal as your **newborn photographer** in Balwyn is to provide you with more than just photos. I aim to tell the beautiful story of your family's new beginning. These **baby photos** are a precious keepsake, allowing you to forever remember the delicate newness and overwhelming love of these early days. Don't let these fleeting moments pass by uncaptured.

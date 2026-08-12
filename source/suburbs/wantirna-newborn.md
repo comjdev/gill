@@ -57,6 +57,7 @@ As your **newborn photographer** in Wantirna, my goal is to create more than jus
 
 Through a relaxed and thoughtful approach, I aim to capture both the small, fleeting details and the bigger emotional moments that define your family's fresh beginning. These images become treasured keepsakes, a way to hold onto how it felt to welcome your baby into the world. Time moves quickly, and they’ll never be this little again. Let’s make sure you have timeless **newborn photos** that tell your story and bring you back to this beautiful beginning every time you look at them.
 
+
 ## Serving Wantirna and surrounding suburbs
 
 While based in Melbourne’s eastern suburbs, I am delighted to offer my gentle, lifestyle **newborn photography** services across **Wantirna** and many nearby suburbs. I frequently travel to capture beautiful newborn stories in suburbs such as [Knoxfield](/newborn-photographer/knoxfield/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Bayswater](/newborn-photographer/bayswater/), [Ringwood](/newborn-photographer/ringwood/) and [Kilsyth](/newborn-photographer/kilsyth/), among others. If you're welcoming a new baby in or around these areas, I'd love to chat about capturing this precious time for your family.

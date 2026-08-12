@@ -47,6 +47,10 @@ As your **newborn photographer** in Hawthorn, my aim is to give you far more tha
 
 One day, these photos will mean even more. Not just to you, but to your child, a visual love letter they’ll one day hold in their hands, showing them where they came from, how fiercely they were loved from the very beginning, and the bonds that shaped their first days. Let’s create something lasting together, a timeless record of love, connection, and the beginning of your beautiful story with sweet **newborn photos**.
 
+
+
+You can also read [client testimonials](/testimonials-from-photography-clients-in-melbourne/) from families I’ve photographed.
+
 ## Serving Hawthorn and beyond as your local newborn photographer
 
 My lifestyle newborn photography services extend throughout **Hawthorn** and its vibrant surrounding suburbs. Although based in Melbourne's eastern suburbs, I regularly visit families in areas such as [Camberwell](/newborn-photographer/camberwell/), [Deepdene](/newborn-photographer/deepdene/), [Malvern East](/newborn-photographer/malvern-east/), [Surrey Hills](/newborn-photographer/surrey-hills/) and [Canterbury](/newborn-photographer/canterbury/) to capture those beautiful first days. If you're expecting or have recently welcomed a baby in these locations, please reach out, I'd love to help you create lasting memories.

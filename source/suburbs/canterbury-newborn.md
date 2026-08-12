@@ -45,6 +45,7 @@ During your **newborn photos** session in **Canterbury**, I make sure to capture
 
 In my role as your Canterbury **newborn photographer**, I’m here to help you tell the story of your baby's arrival, such as the quiet moments, the wonder, the love that fills your home. These aren’t just photos, they’re memories you’ll return to time and time again, a way to remember just how small and deeply loved your baby was in those first precious days.
 
+
 ## Serving Canterbury and beyond as your local newborn photographer
 
 As a Melbourne-based lifestyle photographer, I'm thrilled to bring my gentle, in-home **newborn photography** services directly to families in **Canterbury** and many beautiful neighboring areas. I frequently travel across Melbourne's eastern suburbs to capture these precious early stories in nearby areas such as [Balwyn](/newborn-photographer/balwyn/), [Deepdene](/newborn-photographer/deepdene/), [Surrey Hills](/newborn-photographer/surrey-hills/), [Camberwell](/newborn-photographer/camberwell/) and [Hawthorn](/newborn-photographer/hawthorn/), among others. If you're welcoming a new baby in or around any of these areas, I'd be absolutely delighted to chat about preserving this incredibly precious time for your family.

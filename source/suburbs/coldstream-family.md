@@ -39,6 +39,10 @@ Your **Coldstream** home is often the most meaningful backdrop of all. In-home *
 
 From reservoir gardens to nearby lakeside spaces, there are beautiful outdoor options close by. We’ll pick a location that feels comfortable and looks wonderful in natural light.
 
+
+
+You can also read [client testimonials](/testimonials-from-photography-clients-in-melbourne/) from families I’ve photographed.
+
 ## Serving Coldstream and nearby suburbs
 
 I regularly photograph families throughout [Lilydale](/family-photographer/lilydale/), [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Kilsyth](/family-photographer/kilsyth/) and surrounding eastern suburbs. If you’re in Coldstream or nearby, I’d love to help you preserve this chapter of your family’s story.

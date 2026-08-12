@@ -62,3 +62,4 @@ The early days with your baby are incredibly fleeting, filled with moments so pr
 ## Creating timeless newborn photos for Melbourne families
 
 I'm proud to offer my gentle, lifestyle newborn photography services throughout Melbourne’s eastern suburbs, including [Surrey Hills](/newborn-photographer/surrey-hills/), [Camberwell](/newborn-photographer/camberwell/), [Wantirna](/newborn-photographer/wantirna/), [Burwood](/newborn-photographer/burwood/), [Hawthorn](/newborn-photographer/hawthorn/) and [Malvern East](/newborn-photographer/malvern-east/). I come to you, creating a relaxed in-home session that captures your baby’s early days in a way that’s natural, heartfelt, and true to your family.
+

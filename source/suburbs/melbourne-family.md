@@ -55,6 +55,10 @@ By photographing your family in a space you know and love, we create a relaxed a
 
 **Melbourne** is full of incredible outdoor spots that make the perfect setting for relaxed and natural **family photography**. Whether it’s the leafy parks and gardens of the inner city, the breathtaking scenery of the **Dandenong Ranges**, or the laid-back coastal vibes of the **Mornington Peninsula**, there’s no shortage of beautiful locations to explore. These outdoor sessions feel more like a family adventure, giving your kids the freedom to roam, play, and just be themselves, while I capture genuine, joy-filled **family photos** that reflect your unique story.
 
+
+
+You can also read [client testimonials](/testimonials-from-photography-clients-in-melbourne/) from families I’ve photographed.
+
 ### Authenitc family photography in Melbourne and surrounding suburbs
 
 I create relaxed, child-led family photography sessions across Melbourne, [Mont Albert](/family-photographer/mont-albert/), [Surrey Hills](/family-photographer/surrey-hills/), [Balwyn](/family-photographer/balwyn/), [Malvern East](/family-photographer/malvern-east/), [Camberwell](/family-photographer/camberwell/), [Ferntree Gully](/family-photographer/ferntree-gully/) and surrounding suburbs. From grassy reserves to local parks, we’ll turn your time together into an adventure, full of fun, laughter, and moments that reflect who you truly are as a family.

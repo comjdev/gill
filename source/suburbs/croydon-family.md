@@ -43,6 +43,7 @@ Croydon and its surrounding areas offer some wonderful outdoor locations perfect
 
 As your dedicated **family photographer** in Croydon, my goal is to create more than just beautiful images. I want to capture the essence of your family in this moment. These family photos serve as a time capsule, preserving the love, laughter, and everyday magic that make this chapter uniquely yours. They’re memories you’ll treasure, and ones your children will look back on with joy. Let’s pause time together and document your story, just as it is.
 
+
 ## Capturing real moments in Croydon and beyond
 
 Based near Croydon, I photograph families across [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Wantirna](/family-photographer/wantirna/), [Lilydale](/family-photographer/lilydale/) and nearby suburbs. My sessions are flexible and relaxed, built around your kids’ natural rhythm. Whether it’s an afternoon in your backyard or a walk through a local reserve, I’ll create images that reflect your family’s personality and connection.

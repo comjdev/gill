@@ -59,6 +59,10 @@ Whether you’re covered in crumbs, chasing toddlers, or just trying to get ever
 
 Don’t wait for everything to be perfect. The truth is, it already is.
 
+
+
+For more preparation ideas and session advice, browse my [Melbourne photography tips](/melbourne-photography-tips/).
+
 ### Capturing families in Wantirna and surrounding suburbs
 
 Based in Melbourne’s eastern suburbs, I offer relaxed and flexible **family photography** sessions throughout **Wantirna** and nearby areas. Whether you’d love a playful outdoor shoot in a local park or a cosy session at home, I work across Wantirna, [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Kilsyth](/family-photographer/kilsyth/) and surrounding suburbs to create relaxed, meaningful images that reflect your family’s unique story.

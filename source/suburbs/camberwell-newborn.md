@@ -43,6 +43,10 @@ During your **newborn photos** session in **Camberwell**, I make sure to capture
 
 My goal as your **newborn photographer** in **Camberwell** is to provide you with more than just photos. I aim to tell the beautiful story of your family's new beginning. These **baby photos** are a precious keepsake, allowing you to forever remember the delicate newness and overwhelming love of these early days. Don't let these fleeting moments pass by uncaptured.
 
+
+
+For more preparation ideas and session advice, browse my [Melbourne photography tips](/melbourne-photography-tips/).
+
 ## Newborn photography in Camberwell and nearby suburbs
 
 Based in Melbourne’s eastern suburbs, I’m proud to bring my relaxed, lifestyle approach of newborn photography to families in **Camberwell** and surrounding areas. I regularly visit homes in [Hawthorn](/newborn-photographer/hawthorn/), [Canterbury](/newborn-photographer/canterbury/), [Balwyn](/newborn-photographer/balwyn/), [Malvern East](/newborn-photographer/malvern-east/), [Burwood](/newborn-photographer/burwood/) and [Surrey Hills](/newborn-photographer/surrey-hills/), capturing the beauty of those early days in a calm and natural way. If you're welcoming a new little one in any of these suburbs, I’d love to connect and help you preserve these fleeting, heartfelt moments.

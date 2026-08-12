@@ -49,6 +49,10 @@ During your **newborn photos** session in Rowville, my lens is keenly focused on
 
 My ultimate goal as your **newborn photographer** in Rowville is to provide you with far more than just beautiful pictures. I aim to tell the unfolding story of your family's new beginning, preserving the incredible emotion and delicate beauty of this unique time. These **baby photos** are a precious, tangible keepsake, allowing you to forever remember the overwhelming love, the tiny details, and the profound newness of these early days with your little one. It's astonishing how quickly babies grow and change, and these fleeting moments are truly irreplaceable. Don't let this incredible chapter of your family's story pass by uncaptured.
 
+
+
+You can also read [client testimonials](/testimonials-from-photography-clients-in-melbourne/) from families I’ve photographed.
+
 ## From Rowville to surrounding suburbs, I come to you
 
 Although I’m based in Melbourne’s eastern suburbs, I’m thrilled to offer my gentle and relaxed newborn photography to families in **Rowville** and surrounding areas. I regularly travel to homes in [Wantirna](/newborn-photographer/wantirna/), [Knoxfield](/newborn-photographer/knoxfield/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Scoresby](/newborn-photographer/scoresby/), [Bayswater](/newborn-photographer/bayswater/) and more, capturing those precious early days in a relaxed, natural way.

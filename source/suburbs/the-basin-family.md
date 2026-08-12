@@ -39,6 +39,7 @@ Your home in **The Basin** can be the heart of the session. In-home **family pho
 
 With the **Dandenong Ranges** so close, outdoor options are beautiful year-round. I’ll help choose a location that suits your family’s energy and the light.
 
+
 ## Serving The Basin and nearby suburbs
 
 I photograph families across [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Croydon](/family-photographer/croydon/), [Wantirna](/family-photographer/wantirna/), [Montrose](/family-photographer/montrose/) and nearby suburbs. If you’re in The Basin, I’d love to capture this chapter of your family’s story.

@@ -50,6 +50,7 @@ During your **newborn photos** session in **The Basin**, one of my main focuses 
 
 My ultimate goal as your **newborn photographer** in The Basin is to provide you with far more than just beautiful photos. I aim to tell the unfolding story of your family's new beginning, preserving the emotion and beauty of this unique time. These **baby photos** are a precious, tangible keepsake, allowing you to forever remember the love, the tiny details, and the profound newness of these early days with your little one. It's astonishing how quickly babies grow and change, and these fleeting moments are irreplaceable. Don't let this incredible chapter of your family's story pass by uncaptured.
 
+
 ## Serving The Basin and nearby suburbs
 
 While based in Melbourne’s eastern suburbs, I am delighted to offer my gentle, lifestyle newborn photography services across **The Basin** and many nearby suburbs. I frequently travel to capture beautiful newborn stories in suburbs such as [Boronia](/newborn-photographer/boronia/), [Montrose](/newborn-photographer/montrose/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Lilydale](/newborn-photographer/lilydale/), [Bayswater](/newborn-photographer/bayswater/) and [Croydon](/newborn-photographer/croydon/). If you're welcoming a new baby in or around these areas, I'd love to chat about capturing this precious time for your family.

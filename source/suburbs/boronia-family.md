@@ -39,6 +39,7 @@ I find immense joy in photographing families within the comfort of their own Bor
 
 Boronia and its surrounding areas offer some wonderful outdoor locations perfect for **family photos**. From the local charm of **Chandler Park** and the nearby **Miller Park** to the wider beauty of the **Dandenong Ranges**, we have fantastic options for a fun outdoor adventure that will result in stunning and natural **family photos**. Consider if a forest adventure or splashing in the waves at a nearby beach would excite your kids most!
 
+
 ### Preserving your Boronia family's chapter
 
 My goal as your **family photographer** in Boronia is to capture more than just images; I aim to tell your family's story through photographs. These **family photos** are a way to pause time and create lasting memories of this specific chapter in your lives, memories filled with love, laughter, and genuine connection that you can share and relive with your children for years to come. I won't rush you, ensuring we capture these moments beautifully.

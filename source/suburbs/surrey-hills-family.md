@@ -53,6 +53,10 @@ As your **family photographer** in Surrey Hills, I aim to create more than just 
 
 Don’t wait for the perfect time for **family photos**, now is the time. Let’s hit pause and capture your family, exactly as you are, in all your beautiful, unfiltered chaos.
 
+
+
+If you have questions about booking, timing or what to expect, the [photography FAQs](/photography-faqs-melbourne/) are a helpful place to start.
+
 ### Capturing family moments in Surrey Hills and surrounding suburbs
 
 Based in Melbourne’s eastern suburbs, I offer relaxed and flexible family photography sessions throughout **Surrey Hills** and nearby areas. Whether you’d love a playful outdoor shoot in a local park or a cosy session at home, I work across Surrey Hills, [Burwood](/family-photographer/burwood/), [Blackburn](/family-photographer/blackburn/), [Hawthorn](/family-photographer/hawthorn/), [Malvern East](/family-photographer/malvern-east/), [Deepdene](/family-photographer/deepdene/) and surrounding suburbs to create laid-back, meaningful photos that reflect your family’s unique story.

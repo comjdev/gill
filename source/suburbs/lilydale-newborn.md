@@ -44,6 +44,10 @@ During your **newborn photography** session in **Lilydale**, I take the time to 
 
 But it's not just about the small details. I also focus on the first connections that unfold during your session. These moments may feel small in the moment, but they become the memories you'll cherish the most. Your **newborn photos** are a beautiful way to remember this special time, a collection of memories you'll cherish for years to come.
 
+
+
+For more preparation ideas and session advice, browse my [Melbourne photography tips](/melbourne-photography-tips/).
+
 ## Serving Lilydale and beyond as your local newborn photographer
 
 I offer heartfelt, in-home **newborn photography** sessions throughout **Lilydale**, capturing the beauty of your baby’s earliest days in a setting that means the most, your home. Whether you’re based in Lilydale itself or nearby suburbs like [The Basin](/newborn-photographer/the-basin/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Boronia](/newborn-photographer/boronia/), [Scoresby](/newborn-photographer/scoresby/), [Montrose](/newborn-photographer/montrose/) and [Bayswater](/newborn-photographer/bayswater/), among others. If you're welcoming a new baby in or around these areas, I'd be absolutely delighted to chat about booking you in for beautiful newborn photos. 

@@ -43,6 +43,7 @@ During your **newborn photos** session in Bayswater, I make sure to capture all 
 
 My goal as your **newborn photographer** in Bayswater is to provide you with more than just photos. I aim to tell the beautiful story of your family's new beginning. These **baby photos** are a precious keepsake, allowing you to forever remember the delicate newness and overwhelming love of these early days. Don't let these fleeting moments pass by uncaptured.
 
+
 ## Serving Bayswater and surrounding suburbs with relaxed newborn photos
 
 While based in Melbourne’s eastern suburbs, I am delighted to offer my gentle, lifestyle **newborn photography** services across **Bayswater** and many nearby suburbs. I frequently travel to capture beautiful newborn stories in suburbs such as [Wantirna](/newborn-photographer/wantirna/), [Boronia](/newborn-photographer/boronia/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Ringwood](/newborn-photographer/ringwood/) and [Croydon](/newborn-photographer/croydon/), among others. If you're welcoming a new baby in or around these areas, I'd love to chat about capturing this precious time for your family.

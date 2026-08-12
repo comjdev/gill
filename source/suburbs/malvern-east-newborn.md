@@ -53,6 +53,7 @@ As your **newborn photographer** in Malvern East, my goal is to help you preserv
 
 You’ll be able to look back on these photographs and remember exactly how tiny their hands were in yours, how peaceful they looked in your arms, and how quickly everything changed. These images become part of your family’s legacy, a keepsake to treasure not only now, but for years to come. Let’s make sure you never forget just how it all began.
 
+
 ## Newborn photography in Malvern East and nearby suburbs
 
 I’m proud to offer my relaxed, natural style of newborn photography to families in **Malvern East** and surrounding suburbs, including [Surrey Hills](/newborn-photographer/surrey-hills/), [Hawthorn](/newborn-photographer/hawthorn/), [Deepdene](/newborn-photographer/deepdene/), [Mont Albert](/newborn-photographer/mont-albert/) and [Camberwell](/newborn-photographer/camberwell/). Whether you’re settling in at home with your first baby or adding to a growing family, I’ll come to you to gently document this fleeting chapter in the comfort of your own space. If you're in or near one of these areas, I’d love to help you preserve these precious early moments.

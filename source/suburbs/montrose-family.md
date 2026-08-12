@@ -39,6 +39,7 @@ In-home **family photography** in **Montrose** is perfect for busy families or c
 
 From local reserves to the **Dandenong Ranges**, outdoor options are plentiful. I’ll help you choose a location that feels special and works well photographically.
 
+
 ## Serving Montrose and nearby suburbs
 
 I regularly work with families in [Ferntree Gully](/family-photographer/ferntree-gully/), [Boronia](/family-photographer/boronia/), [Croydon](/family-photographer/croydon/), [Kilsyth](/family-photographer/kilsyth/), [The Basin](/family-photographer/the-basin/) and surrounding eastern suburbs. If you’re in Montrose, I’d love to tell your family’s story through natural, joyful images.

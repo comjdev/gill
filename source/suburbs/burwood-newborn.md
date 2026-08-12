@@ -43,6 +43,7 @@ These **newborn photo**s are more than just keepsakes for you, they’re a gift 
 
 My sessions are never rushed. You’ve just entered a brand-new chapter, and we’ll take all the time we need for feeding, settling, or simply taking a breath. Whether it’s your first baby or your fifth, every newborn session is tailored to your unique family dynamic. I’m there not just as your **newborn photographer**, but as someone who understands how precious, and sometimes overwhelming, this time can be.
 
+
 ## Capturing newborn moments in Burwood and surrounding suburbs
 
 I provide relaxed, lifestyle newborn photography in Burwood and across nearby suburbs including [Blackburn](/newborn-photographer/blackburn/), [Balwyn](/newborn-photographer/balwyn/), [Mont Albert](/newborn-photographer/mont-albert/), [Surrey Hills](/newborn-photographer/surrey-hills/), [Camberwell](/newborn-photographer/camberwell/) and [Canterbury](/newborn-photographer/canterbury/). If you're in Melbourne’s eastern suburbs and dreaming of natural, heartfelt baby photos, I’d be delighted to chat about documenting this special season for your family.

@@ -39,6 +39,7 @@ Let's work together to create a collection of images that tell your family's uni
 
 My ultimate goal as your **newborn photographer** in Montrose is to provide you with far more than just beautiful photos. I aim to tell the story of your family's new beginning, preserving the beauty of this special time. These **baby photos** are a precious keepsake, allowing you to forever remember the love, the tiny details, and the newness of these early days with your little one. It's amazing how quickly babies grow and change and it soon becomes obvious that these moments are irreplaceable. Don't let this incredible chapter of your family's story pass by uncaptured.
 
+
 ## Serving Montrose and nearby suburbs with beautiful newborn photos
 
 While based in Melbourne’s eastern suburbs, I capture newborns all over **Melbourne**, throughout **Montrose** and also service local suburbs such as [The Basin](/newborn-photographer/the-basin/), [Kilsyth](/newborn-photographer/kilsyth/), [Coldstream](/newborn-photographer/coldstream/), [Ferntree Gully](/newborn-photographer/ferntree-gully/), [Lilydale](/newborn-photographer/lilydale/), [Bayswater](/newborn-photographer/bayswater/) and [Croydon](/newborn-photographer/croydon/). If you're welcoming a new baby in or around these areas, I'd love to capture this precious time for you and your family.

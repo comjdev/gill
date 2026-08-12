@@ -47,6 +47,7 @@ Whether it’s reading stories on the couch, baking together in the kitchen, or 
 
 No two families are the same, and neither are their **family photos**. I take the time to understand what makes your family unique and tailor each session to reflect your story, resulting in meaningful and authentic **family photos** you’ll truly treasure.
 
+
 ## Outdoor family photography in Scoresby’s natural surroundings
 
 If your family loves being outdoors, **Scoresby** offers some wonderful locations for relaxed **family photo** sessions. From the wide green spaces of **Scoresby Reserve** to leafy walking trails and the scenic **Dandenong Ranges** just a short drive away, there’s no shortage of stunning backdrops.

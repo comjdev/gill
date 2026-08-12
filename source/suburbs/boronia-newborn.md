@@ -41,6 +41,7 @@ Your home is more than just a setting, it’s the heart of your family life. Whe
 
 In-home **newborn photos** in Boronia allow you to stay relaxed in a familiar environment, with time for feeding, changing, and cuddling as needed. We’ll move at your pace and find the most beautiful light in your everyday surroundings.
 
+
 ### Outdoor newborn photography in Boronia and beyond
 
 If you're more drawn to nature, Boronia offers beautiful spots for peaceful outdoor photos. We might visit a quiet park nearby or venture into the **Dandenong Ranges** for a stunning natural backdrop. I also photograph families along the coast, including **Mornington Peninsula** sessions that combine fresh air and soft, golden light.

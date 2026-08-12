@@ -43,6 +43,10 @@ Burwood and its surrounding areas offer some wonderful outdoor locations perfect
 
 My goal as your **family photographer** in Burwood is to capture more than just images. I aim to tell your family's story through photographs. These **family photos** are a way to pause time and create lasting memories of this specific chapter in your lives, memories filled with love, laughter, and genuine connection that you can share and relive with your children for years to come. Remember, your kids will never be this age again! Let's hit pause and capture your story.
 
+
+
+If you have questions about booking, timing or what to expect, the [photography FAQs](/photography-faqs-melbourne/) are a helpful place to start.
+
 ## Family photography that feels like home in Burwood and neighbouring suburbs
 
 I offer relaxed **family photography** sessions in Burwood, capturing the real, everyday moments that matter most. Whether in your home, your backyard, or nearby spots like Wattle Park, I work across [Balwyn](/family-photographer/balwyn/), [Blackburn](/family-photographer/blackburn/), [Hawthorn](/family-photographer/hawthorn/), [Mont Albert](/family-photographer/mont-albert/), [Deepdene](/family-photographer/deepdene/), [Surrey Hills](/family-photographer/surrey-hills/) and surrounding suburbs to create heartfelt images that reflect your family as you are - authentic, playful, and full of connection.

@@ -39,6 +39,7 @@ I find immense joy in photographing families within the comfort of their own Bla
 
 Blackburn and its surrounding areas offer some wonderful outdoor locations perfect for **family photos**. From the tranquil trails of **Blackburn Lake Sanctuary** to the wider beauty of the region, we have fantastic options for a fun outdoor adventure that will result in stunning and natural **family photos**. These settings provide a beautiful visual element to your story.
 
+
 ### Preserving your Blackburn family's chapter
 
 My goal as your **family photographer** in Blackburn is to capture more than just images, I aim to tell your family's story through photographs. These **family photos** are a way to pause time and create lasting memories of this specific chapter in your lives, memories filled with love, laughter, and genuine connection that you can share and relive with your children for years to come. Let's hit pause and capture your story.

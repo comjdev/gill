@@ -49,6 +49,10 @@ As your Ringwood **family photographer**, I’m not just here to take photos, I'
 
 Let’s skip the pressure and focus on what really matters. These fleeting moments are worth remembering, and now is exactly the right time to capture them.
 
+
+
+For more preparation ideas and session advice, browse my [Melbourne photography tips](/melbourne-photography-tips/).
+
 ### Everyday magic, captured in Ringwood and surrounding suburbs
 
 From backyard giggles to nature walks, I photograph families in **Ringwood** and throughout Melbourne’s eastern suburbs, including [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Bayswater](/family-photographer/bayswater/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Wantirna](/family-photographer/wantirna/), [Lilydale](/family-photographer/lilydale/), and more. Each session is relaxed and flexible, designed to feel more like play than posing, so you can focus on what matters most, just being together.

@@ -40,6 +40,7 @@ In-home sessions in **Lilydale** are perfect when you want something cosy and pe
 
 From **Lilydale Lake** to the foothills of the **Dandenong Ranges**, there are so many lovely outdoor options nearby. We’ll choose a spot that suits your family’s pace and the light on the day.
 
+
 ## Capturing real moments in Lilydale and beyond
 
 Based in Melbourne’s eastern suburbs, I photograph families across [Croydon](/family-photographer/croydon/), [Boronia](/family-photographer/boronia/), [Ferntree Gully](/family-photographer/ferntree-gully/), [Ringwood](/family-photographer/ringwood/), [Wantirna](/family-photographer/wantirna/) and nearby suburbs including [Coldstream](/family-photographer/coldstream/) and [Montrose](/family-photographer/montrose/). Sessions are flexible and relaxed — outdoors or at home — always focused on real connection.
