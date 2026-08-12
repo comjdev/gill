@@ -19,9 +19,9 @@ local_references:
 
 ## Heartfelt newborn photography for Surrey Hills families
 
-Hello, I' Gill and I’m a lifestyle photographer with over ten years of experience capturing the meaningful, ever-evolving stories of families across Surrey Hills and the surrounding suburbs. While I also adore photographing the glowing anticipation of pregnancy with **maternity photos** and the joyful energy of [family photos](/family-photographer/surrey-hills/), this space is dedicated to one of the most fleeting and precious seasons of all, your baby's earliest days.
+Hello, I' Gill and I’m a lifestyle photographer with over ten years of experience capturing the meaningful, ever-evolving stories of families across Surrey Hills and the surrounding suburbs. While I also adore photographing the glowing anticipation of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the joyful energy of [family photos](/family-photographer/surrey-hills/), this space is dedicated to one of the most fleeting and precious seasons of all, your baby's earliest days.
 
-My approach to **newborn photography** is gentle, natural, and deeply personal. Before I was behind the lens, I studied writing and now I weave those storytelling instincts into every photo I take. Photography allows me to document more than just what a moment looks like, it lets me preserve how it feels. Especially in those first days with your baby, when time seems to blur and the tiniest moments carry the most meaning.
+My approach to [newborn photography](/melbourne-newborn-photographer/) is gentle, natural, and deeply personal. Before I was behind the lens, I studied writing and now I weave those storytelling instincts into every photo I take. Photography allows me to document more than just what a moment looks like, it lets me preserve how it feels. Especially in those first days with your baby, when time seems to blur and the tiniest moments carry the most meaning.
 
 As a mum myself, I know how fast those newborn days pass and how priceless it is to have beautiful **newborn photos** that take you right back to the beginning. I’d love to help you remember it all.
 

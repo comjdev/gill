@@ -19,7 +19,7 @@ local_references:
 
 ## Gentle newborn photography in Bayswater
 
-Hi, I’m a lifestyle photographer with over ten years’ experience capturing honest, heartfelt moments for families across Bayswater and beyond. While I also love documenting the glow of pregnancy with **maternity photos** and the joyful energy of family life with fun [family photos](/family-photographer/bayswater/), this page is dedicated to the quiet magic of your baby’s first days. My approach to **newborn photography** is natural and relaxed, focused on connection, comfort, and the beauty of this fleeting chapter. With a background in writing, I combine storytelling and imagery to create meaningful photographs that celebrate your growing family, beginning with these earliest moments.
+Hi, I’m a lifestyle photographer with over ten years’ experience capturing honest, heartfelt moments for families across Bayswater and beyond. While I also love documenting the glow of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the joyful energy of family life with fun [family photos](/family-photographer/bayswater/), this page is dedicated to the quiet magic of your baby’s first days. My approach to [newborn photography](/melbourne-newborn-photographer/) is natural and relaxed, focused on connection, comfort, and the beauty of this fleeting chapter. With a background in writing, I combine storytelling and imagery to create meaningful photographs that celebrate your growing family, beginning with these earliest moments.
 
 ## Newborn Photos in Bayswater
 

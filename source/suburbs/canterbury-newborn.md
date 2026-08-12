@@ -19,7 +19,7 @@ local_references:
 
 ## Embracing those precious early days at home with gentle newborn photography in Canterbury
 
-Hello! I'm a lifestyle photographer with over ten years of experience, capturing honest and heartfelt stories for families across **Canterbury** and surrounding suburbs. I specialise in **newborn photography**, but also love documenting the anticipation of pregnancy with **maternity photos** and the joy-filled energy of [family photos](/family-photographer/canterbury/). This page focuses on those early newborn days, the quiet, fleeting moments that deserve to be remembered.
+Hello! I'm a lifestyle photographer with over ten years of experience, capturing honest and heartfelt stories for families across **Canterbury** and surrounding suburbs. I specialise in [newborn photography](/melbourne-newborn-photographer/), but also love documenting the anticipation of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the joy-filled energy of [family photos](/family-photographer/canterbury/). This page focuses on those early newborn days, the quiet, fleeting moments that deserve to be remembered.
 
 Before picking up a camera, I studied writing, and today I bring both storytelling skills, visual and written, into every session. My approach is gentle, natural, and relaxed, aiming to reflect your family's unique story as it begins a beautiful new chapter.
 

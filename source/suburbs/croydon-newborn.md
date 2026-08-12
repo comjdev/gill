@@ -19,7 +19,7 @@ local_references:
 
 ## Timeless newborn photography in Croydon, capturing your baby during those early days
 
-Hi, I’m a lifestyle photographer with over 10 years of experience, working with families across **Croydon** and beyond to capture the real, meaningful moments that make up their stories. I specialise in **newborn photography**, but I also document the beauty of pregnancy with **maternity photos** and the vibrant energy of family life with [family photography](/family-photographer/croydon/). My sessions are relaxed and baby-led, focusing on connection, comfort, and the quiet magic of those early days.
+Hi, I’m a lifestyle photographer with over 10 years of experience, working with families across **Croydon** and beyond to capture the real, meaningful moments that make up their stories. I specialise in [newborn photography](/melbourne-newborn-photographer/), but I also document the beauty of pregnancy with [maternity photos](/melbourne-maternity-photographer/) and the vibrant energy of family life with [family photography](/family-photographer/croydon/). My sessions are relaxed and baby-led, focusing on connection, comfort, and the quiet magic of those early days.
 
 Before I picked up a camera, I studied writing and now I bring those storytelling skills into every session, using both words and images to capture each family’s unique chapter. These newborn days are fleeting, and it's a joy to help families preserve them with honest, heartfelt **newborn photos** that will be treasured for years to come.
 
