@@ -1,8 +1,12 @@
 <!-- prettier-ignore -->
 <%
-// Get all suburb pages and organize them
-var allSuburbPages = site.pages.filter(function(page) {
-    return page.layout === 'suburb';
+// Convert to a plain array — Hexo Query.find() is not Array.find(), so using it
+// left familyPage/newbornPage as collections with empty .path (all links became "/").
+var allSuburbPages = [];
+site.pages.forEach(function(page) {
+    if (page.layout === 'suburb') {
+        allSuburbPages.push(page);
+    }
 });
 
 // Get unique suburbs (remove duplicates since there are family and newborn pages for each suburb)
@@ -12,24 +16,20 @@ var seenSuburbs = new Set();
 allSuburbPages.forEach(function(page) {
     if (page.suburb && !seenSuburbs.has(page.suburb)) {
         seenSuburbs.add(page.suburb);
-        
-        // Find pages for each service type for this suburb
-        var familyPage = allSuburbPages.find(function(p) {
-            return p.suburb === page.suburb && p.category === 'family';
-        });
-        
-        var newbornPage = allSuburbPages.find(function(p) {
-            return p.suburb === page.suburb && p.category === 'newborn';
+
+        var familyPage = null;
+        var newbornPage = null;
+        var maternityPage = null;
+        var weddingPage = null;
+
+        allSuburbPages.forEach(function(p) {
+            if (p.suburb !== page.suburb) return;
+            if (p.category === 'family') familyPage = p;
+            else if (p.category === 'newborn') newbornPage = p;
+            else if (p.category === 'maternity') maternityPage = p;
+            else if (p.category === 'wedding') weddingPage = p;
         });
 
-        var maternityPage = allSuburbPages.find(function(p) {
-            return p.suburb === page.suburb && p.category === 'maternity';
-        });
-
-        var weddingPage = allSuburbPages.find(function(p) {
-            return p.suburb === page.suburb && p.category === 'wedding';
-        });
-        
         uniqueSuburbs.push({
             name: page.suburb,
             familyPage: familyPage,
