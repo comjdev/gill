@@ -17,7 +17,7 @@ var categoryLabel = linkCategory
 	I regularly photograph families across Melbourne’s eastern suburbs, including
 	<% suburbPages.forEach(function(nearby, index) { %>
 		<a
-			href="<%= url_for(nearby.path) %>"
+			href="<%= nearby.href %>"
 			class="text-inherit no-underline hover:underline underline-offset-4"
 		><%= nearby.suburb %></a><%= index < suburbPages.length - 1 ? ',' : '' %>
 	<% }); %>.

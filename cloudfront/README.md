@@ -22,6 +22,8 @@ SEO 301 redirects for legacy URLs. Runs at the edge on every viewer request.
 - **Query string preserved** – `?utm_source=google` carries through
 - **Trailing slash variants** – both `/about` and `/about/` redirect
 - **Directory trailing slash** – `/melbourne-newborn-photographer` 301s to `/melbourne-newborn-photographer/` (avoids S3's temporary 302). Files like `sitemap.xml` are left unchanged.
+- **Lowercase paths** – `/family-photographer/Surrey-hills/` 301s to `/family-photographer/surrey-hills/` (S3 is case-sensitive).
+- **Nested suburb 404s** – `/newborn-photographer/bayswater/newborn-photographer/ringwood/` 301s to `/newborn-photographer/ringwood/` (legacy relative markdown links).
 - **No redirect chains** – destinations are canonical URLs
 - **Cache headers** – `max-age=31536000` on redirect responses
 

@@ -5,7 +5,7 @@
  * Structure:
  * 1. Exact match    — O(1) object lookup for one-off URLs
  * 2. Pattern rules  — Regex-based, first match wins
- * 3. Trailing slash — directory URLs without a slash (or /index.html) 301 to the slash form
+ * 3. Trailing slash / lowercase — directory URLs 301 to lowercase slash form
  * 4. Pass-through   — Valid pages continue to origin
  *
  * Canonical targets (never redirect sources; no chains/loops):
@@ -38,6 +38,15 @@ var RULES = [
   [/^\/categories\//, "/"],
   [/^\/family-photographer\/melbourne\/?$/, "/melbourne-family-photographer/"],
   [/^\/newborn-photographer\/melbourne\/?$/, "/melbourne-newborn-photographer/"],
+  // Relative markdown links like (newborn-photographer/ringwood/) resolved
+  // against /newborn-photographer/bayswater/ and 404'd. Send Google to the
+  // intended suburb page.
+  [
+    /^\/(?:family|newborn)-photographer\/[^\/]+\/((?:family|newborn)-photographer\/[^\/]+)\/$/,
+    function (m) {
+      return "/" + m[1] + "/";
+    },
+  ],
   [/^\/family-photographer-[^\/]+\/?$/, "/melbourne-family-photographer/"],
   [/^\/newborn-photographer-[^\/]+\/?$/, "/melbourne-newborn-photographer/"],
   [/^\/maternity-[^\/]+\/?$/, "/melbourne-maternity-photographer/"],
@@ -51,10 +60,10 @@ function handler(event) {
   var target = EXACT[path] || matchRules(path);
   if (target) return redirect301(target, request.querystring);
 
-  // S3 website hosting 302s folder URLs without a trailing slash. Google
-  // reports those as "Page with redirect" and prefers a permanent 301.
+  // S3 website hosting 302s folder URLs without a trailing slash, and is
+  // case-sensitive (/Surrey-hills/ 404s). Permanent 301 to lowercase + slash.
   if (!isAssetUri(request.uri)) {
-    var canonical = canonicalDirectoryUri(request.uri);
+    var canonical = canonicalDirectoryUri(request.uri).toLowerCase();
     if (canonical && canonical !== request.uri) {
       return redirect301(canonical, request.querystring);
     }
@@ -84,6 +93,7 @@ function matchRules(path) {
     var m = path.match(RULES[i][0]);
     if (m) {
       var t = RULES[i][1];
+      if (typeof t === "function") return t(m);
       return typeof t === "object" && m[1] ? t[m[1]] : t;
     }
   }

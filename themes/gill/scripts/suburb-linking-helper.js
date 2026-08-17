@@ -6,6 +6,23 @@ function isMelbourneCatchAll(page) {
 	return String((page && page.suburb) || "").toLowerCase() === "melbourne";
 }
 
+/**
+ * Root-absolute suburb href. Never return a relative path — markdown links
+ * without a leading slash resolved against the current suburb URL and 404'd
+ * as /newborn-photographer/bayswater/newborn-photographer/ringwood/.
+ */
+function suburbHref(page) {
+	const raw = String((page && page.path) || "")
+		.replace(/\/index\.html$/i, "/")
+		.replace(/^\//, "");
+	if (!raw) return "/";
+	return raw.slice(-1) === "/" ? `/${raw}` : `/${raw}/`;
+}
+
+hexo.extend.helper.register("suburbPageHref", function (page) {
+	return suburbHref(page);
+});
+
 hexo.extend.helper.register(
 	"getSiblingSuburbPages",
 	function (suburb, currentCategory) {
@@ -26,7 +43,8 @@ hexo.extend.helper.register(
 				category: page.category,
 				title: page.title,
 				path: page.path,
-				permalink: page.permalink || "/" + page.path,
+				href: suburbHref(page),
+				permalink: page.permalink || suburbHref(page),
 			}));
 	},
 );
@@ -50,7 +68,8 @@ hexo.extend.helper.register(
 				category: page.category,
 				title: page.title,
 				path: page.path,
-				permalink: page.permalink || "/" + page.path,
+				href: suburbHref(page),
+				permalink: page.permalink || suburbHref(page),
 			}));
 
 		pages.sort((a, b) => a.suburb.localeCompare(b.suburb));
@@ -163,7 +182,7 @@ hexo.extend.helper.register("getWorkSuburbLink", function (page) {
 		return {
 			suburb: match.suburb,
 			label: `${match.suburb} ${category} photographer`,
-			path: match.path,
+			path: suburbHref(match),
 		};
 	} catch (e) {
 		return null;

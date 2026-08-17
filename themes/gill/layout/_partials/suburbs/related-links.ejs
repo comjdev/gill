@@ -15,7 +15,7 @@ var categoryLabel = page.category
 			var label = sibling.category.charAt(0).toUpperCase() + sibling.category.slice(1) + ' photography';
 		%>
 			<a
-				href="<%= url_for(sibling.path) %>"
+				href="<%= sibling.href %>"
 				class="text-inherit no-underline hover:underline underline-offset-4"
 			><%= label %></a><%= index < siblingPages.length - 1 ? ',' : '' %>
 		<% }); %>
@@ -46,7 +46,7 @@ var categoryLabel = page.category
 		<%= categoryLabel %> photography near <%= page.suburb %>:
 		<% nearbyPages.forEach(function(nearby, index) { %>
 			<a
-				href="<%= url_for(nearby.path) %>"
+				href="<%= nearby.href %>"
 				class="text-inherit no-underline hover:underline underline-offset-4"
 			><%= nearby.suburb %></a><%= index < nearbyPages.length - 1 ? ',' : '' %>
 		<% }); %>

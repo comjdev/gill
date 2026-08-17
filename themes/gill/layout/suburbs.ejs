@@ -82,7 +82,7 @@ uniqueSuburbs.sort(function(a, b) {
 					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
 					(suburb.familyPage) { %>
 					<li>
-						<a href="<%= url_for(suburb.familyPage.path) %>">
+						<a href="<%= suburbPageHref(suburb.familyPage) %>">
 							Family Photographer in <%= suburb.name %>
 						</a>
 					</li>
@@ -95,7 +95,7 @@ uniqueSuburbs.sort(function(a, b) {
 					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
 					(suburb.newbornPage) { %>
 					<li>
-						<a href="<%= url_for(suburb.newbornPage.path) %>">
+						<a href="<%= suburbPageHref(suburb.newbornPage) %>">
 							Newborn Photographer in <%= suburb.name %>
 						</a>
 					</li>
@@ -110,7 +110,7 @@ uniqueSuburbs.sort(function(a, b) {
 					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
 					(suburb.maternityPage) { %>
 					<li>
-						<a href="<%= url_for(suburb.maternityPage.path) %>">
+						<a href="<%= suburbPageHref(suburb.maternityPage) %>">
 							Maternity Photography in <%= suburb.name %>
 						</a>
 					</li>
@@ -126,7 +126,7 @@ uniqueSuburbs.sort(function(a, b) {
 					<% uniqueSuburbs.forEach(function(suburb) { %> <% if
 					(suburb.weddingPage) { %>
 					<li>
-						<a href="<%= url_for(suburb.weddingPage.path) %>">
+						<a href="<%= suburbPageHref(suburb.weddingPage) %>">
 							Wedding Photography in <%= suburb.name %>
 						</a>
 					</li>

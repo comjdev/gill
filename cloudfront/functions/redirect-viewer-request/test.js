@@ -29,6 +29,12 @@ var RULES = [
   [/^\/categories\//, "/"],
   [/^\/family-photographer\/melbourne\/?$/, "/melbourne-family-photographer/"],
   [/^\/newborn-photographer\/melbourne\/?$/, "/melbourne-newborn-photographer/"],
+  [
+    /^\/(?:family|newborn)-photographer\/[^\/]+\/((?:family|newborn)-photographer\/[^\/]+)\/$/,
+    function (m) {
+      return "/" + m[1] + "/";
+    },
+  ],
   [/^\/family-photographer-[^\/]+\/?$/, "/melbourne-family-photographer/"],
   [/^\/newborn-photographer-[^\/]+\/?$/, "/melbourne-newborn-photographer/"],
   [/^\/maternity-[^\/]+\/?$/, "/melbourne-maternity-photographer/"],
@@ -58,6 +64,7 @@ function matchRules(path) {
     var m = path.match(RULES[i][0]);
     if (m) {
       var t = RULES[i][1];
+      if (typeof t === "function") return t(m);
       return typeof t === "object" && m[1] ? t[m[1]] : t;
     }
   }
@@ -69,7 +76,7 @@ function resolveRedirect(uri) {
   var target = EXACT[path] || matchRules(path);
   if (target) return target;
   if (!isAssetUri(uri)) {
-    var canonical = canonicalDirectoryUri(uri);
+    var canonical = canonicalDirectoryUri(uri).toLowerCase();
     if (canonical && canonical !== uri) return canonical;
   }
   return null;
@@ -176,6 +183,17 @@ assertRedirect("/newborn-photographer-melbourne/", "/melbourne-newborn-photograp
 assertRedirect("/maternity-photographer-melbourne/", "/melbourne-maternity-photographer/");
 assertRedirect("/maternity-photos-olinda/", "/melbourne-maternity-photographer/");
 
+// ——— PATTERN: Nested relative suburb links (markdown missing leading /) ———
+console.log("\n=== PATTERN: Nested suburb 404s ===");
+assertRedirect("/newborn-photographer/bayswater/newborn-photographer/ringwood/", "/newborn-photographer/ringwood/");
+assertRedirect("/newborn-photographer/croydon/newborn-photographer/boronia/", "/newborn-photographer/boronia/");
+assertRedirect("/newborn-photographer/bayswater/newborn-photographer/ferntree-gully/", "/newborn-photographer/ferntree-gully/");
+assertRedirect("/newborn-photographer/croydon/newborn-photographer/ringwood/", "/newborn-photographer/ringwood/");
+assertRedirect("/newborn-photographer/bayswater/newborn-photographer/wantirna/", "/newborn-photographer/wantirna/");
+assertRedirect("/newborn-photographer/camberwell/newborn-photographer/surrey-hills/", "/newborn-photographer/surrey-hills/");
+assertPassThrough("/newborn-photographer/bayswater/");
+assertPassThrough("/family-photographer/coldstream/");
+
 // ——— PATTERN: Technical ———
 console.log("\n=== PATTERN: Technical ===");
 assertRedirect("/page/2/", "/");
@@ -239,6 +257,8 @@ assertRedirect("/family-photographer/camberwell", "/family-photographer/camberwe
 assertRedirect("/photography-faqs-melbourne", "/photography-faqs-melbourne/");
 assertRedirect("/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos", "/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/");
 assertRedirect("/index.html", "/");
+assertRedirect("/family-photographer/Surrey-hills/", "/family-photographer/surrey-hills/");
+assertRedirect("/family-photographer/Surrey-hills", "/family-photographer/surrey-hills/");
 assertPassThrough("/sitemap.xml");
 assertPassThrough("/robots.txt");
 assertPassThrough("/img/newborn.jpg");
