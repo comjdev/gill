@@ -1,3 +1,20 @@
+/**
+ * Public page URL without index.html. Hexo page.path is the S3 key
+ * (family-photographer/croydon/index.html); Google should only see the slash URL.
+ */
+function pageCanonicalUrl(page, config) {
+	const base = String((config && config.url) || "").replace(/\/$/, "");
+	if (page && page.permalink) {
+		return String(page.permalink).replace(/\/index\.html$/i, "/");
+	}
+	const path = String((page && page.path) || "")
+		.replace(/\/index\.html$/i, "/")
+		.replace(/^index\.html$/i, "")
+		.replace(/^\//, "");
+	if (!path) return `${base}/`;
+	return `${base}/${path}`;
+}
+
 hexo.extend.helper.register("jsonld", function (page, site, config) {
 	const isSuburbPage = page.layout === "suburb";
 
@@ -30,7 +47,7 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 			"Gill Juergens Photography - Melbourne Family, Wedding & Newborn Photographer",
 		telephone: config.phone,
 		image: `${config.url}/logos/logo.jpg`,
-		url: page.path ? `${config.url}/${page.path}` : config.url,
+		url: pageCanonicalUrl(page, config),
 		address: {
 			"@type": "PostalAddress",
 			addressLocality: config.address.suburb,
@@ -175,7 +192,7 @@ hexo.extend.helper.register("jsonld", function (page, site, config) {
 			description: categoryDescription,
 			telephone: config.phone,
 			image: `${config.url}/logos/logo.jpg`,
-			url: page.path ? `${config.url}/${page.path}` : config.url,
+			url: pageCanonicalUrl(page, config),
 			address: {
 				"@type": "PostalAddress",
 				addressLocality: config.address.suburb,
@@ -405,7 +422,7 @@ hexo.extend.helper.register("breadcrumbSchema", function (page, config) {
 		"@type": "ListItem",
 		position: 1,
 		name: "Home",
-		item: config.url,
+		item: `${String(config.url || "").replace(/\/$/, "")}/`,
 	});
 
 	// Add current page
@@ -414,7 +431,7 @@ hexo.extend.helper.register("breadcrumbSchema", function (page, config) {
 			"@type": "ListItem",
 			position: 2,
 			name: page.title,
-			item: config.url + (page.path || ""),
+			item: pageCanonicalUrl(page, config),
 		});
 	}
 
