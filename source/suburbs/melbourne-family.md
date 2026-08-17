@@ -6,6 +6,7 @@ description: I'll document the love and laughter that defines your Melbourne fam
 layout: suburb
 category: family
 permalink: family-photographer/melbourne/
+sitemap: false
 latitude: -37.8136
 longitude: 144.9631
 local_references:
@@ -21,7 +22,7 @@ local_references:
 
 Being a **Melbourne** lifestyle photographer for over 10 years has taught me one big thing, the best family photos come from real moments, not stiff poses. Whether it's a quiet cuddle on the couch or a wild game of chase in your backyard, I’m here to capture your family’s unique story in a relaxed and natural way.
 
-While I also love photographing the glow of [maternity sessions](/melbourne-maternity-photographer/) and the sweet newness with [newborn photos](/newborn-photographer/melbourne/), this space is all about the magic of everyday family life, right here in **Melbourne**. Before photography, I studied writing, and now I mix both passions to tell your story through beautiful, honest imagery.
+While I also love photographing the glow of [maternity sessions](/melbourne-maternity-photographer/) and the sweet newness with [newborn photos](/melbourne-newborn-photographer/), this space is all about the magic of everyday family life, right here in **Melbourne**. Before photography, I studied writing, and now I mix both passions to tell your story through beautiful, honest imagery.
 
 My sessions are laid-back and kid-friendly (think fun adventures, not forced smiles), and I’ll guide you gently while letting your family’s personality shine. These are the little moments you’ll want to hold onto because your kids won’t be this little forever. So don’t wait for perfect. Let’s capture the joy, chaos, and love that makes your family yours, just as you are.
 

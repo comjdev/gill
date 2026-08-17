@@ -36,10 +36,21 @@ var RULES = [
   [/^\/(404|feed)(\.html)?\/?$/, "/"],
 ];
 
-function normalizePath(uri) {
-  var p = uri.replace(/\/index\.html$/i, "/").replace(/\/+/g, "/").toLowerCase();
+function canonicalDirectoryUri(uri) {
+  var p = uri.replace(/\/index\.html$/i, "/").replace(/\/+/g, "/");
   if (p !== "/" && p !== "" && p.slice(-1) !== "/") p += "/";
   return p;
+}
+
+function normalizePath(uri) {
+  var p = canonicalDirectoryUri(uri).toLowerCase();
+  return p || "/";
+}
+
+function isAssetUri(uri) {
+  if (/\/index\.html$/i.test(uri)) return false;
+  var last = uri.split("/").pop();
+  return last.indexOf(".") !== -1;
 }
 
 function matchRules(path) {
@@ -53,13 +64,19 @@ function matchRules(path) {
   return null;
 }
 
-function resolveRedirect(path) {
-  return EXACT[path] || matchRules(path);
+function resolveRedirect(uri) {
+  var path = normalizePath(uri);
+  var target = EXACT[path] || matchRules(path);
+  if (target) return target;
+  if (!isAssetUri(uri)) {
+    var canonical = canonicalDirectoryUri(uri);
+    if (canonical && canonical !== uri) return canonical;
+  }
+  return null;
 }
 
 function mockHandler(uri, querystring) {
-  var path = normalizePath(uri);
-  var target = resolveRedirect(path);
+  var target = resolveRedirect(uri);
   if (!target) return { passThrough: true };
   var qs = "";
   if (querystring && Object.keys(querystring).length > 0) {
@@ -191,10 +208,10 @@ assertPassThrough("/melbourne-maternity-photographer/");
 assertPassThrough("/melbourne-wedding-photographer/");
 assertPassThrough("/melbourne-photos/");
 assertPassThrough("/melbourne-photography-tips/");
-assertPassThrough("/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos");
+assertPassThrough("/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/");
 assertPassThrough("/melbourne-photos/family-dragons-nests/");
 assertPassThrough("/book-lifestyle-photographer-in-melbourne/");
-assertPassThrough("/photography-faqs-melbourne");
+assertPassThrough("/photography-faqs-melbourne/");
 assertPassThrough("/melbourne-lifestyle-photography/");
 
 // ——— Query string preservation (CloudFront format: { key: { value: "..." } }) ———
@@ -212,6 +229,20 @@ if (!result.location || result.location.indexOf("utm_source=google") === -1 || r
 console.log("\n=== Normalization ===");
 assertRedirect("/about/index.html", "/melbourne-lifestyle-photographer/");
 assertRedirect("//about//", "/melbourne-lifestyle-photographer/");
+
+// ——— Trailing slash: directory URLs 301 to slash form (not S3 302) ———
+console.log("\n=== Trailing slash canonicalization ===");
+assertRedirect("/melbourne-newborn-photographer", "/melbourne-newborn-photographer/");
+assertRedirect("/melbourne-family-photographer", "/melbourne-family-photographer/");
+assertRedirect("/melbourne-newborn-photographer/index.html", "/melbourne-newborn-photographer/");
+assertRedirect("/family-photographer/camberwell", "/family-photographer/camberwell/");
+assertRedirect("/photography-faqs-melbourne", "/photography-faqs-melbourne/");
+assertRedirect("/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos", "/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/");
+assertRedirect("/index.html", "/");
+assertPassThrough("/sitemap.xml");
+assertPassThrough("/robots.txt");
+assertPassThrough("/img/newborn.jpg");
+assertPassThrough("/logos/logo.webp");
 
 // ——— No chains/loops: canonical URLs must pass through (never redirect) ———
 console.log("\n=== No chains/loops ===");
@@ -233,9 +264,15 @@ try {
   var r1 = prod.handler({ request: { uri: "/about", querystring: {} } });
   var r2 = prod.handler({ request: { uri: "/melbourne-family-photographer/", querystring: {} } });
   var r3 = prod.handler({ request: { uri: "/about", querystring: { utm: { value: "test" } } } });
+  var r4 = prod.handler({ request: { uri: "/melbourne-newborn-photographer", querystring: {} } });
+  var r5 = prod.handler({ request: { uri: "/sitemap.xml", querystring: {} } });
   if (r1.statusCode !== 301) { console.error("FAIL: Production redirect"); failed++; } else passed++;
   if (r2.statusCode) { console.error("FAIL: Production pass-through"); failed++; } else passed++;
   if (!r3.headers.location.value.includes("utm=test")) { console.error("FAIL: Production query string"); failed++; } else passed++;
+  if (r4.statusCode !== 301 || r4.headers.location.value !== "https://gill-photography.com.au/melbourne-newborn-photographer/") {
+    console.error("FAIL: Production trailing-slash 301"); failed++;
+  } else passed++;
+  if (r5.statusCode) { console.error("FAIL: Production asset pass-through"); failed++; } else passed++;
   console.log("Production handler: OK");
 } catch (e) {
   console.error("FAIL: Could not load production handler:", e.message);

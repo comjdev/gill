@@ -74,7 +74,9 @@ hexo.extend.helper.register("getWorkPostBySlug", function (slug) {
 hexo.extend.helper.register("getRandomSuburbs", function (limit = 4) {
 	// Get all suburb pages
 	const suburbPages = this.site.pages.filter(
-		(page) => page.layout === "suburb",
+		(page) =>
+			page.layout === "suburb" &&
+			String(page.suburb || "").toLowerCase() !== "melbourne",
 	);
 
 	// Get unique suburbs (remove duplicates)

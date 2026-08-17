@@ -4,7 +4,7 @@
 // left familyPage/newbornPage as collections with empty .path (all links became "/").
 var allSuburbPages = [];
 site.pages.forEach(function(page) {
-    if (page.layout === 'suburb') {
+    if (page.layout === 'suburb' && String(page.suburb || '').toLowerCase() !== 'melbourne') {
         allSuburbPages.push(page);
     }
 });

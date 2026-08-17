@@ -5,12 +5,14 @@
  * Structure:
  * 1. Exact match    — O(1) object lookup for one-off URLs
  * 2. Pattern rules  — Regex-based, first match wins
- * 3. Pass-through   — Valid pages continue to origin
+ * 3. Trailing slash — directory URLs without a slash (or /index.html) 301 to the slash form
+ * 4. Pass-through   — Valid pages continue to origin
  *
  * Canonical targets (never redirect sources; no chains/loops):
  *   /, /melbourne-*-photographer/, /melbourne-photos/, /melbourne-photography-tips/,
  *   /book-lifestyle-photographer-in-melbourne/
  *
+ * Files with extensions (sitemap.xml, robots.txt, images) are never slash-redirected.
  * 404 logging: Use Lambda@Edge origin-response (lambda-edge-404-logger/) —
  * CloudFront Functions are not invoked for 4xx responses.
  */
@@ -47,14 +49,34 @@ function handler(event) {
   var request = event.request;
   var path = normalizePath(request.uri);
   var target = EXACT[path] || matchRules(path);
-  if (!target) return request;
-  return redirect301(target, request.querystring);
+  if (target) return redirect301(target, request.querystring);
+
+  // S3 website hosting 302s folder URLs without a trailing slash. Google
+  // reports those as "Page with redirect" and prefers a permanent 301.
+  if (!isAssetUri(request.uri)) {
+    var canonical = canonicalDirectoryUri(request.uri);
+    if (canonical && canonical !== request.uri) {
+      return redirect301(canonical, request.querystring);
+    }
+  }
+  return request;
 }
 
 function normalizePath(uri) {
-  var p = uri.replace(/\/index\.html$/i, "/").replace(/\/+/g, "/").toLowerCase();
+  var p = canonicalDirectoryUri(uri).toLowerCase();
+  return p || "/";
+}
+
+function canonicalDirectoryUri(uri) {
+  var p = uri.replace(/\/index\.html$/i, "/").replace(/\/+/g, "/");
   if (p !== "/" && p !== "" && p.slice(-1) !== "/") p += "/";
   return p;
+}
+
+function isAssetUri(uri) {
+  if (/\/index\.html$/i.test(uri)) return false;
+  var last = uri.split("/").pop();
+  return last.indexOf(".") !== -1;
 }
 
 function matchRules(path) {
@@ -87,5 +109,13 @@ function redirect301(target, qs) {
 
 // Test harness (Node.js only; CloudFront has no module)
 if (typeof module !== "undefined" && module.exports) {
-  module.exports = { handler, normalizePath, matchRules, EXACT, RULES };
+  module.exports = {
+    handler,
+    normalizePath,
+    canonicalDirectoryUri,
+    isAssetUri,
+    matchRules,
+    EXACT,
+    RULES,
+  };
 }

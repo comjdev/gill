@@ -1,3 +1,11 @@
+/**
+ * "Melbourne" suburb pages 301 to the city-wide service URLs, so they must
+ * not appear in generated internal links or nearby-suburb lists.
+ */
+function isMelbourneCatchAll(page) {
+	return String((page && page.suburb) || "").toLowerCase() === "melbourne";
+}
+
 hexo.extend.helper.register(
 	"getSiblingSuburbPages",
 	function (suburb, currentCategory) {
@@ -9,7 +17,8 @@ hexo.extend.helper.register(
 					page.layout === "suburb" &&
 					page.suburb === suburb &&
 					page.category &&
-					page.category !== currentCategory,
+					page.category !== currentCategory &&
+					!isMelbourneCatchAll(page),
 			)
 			.sort((a, b) => a.category.localeCompare(b.category))
 			.map((page) => ({
@@ -33,7 +42,8 @@ hexo.extend.helper.register(
 					page.layout === "suburb" &&
 					page.category === category &&
 					page.suburb &&
-					page.suburb !== currentSuburb,
+					page.suburb !== currentSuburb &&
+					!isMelbourneCatchAll(page),
 			)
 			.map((page) => ({
 				suburb: page.suburb,
@@ -135,6 +145,7 @@ hexo.extend.helper.register("getWorkSuburbLink", function (page) {
 				p.layout === "suburb" &&
 				p.category === category &&
 				p.suburb &&
+				!isMelbourneCatchAll(p) &&
 				locationText.includes(String(p.suburb).toLowerCase())
 			) {
 				suburbPages.push(p);
