@@ -13,7 +13,7 @@ categories:
 
 ## One year olds bring so much personality 
 
-One year olds have to be one of my favourite age-groups to photograph. They bring so much personality and well, they’re just really cute. Baby Emmett was no different! He was keen to get outside so we started off outside in their family garden. Documenting memories where they spend lots of time together felt perfect for this family and their **family photos**. 
+One year olds have to be one of my favourite age-groups to photograph. They bring so much personality and well, they’re just really cute. Baby Emmett was no different! He was keen to get outside so we started off outside in their family garden. Documenting memories where they spend lots of time together felt perfect for this family and their [**family photos**](/melbourne-family-photographer/). 
 
 ## Relaxed family photos taken at home
 

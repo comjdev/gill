@@ -18,4 +18,4 @@ The Peters family were a lot of fun to photograph. We took these photos in the *
 ## Why now is the right time for family photos
 
 Most families get photos done when they have their babies and maybe a couple of times when their babies are toddlers or a little bit older. But then life gets busy and older kids are more reluctant to have their photos taken, which means a lot of families never get around to it. But remember, your kids will never look the same as they do right now. I’m sure these pre-teen girls are going to look a whole lot different in a couple of years, which makes these photos even more special.
-Take this as your reminder to book in those **family photos** :-)
+Take this as your reminder to book in those [**family photos**](/melbourne-family-photographer/) :-)

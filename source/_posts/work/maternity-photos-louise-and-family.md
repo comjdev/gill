@@ -13,8 +13,8 @@ categories:
 
 ## Family photos, baby bump included
 
-I love the idea of having **family photos** taken while you’re nearing the end of your pregnancy as it’s marking another milestone. It’s capturing your family before it grows and welcomes a new member.
-I’d taken Louise’s **maternity photos** during her last pregnancy, which made these even more exciting. It’s funny how adding another child to the shoot changed the dynamic so much. The last **maternity shoot** felt a lot quieter!
+I love the idea of having [**family photos**](/melbourne-family-photographer/) taken while you’re nearing the end of your pregnancy as it’s marking another milestone. It’s capturing your family before it grows and welcomes a new member.
+I’d taken Louise’s [**maternity photos**](/melbourne-photos/maternity-photos-olinda/) during her last pregnancy, which made these even more exciting. It’s funny how adding another child to the shoot changed the dynamic so much. The last [**maternity shoot**](/melbourne-maternity-photographer/) felt a lot quieter!
 
 ## Family photo fun in the Dandenong Ranges
 

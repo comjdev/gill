@@ -13,7 +13,7 @@ categories:
 
 ## Spring family photos with baby June
 
-I took June’s **newborn photos** just 6 months before this. Mum and Dad thought the 6 month mark was an important milestone to document and a good time to get some **family photos** taken. It’s always amazing how much babies grow, especially within that first year. It was so nice to see her again. She was so curious about the flowers and anything else she could get her little hands on while we explored the forest in **The Dandenong Ranges**.
+I took June’s [**newborn photos**](/melbourne-newborn-photographer/) just 6 months before this. Mum and Dad thought the 6 month mark was an important milestone to document and a good time to get some [**family photos**](/melbourne-family-photographer/) taken. It’s always amazing how much babies grow, especially within that first year. It was so nice to see her again. She was so curious about the flowers and anything else she could get her little hands on while we explored the forest in **The Dandenong Ranges**.
 
 ## The magic of wildflowers
 

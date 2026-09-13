@@ -13,7 +13,7 @@ categories:
 
 ## Fun maternity photos at the beach
 
-What I love about these **maternity photos** the most? How much fun we had! It wasn’t overly warm but Rachel embraced the experience and had a lot of fun in the waves, all while documenting her bump. And when she sent me a msg asking if she should bring her sequin robe, it was a big yes from me!
+What I love about these [**maternity photos**](/melbourne-maternity-photographer/) the most? How much fun we had! It wasn’t overly warm but Rachel embraced the experience and had a lot of fun in the waves, all while documenting her bump. And when she sent me a msg asking if she should bring her sequin robe, it was a big yes from me!
 
 ## Making these maternity photos her own
 

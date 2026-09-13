@@ -17,4 +17,4 @@ This is an old friend of mine and her family. There’s always something extra s
 
 ## The perfect time for family photos
 
-I’m not sure if this is more of a **maternity shoot** or a **family shoot** or just a sweet balance of both. While Louise wanted to document her pregnancy, she also wanted photos of them as a family right now, before they become a family of 4. What a perfect time for **family photos**, if you ask me!
+I’m not sure if this is more of a [**maternity shoot**](/melbourne-maternity-photographer/) or a [**family shoot**](/melbourne-family-photographer/) or just a sweet balance of both. While Louise wanted to document her pregnancy, she also wanted photos of them as a family right now, before they become a family of 4. What a perfect time for **family photos**, if you ask me!

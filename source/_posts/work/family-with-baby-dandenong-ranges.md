@@ -13,7 +13,7 @@ categories:
 
 ## Family photos in the forest of the Dandenong Ranges
 
-This was one of those shoots that got rescheduled many times because of covid lockdowns. Which means it made these **family photos** that extra bit sweet.
+This was one of those shoots that got rescheduled many times because of covid lockdowns. Which means it made these [**family photos**](/melbourne-family-photographer/) that extra bit sweet.
 
 ## Why play-based photos always win
 

@@ -14,11 +14,11 @@ categories:
 ## Family Photos at the foot of The Dandenong Ranges
 
 Before this family session, Mum and Dad emailed me to say they were a bit worried about the session because Millie can be pretty shy and they weren’t sure how she’d go for the photos. She then tripped over and had blood elbow and knees before we’d even left the carpark. Sounds like we were doomed from the start right? :D
-But we took it really slowly. Let her settle in to the magic of the forest in the **Dandenong Ranges** and turned the photo session into an adventure. Just how **family photos** should always be!
+But we took it really slowly. Let her settle in to the magic of the forest in the **Dandenong Ranges** and turned the photo session into an adventure. Just how [**family photos**](/melbourne-photography-tips/my-top-tips-for-your-family-shoot/) should always be!
 
 ## The magic of play in family photos
 
 We played lots of games and I’m quite sure she forgot we were even taking photos. Perfect.
 I love it when parents are able to switch off and really focus on playing with their kids during a family session. I’m so aware that it’s not always easy but it really does pay off with the fun and relaxed photos you get at the end.
 
-If this style of **family photography** sounds like it would suit your family, get in touch and we'll plan your own fun **family photo session**. 
+If this style of [**family photography**](/melbourne-family-photographer/) sounds like it would suit your family, get in touch and we'll plan your own fun [**family photo session**](/melbourne-photography-tips/what-is-included-family-photography-session). 

@@ -13,7 +13,7 @@ categories:
 
 ## Bright and colourful newborn photos in Melbourne
 
-I'm always drawn to black and white photos but every time I shoot at Mike and Morgan's home I keep most of their images in colour because they have such incredible style and are so good with incorporating colours into their home that their images just NEED to be in colour. This was my 6th time taking photos for these guys and it really is SO special to keep documenting their big milestones. I love watching their family grow and at this session I got to meet their newest family member, baby Eloise. I took big brother Jeremy's **newborn photos** as well as some **family photos** when he was 1 year old so it was also really special to see how he's adjusting to life as a big brother.
+I'm always drawn to black and white photos but every time I shoot at Mike and Morgan's home I keep most of their images in colour because they have such incredible style and are so good with incorporating colours into their home that their images just NEED to be in colour. This was my 6th time taking photos for these guys and it really is SO special to keep documenting their big milestones. I love watching their family grow and at this session I got to meet their newest family member, baby Eloise. I took big brother Jeremy's [**newborn photos**](/melbourne-newborn-photographer/) as well as some [**family photos**](/melbourne-family-photographer/) when he was 1 year old so it was also really special to see how he's adjusting to life as a big brother.
 
 ## My laid back approach to newborn and family photos
 

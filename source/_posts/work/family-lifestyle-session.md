@@ -17,6 +17,6 @@ I loved getting to be a part of this brother and sister’s world for the mornin
 
 ## What I love about in home lifestyle sessions in Melbourne
 
-I love in-home **lifestyle sessions** because kids are usually pretty comfortable in their own space. They like showing their favourite toys and I really enjoy getting to be a part of it. There’s no being asked to sit still and smile for the camera, just fun and giggles while I snap away and leave you with **family photos** that really show a part of their childhood.
+I love in-home [**lifestyle sessions**](/melbourne-photography-tips/lifestyle-photography-melbourne-families-newborns/) because kids are usually pretty comfortable in their own space. They like showing their favourite toys and I really enjoy getting to be a part of it. There’s no being asked to sit still and smile for the camera, just fun and giggles while I snap away and leave you with [**family photos**](/melbourne-family-photographer/) that really show a part of their childhood.
 
 P.s. how amazing is the antique rocking horse!

@@ -12,11 +12,11 @@ categories:
 ---
 ## Outdoor newborn photos on the Mornington Peninsula coastline
 
-It's not very often that I get asked to take **outdoor newborn photos**, so I was pretty excited for this session along the stunning **Mornington Peninsula** coastline. As a photographer who loves to capture genuine family connections, this location was a perfect fit for their family dynamic. The beautiful, open space allowed their active toddler to run around and have fun, which created a relaxed atmosphere for everyone and resulted in the most authentic photos. It was a beautiful reminder that **newborn photos** don't have to follow a traditional formula, they can be anything that feels right for your family.
+It's not very often that I get asked to take [**outdoor newborn photos**](/melbourne-newborn-photographer/), so I was pretty excited for this session along the stunning **Mornington Peninsula** coastline. As a photographer who loves to capture genuine family connections, this location was a perfect fit for their family dynamic. The beautiful, open space allowed their active toddler to run around and have fun, which created a relaxed atmosphere for everyone and resulted in the most authentic photos. It was a beautiful reminder that **newborn photos** don't have to follow a traditional formula, they can be anything that feels right for your family.
 
 ## Your family's story, your way
 
-These photos are a wonderful reminder that your photo session doesn’t have to look a certain way. Every family is unique, and your photos should reflect that. For this family, a cozy, in-home session wouldn't have suited their vibrant, playful energy. By embracing the outdoors and the vastness of the **Mornington Peninsula** coastline, we were able to capture their story in a way that feels completely authentic to them. My goal is always to create a session that suits your family and what feels right for you right now, whether that's in the comfort of your home or on a beautiful beach.
+These photos are a wonderful reminder that your photo session doesn’t have to look a certain way. Every family is unique, and your photos should reflect that. For this family, a cozy, [in-home session](/melbourne-photography-tips/in-home-newborn-sessions-a-calm-safe-way-to-capture-your-first-weeks/) wouldn't have suited their vibrant, playful energy. By embracing the outdoors and the vastness of the **Mornington Peninsula** coastline, we were able to capture their story in a way that feels completely authentic to them. My goal is always to create a session that suits your family and what feels right for you right now, whether that's in the comfort of your home or on a beautiful beach.
 
 ## A beautiful alternative to traditional newborn photos
 

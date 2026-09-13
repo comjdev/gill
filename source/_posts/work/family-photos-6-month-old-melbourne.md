@@ -12,8 +12,8 @@ categories:
 ---
 ## The 6 month milestone is the perfect time for family photos
 
-Gosh babies change quickly during that first year. I felt like I’d only just taken Charles’s **newborn photos** and now here I was, capturing his super cheeky smile. I love **photographing 6 month olds**. Their personality is really starting to show and they’re so inquisitive.
+Gosh babies change quickly during that first year. I felt like I’d only just taken Charles’s [**newborn photos**](/melbourne-photos/newborn-photos-at-home-melbourne-charles/) and now here I was, capturing his super cheeky smile. I love **photographing 6 month olds**. Their personality is really starting to show and they’re so inquisitive.
 
 ## Simple yet beautiful family photos
 
-These photos were all about Mum and baby connection and I love how they turned out. What I especially love is how simple these are. Nothing fancy, all taken in Mum & Dad’s bedroom and when baby Charles was getting tired and had had enough, we simply stopped because we knew we had gotten so many beautiful moments. **Family photos** don’t have to be long and stressful, let’s do what works best for you.
+These photos were all about Mum and baby connection and I love how they turned out. What I especially love is how simple these are. Nothing fancy, all taken in Mum & Dad’s bedroom and when baby Charles was getting tired and had had enough, we simply stopped because we knew we had gotten so many beautiful moments. [**Family photos**](/melbourne-family-photographer/) don’t have to be long and stressful, let’s do what works best for you.

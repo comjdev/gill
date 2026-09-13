@@ -13,7 +13,7 @@ hero: Melbourne-family-with-dogs-10.jpg
 featured: Melbourne-family-with-dogs-10.jpg
 ---
 
-There’s something I find a bit special about a **family shoot** that includes grown up kids. We take so many photos of our kids when they’re little and then it’s like the older they get the less photos we take. This family shoot was organised by Alisha, for her mum-in-law as a gift, again, so special. **Family photos** aren’t just for toddlers splashing in the waves; they're about documenting your family exactly as you are, however that may look right now. Every family dynamic changes over the years and it’s so important to document the different stages.
+There’s something I find a bit special about a [**family shoot**](/melbourne-family-photographer/) that includes grown up kids. We take so many photos of our kids when they’re little and then it’s like the older they get the less photos we take. This family shoot was organised by Alisha, for her mum-in-law as a gift, again, so special. **Family photos** aren’t just for toddlers splashing in the waves; they're about documenting your family exactly as you are, however that may look right now. Every family dynamic changes over the years and it’s so important to document the different stages.
 
 ## Including family pets in family photos
 

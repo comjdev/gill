@@ -13,8 +13,8 @@ categories:
 
 ## Family photos at the beach - Summer evening fun
 
-This delightful family photo session was extra special for these families as it was to document their time together in Australia. What made it particularly special was the focus on these 2 cute cousins who are so close in age but live so far apart. They were very sweet together and I really love the idea that they’ll have these photos to look back on one day.
+This delightful [family photo session](/melbourne-family-photographer/) was extra special for these families as it was to document their time together in Australia. What made it particularly special was the focus on these 2 cute cousins who are so close in age but live so far apart. They were very sweet together and I really love the idea that they’ll have these photos to look back on one day.
 
 ## Golden hour makes a stunning backdrop for family memories
 
-Choosing a beach for this family photo shoot during the late afternoon offered a beautiful setting. Nothing quite compares to the soft, warm light of the setting sun. Parents often worry about taking their kids to the beach so late in the day but I always find that as long as we make it fun, no sitting still and smiling for the camera, then they’re generally happy and not phased about how late it is.
+Choosing a beach for this family photo shoot during the late afternoon offered a beautiful setting. Nothing quite compares to the soft, warm light of the [setting sun](/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/). Parents often worry about taking their kids to the beach so late in the day but I always find that as long as we make it fun, no sitting still and smiling for the camera, then they’re generally happy and not phased about how late it is.

@@ -13,7 +13,7 @@ categories:
 
 ## Engagement photos in Melbourne: a love story in black & white
 
-It's not every day I get to shoot in the heart of the city, so I was super excited when this couple chose **Melbourne** as the backdrop for their **engagement photos**. For them, this city isn't just a place, it's the setting for their entire love story. From their first date to their first kiss and even the spot where they got engaged, **Melbourne** holds a special place in their hearts. It felt really special to document their journey as we revisited all of these meaningful locations, allowing them to reminisce and relive their beautiful memories.
+It's not every day I get to shoot in the heart of the city, so I was super excited when this couple chose **Melbourne** as the backdrop for their [**engagement photos**](/melbourne-wedding-photographer/). For them, this city isn't just a place, it's the setting for their entire love story. From their first date to their first kiss and even the spot where they got engaged, **Melbourne** holds a special place in their hearts. It felt really special to document their journey as we revisited all of these meaningful locations, allowing them to reminisce and relive their beautiful memories.
 
 ## Why black & white? The perfect vibe for a Melbourne engagement
 
@@ -23,4 +23,4 @@ As you look through through these **engagement photos**, you'll notice they're a
 
 One of the greatest things about taking engagement photos in **Melbourne** is the endless variety of backdrops the city provides. From the iconic laneways filled with street art to the historic architecture and breathtaking skyline views, there's a setting for every couple's unique personality. We can create a session that feels like you, whether that's recreating your favorite date-night stroll or simply capturing candid moments as you explore the city you love together. The result is a collection of images that are not just beautiful, but deeply personal and meaningful.
 
-If you're recently engaged, I'd love to chat about what **engagement photos** could look like for you.
+If you're recently engaged, I'd love to chat about what [**engagement photos**](/melbourne-photography-tips/relaxed-couples-photography-melbourne-guide/) could look like for you.

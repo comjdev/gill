@@ -17,4 +17,4 @@ This was a truly special session with a secret mission! These four sisters wante
 
 ## Embracing the fog for these beautiful family photos
 
-We were worried it was going to rain on this afternoon and while it was cold, this beautiful fog rolled in. How stunning does it look? These 4 sisters really nailed the outfit and colour choices for these **family photos**. The blues and whites/creams all work so well together, without being ‘too-coordinated’. **Extended family shoots** can be a little overwhelming but I absolutely love the results of these.
+We were worried it was going to rain on this afternoon and while it was cold, this beautiful fog rolled in. How stunning does it look? These 4 sisters really nailed the [outfit and colour choices](/melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/) for these [**family photos**](/melbourne-family-photographer/). The blues and whites/creams all work so well together, without being ‘too-coordinated’. **Extended family shoots** can be a little overwhelming but I absolutely love the results of these.

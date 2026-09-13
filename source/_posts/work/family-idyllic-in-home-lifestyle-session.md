@@ -13,11 +13,11 @@ categories:
 
 ## Idyllic in home lifestyle session in Melbourne
 
-Whenever I get home from a shoot, I upload the photos immediately. Then, when I’m ready, I start looking through them, sorting out all the best ones and kicking out the ones where someone is blinking etc. Well, I had a really hard time doing that this time round with these **family photos**. We got so many beautiful photos that I could’ve kept them all!
+Whenever I get home from a shoot, I upload the photos immediately. Then, when I’m ready, I start looking through them, sorting out all the best ones and kicking out the ones where someone is blinking etc. Well, I had a really hard time doing that this time round with these [**family photos**](/melbourne-family-photographer/). We got so many beautiful photos that I could’ve kept them all!
 
 ## Family photos in the heart of your home in Melbourne
 
-Tanja really wanted these **family photos** taken inside their home. They had recently purchased this house and have worked so hard into turning it into a beautiful space. The beautiful pastel colours and the light filled rooms made it such a beautiful place to take photos in.
+Tanja really wanted these [**family photos**](/melbourne-photography-tips/lifestyle-photography-melbourne-families-newborns/) taken inside their home. They had recently purchased this house and have worked so hard into turning it into a beautiful space. The beautiful pastel colours and the light filled rooms made it such a beautiful place to take photos in.
 
 ## A perfect blend of chaos and calm in Melbourne
 

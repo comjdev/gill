@@ -19,4 +19,4 @@ Okay what is it with babies looking so cute in beanies. I certainly don’t look
 
 I get why outdoor photos during winter in **Melbourne** don’t sound appealing but wooly jumpers, babies in beanies and these gorgeous colours are definite pros to having photos taken in winter. And when that winter light shows up, it’s so soft and beautiful, I really love shooting in.
 
-If you’re after **family photos** in this beautiful spot in the **Dandenong Ranges**, let me know :)
+If you’re after [**family photos**](/melbourne-family-photographer/) in this beautiful spot in the **Dandenong Ranges**, let me know :)

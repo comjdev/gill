@@ -13,7 +13,7 @@ categories:
 
 ## Photos that celebrate you as a couple
 
-A photoshoot that simply celebrates you as a couple? Yes, please! I’m all for it. These two simply wanted photos with each other and we sure had fun with it! **Couple photos** don't need to be awkward at all. Choose a location that you love, wear something you feel good in and I promise, you'll love the results!
+A photoshoot that simply celebrates you as a couple? Yes, please! I’m all for it. These two simply wanted photos with each other and we sure had fun with it! [**Couple photos**](/melbourne-photography-tips/relaxed-couples-photography-melbourne-guide/) don't need to be awkward at all. Choose a location that you love, wear something you feel good in and I promise, you'll love the results!
 
 ## The beautiful yet wild clifftops along the Mornington Peninsula 
 

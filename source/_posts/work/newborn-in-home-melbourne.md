@@ -13,8 +13,8 @@ categories:
 
 ## Newborn photos taken at home
 
-I always tell people that **newborn photos** are not rushed and that we go at your baby’s pace. Baby Maya was the perfect example of this. She needed extra time to settle and it became clear that she really just wanted to be held. So, there was lots of cuddling, lots of rocking and plenty of time to get these photos.
+I always tell people that [**newborn photos**](/melbourne-newborn-photographer/) are not rushed and that we go at your baby’s pace. Baby Maya was the perfect example of this. She needed extra time to settle and it became clear that she really just wanted to be held. So, there was lots of cuddling, lots of rocking and plenty of time to get these photos.
 
 ## From wedding photos to newborn photos
 
-Did I mention that I also took **wedding photos** for this beautiful couple? Well, I did! It was one of the most beautiful weddings I have photographed, too. And now here I was, in their home taking photos of their sweet baby girl. It was a beautiful full circle moment.
+Did I mention that I also took [**wedding photos**](/melbourne-wedding-photographer/) for this beautiful couple? Well, I did! It was one of the most beautiful weddings I have photographed, too. And now here I was, in their home taking photos of their sweet baby girl. It was a beautiful full circle moment.

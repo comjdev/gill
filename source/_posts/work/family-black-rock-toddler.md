@@ -13,7 +13,7 @@ categories:
 
 ## A perfect summer evening for family photos at the beach
 
-This was one of those perfect summer evenings at **Black Rock** beach. You know, where it’s still quite warm and there is no wind. The kind where you can play in the water and even though the sun’s going down it’s more refreshing than cold. Really, it was the perfect evening to be taking **family photos** at the beach. And considering how often I have to reschedule shoots because of the weather, it makes evenings like this even more enjoyable.
+This was one of those [perfect summer evenings](/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/) at **Black Rock** beach. You know, where it’s still quite warm and there is no wind. The kind where you can play in the water and even though the sun’s going down it’s more refreshing than cold. Really, it was the perfect evening to be taking [**family photos**](/melbourne-family-photographer/) at the beach. And considering how often I have to reschedule shoots because of the weather, it makes evenings like this even more enjoyable.
 
 ## Making first and memories together with family photo
 

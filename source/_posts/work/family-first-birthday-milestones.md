@@ -14,7 +14,7 @@ categories:
 
 ## First birthday milestones: a celebration in photos
 
-What better way to celebrate your baby’s first birthday than by updating your **family photos**? Those first twelve months are a whirlwind of growth and change. From their tiny newborn days to their first smiles, laughs, and wobbly steps, so much happens that it's so important to document it all along the way. By the time babies reach that one-year mark, their unique personalities are really starting to shine, making it the perfect time to capture all their adorable new traits.
+What better way to celebrate your baby’s first birthday than by updating your [**family photos**](/melbourne-family-photographer/)? Those first twelve months are a whirlwind of growth and change. From their tiny newborn days to their first smiles, laughs, and wobbly steps, so much happens that it's so important to document it all along the way. By the time babies reach that one-year mark, their unique personalities are really starting to shine, making it the perfect time to capture all their adorable new traits.
 
 ## A beautiful location for family photos in Olinda
 

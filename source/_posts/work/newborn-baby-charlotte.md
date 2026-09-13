@@ -14,7 +14,7 @@ categories:
 
 ## Newborn photos in Melbourne with baby Charlotte
 
-These guys are good friends of mine so you can imagine my excitement at photographing them with their first baby. Jess and I have known each other since we were teenagers and here we are many years later, with our own babies. My Mia (5 years old) tagged along with me to be my assistant for the day and she absolutely loved it. She loves babies, she loves bossing me around and she loves taking photos so she was right in her element at this **newborn shoot**.
+These guys are good friends of mine so you can imagine my excitement at photographing them with their first baby. Jess and I have known each other since we were teenagers and here we are many years later, with our own babies. My Mia (5 years old) tagged along with me to be my assistant for the day and she absolutely loved it. She loves babies, she loves bossing me around and she loves taking photos so she was right in her element at this [**newborn shoot**](/melbourne-newborn-photographer/).
 
 ## Photographing friends
 

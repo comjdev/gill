@@ -13,7 +13,7 @@ categories:
 
 ## Dandenong Ranges engagement photos: a love story in the hills
 
-This has been one of my favourite **engagement shoots** to date. We spent a beautiful summer evening getting lost in the stunning hills of the **Dandenong Ranges**. While this couple swore they were awkward in front of the camera, I told a bunch of bad jokes to set the mood and we captured some magic. **Engagement photos** don’t have to be awkward, I promise!
+This has been one of my favourite [**engagement shoots**](/melbourne-wedding-photographer/) to date. We spent a beautiful summer evening getting lost in the stunning hills of the **Dandenong Ranges**. While this couple swore they were awkward in front of the camera, I told a bunch of bad jokes to set the mood and we captured some magic. [**Engagement photos**](/melbourne-photography-tips/relaxed-couples-photography-melbourne-guide/) don’t have to be awkward, I promise!
 
 ## The perfect start to your journey together with engagement photos
 

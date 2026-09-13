@@ -13,7 +13,7 @@ categories:
 
 ## In-home newborn photos for Charles
 
-There’s always something extra exciting and special about taking photos (especially **newborn photos**) for friends and family members and this is exactly what this was. This is my cousin and his family, with baby Charles who  is the first baby born in our family in a long time!
+There’s always something extra exciting and special about taking photos (especially [**newborn photos**](/melbourne-newborn-photographer/)) for friends and family members and this is exactly what this was. This is my cousin and his family, with baby Charles who  is the first baby born in our family in a long time!
 
 ## All babies are different
 
@@ -21,4 +21,4 @@ It’s funny how from the moment babies are born they can be so different. I kno
 
 ## In-home newborn photos in Melbourne
 
-For in-home **newborn photos** like these, reach out and I’ll send you some info, as well as answer any questions you may have.
+For in-home [**newborn photos**](/melbourne-photography-tips/in-home-newborn-photos-in-melbourne/) like these, reach out and I’ll send you some info, as well as answer any questions you may have.

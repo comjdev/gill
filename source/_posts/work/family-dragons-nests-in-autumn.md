@@ -17,7 +17,7 @@ You never know what weather you’re going to get with **Melbourne**, especially
 
 ## Family photos that are more of an adventure
 
-We had so much fun exploring the area. I’m not much of a ‘sit down and smile for the camera’ type of photographer. It means kids can be kids & we get **family photos** that actually show a snippet of the real them. No cheesy grins and not knowing what to do with your hands. But fun moments together that make you smile when you look back at the photos. I know these are the sort of **family photos** I wish for of my own family.
+We had so much fun exploring the area. I’m not much of a ‘sit down and smile for the camera’ type of photographer. It means kids can be kids & we get [**family photos**](/melbourne-family-photographer/) that actually show a snippet of the real them. No cheesy grins and not knowing what to do with your hands. But fun moments together that make you smile when you look back at the photos. I know these are the sort of **family photos** I wish for of my own family.
 
 ## One of my favourite locations in the Dandenong Ranges
 
