@@ -9,21 +9,21 @@ permalink: /melbourne-photography-tips/relaxed-couples-photography-melbourne-gui
 hero: Melbourne-couples-photographer-header.jpg
 featured: Melbourne-couples-photographer.jpg
 categories:
-  - Wedding
   - Family
+  - Wedding
 ---
 
 You want photos that feel like you, not a performance. If you are planning an engagement, anniversary or just-because session in Melbourne before spring, this guide will help you choose relaxed prompts, comfortable poses and meaningful locations that keep things natural.
 
-I photograph couples with gentle direction and a story-first approach. Think slow walks, soft laughter and easy moments where you can forget the camera and be yourselves. Below, you will find ideas for movement-led posing, what to wear so you can move freely, how long sessions typically run and how to prepare so you arrive feeling calm and excited.
+I photograph couples with gentle direction and a story-first approach, the same relaxed style I use for [family photography in Melbourne](/melbourne-family-photographer/). Think slow walks, soft laughter and easy moments where you can forget the camera and be yourselves. Below, you will find ideas for movement-led posing, what to wear so you can move freely, how long sessions typically run and how to prepare so you arrive feeling calm and excited.
 
-If you are booking wedding coverage, I also offer a mini engagement session so you can get comfortable together before the big day.
+If you are booking [wedding photography in Melbourne](/melbourne-wedding-photographer/), I also offer a mini engagement session so you can get comfortable together before the big day.
 
 ## The feel of a relaxed couples session
 
 Couples sessions work best when you are moving, talking and interacting. I keep the mood light with simple prompts and give you space to settle into your own rhythm. Expect a blend of candid moments and a few gently guided portraits where I tweak hand placement, posture and light.
 
-We will aim for golden hour, the hour after sunrise or the hour before sunset, for soft, flattering light and less squinting. If we are shooting in late winter or early spring, the sun sits lower and the air is crisp, which can be beautiful for cosy layers and close-up moments.
+We will aim for golden hour, the hour after sunrise or the hour before sunset, for soft, flattering light and less squinting. If we are shooting in late winter or early spring, the sun sits lower and the air is crisp, which can be beautiful for cosy layers and close-up moments. If you want a broader look at this storytelling style, my guide to [lifestyle photography in Melbourne for families, newborns and couples](/melbourne-photography-tips/lifestyle-photography-melbourne-families-newborns/) explains how I keep sessions natural at home and outdoors.
 
 ## Gentle prompts that never feel cheesy
 
@@ -59,11 +59,11 @@ Choose a spot that suits your story and the season. Late winter and early spring
 - **Cobblestones and laneways:** for a slightly urban feel, tuck into quieter side streets near golden hour.
 - **At home:** cosy coffee, vinyl playing, making pancakes. In-home sessions are perfect when you want to move slowly, include pets and stay warm.
 
-If you would like a lifestyle-forward approach, explore my [Melbourne lifestyle photography](/melbourne-lifestyle-photography/) page for how I work with light and location choice.
+If you would like a lifestyle-forward approach, explore my [Melbourne lifestyle photography](/melbourne-lifestyle-photography/) page for how I work with light and location choice. For more on golden-hour timing and outdoor settings around Melbourne, my [sunset sessions guide](/melbourne-photography-tips/summer-sunset-sessions-the-best-time-and-locations-around-melbourne-for-outdoor-family-photos/) covers beaches, parks and how I use the last light of the day.
 
 ## What to wear so you can move easily
 
-Comfort comes first. Aim for coordinated tones, not matching outfits. Mid and muted colours photograph beautifully, and movement-friendly fabrics like linen, cotton, soft knits and chiffon add texture. If we are by the coast, bring a layer that catches the breeze. Avoid neon, busy logos and anything that needs constant adjusting. Shoes you can walk in make a difference, especially on sand or uneven paths. Bring a spare layer in a bag you do not mind appearing in a frame, just incase.
+Comfort comes first. Aim for coordinated tones, not matching outfits. Mid and muted colours photograph beautifully, and movement-friendly fabrics like linen, cotton, soft knits and chiffon add texture. If we are by the coast, bring a layer that catches the breeze. Avoid neon, busy logos and anything that needs constant adjusting. Shoes you can walk in make a difference, especially on sand or uneven paths. Bring a spare layer in a bag you do not mind appearing in a frame, just incase. The same colour and layering ideas apply if you are planning outfits for a family session, so you can borrow from my [what to wear for spring family photos](/melbourne-photography-tips/what-to-wear-for-spring-family-photos-in-melbourne/) guide.
 
 ## How long a couples photoshoot should take
 
@@ -85,7 +85,7 @@ To see how I keep sessions relaxed and natural across different genres, have a l
 
 I will start with easy movement, then mix in close-ups and wider frames. You will hear simple, kind direction like turn your shoulders, soften the hands, breathe together. I watch the wind and sun, adjust your angle and keep the momentum gentle. Many couples tell me they forgot about the camera and just enjoyed hanging out together.
 
-If you are planning a wedding, I offer an engagement session with bookings to help you settle nerves and build trust before your big day. You can read more or enquire about a [couple photoshoot in Melbourne](/melbourne-wedding-photographer/).
+If you are planning a wedding, I offer an engagement session with bookings to help you settle nerves and build trust before your big day. You can read more about my work as a [Melbourne wedding photographer](/melbourne-wedding-photographer/) or enquire about a couple photoshoot.
 
 ## Quick FAQ
 
@@ -101,4 +101,4 @@ If you are planning a wedding, I offer an engagement session with bookings to he
 
 ## Ready to plan your late winter or early spring session?
 
-If you want relaxed, story-first images that feel like you, I would love to help you plan a couples session in Melbourne. Reach out to enquire about dates, location ideas and the optional mini engagement session when booking weddings. You can start your enquiry for a [family and couples session in Melbourne](/book-lifestyle-photographer-in-melbourne/) here.
+If you want relaxed, story-first images that feel like you, I would love to help you plan a couples session in Melbourne. Reach out to enquire about dates, location ideas and the optional mini engagement session when booking weddings. You can start your enquiry for a [family and couples session in Melbourne](/book-lifestyle-photographer-in-melbourne/) here, or see how a [Melbourne family photographer](/melbourne-family-photographer/) session works if you would like to include children.
