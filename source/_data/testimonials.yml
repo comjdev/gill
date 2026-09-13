@@ -1,4 +1,22 @@
 testimonials:
+  - name: "Stella Lumb"
+    rating: 5
+    text: "Gill is a very knowledgable photographer. The location options she offered were just what we were looking for for our family photos. On the day, Gill made us feel very comfortable. It was great for the kids also as the location allowed them to play and explore and we got some great shots of that too."
+    source: "Google Reviews"
+    type: "family"
+
+  - name: "Seshadri Pradhipa"
+    rating: 5
+    text: "We found Gill through a photoshoot she did for our toddler at their daycare. Gill did a home photoshoot with us, she was on time, so patient and very helpful. She also made us feel so comfortable and my toddler had an amazing time posing for her. Our photos too turned out to be very beautiful in the end. We highly recommend her 😊"
+    source: "Google Reviews"
+    type: "family"
+
+  - name: "Lewis Ellerton"
+    rating: 5
+    text: "Wonderful photos of our newborn, you made us feel comfortable and relaxed in our home. Thanks Gill!"
+    source: "Google Reviews"
+    type: "newborn"
+
   - name: "Natasha Haryani"
     rating: 5
     text: "THE BEST! We had a family photo session in her studio and had such a great time! Our kids enjoyed playing and expressing themselves and Gill took lots of beautiful photos that really captured us as a family.\nGill is so professional, talented, easy to work with and really great with kids! She is the absolute BEST!! :)\nHighly recommend Gill for your next family photo session! Her work is amazing :)\nThank you so much for capturing beautiful memories for us that we'll forever cherish."
