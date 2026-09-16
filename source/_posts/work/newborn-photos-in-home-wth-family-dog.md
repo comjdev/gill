@@ -13,7 +13,7 @@ categories:
 
 # A Relaxed In-Home Newborn Photography Session in Melbourne
 
-**Newborn photos of a beautiful new baby, his family and his much-loved fur sibling, captured in the comfort of their Melbourne home.**
+**[Newborn photos](/melbourne-newborn-photographer/) of a beautiful new baby, his family and his much-loved fur sibling, captured in the comfort of their Melbourne home.**
 
 I drove to the other side of Melbourne for this newborn shoot and it was such a beautiful session.
 
@@ -27,7 +27,7 @@ Being invited into that space to photograph it is something I never take for gra
 
 ## In-Home Newborn Photography in Melbourne
 
-One of the things I love about **in-home newborn photography** is that families don't need to go anywhere.
+One of the things I love about [**in-home newborn photography**](/melbourne-photography-tips/in-home-newborn-photos-in-melbourne/) is that families don't need to go anywhere.
 
 You're at home, in your own space, with everything you need around you. If baby needs a feed, you can feed them. If they need a cuddle, you can stop for a cuddle. If an older sibling needs a break from photos, that's completely fine too.
 
@@ -41,11 +41,11 @@ Being a big dog lover myself, I also absolutely love it when families have a fur
 
 Of course, every dog is different, so I always have a chat with Mum and Dad first about their dog's personality, how they normally behave and how they're handling the big change that's happened in the house.
 
-A new baby can be a huge adjustment for everyone, including the family dog, so **safety is always my priority**.
+A new baby can be a huge adjustment for everyone, including the family dog, so [**safety is always my priority**](/melbourne-photography-tips/in-home-newborn-sessions-a-calm-safe-way-to-capture-your-first-weeks/).
 
 If you see any of the photos from this session where the dog is close to the baby, don't worry. There are always extra hands right there supporting and supervising. Those hands are simply edited out afterwards so that the final photograph looks natural.
 
-I love being able to include dogs in **newborn photography** but only when everyone is comfortable and it can be done safely.
+I love being able to [include dogs](/melbourne-photos/dogs-are-always-welcome/) in **newborn photography** but only when everyone is comfortable and it can be done safely.
 
 ## When Mum Was the Only One Who Could Settle Baby
 
@@ -59,7 +59,7 @@ Mum picked him up and held him right against her face and he settled almost imme
 
 It was such a lovely little moment.
 
-I will often try to settle babies during a newborn session if Mum and Dad are comfortable with me doing so. But sometimes there really is no substitute for Mum.
+I will often try to settle babies during a [newborn session](/melbourne-photography-tips/what-to-expect-at-a-newborn-session/) if Mum and Dad are comfortable with me doing so. But sometimes there really is no substitute for Mum.
 
 Babies know their mum's smell, voice and touch, and when they're unsettled, that familiarity can be exactly what they need.
 
@@ -81,7 +81,7 @@ Mum and Dad simply being Mum and Dad.
 
 And all those little moments that are so easy to forget once the newborn days have passed.
 
-This is what I love about **natural newborn photography**. The aim isn't to manufacture a perfect version of your family. It's to photograph what life actually looks like during those first precious weeks with a new baby.
+This is what I love about [**natural newborn photography**](/melbourne-photography-tips/lifestyle-photography-melbourne-families-newborns/). The aim isn't to manufacture a perfect version of your family. It's to photograph what life actually looks like during those first precious weeks with a new baby.
 
 ## Keeping Things Private
 
@@ -101,6 +101,6 @@ It was such a lovely session and I'm so grateful this family trusted me to photo
 
 ## Melbourne Newborn Photographer
 
-If you're looking for a **Melbourne newborn photographer** for relaxed, natural and personal newborn photography, I would love to hear from you.
+If you're looking for a [**Melbourne newborn photographer**](/melbourne-newborn-photographer/) for relaxed, natural and personal newborn photography, I would love to hear from you.
 
 I photograph newborns in their own homes throughout Melbourne and surrounding suburbs, creating beautiful **newborn photos** that capture your baby, your family and all the little details of this incredibly fleeting stage of life.
