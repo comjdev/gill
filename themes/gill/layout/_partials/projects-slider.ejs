@@ -31,7 +31,7 @@ if (mode === 'related') {
         });
         var sameAsCurrentPost = post.title === page.title;
         return isWorkPost && hasSameCategory && !sameAsCurrentPost;
-    });
+    }).sort('-date');
 } else {
     // General mode - filter by category if specified
     filteredPosts = site.posts.filter(function(post) {
@@ -43,7 +43,10 @@ if (mode === 'related') {
             return isWorkPost && hasCategory;
         }
         return isWorkPost;
-    }).slice(0, limit);
+    }).sort('-date');
+    if (limit) {
+        filteredPosts = filteredPosts.limit(limit);
+    }
 }
 %>
 
