@@ -3,19 +3,22 @@
   {% for post in posts %}
   <url>
     <loc>{{ post.permalink | uriencode }}</loc>
-    {% if post.updated %}
-    <lastmod>{{ post.updated | formatDate }}</lastmod>
-    {% elif post.date %}
-    <lastmod>{{ post.date | formatDate }}</lastmod>
+    {% set mapped = config.sitemap.listing_lastmods %}
+    {% set lastmod = (mapped and mapped[post.permalink]) or post.updated or post.date %}
+    {% if lastmod %}
+    <lastmod>{{ lastmod | formatDate }}</lastmod>
     {% endif %}
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   {% endfor %}
 
-  {# Homepage: omit lastmod — build-time dates are not a real content signal #}
+  {# Homepage lastmod is the latest work/blog/homepage content change, not build time #}
   <url>
     <loc>{{ config.url | uriencode }}</loc>
+    {% if config.sitemap.homepage_lastmod %}
+    <lastmod>{{ config.sitemap.homepage_lastmod | formatDate }}</lastmod>
+    {% endif %}
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
