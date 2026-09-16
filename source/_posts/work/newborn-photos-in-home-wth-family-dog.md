@@ -11,7 +11,7 @@ categories:
   - Newborn
 ---
 
-# A Relaxed In-Home Newborn Photography Session in Melbourne
+## A Relaxed In-Home Newborn Photography Session in Melbourne
 
 **[Newborn photos](/melbourne-newborn-photographer/) of a beautiful new baby, his family and his much-loved fur sibling, captured in the comfort of their Melbourne home.**
 
