@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Melbourne Newborn Photographer, relaxed In-home Newborn Photos
+title: In-home Newborn Photos with proud big brother
 date: 2025-12-12T00:00:00.000Z
 subtitle: Beautiful in-home newborn photography celebrating a new baby, sibling love and the wonderfully imperfect moments of family life.
 description: Relaxed in-home newborn photography in Melbourne, capturing beautiful newborn photos, sibling connections and the real moments of life with a new baby.

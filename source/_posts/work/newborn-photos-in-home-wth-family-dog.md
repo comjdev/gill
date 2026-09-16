@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Melbourne Newborn Photographer | In-home Newborn Photos
+title: In-home Newborn Photos with sibling
 date: 2026-06-05T00:00:00.000Z
 subtitle: Newborn photos taken in home in Melbourneto keep everyone relaxed and comfortable.
 description: Relaxed newborn photography in Melbourne, capturing beautiful newborn photos of baby, family and their much-loved fur sibling.
